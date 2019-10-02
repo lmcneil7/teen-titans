@@ -1,0 +1,29 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = transcript
+transcript = element transcript {n, head, body}
+n = attribute n {xsd:integer}
+head = element head {episode , writer , director , storyboard , animation}
+episode = element episode {text}
+writer = element writer {text}
+director = element director {text}
+storyboard = element storyboard {text}
+animation = element animation {text}
+
+body = element body {mixed {(stagDir | charDesc | act | char | oneLine | charList)+}}
+act = element act {n |text}
+stagDir = element stagDir {directNote+ | stagDesc+ | transform+ | epRef* | text}
+directNote = element directNote {kind | text}
+kind= attribute kind {"cut" | "zoom" | "pan"}
+stagDesc = element stagDesc {category | text}
+category = attribute category {"setting" | "open-shot"}
+transform = element transform {class | text}
+class = attribute class {"mammals" | "birds" | "fish" | "reptiles" | "amphibians" | "human"}
+epRef = element epRef {text}
+charDesc = element charDesc {ref | text}
+char = element char {ref |text}
+ref = attribute ref {text}
+oneLine = element oneLine {text}
+charList = element charList {type | subtype | text}
+type = attribute type {"recurring" | "nonrecurring"}
+subtype = attribute subtype {"titan" | "villain" | "supporting"}
