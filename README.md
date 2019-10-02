@@ -6,7 +6,7 @@ This is a repository to create an interactive comic of the 2003 cartoon network 
 **XML:**
 For our XML markup, we're doing transcripts of the episodes of *Teen Titans*, the 2003 tv show created by Cartoon Network. For this semester, we decided to stick with Season 1 that includes thirteen episodes in total. You'll find the XML documents in the XML file in the season 1 folder. We set up the directory like this for any circumstances in which we decide to continue the project.
 
-*Episodes*
+*Episodes* (https://transcripts.fandom.com/wiki/Teen_Titans)
 - Episode 1: Divide and Conquer
 - Episode 2: Sisters
 - Episode 3: Final Exam
