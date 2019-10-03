@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="teenTitan.rnc" type="application/relax-ng-compact-syntax"?>
 <transcript n="1">
     <head><episode>DIVIDE AND CONQUER</episode>
     
-    Written by <writer>David Slack</writer>
+    <writer>David Slack</writer>
     
-    Directed by <director>Ciro Nieli</director>
+    <director>Ciro Nieli</director>
     
-    Storyboards by <storyboard>Kalvin Lee, Rafael Rosado, Alan Wan</storyboard>
+    <storyboard>Kalvin Lee, Rafael Rosado, Alan Wan</storyboard>
     
-    Animation services by <animation>Dong Woo Animation Company, Ltd.</animation></head>
-<act n="0">Prologue</act>
+    <animation>Dong Woo Animation Company, Ltd.</animation></head>
+   
+<body><act n="0">Prologue</act>
 <!-- lm: n="0" stands for Prologue-->
-(<stagDesc category="open-shot">Opening shot: an overhead view of a prison at night</stagDesc>. Smoke pours from behind the outer wall and the shattered front entrance, as well as from a spot on the bridge that leads to the complex. <annot>If these clues are not enough to indicate that something very bad is going on, the blaring klaxons and sirens settle the point decisively</annot>. <directNote type="zoom">Zoom in very slowly and cut to inside the entrance</directNote>; <stagDir>three guards run in through it</stagDir>. <charDesc ref="guards">Each has a number emblazoned on his shoulder-1, 3, 8</charDesc>.)
+<stagDir>(<stagDesc category="open-shot">Opening shot: an overhead view of a prison at night</stagDesc>. Smoke pours from behind the outer wall and the shattered front entrance, as well as from a spot on the bridge that leads to the complex. <annot>If these clues are not enough to indicate that something very bad is going on, the blaring klaxons and sirens settle the point decisively</annot>. <directNote type="zoom">Zoom in very slowly and cut to inside the entrance</directNote>; <stagDir>three guards run in through it</stagDir>. <charDesc ref="guards">Each has a number emblazoned on his shoulder-1, 3, 8</charDesc>.)</stagDir>
 
 <char>Guard 1</char>: Code red! Cellblock Nine! Move out!
 <stagDir>(The other two follow orders, and he brings up the rear. They run in a short distance and then slow to a walk, weapons at the ready.)</stagDir>
@@ -334,7 +337,7 @@ Cyborg: I’ve been thinking the same thing.
 <char>Slade</char>: Next time my plans will succeed. (Extreme close-up of his eye; zoom in as it narrows.) And the <char ref="Robin,Starfire,Beast_Boy,Cyborg,Raven">Titans</char> will pay.
 (Fade to black.)
 
-End
+End</body>
 <list type="char">
     <char type="nonrecurring">Guard 1</char>
     <char type="nonrecurring">Guard 3</char>
