@@ -500,5 +500,16 @@ Beast Boy: Star?
 
 (He hot-foots it after the others. Fade to black.)
 End
+Character List
+    <charList type="recurring" subtype="titan">Beast Boy</charList>
+    <charList type="recurring" subtype="titan">Robin</charList>
+    <charList type="recurring" subtype="titan">Starfire</charList>
+    <charList type="recurring" subtype="titan">Raven</charList>
+    <charList type="recurring" subtype="titan">Cyborg</charList>
+    <charList type="recurring" subtype="villain">Thunder</charList>
+    <charList type="recurring" subtype="villain">Lightning</charList>
+    <charList type="nonrecurring" subtype="supporting">Sorcerer</charList>
+    
+
 </body>
 </transcript>
