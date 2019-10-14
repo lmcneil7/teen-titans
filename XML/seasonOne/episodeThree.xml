@@ -17,14 +17,14 @@
 <char>Narrator</char>: ...this year's top graduates.
 <stagDir>(They leap from the platform; the big one and the girl drop out of the frame, and the camera <directNote kind="zoom">zooms in on the runt</directNote>. The big one's motion reveals studded gold wristbands.)</stagDir>
 <char>Narrator</char>: <char>Gizmo</char>, <charDesc>the boy genius whose intellect can conquer any problem with an inventive solution</charDesc>.
-<stagDir>(During this line, <directNote kind="cut">cut to an extreme close-up of his chest control</directNote>; he presses a button, and the <directNote kind="zoom">camera pulls back as a pair of large metal wings sprouts from his back</directNote>. He takes hold of the device at his waist, and the wings respond and carry him into the air. Lasers pop out from the wall panels and open fire against him, but he easily avoids all the shots and goes for another button. Now a small missile launcher comes up between the wings and unleashes a salvo that destroys all the guns with remarkable efficiency.)
+<stagDir>(During this line, <directNote kind="cut">cut to an extreme close-up of his chest control</directNote>; he presses a button, and the <directNote kind="zoom">camera <directNote kind="pull">pulls back</directNote> as a pair of large metal wings sprouts from his back</directNote>. He takes hold of the device at his waist, and the wings respond and carry him into the air. Lasers pop out from the wall panels and open fire against him, but he easily avoids all the shots and goes for another button. Now a small missile launcher comes up between the wings and unleashes a salvo that destroys all the guns with remarkable efficiency.)
 (<char>Gizmo</char> lands on the platform he and his classmates originally stood on, then glides away as two large robots step in from portals that open up in the walls. The girl takes his place.)</stagDir>
 <char>Narrator</char>: <char> Jinx</char>, the <charDesc>enchanting sorceress whose powerful hexes mean bad luck for her enemies</charDesc>.
 <stagDir>(During this line, she extends her arms to both sides and does a 360-degree twirl, throwing off a wave of energy that causes a couple of wall panels to fall away. She leaps high off the platform, and the panels crash down on the robots' heads. Two others have moved in during this sequence and meet the same fate. She backflips down the corridor a short dittance.)
 (Three large laser cannons emerge from recessed panels in the floor, but the giant drops into view and bends its the barrel of one of them as if it were a piece of taffy.)</stagDir>
 <char>Narrator</char>: And <char>Mammoth</char>-the <charDesc>genetically enhanced giant whose unstoppable strength speaks for itself</charDesc>.
 
-<stagDir>(During this line, he tears the cannon from its moorings and does an Olympic-style hammer throw to sling it away. It skids across the floor and wrecks the other two. <directNote kind="cut">Close-up of him, looking very pleased with himself</directNote>; a robot looms up behind the strongman and catches him in its huge hands. <char>Gizmo</char> jumps onto its back and attaches a small unit. <directNote kind="cut">Close-up of this as it screws itself down</directNote>, sending up a small puff of smoke, then pull back. During the next line, <char>Gizmo</char> jumps free and sparks start to fly from the head-he has hotwired the thing to put it out of action.)</stagDir>
+<stagDir>(During this line, he tears the cannon from its moorings and does an Olympic-style hammer throw to sling it away. It skids across the floor and wrecks the other two. <directNote kind="cut">Close-up of him, looking very pleased with himself</directNote>; a robot looms up behind the strongman and catches him in its huge hands. <char>Gizmo</char> jumps onto its back and attaches a small unit. <directNote kind="cut">Close-up of this as it screws itself down</directNote>, sending up a small puff of smoke, then <directNote kind="pull">pull back</directNote>. During the next line, <char>Gizmo</char> jumps free and sparks start to fly from the head-he has hotwired the thing to put it out of action.)</stagDir>
 
 <char>Narrator</char>: Well-organized, highly trained, and combat-equipped...
 
@@ -44,7 +44,7 @@
 
 <char>Slade</char>: Impressive. Truly. However, robots and obstacle courses only prove so much.
 
-<stagDir>(Extreme close-up of his eye on the end of this, then <directNote kind="zoom">pull back across the space</directNote> to give a good view of it for the first time. The monitor is one of several in a row, and the platform on which the headmistress stands stops short of them in an overhang. <char>Slade</char>'s vantage point is at the other end. He leads her away from the screen and deeper into the machinery; <directNote kind="pan">pan to follow</directNote>.)</stagDir>
+<stagDir>(Extreme close-up of his eye on the end of this, then <directNote kind="zoom"><directNote kind="pull">pull back</directNote> across the space</directNote> to give a good view of it for the first time. The monitor is one of several in a row, and the platform on which the headmistress stands stops short of them in an overhang. <char>Slade</char>'s vantage point is at the other end. He leads her away from the screen and deeper into the machinery; <directNote kind="pan">pan to follow</directNote>.)</stagDir>
 
 <char>Slade</char>: My plans demand operatives who can function in the real world. <stagDir>(They step onto a catwalk.)</stagDir> If your students are going to serve me...
 
@@ -128,7 +128,7 @@ OPENING THEME
 
 <char>Cyborg</char>: Um...don't buses normally have drivers?
 
-<stagDir>(Pull back. <char>Beast Boy</char> and <char>Starfire</char> look on, while <char>Robin</char> is peering into the carriage, whose back is to the camera. He too straightens up.)</stagDir>
+<stagDir>(<directNote kind="pull">Pull back</directNote>. <char>Beast Boy</char> and <char>Starfire</char> look on, while <char>Robin</char> is peering into the carriage, whose back is to the camera. He too straightens up.)</stagDir>
 
 <char>Robin</char>: And don't baby carriages normally have babies?
 
@@ -136,7 +136,7 @@ OPENING THEME
 
 <char>Gizmo</char>: (over hidden speaker) Are you pit-sniffers normally this stupid?
 
-(The bear's head swivels slightly toward the camera on the end of this, and the eyes suddenly glow and fire laser beams. Pull back; <char>Robin</char>, <char>Beast Boy</char>, and <char>Starfire</char> are projected screaming through the air as a result of the hit, with smoke trailing behind them. Tilt down to <char>Raven</char> and <char>Cyborg</char>, still standing in front of the bus, which suddenly seems to tilt back onto its rear wheels of its own volition. They look up, completely flabbergasted as the shadow falls over them, and the camera pulls back to show the reason for the spontaneous wheelie. <char>Mammoth</char> has seized the rear bumper and levered the mode of mass transit into the air, and he brings it down on top of the two. As the dust clears, he walks forward and brushes dust from his hands, and <char>Gizmo</char>'s nasty laughter is heard. He and <char>Jinx</char> step into view just in front of the camera, which has backed up to ground level.)
+(The bear's head swivels slightly toward the camera on the end of this, and the eyes suddenly glow and fire laser beams. Pull back; <char>Robin</char>, <char>Beast Boy</char>, and <char>Starfire</char> are projected screaming through the air as a result of the hit, with smoke trailing behind them. Tilt down to <char>Raven</char> and <char>Cyborg</char>, still standing in front of the bus, which suddenly seems to tilt back onto its rear wheels of its own volition. They look up, completely flabbergasted as the shadow falls over them, and the camera<directNote kind="pull"> pulls back</directNote> to show the reason for the spontaneous wheelie. <char>Mammoth</char> has seized the rear bumper and levered the mode of mass transit into the air, and he brings it down on top of the two. As the dust clears, he walks forward and brushes dust from his hands, and <char>Gizmo</char>'s nasty laughter is heard. He and <char>Jinx</char> step into view just in front of the camera, which has backed up to ground level.)
 
 <char>Gizmo</char>: (from o.c.) That was too easy. <stagDir>(<directNote kind="cut">Cut to these two</directNote>.)</stagDir> What a buncha cludge-heads. You guys want to get pizza?
 
@@ -188,7 +188,7 @@ OPENING THEME
 
 <stagDir>(He takes up a fighting stance, holding one hand out with its back to the trio, and flicks the fingers toward himself-"bring it on." The shoulder-mounted laser zeroes in and fires a shot, and the <directNote kind="cut">camera cuts to the point of impact</directNote> on the street and starts to pull back quickly. A long crack opens in the asphalt ahead of the strike; <char>Jinx</char> leaps backward into view, landing on her knees, and throws a spell that breaks the fissure wider. Tilt up from her to <char>Mammoth</char>, who leaps in with a mighty yell and brings all his weight down on the fault line. Pull back to an overhead view to reveal that the net effect of this three-way combo has been to open a very wide chasm, which runs straight down the middle of the road toward <char>Robin</char>. <directNote kind="cut">Cut to this</directNote>; he tumbles screaming into the darkness beneath Jump City and is lost to our eyes.)</stagDir>
 
-<stagDir>(Shift to just beneath the road surface, looking out past the edge of the massive fracture zone. <char>Raven</char> and <char>Beast Boy</char> arrive at the scene, and the camera dissolves to a longer shot of them while pulling back slowly to the surface of the murky tide that flows down here. The Titans' leader is nowhere to be seen in the murky tide. Close-up of the two.)</stagDir>
+<stagDir>(Shift to just beneath the road surface, looking out past the edge of the massive fracture zone. <char>Raven</char> and <char>Beast Boy</char> arrive at the scene, and the camera dissolves to a longer shot of them while<directNote kind="pull"> pulling back slowly</directNote> to the surface of the murky tide that flows down here. The Titans' leader is nowhere to be seen in the murky tide. Close-up of the two.)</stagDir>
 
 <char>Beast Boy</char>: <char>Robin</char>!
 
@@ -215,13 +215,13 @@ OPENING THEME
 
 <stagDir>(She produces his utility belt from beneath her cloak. <char>Starfire</char> gasps in horror; <char>Cyborg</char> groans and claps both hands to his forehead.)</stagDir>
 
-<char>Cyborg</char>: I shoulda been there. I let that kid sneak up on me and-what was I-? It was a trap, and I-I shoulda known. <char>Starfire</char>: I do not understand. <stagDir>(<directNote kind="cut">Cut to <char>Raven</char> and <char>Beast Boy</char></directNote>; she continues o.c.)</stagDir> How could you not find him? <stagDir>(Pull back; she looks straight at <char>Raven</char>.)</stagDir> People do not just vanish! He has to be someplace, so go there and look!
+<char>Cyborg</char>: I shoulda been there. I let that kid sneak up on me and-what was I-? It was a trap, and I-I shoulda known. <char>Starfire</char>: I do not understand. <stagDir>(<directNote kind="cut">Cut to <char>Raven</char> and <char>Beast Boy</char></directNote>; she continues o.c.)</stagDir> How could you not find him? <stagDir>(<directNote kind="pull">Pull back</directNote>; she looks straight at <char>Raven</char>.)</stagDir> People do not just vanish! He has to be someplace, so go there and look!
 
 <stagDir>(<char>Beast Boy</char> puts himself between the two girls to keep things from getting ugly.)</stagDir>
 
 <char>Beast Boy</char>: Easy, <char>Star</char>. Come on. This is <char>Robin</char> we're talking about. I'm sure he's fine. He'll probably turn up any second.
 
-<stagDir>(Pull back to frame the entire group; the door mechanism kicks into gear once more.)</stagDir>
+<stagDir>(<directNote kind="pull">Pull back</directNote> to frame the entire group; the door mechanism kicks into gear once more.)</stagDir>
 
 <char>Beast Boy</char>: Awesome timing. <char>Starfire</char>: <char>Robin</char>!
 
@@ -251,7 +251,7 @@ OPENING THEME
 
 <stagDir>(He turns away, but a single giant screen, also showing <char>Gizmo</char>, comes on next to him.)</stagDir>
 
-<char>Gizmo</char>: Not telling? <stagDir>(Pull back to frame them all.)</stagDir> Guess I'll have to take you apart and find out!
+<char>Gizmo</char>: Not telling? <stagDir>(<directNote kind="pull">Pull back</directNote> to frame them all.)</stagDir> Guess I'll have to take you apart and find out!
 
 <stagDir>(Tilt up to the ceiling on the end of this. The whiz kid's spider legs carry him into the light from those screens and lower him steadily toward <char>Cyborg</char>, who can only stare in complete shock. <directNote kind="cut">Cut to yet another hall</directNote>; <char>Beast Boy</char>, back in<transform class="mammal"> human form</transform>, races around the corner and into view. Seeing no one behind him, he stops to catch his breath.)</stagDir>
 
@@ -299,7 +299,7 @@ OPENING THEME
 
 <char>Cyborg</char>: (from inside) Get off! Get off me! Stop!
 
-<stagDir>(He flies screaming off the roof as if shot from a cannon, and the camera pulls back a distance as he comes down in the middle of Jump City Bay. Another set of yells and three more splashes mark the forcible eviction of <char>Beast Boy</char>, <char>Raven</char>, and <char>Starfire</char>. Back to the long shot of the Tower and <directNote kind="zoom">zoom in</directNote>; the HIVE team can be seen looking out from the top-floor window of the operations center. <directNote kind="zoom">Zoom in</directNote> and <directNote kind="cut">cut to them</directNote>.)</stagDir>
+<stagDir>(He flies screaming off the roof as if shot from a cannon, and the camera<directNote kind="pull"> pulls back</directNote> a distance as he comes down in the middle of Jump City Bay. Another set of yells and three more splashes mark the forcible eviction of <char>Beast Boy</char>, <char>Raven</char>, and <char>Starfire</char>. Back to the long shot of the Tower and <directNote kind="zoom">zoom in</directNote>; the HIVE team can be seen looking out from the top-floor window of the operations center. <directNote kind="zoom">Zoom in</directNote> and <directNote kind="cut">cut to them</directNote>.)</stagDir>
 
 <char>Gizmo</char>: Have a nice afterlife, you snot-eating losers!
 
@@ -313,13 +313,13 @@ OPENING THEME
 
 <char>Starfire</char>: <char>Robin</char>. Where is <char> Robin</char>? I do not understand. <char>Beast Boy</char>: Gotta go out for the others. <stagDir>(Long shot of the Tower and the bridge.) </stagDir><char>Raven</char>: We searched everywhere. <stagDir>(Tilt down slowly to the shore.)</stagDir> <char>Starfire</char>: How could you not find him? <char>Raven</char>: All we found was this. <stagDir>(Cyborg makes his way up the slope.)</stagDir> <char> Starfire</char>: People do not just vanish. <char>Beast Boy</char>: Oh, no. <char>Cyborg</char>: I shoulda been there. I shoulda known.
 
-<stagDir>(Pull back from him to put the other three Titans in view as they approach.)</stagDir>
+<stagDir>(<directNote kind="pull">Pull back</directNote> from him to put the other three Titans in view as they approach.)</stagDir>
 
 <char>Beast Boy</char>: So, uh...who else never wants to go surfing again? <char>Cyborg</char>: <stagDir>(really annoyed)</stagDir> Not now, man. <char>Beast Boy</char>: Hey, I was just trying to-
 
 <stagDir>(<char>Raven</char> puts a hand on his shoulder to cut him off. <char>Cyborg</char> extends a small acetylene torch from his left foinger. The panel on his thigh opens, revealing a plethora of sparks and short circuits. Pull back to behind him; <char>Starfire</char> approaches as he bends down to the self-repair work.)</stagDir>
 
-<char>Starfire</char>: Perhaps I could be of some assistance. <char>Cyborg</char>: I got it. <char>Starfire</char>: But you are so damaged and- <char>Cyborg</char>: (rounding on her; she gasps) I got it! <char>Beast Boy</char>: Hey! She only wanted to help! What is your problem? <char>Cyborg</char>: What do you think? <stagDir>(Long shot of them and the Tower.)</stagDir> We got kicked out of our house, a pint-size Poindexter took me for a joyride, and in case you haven't noticed, I just became left-handed! <char>Raven</char>: Enough! We need to control our emotions. <char>Cyborg</char>: Or what? Our bad vibes will keep you from meditating? <stagDir>(<directNote kind="cut">Cut to <char>Starfire</char></directNote>.)</stagDir> <char>Starfire</char>: I wish <char>Robin</char> were here. <char>Cyborg</char>: (from o.c.) Well, he's not! <stagDir>(Pull back to frame them all.)</stagDir> Don't you guys get it? They won, we lost. IT"S OVER!!
+<char>Starfire</char>: Perhaps I could be of some assistance. <char>Cyborg</char>: I got it. <char>Starfire</char>: But you are so damaged and- <char>Cyborg</char>: (rounding on her; she gasps) I got it! <char>Beast Boy</char>: Hey! She only wanted to help! What is your problem? <char>Cyborg</char>: What do you think? <stagDir>(Long shot of them and the Tower.)</stagDir> We got kicked out of our house, a pint-size Poindexter took me for a joyride, and in case you haven't noticed, I just became left-handed! <char>Raven</char>: Enough! We need to control our emotions. <char>Cyborg</char>: Or what? Our bad vibes will keep you from meditating? <stagDir>(<directNote kind="cut">Cut to <char>Starfire</char></directNote>.)</stagDir> <char>Starfire</char>: I wish <char>Robin</char> were here. <char>Cyborg</char>: (from o.c.) Well, he's not! <stagDir>(<directNote kind="pull">Pull back</directNote> to frame them all.)</stagDir> Don't you guys get it? They won, we lost. IT"S OVER!!
 
 <stagDir>(Cut to a patch of water and pan slowly to the shore. The four heroes stand slumped in defeat.)</stagDir>
 
@@ -330,130 +330,130 @@ OPENING THEME
 <char>Robin</char>: Not if I can help it.
     <!-- shd: i love him -->
 
-<stagDir>(Fade to black.)</stagDir>
+<stagDir>(<directNote kind="fade">Fade</directNote> to black.)</stagDir>
 <!-- 2019-10-01 shd: END OF ACT 2 WE'RE GETTING THERE BOYS -->
 
 <act n="3">Act Three</act>
 
-(Opening shot: the exterior of the Tower that night. The new occupants have started extensive renovations to the place, as follows. One, the vertical bar of the T has been extended. Two, the lights in one half of the crossbar top floor have been put out. Three, a second vertical portion has been built to join with the half that is still lit; it reaches the same height as the central extension. The entire effect is to make the lighted Tower portions and new construction look like a giant H for HIVE, and the honeycomb pattern has been applied to the add-ons.)
+<stagDir>(Opening shot: the exterior of the Tower that night. The new occupants have started extensive renovations to the place, as follows. One, the vertical bar of the T has been extended. Two, the lights in one half of the crossbar top floor have been put out. Three, a second vertical portion has been built to join with the half that is still lit; it reaches the same height as the central extension. The entire effect is to make the lighted Tower portions and new construction look like a giant H for HIVE, and the honeycomb pattern has been applied to the add-ons.)</stagDir>
 
-(Zoom in on the Tower, then cut to inside. Gizmo's hands reach into view, thumbs and foingers extended to make a box in which he is framing a patch of blank wall. This is his perspective. Two small robots whiz into view, carrying Cyborg's detached arm-mounted as if it were a stuffed fish-between them, and follow his instructions as they hang it up.)
+<stagDir>(<directNote kind="zoom">Zoom in on the Tower</directNote>, then <directNote kind="cut">cut to inside.</directNote> <char>Gizmo</char>'s hands reach into view, thumbs and foingers extended to make a box in which he is framing a patch of blank wall. This is his perspective. Two small robots whiz into view, carrying <char>Cyborg</char>'s detached arm-mounted as if it were a stuffed fish-between them, and follow his instructions as they hang it up.)</stagDir>
 
-Gizmo: Higher...a little to the left...a little more...and... (taking hands down, giving thumbs-up) ...perfect!
+<char>Gizmo</char>: Higher...a little to the left...a little more...and... <stagDir>(taking hands down, giving thumbs-up)</stagDir> ...perfect!
 
-(Pull back across the room and down to ground level to put him in view. The arm is mounted high on the wall.)
+<stagDir>(<directNote kind="pull">Pull back</directNote> across the room and down to ground level to put him in view. The arm is mounted high on the wall.)</stagDir>
 
-Gizmo: (walking away) Slade's gonna have kittens when he hears we whipped the Titans and took their stinking Tower!
+<char>Gizmo</char>: <stagDir>(walking away)</stagDir> <char>Slade</char>'s gonna have kittens when he hears we whipped the Titans and took their stinking Tower!
 
-(On the end of this, cut to the kitchen as he passes it. Mammoth looks in the fridge, while Jinx comes down the stairs. Close-up of her; she has donned Robin's belt, which sits askew on her hips similar to the way Raven wears hers, and has one of the latter's spare cloaks over her arm.)
+<stagDir>(On the end of this, <directNote kind="cut">cut to the kitchen</directNote> as he passes it. <char>Mammoth</char> looks in the fridge, while <char>Jinx</char> comes down the stairs. <directNote kind="cut">Close-up of her</directNote>; she has donned <char>Robin</char>'s belt, which sits askew on her hips similar to the way <char>Raven</char> wears hers, and has one of the latter's spare cloaks over her arm.)</stagDir>
 
-Jinx: Not to mention Robin's favorite fashion statement. (She eyes the cloak and sighs with contempt.) But that's the only thing fashionable around here. (Pull back to put Mammoth in view.) Mammoth: Tell me about it. (He pulls a moldy hamburger from the fridge.) Hmph. All their food is way out of date.
+<char>Jinx</char>: Not to mention <char>Robin</char>'s favorite fashion statement. <stagDir>(She eyes the cloak and sighs with contempt.)</stagDir> But that's the only thing fashionable around here. <stagDir>(<directNote kind="pull">Pull back</directNote> to put <char>Mammoth</char> in view.)</stagDir> <char>Mammoth</char>: Tell me about it. <stagDir>(He pulls a moldy hamburger from the fridge.)</stagDir> Hmph. All their food is way out of date.
 
-(This does not stop him from downing the burger in one gulp.)
+<stagDir>(This does not stop him from downing the burger in one gulp.)</stagDir>
 
-Gizmo: (from o.c.) You think that stuff's rotten? (Cut to him in the operations center; he holds up a CD.) Wait 'til you see their music. (tossing it aside, then another) Crud...snot...
+<char>Gizmo</char>: <stagDir>(from o.c.)</stagDir> You think that stuff's rotten? <stagDir>(<directNote kind="cut">Cut to him</directNote> in the operations center; he holds up a CD.)</stagDir> Wait 'til you see their music. <stagDir>(tossing it aside, then another)</stagDir> Crud...snot...
 
-(Dissolve to the mounted arm and zoom in slowly, then dissolve to an extreme close-up of the middle finger and keep zooming in.)
+<stagDir>(<directNote kind="dissolve">Dissolve to the mounted arm</directNote> and<directNote kind="zoom"> zoom in slowly</directNote>, then <directNote kind="dissolve">dissolve to an extreme close-up</directNote> of the middle finger and <directNote kind="zoom">keep zooming in.</directNote>)</stagDir>
 
-Gizmo: (from o.c., sighing) ...mega-crud...snot...
+<char>Gizmo</char>: <stagDir>(from o.c., sighing)</stagDir> ...mega-crud...snot...
 
-(The fingertip pulls loose of the hand, remaining connected to it by two thin jointed armatures. It swivels to point its open and at us and reveals a tiny camera lens inside. A brief change in focus, and it turns to point elsewhere. Camera eye: it is zooming in on Jinx, who has put on Raven's cloak.)
+<stagDir>(The fingertip pulls loose of the hand, remaining connected to it by two thin jointed armatures. It swivels to point its open and at us and reveals a tiny camera lens inside. A brief change in focus, and it turns to point elsewhere. Camera eye: it is<directNote kind="zoom"> zooming in on <char>Jinx</char></directNote>, who has put on <char>Raven</char>'s cloak.)</stagDir>
 
-Jinx: Does she have anything that's not blue?
+<char>Jinx</char>: Does she have anything that's not blue?
 
-(Pan to Mammoth, now gorging himself on the spoiled food in the fridge, then move quickly to Gizmo at the CD rack in the operations center. The ones he hated are strewn about the floor behind him. The tiny camera roves on, stopping at one of the computer consoles.)
+<stagDir>(<directNote kind="pan">Pan to <char>Mammoth</char></directNote>, now gorging himself on the spoiled food in the fridge, then move quickly to <char>Gizmo</char> at the CD rack in the operations center. The ones he hated are strewn about the floor behind him. The tiny camera roves on, stopping at one of the computer consoles.)</stagDir>
 
-(Normal view: Jinx inspecting herself with a hand mirror. The arm scuttles into view, walking on its fingers with the camera still active, and turns here and there to scope out the place. Finally it moves toward us; cut to an extreme close-up of Mammoth as he eagerly lifts a moldy chicken drumstick to his mouth and licks it. The arm makes is way along a ledge on the far side of the kitchen while he eats the meat off the bone.)
+<stagDir>(Normal view: <char>Jinx</char> inspecting herself with a hand mirror. The arm scuttles into view, walking on its fingers with the camera still active, and turns here and there to scope out the place. Finally it moves toward us; <directNote kind="cut">cut to an extreme close-up</directNote> of <char>Mammoth</char> as he eagerly lifts a moldy chicken drumstick to his mouth and licks it. The arm makes is way along a ledge on the far side of the kitchen while he eats the meat off the bone.)</stagDir>
 
-(Back to Gizmo, who has yet another CD in hand.)
+<stagDir>(Back to <char>Gizmo</char>, who has yet another CD in hand.)</stagDir>
 
-Gizmo: (throwing it and the next one away) Ugh. Crud...snot...
+<char>Gizmo</char>: <stagDir>(throwing it and the next one away)</stagDir> Ugh. Crud...snot...
 
-(The arm moves along the ledge behind him and is not noticed. It stops near one of the consoles and points its camera around the area before jumping down into the seat. Close-up of it, then pull back; thin tentacles fly out from the joint where the limb connected to the stump of Cyborg's natural arm. They press several keys, and the view cuts to an overhead shot of the keyboard as they go to work and the screen lights up with a schematic of the Tower. Piece by piece, the diagram goes red. When it has all turned this color, the screen winks out and alarms and buzzers start to sound, accompanied by red flashing lights throughout the operations center. The security systems have been triggered.)
+<stagDir>(The arm moves along the ledge behind him and is not noticed. It stops near one of the consoles and points its camera around the area before jumping down into the seat. Close-up of it, then<directNote kind="pull"> pull back</directNote>; thin tentacles fly out from the joint where the limb connected to the stump of <char>Cyborg</char>'s natural arm. They press several keys, and the view <directNote kind="cut">cuts to an <stagDesc category="overhead-shot">overhead shot</stagDesc></directNote> of the keyboard as they go to work and the screen lights up with a schematic of the Tower. Piece by piece, the diagram goes red. When it has all turned this color, the screen winks out and alarms and buzzers start to sound, accompanied by red flashing lights throughout the operations center. The security systems have been triggered.)</stagDir>
 
-(Jinx gasps and throws the cloak aside, and Mammoth stands up from the fridge. All the cabinet doors in the kitchen start opening and closing at random. Next Gizmo stands up from the CD rack; without warning, one disc after another is ejected past him at high speed.)
+<stagDir>(<char>Jinx</char> gasps and throws the cloak aside, and <char>Mammoth</char> stands up from the fridge. All the cabinet doors in the kitchen start opening and closing at random. Next <char>Gizmo</char> stands up from the CD rack; without warning, one disc after another is ejected past him at high speed.)</stagDir>
 
-Gizmo: Hey!
+<char>Gizmo</char>: Hey!
+<stagDir>
+(This is the only intelligible word he gets out before trailing off into surprised yells and losing his balance to tumble on the floor. He slides backward as the rack continues its impression of a skeet-shooting target launcher.)</stagDir>
 
-(This is the only intelligible word he gets out before trailing off into surprised yells and losing his balance to tumble on the floor. He slides backward as the rack continues its impression of a skeet-shooting target launcher.)
+<char>Gizmo</char>: What the hairball?
 
-Gizmo: What the hairball?
+<stagDir>(The chair of the nearest console swivels to give him a good look at the arm occupying it; he cries out in surprise and fear. The tentacles have retracted, but now they shoot forth again and wrap around his arms and legs. The bionic limb jumps down and speeds across the floor, dragging one very surprised pipsqueak, and pops a couple of small jet thrusters out from the forearm. These ignite and carry it into the air; the hand balls into a fist as the thing aims itself toward the ceiling and carries <char>Gizmo</char> up with it.)</stagDir>
 
-(The chair of the nearest console swivels to give him a good look at the arm occupying it; he cries out in surprise and fear. The tentacles have retracted, but now they shoot forth again and wrap around his arms and legs. The bionic limb jumps down and speeds across the floor, dragging one very surprised pipsqueak, and pops a couple of small jet thrusters out from the forearm. These ignite and carry it into the air; the hand balls into a fist as the thing aims itself toward the ceiling and carries Gizmo up with it.)
+<stagDir>(Long shot of a ceiling air vent. The arm closes in on it and punches through; <directNote kind="cut">cut to inside the ductwork</directNote> as it races along and takes <char>Gizmo</char> for one very wild ride and out of sight around a bend. Back in the kitchen, a large shadowy hand reaches down behind <char>Jinx</char> and seizes her. She has time for one startled cry before it recedes into the ceiling and takes her with it-the sort of thing only <char>Raven</char> could do. The big lug is left standing by himself; the side door opens on its own, and a starbolt rockets into view from the left side of the screen to knock him through it. <char>Starfire</char> has made it into the Tower. The door closes.)</stagDir>
 
-(Long shot of a ceiling air vent. The arm closes in on it and punches through; cut to inside the ductwork as it races along and takes Gizmo for one very wild ride and out of sight around a bend. Back in the kitchen, a large shadowy hand reaches down behind Jinx and seizes her. She has time for one startled cry before it recedes into the ceiling and takes her with it-the sort of thing only Raven could do. The big lug is left standing by himself; the side door opens on its own, and a starbolt rockets into view from the left side of the screen to knock him through it. Starfire has made it into the Tower. The door closes.)
+<stagDir>(<directNote kind="cut">Cut to the exterior of the Tower</directNote>, at roof level, and <directNote kind="zoom">zoom in</directNote> before <directNote kind="dissolve">dissolving to the surface.</directNote> A large black raven emerges from the surface and rises o.c., leaving <char>Jinx</char> there to drop to her knees. We have just witnessed <char>Raven</char>'s "soul self" at work-a projection that can carry individuals from one place to another. Behind <char>Jinx</char>, <char>Cyborg</char>'s arm bursts out of a vent pipe and carries the screaming <char>Gizmo</char> higher and higher before veering back toward his classmate. <directNote kind="zoom">Zoom in</directNote> to an extreme close-up of her face as she gasps in shock and her eyes widen-just before she is hit head-on and both roll halfway across the roof. Having released <char>Gizmo</char>, the arm flies away, and the closed door of the stairs or elevator leading up here slide open. A green flash of a starbolt plays across the screen, and <char>Mammoth</char> is blasted out onto the roof. He ends up next to the other two HIVE agents.)</stagDir>
 
-(Cut to the exterior of the Tower, at roof level, and zoom in before dissolving to the surface. A large black raven emerges from the surface and rises o.c., leaving Jinx there to drop to her knees. We have just witnessed Raven's "soul self" at work-a projection that can carry individuals from one place to another. Behind Jinx, Cyborg's arm bursts out of a vent pipe and carries the screaming Gizmo higher and higher before veering back toward his classmate. Zoom in to an extreme close-up of her face as she gasps in shock and her eyes widen-just before she is hit head-on and both roll halfway across the roof. Having released Gizmo, the arm flies away, and the closed door of the stairs or elevator leading up here slide open. A green flash of a starbolt plays across the screen, and Mammoth is blasted out onto the roof. He ends up next to the other two HIVE agents.)
+<stagDir>(Close-up of <char>Robin</char>'s upraised hand; his belt lands neatly in it.)
+</stagDir>
+<char>Robin</char>: <stagDir>(from o.c.)</stagDir> Sorry to interrupt the victory celebration. <stagDir>(<directNote cut="cut">Cut to his waist level</directNote>; he fastens it.)</stagDir> But like I said... <stagDir>(Head level.)</stagDir> ...this isn't over.
+<stagDir>
+(<directNote kind="pull">Pull back</directNote>. <char>Cyborg</char> is there, reattaching his arm, and the other three Titans soon arrive.)</stagDir>
 
-(Close-up of Robin's upraised hand; his belt lands neatly in it.)
+<char>Cyborg</char>: It's just getting started. <stagDir>(The trio stands up.)</stagDir> <char>Jinx</char>: Attack Pattern Alpha!
 
-Robin: (from o.c.) Sorry to interrupt the victory celebration. (Cut to his waist level; he fastens it.) But like I said... (Head level.) ...this isn't over.
+<stagDir>(<char>Gizmo</char> and <char>Mammoth</char> scatter while she shouts and throws a spell. The Titans scramble to avoid it; when it hits the rooftop, a panel swells and explodes. <char>Beast Boy</char> comes down from his jump only to find <char>Mammoth</char> coming straight at him. He jumps away again and <transform class="bird">turns into a hawk</transform> as the giant slams his fist down on the roof and sends a shock wave toward <char>Cyborg</char>. <char>Jinx</char> lands behind the latter and vaults high over his shoulders, hurling a spell down at him as she sails through the air. It knocks out the base of a water tank and causes the while thing to topple toward <char>Cyborg</char>, who gets out of the way just in time before a second tank collapses nearby.)</stagDir>
 
-(Pull back. Cyborg is there, reattaching his arm, and the other three Titans soon arrive.)
+<stagDir>(<directNote kind="cut">Cut to <char>Starfire</char></directNote> in midair, throwing a few Tamaranean fastballs, then to <char>Jinx</char> as she nimbly dodges them and ducks out of sight behind part of the new construction. <char>Starfire</char> flies in after her. <char>Cyborg</char>, meanwhile, looks around himself a bit. All clear-but that changes in an instant when <char>Gizmo</char> jumps down from the fallen water tanks and lands on his back.)
+</stagDir>
+<char>Gizmo</char>: Hey, Robo-Wimp. <stagDir>(He pulls out his tool.)</stagDir> Feel like getting hacked? <char>Cyborg</char>: Nope. How 'bout you? <char>Robin</char>! Now!
 
-Cyborg: It's just getting started. (The trio stands up.) Jinx: Attack Pattern Alpha!
+<stagDir>(<directNote kind="cut">Cut to <char>Robin</char></directNote> in mid-leap; he throws a small device, and the camera follows it over to <char>Cyborg</char> and <char>Gizmo</char>. It attaches itself to the machinery on the latter's back, and sparks fly as he yells in pain and frustration. Long shot: <char>Robin</char> drops back to the roof.)</stagDir>
 
-(Gizmo and Mammoth scatter while she shouts and throws a spell. The Titans scramble to avoid it; when it hits the rooftop, a panel swells and explodes. Beast Boy comes down from his jump only to find Mammoth coming straight at him. He jumps away again and turns into a hawk as the giant slams his fist down on the roof and sends a shock wave toward Cyborg. Jinx lands behind the latter and vaults high over his shoulders, hurling a spell down at him as she sails through the air. It knocks out the base of a water tank and causes the while thing to topple toward Cyborg, who gets out of the way just in time before a second tank collapses nearby.)
+<char>Gizmo</char>: <stagDir>(running around, trying to pull the thing off)</stagDir> Cut it out! It's gonna crash my whole system! <stagDir>(He rips off his shoulder-mounted laser.)</stagDir> Get it off me! Get it off me!
 
-(Cut to Starfire in midair, throwing a few Tamaranean fastballs, then to Jinx as she nimbly dodges them and ducks out of sight behind part of the new construction. Starfire flies in after her. Cyborg, meanwhile, looks around himself a bit. All clear-but that changes in an instant when Gizmo jumps down from the fallen water tanks and lands on his back.)
+<stagDir>(<char>Robin</char>'s device triggers the jet pack, carrying him off the roof. <char>Jinx</char> runs like mad to avoid getting fried by <char>Starfire</char>'s bombardment.)</stagDir>
 
-Gizmo: Hey, Robo-Wimp. (He pulls out his tool.) Feel like getting hacked? Cyborg: Nope. How 'bout you? Robin! Now!
+<char>Starfire</char>: <char>Beast Boy</char>! Go!
 
-(Cut to Robin in mid-leap; he throws a small device, and the camera follows it over to Cyborg and Gizmo. It attaches itself to the machinery on the latter's back, and sparks fly as he yells in pain and frustration. Long shot: Robin drops back to the roof.)
+<stagDir>(He is <transform class="human">back in human form</transform> and crouching on an overhead girder to watch <char>Jinx</char>. Flipping <char>Starfire</char> a hand sign to acknowledge, he dives from his perch and <transform class="mammal">transforms into a monkey</transform> to come down squarely on the face of the fleeing girl. She has made her way into a framework of pipes. Unable to see, she fires spells in all directions in an attempt to get him off; finally she gets all ten fingers into the game, yanks him away, and throws him across the roof. He <transform class="human">reverts to human form</transform> before touching down.)</stagDir>
 
-Gizmo: (running around, trying to pull the thing off) Cut it out! It's gonna crash my whole system! (He rips off his shoulder-mounted laser.) Get it off me! Get it off me!
+<char>Beast Boy</char>: Your luck just ran out!
 
-(Robin's device triggers the jet pack, carrying him off the roof. Jinx runs like mad to avoid getting fried by Starfire's bombardment.)
+<stagDir>(Getting a running start, he again <transform class="bird">becomes a hawk</transform> and flies into the open sky. Close-up of a very puzzled <char>Jinx</char>.)</stagDir>
 
-Starfire: Beast Boy! Go!
+<char>Jinx</char>: Huh?
 
-(He is back in human form and crouching on an overhead girder to watch Jinx. Flipping Starfire a hand sign to acknowledge, he dives from his perch and transforms into a monkey to come down squarely on the face of the fleeing girl. She has made her way into a framework of pipes. Unable to see, she fires spells in all directions in an attempt to get him off; finally she gets all ten fingers into the game, yanks him away, and throws him across the roof. He reverts to human form before touching down.)
+<stagDir>(Creaks and groans from the o.c. pipework draw her attention; <directNote kind="cut">cut to a view</directNote> of the overhead lines from the ground and pan to follow them. One after another, the joints start to pop, having been hit by the spells she was casting every which way. <directNote kind="pan">Tilt down</directNote> to ground level just in time to see one pipe burst and start spewing water and steam. The sound of a nervous little shudder is she can manage as more lines rupture and collapse around her.)</stagDir>
+<stagDir>
+(From here, <directNote kind="cut">cut to <char>Mammoth</char>,</directNote> running like sixty, and <directNote kind="pull">pull back</directNote> to show him advancing on <char>Raven</char>. He aims a colossal punch at her, but she flies up to avoid it and comes down behind him. When he turns to charge again, <char>Cyborg</char> rams a shoulder into him. It takes some time for him to touch down on the roof and stop skidding; when he does, the view shifts to letterbox, in the top third of the screen. <directNote kind="pan">Pan ahead of <char>Mammoth</char></directNote> just a bit to show <char>Beast Boy</char>, <transform class="reptile">as a T-rex</transform>, waiting for him. One snarl is all it takes to make the overgrown villain completely freak out and run for his life. <stagDesc category="fullscreen">Fullscreen</stagDesc>: <char>Starfire</char> gathers all her strength for a starbolt and lets it go, hitting <char>Mammoth</char> dead center in the gut. The hit leaves him spinning in the air as <char>Robin</char> dashes over. One mighty flying kick drives him back into <char>Gizmo</char> and <char>Jinx</char> and leaves all three in a weary, groaning pile. <directNote kind="pan">Tilt down</directNote> to <char>Gizmo</char> at the bottom of it; he has a transmitter in hand.)</stagDir>
 
-Beast Boy: Your luck just ran out!
+<char>Gizmo</char>: Cram it. I'm calling <char>Slade</char>. <stagDir>(<char>Robin</char> yanks him up to eye level as he switches it on.)</stagDir> <char>Robin</char>: Who is <char>Slade</char>? <char>Gizmo</char>: Wouldn't you like to know, barf-brain?
 
-(Getting a running start, he again becomes a hawk and flies into the open sky Close-up of a very puzzled Jinx.)
+<stagDir>(Snap to black and <directNote kind="pan">pan until the long shot of <char>Slade</char>'s lair</directNote>, as seen in the prologue, comes into view. The HIVE Academy's <char>headmistress</char> speaks during this movement and comes into view at the edge of the platform.)</stagDir>
 
-Jinx: Huh?
+<char>Headmistress</char>: I assure you, such failures are not tolerated within the HIVE. <stagDir>(Close-up of her.)</stagDir> Once the agents have been retrieved from the authorities, they will be disciplined. <stagDir>(<directNote kind="cut">Cut to waist leve</directNote>l; she socks a fist into her palm.)</stagDir> Strictly disciplined.
 
-(Creaks and groans from the o.c. pipework draw her attention; cut to a view of the overhead lines from the ground and pan to follow them. One after another, the joints start to pop, having been hit by the spells she was casting every which way. Tilt down to ground level just in time to see one pipe burst and start spewing water and steam. The sound of a nervous little shudder is she can manage as more lines rupture and collapse around her.)
+<stagDir>(<directNote kind="cut">Cut to another part</directNote> of the platform. <char>Slade</char> steps out from among the pipes-she has been addressing herself to him. The light glinting off his figure shows the colors from <epRef n="1">"Divide and Conquer"</epRef>-gray on the right side of his head, red-orange on the left.)</stagDir>
 
-(From here, cut to Mammoth, running like sixty, and pull back to show him advancing on Raven. He aims a colossal punch at her, but she flies up to avoid it and comes down behind him. When he turns to charge again, Cyborg rams a shoulder into him. It takes some time for him to touch down on the roof and stop skidding; when he does, the view shifts to letterbox, in the top third of the screen. Pan ahead of Mammoth just a bit to show Beast Boy, as a T-rex, waiting for him. One snarl is all it takes to make the overgrown villain completely freak out and run for his life. Fullscreen: Starfire gathers all her strength for a starbolt and lets it go, hitting Mammoth dead center in the gut. The hit leaves him spinning in the air as Robin dashes over. One mighty flying kick drives him back into Gizmo and Jinx and leaves all three in a weary, groaning pile. Tilt down to Gizmo at the bottom of it; he has a transmitter in hand.)
+<char>Slade</char>: Actually, your agents served my plans quite well. I never expected them to succeed. <stagDir>(Extreme close-up of his eye; light shines on it.)</stagDir> They were merely messengers. And the message has been received.
 
-Gizmo: Cram it. I'm calling Slade. (Robin yanks him up to eye level as he switches it on.) Robin: Who is Slade? Gizmo: Wouldn't you like to know, barf-brain?
+<stagDir>(On the end of this, <directNote kind="pan">pan slightly</directNote> to a transmitter in his raised left hand, a counterpart of the one <char>Gizmo</char> carried. He activates it, and on the monitor behind the <char>headmistress</char>, an image of <char>Robin</char> appears-caught on film by <char>Gizmo</char> and asking "Who is <char>Slade</char>?" over and over. Pull back slowly as more images of different sizes appear to fill the screen, then back to the long shot of the lair as they pop up on the entire row of screens. That three-word question is repeated countless times by all of them. If <char>Slade</char>'s intent was to bring his name to the Titans' attention, the HIVE crew did indeed meet his expectations.)</stagDir>
 
-(Snap to black and pan until the long shot of Slade's lair, as seen in the prologue, comes into view. The HIVE Academy's headmistress speaks during this movement and comes into view at the edge of the platform.)
+<stagDir>(<directNote kind="cut">Cut to the exterior of the Tower</directNote>. The original architecture has been restored.)</stagDir>
 
-Headmistress: I assure you, such failures are not tolerated within the HIVE. (Close-up of her.) Once the agents have been retrieved from the authorities, they will be disciplined. (Cut to waist level; she socks a fist into her palm.) Strictly disciplined.
+<char>Beast Boy</char>: <stagDir>(from inside)</stagDir> NOOOO!! This is the worst thing that could ever happen!
 
-(Cut to another part of the platform. Slade steps out from among the pipes-she has been addressing herself to him. The light glinting off his figure shows the colors from "Divide and Conquer"-gray on the right side of his head, red-orange on the left.)
+<stagDir>(Close-up of him. He is in human form, with hands to head and ready to pull his green hair out.)</stagDir>
 
-Slade: Actually, your agents served my plans quite well. I never expected them to succeed. (Extreme close-up of his eye; light shines on it.) They were merely messengers. And the message has been received.
+<char>Beast Boy</char>: My tunes! They've been... <stagDir>(He steps back.)</stagDir> ...alphabetized.
 
-(On the end of this, pan slightly to a transmitter in his raised left hand, a counterpart of the one Gizmo carried. He activates it, and on the monitor behind the headmistress, an image of Robin appears-caught on film by Gizmo and asking "Who is Slade?" over and over. Pull back slowly as more images of different sizes appear to fill the screen, then back to the long shot of the lair as they pop up on the entire row of screens. That three-word question is repeated countless times by all of them. If Slade's intent was to bring his name to the Titans' attention, the HIVE crew did indeed meet his expectations.)
+<stagDir>(<directNote kind="pull">Pull back</directNote> again. He tosses CDs around the operations center as <char>Cyborg</char> looks high and low, much as he did at the start of Act One. <char>Robin</char> stands behind the couch and watches the two.)</stagDir>
 
-(Cut to the exterior of the Tower. The original architecture has been restored.)
+<char>Beast Boy</char>: How am I ever gonna find anything?
 
-Beast Boy: (from inside) NOOOO!! This is the worst thing that could ever happen!
+<stagDir>(<char>Raven</char> comes downstairs, carrying the cloak <char>Jinx</char> borrowed</stagDir>.)
 
-(Close-up of him. He is in human form, with hands to head and ready to pull his green hair out.)
+<char>Raven</char>: <stagDir>(icily)</stagDir> They went into my room. No one should ever go into my room. <stagDir>(<char>Starfire</char> gasps and pops up from under the kitchen counter.)</stagDir> <char>Starfire</char>: Someone has disposed of all our blue furry food! <char>Cyborg</char>: (<stagDir>lifting the couch)</stagDir> You gotta be kidding me! The whole place gets cleaned and I still can't find the-
 
-Beast Boy: My tunes! They've been... (He steps back.) ...alphabetized.
+<stagDir>(A whistle from o.c. stops him short; cut to <char>Robin</char>, who points down toward the couch. Close-up of the coffee table-with the missing remote lying on it in plain sight.)</stagDir>
 
-(Pull back again. He tosses CDs around the operations center as Cyborg looks high and low, much as he did at the start of Act One. Robin stands behind the couch and watches the two.)
+<char>Cyborg</char>: Ha! <stagDir>(He drops the couch and sits down on it with <char>Robin</char>, who has started to flip channels.)</stagDir>
 
-Beast Boy: How am I ever gonna find anything?
+<char>Cyborg</char>: I guess we really oughta be training for battles, tracking down clues, and trying to figure out who <char>Slade</char> is, huh? <stagDir>(<directNote kind="pull">Pull back</directNote> as the other three gather around the couch on this line.)</stagDir> <char>Robin</char>: We will. But right now, I'm just happy to be part of the team.
 
-(Raven comes downstairs, carrying the cloak Jinx borrowed.)
-
-Raven: (icily) They went into my room. No one should ever go into my room. (Starfire gasps and pops up from under the kitchen counter.) Starfire: Someone has disposed of all our blue furry food! Cyborg: (lifting the couch) You gotta be kidding me! The whole place gets cleaned and I still can't find the-
-
-(A whistle from o.c. stops him short; cut to Robin, who points down toward the couch. Close-up of the coffee table-with the missing remote lying on it in plain sight.)
-
-Cyborg: Ha! (He drops the couch and sits down on it with Robin, who has started to flip channels.)
-
-Cyborg: I guess we really oughta be training for battles, tracking down clues, and trying to figure out who Slade is, huh? (Pull back as the other three gather around the couch on this line.) Robin: We will. But right now, I'm just happy to be part of the team.
-
-(Pull back past the coffee table. Robin points the remote at the camera and clicks, and the whole screen winks out.)
+<stagDir>(<directNote kind="pull">Pull back</directNote> past the coffee table. <char>Robin</char> points the remote at the camera and clicks, and the whole screen winks out.)</stagDir>
     </body>
     
 </transcript>
