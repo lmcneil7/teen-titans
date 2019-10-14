@@ -147,195 +147,192 @@ Various <char>prisoners</char>: Hey, hey, look at this. It’s freedom!...Let’
 <char>Cyborg</char>: That makes two of us! I QUIT!!
 (<stagDir>These two words leave the rest of the group staring wide-eyed in total shock. <stagDesc category="letterbox">Letterbox, in the top third of the screen: his silhouette stalks away from theirs against a blue field, and <char>Robin</char> hangs his head</stagDesc>. <directNote kind="fade">Fade to black as the sound of machinery makes itself heard</directNote>.</stagDir>)
 
-<stagDir>(<directNote kind="fade">Fade in to a close-up of turning gears</directNote> and <directNote kind="dissolve">dissolve to a series of other shots of heavy equipment hard at work-cams and pistons and crankshafts</directNote>. <directNote kind="pan">Pan from the last view across a large enclosure illuminated chiefly by dim red light, then stop on a shadowy figure seated on a large chair atop a raised platform</directNote>. No features can be seen except the glint of full-body armor and one eye, the left. An overhead fixture pours light down on the seat. This is <char>Slade</char>, though he will not be named for some time to come. In the harsh glare, the right side of the head and shoulder show a gray tint, while red-orange appears on the other side.)
+<stagDir>(<directNote kind="fade">Fade in to a close-up of turning gears</directNote> and <directNote kind="dissolve">dissolve to a series of other shots of heavy equipment hard at work-cams and pistons and crankshafts</directNote>. <directNote kind="pan">Pan from the last view across a large enclosure illuminated chiefly by dim red light, then stop on a shadowy figure seated on a large chair atop a raised platform</directNote>. <charDesc ref="Slade">No features can be seen except the glint of full-body armor and one eye, the left. An overhead fixture pours light down on the seat.</charDesc> This is <char>Slade</char>, though he will not be named for some time to come. In the harsh glare, <charDesc ref="Slade">the right side of the head and shoulder show a gray tint, while red-orange appears on the other side</charDesc>.)
 </stagDir>
 <stagDir>(<char>Cinderblock</char> stumps into the light and places the tank containing <char>385901</char> on the floor. When <char>Slade</char> speaks, his tone is even and measured.)</stagDir>
 
 <char>Slade</char>: <char>Cinderblock</char>. I see your mission was a success. Good. We will proceed with Phase Two. Wake him.
 <stagDir>(The behemoth strains at the metal cap on the top end of the tank and manages to unscrew it, releasing thick clouds of vapor. When they clear, the <char>occupant</char> begins to stir from his slumber.)</stagDir>
 
-<char>385901</char>: (through glass, startled) I’m...awake? I should never be awake! I’m only human when I’m sleeping!
-<char>Slade</char>: But for what I have in mind, your human form is useless. (leaning forward) I need <char>Plasmus</char>.
-(The man’s form begins to swell and distort within the tank, causing the glass to bulge and finally shatter. What comes out is a mass of purplish slime that overwhelms the nearby <char>Cinderblock</char>, accompanied by more fumes from the liquid inside. When the view clears, the overhead light has gone out and the ooze has formed itself into a very large, roughly shaped humanoid with an extremely wide mouth and two tiny yellowish eyes-<char>Plasmus</char>, the form taken by <char>385901</char> whenever he is not asleep. The reason for the silence warning on his cell’s door is now abundantly clear. <char>Plasmus</char> comes forward and lets off a screeching roar. Fade to black.)
+<char>385901</char>: <stagDir>(through glass, startled)</stagDir> I’m...awake? I should never be awake! I’m only human when I’m sleeping!
+<char>Slade</char>: But for what I have in mind, your human form is useless. <stagDir>(leaning forward)</stagDir> I need <char>Plasmus</char>.
+<stagDir>(<transform class="Plasmus">The man’s form begins to swell and distort within the tank</transform>, causing the glass to bulge and finally shatter. What comes out is <charDesc ref="Plasmus">a mass of purplish slime</charDesc> that overwhelms the nearby <char>Cinderblock</char>, accompanied by more fumes from the liquid inside. When the view clears, the overhead light has gone out and <charDesc ref="Plasmus">the ooze has formed itself into a very large, roughly shaped humanoid with an extremely wide mouth and two tiny yellowish eyes</charDesc>-<char>Plasmus</char>, the form taken by <char>385901</char> whenever he is not asleep. <annot>The reason for the silence warning on his cell’s door is now abundantly clear.</annot> <char>Plasmus</char> comes forward and lets off a screeching roar. <directNote kind="fade">Fade to black.</directNote>)</stagDir>
 
 <act n="2">Act 2</act>
-(Opening shot: the exterior of Titans Tower. It is now the next day. Ringing is heard over a telephone line, followed by the click of the call being answered.)
+<stagDir>(<stagDesc category="open-shot">Opening shot: the exterior of Titans Tower.</stagDesc> It is now the next day. Ringing is heard over a telephone line, followed by the click of the call being answered.)</stagDir>
 
-<char>Cyborg</char>: (on answering machine) This is <char>Cyborg</char>. I’m either in the gym, playing GameStation- (Zoom in slowly.) -or kicking bad-guy butt. Leave a message. (Beep.)
-(Cut to the operations center. <char>Starfire</char> is at the kitchen counter, <char>Raven</char> is looking at a bank of monitors, and <char>Beast Boy</char> paces with a cell phone in hand-he made the call. <char>Robin</char> stands at the windows.)
+<char>Cyborg</char>: <stagDir>(on answering machine)</stagDir> This is <char>Cyborg</char>. I’m either in the gym, playing GameStation- <directNote kind="zoom">(Zoom in slowly.)</directNote> -or kicking bad-guy butt. Leave a message. <stagDir>(Beep.)</stagDir>
+<stagDir>(<directNote kind="cut">Cut to the operations center.</directNote> <char>Starfire</char> is at the kitchen counter, <char>Raven</char> is looking at a bank of monitors, and <char>Beast Boy</char> paces with a cell phone in hand-he made the call. <char>Robin</char> stands at the windows.)</stagDir>
 
-<char>Beast Boy</char>: Hello? <char>Cy</char>? Pick up! (Pause.) Come on, <char>Cy</char>, pick up! (Close-up of <char>Raven</char>; he paces behind her.) I know you’re there. The phone’s built in your arm!
-(In this shot, we can now see that <char>Starfire</char> is mixing something in a bowl. <char>Raven</char> reaches up to press a key. Now <char>Beast Boy</char> hangs up disgustedly. Cut to an extreme close-up of <char>Starfire</char>, who holds up a spoonful of glop from her bowl.)
+<char>Beast Boy</char>: Hello? <char>Cy</char>? Pick up! <stagDir>(Pause.)</stagDir> Come on, <char>Cy</char>, pick up! <stagDesc category="close-up">(Close-up of <char>Raven</char>; he paces behind her.)</stagDesc> I know you’re there. The phone’s built in your arm!
+<stagDesc>(In this shot, we can now see that <char>Starfire</char> is mixing something in a bowl. <char>Raven</char> reaches up to press a key. Now <char>Beast Boy</char> hangs up disgustedly. <directNote kind="cut">Cut to an extreme close-up of <char>Starfire</char>, who holds up a spoonful of glop from her bowl.</directNote>)</stagDesc>
 
 <char>Starfire</char>: Taste.
-(Pull back; she is holding it out to <char>Beast Boy</char>, and she shoves it into his mouth without warning. It sends him into convulsions, which end with him on all fours and trying to keep from vomiting. Finally he spits out the mess and scrubs frantically at his tongue to remove the last fragments.)
+<stagDir>(<directNote kind="pull">Pull back; she is holding it out to <char>Beast Boy</char>, and she shoves it into his mouth without warning.</directNote> It sends him into convulsions, which end with him on all fours and trying to keep from vomiting. Finally he spits out the mess and scrubs frantically at his tongue to remove the last fragments.)</stagDir>
 
 <char>Beast Boy</char>: What is that? Cream of toenails?
-<char>Starfire</char>: Pudding of Sadness. (taking a spoonful) It is what the people of my planet eat when bad things happen.
-(She eats it and is suddenly on the verge of blowing her own chow; after a monster effort, she gets it down and ends up having a fit as well. <char>Raven</char> continues checking the monitors as <char>Starfire</char> brings her the bowl.)
+<char>Starfire</char>: Pudding of Sadness. <stagDir>(taking a spoonful)</stagDir> It is what the people of my planet eat when bad things happen.
+<stagDir>(She eats it and is suddenly on the verge of blowing her own chow; after a monster effort, she gets it down and ends up having a fit as well. <char>Raven</char> continues checking the monitors as <char>Starfire</char> brings her the bowl.)</stagDir>
 
-<char>Starfire</char>: Try. The displeasing taste will ease your troubled mind. (<char>Raven</char> turns to her.)
+<char>Starfire</char>: Try. The displeasing taste will ease your troubled mind. <stagDir>(<char>Raven</char> turns to her.)</stagDir>
 <char>Raven</char>: My mind is never troubled. People come, people go. It’s pointless to be upset about <char>Cyborg</char>.
-(Her hair flies wildly about her face and all the monitors crack-a sudden flare-up of her powers, caused by the fact that she actually is upset about his absence. She does not notice the damage, as she is looking directly at Starfire’s wide-eyed expression.)
+<stagDir>(Her hair flies wildly about her face and all the monitors crack-a sudden flare-up of her powers, caused by the fact that she actually is upset about his absence. She does not notice the damage, as she is looking directly at Starfire’s wide-eyed expression.)</stagDir>
 
 <char>Raven</char>: What?
-(Letterbox, top half of the screen. <char>Robin</char>’s silhouette, against the sunlight through the top-floor windows, looks morosely out over Jump City as <char>Starfire</char>’s flies to him with her horrid concoction. Fullscreen: she holds the bowl out to him.)
+(<stagDesc category="letterbox">Letterbox, top half of the screen. <char>Robin</char>’s silhouette, against the sunlight through the top-floor windows, looks morosely out over Jump City as <char>Starfire</char>’s flies to him with her horrid concoction.</stagDesc> <stagDesc category="fullscreen">Fullscreen: she holds the bowl out to him.</stagDesc>)
 
-<char>Starfire</char>: Here, <char>Robin</char>. You must need this most of all since...well... (She lets it hang.)
+<char>Starfire</char>: Here, <char>Robin</char>. You must need this most of all since...well... <stagDir>(She lets it hang.)</stagDir>
 <char>Robin</char>: I’m fine.
-(He turns away. Letterbox, top two-thirds of screen; his silhouette retreats from hers.)
+(<stagDir>He turns away.</stagDir> <stagDesc category="letterbox">Letterbox, top two-thirds of screen; his silhouette retreats from hers.</stagDesc>)
 
 <char>Robin</char>: Who knows? Maybe we’re better off without him.
-(Fullscreen: she lowers her bowl and gazes after him with obvious concern. Wipe to a close-up of him in the gym; he is punching something just o.c. with great vigor. Pull back to reveal the target as a heavy bag. He delivers a final roundhouse kick and slumps over, winded. Looking up, he sees his and <char>Cyborg</char>’s weight benches-the latter equipped with the sort of giant barbells only that <char>Titan</char> could lift.)
+    (<stagDesc category="fullscreen">Fullscreen: she lowers her bowl and gazes after him with obvious concern.</stagDesc> <directNote kind="wipe">Wipe to a close-up of him in the gym; he is punching something just o.c. with great vigor.</directNote> <directNote kind="pull">Pull back to reveal the target as a heavy bag.</directNote> <stagDir>He delivers a final roundhouse kick and slumps over, winded. Looking up, he sees his and <char>Cyborg</char>’s weight benches-the latter equipped with the sort of giant barbells only that <char>Titan</char> could lift.</stagDir>)
 
-(In the kitchen, <char>Beast Boy</char> hoists a stack of dirty plates onto the counter by the sink. Many others are already piled up there.)
+<stagDir>(<stagDesc category="setting">In the kitchen</stagDesc>, <char>Beast Boy</char> hoists a stack of dirty plates onto the counter by the sink. Many others are already piled up there.</stagDir>)
 
 <char>Beast Boy</char>: Yo! Whose turn to do dishes?
-<char>Robin</char>: (from o.c.) <char>Cyborg</char>.
-(The green <char>Titan</char> cries out briefly in surprise like a monkey at this. <char>Robin</char> goes to the sink and starts to wash a plate. Dissolve to him on the couch in the operations center; he is now playing on the GameStation system and blasting enemy aircraft out of the sky. The screen is projected onto the windows.)
+<char>Robin</char>: <stagDir>(from o.c.)</stagDir> <char>Cyborg</char>.
+(<stagDir>The green <char>Titan</char> cries out briefly in surprise like a monkey at this. <char>Robin</char> goes to the sink and starts to wash a plate.</stagDir> <directNote kind="dissolve">Dissolve to him on the couch in the operations center; he is now playing on the GameStation system and blasting enemy aircraft out of the sky. The screen is projected onto the windows.</directNote>)
 
 <char>Robin</char>: Come on, come on...I’m not scared to take...no! Yeah! Got it! Just one more and...yes!
-(Close-up of the screen, which flashes red and blue and shows the message "<char>Cyborg</char>-1,000,000.")
+<stagDesc category="close-up">(Close-up of the screen, which flashes red and blue and shows the message "<char>Cyborg</char>-1,000,000.")</stagDesc>
 
 <char>Robin</char>: (from o.c.) New high score!
-(<char>Cyborg</char>’s name is smashed away by <char>Robin</char>’s, and the score changes to 5,000,000. However, the <char>Titan</char> who set it is no longer elated by his achievement. Cut to the hall; he approaches the door of <char>Cyborg</char>’s room. It opens to show the interior, and the camera starts to swivel slowly around. Bookcase with pictures and a baseball on top, computer desk with a football by the monitor, trophy case in one rear corner, and areas for self-repair and diagnostics. A large inclined table with a footstop at its lower end is in the other rear corner-what the missing <char>Titan</char> uses for a bed.)
+(<char>Cyborg</char>’s name is smashed away by <char>Robin</char>’s, and the score changes to 5,000,000. However, the <char>Titan</char> who set it is no longer elated by his achievement. <directNote kind="cut">Cut to the hall; he approaches the door of <char>Cyborg</char>’s room.</directNote> It opens to show the interior, and <directNote kind="pan">the camera starts to swivel slowly around</directNote>. <stagDesc category="setting">Bookcase with pictures and a baseball on top, computer desk with a football by the monitor, trophy case in one rear corner, and areas for self-repair and diagnostics. A large inclined table with a footstop at its lower end is in the other rear corner-what the missing <char>Titan</char> uses for a bed.</stagDesc>)
 
-(The camera comes full circle to <char>Robin</char>, who has taken a picture from the dresser and is looking at it. Close-up: it is of the pair, laughing and having a grand time. Pull back into the room.)
+(<directNote kind="pan">The camera comes full circle to <char>Robin</char>, who has taken a picture from the dresser and is looking at it.</directNote> <stagDesc category="close-up">Close-up: it is of the pair, laughing and having a grand time.</stagDesc> <directNote kind="pull">Pull back into the room.</directNote>)
 
-<char>Robin</char>: (softly) I’m sorry.
-(An alarm shatters the silence. Cut to <char>Starfire</char>, <char>Beast Boy</char>, and <char>Raven</char> in the operations center, looking ahead at something o.c. with surprise. Cut to it: a map of Jump City projected on the window/screen, with a large flashing dot that slowly moves along. <char>Robin</char> runs in.)
+<char>Robin</char>: <stagDir>(softly)</stagDir> I’m sorry.
+(An alarm shatters the silence. <directNote kind="cut">Cut to <char>Starfire</char>, <char>Beast Boy</char>, and <char>Raven</char> in the operations center, looking ahead at something o.c. with surprise.</directNote> <directNote kind="cut">Cut to it: a map of Jump City projected on the window/screen, with a large flashing dot that slowly moves along.</directNote> <stagDir><char>Robin</char> runs in.</stagDir>)
 
 <char>Robin</char>: <char>Cinderbloc</char>k strikes again?
 <char>Beast Boy</char>: You wish.
-(Dissolve to a long shot of a chemical factory; it is now nighttime. Inside, jets of colored solutions shoot down from overhead nozzles and flow together in a pipeline that snakes across the factory floor. The mixture emerges from its other end and falls into a waiting barrel; pan from here to <char>Plasmus</char> at the free end of the conveyor on which it and others are resting. As the belt starts to move, he picks up each arriving barrel and guzzles it, growing a few feet taller after each of the first two. The third is hit with a starbolt before he can finish it; the remaining chemicals spill out the broken end, and he lifts the barrel to his eye to peer through it.)
+(<directNote kind="dissolve">Dissolve to a long shot of a chemical factory; it is now nighttime.</directNote> <stagDesc category="setting">Inside, jets of colored solutions shoot down from overhead nozzles and flow together in a pipeline that snakes across the factory floor. The mixture emerges from its other end and falls into a waiting barrel</stagDesc>; <directNote kind="pan">pan from here to <char>Plasmus</char> at the free end of the conveyor on which it and others are resting.</directNote> <stagDir>As the belt starts to move, he picks up each arriving barrel and guzzles it, growing a few feet taller after each of the first two. The third is hit with a starbolt before he can finish it; the remaining chemicals spill out the broken end, and he lifts the barrel to his eye to peer through it.</stagDir>)
 
-(His perspective, swiveling across the area. The four <char>Titans</char> are waiting for him.)
-
+<stagDir>(His perspective, swiveling across the area. The four <char>Titans</char> are waiting for him.)
+</stagDir>
 <char>Robin</char>: That stuff can’t be good for you.
-(Back to <char>Plasmus</char>, who throws the barrel aside and belches.)
+<stagDir>(Back to <char>Plasmus</char>, who throws the barrel aside and belches.)</stagDir>
 
 <char>Beast Boy</char>: Nice one!
-(He roars and shoots gobbets of sludge from his body toward the heroes, who scatter to avoid being hit. <char>Robin</char> jumps and flips like mad, just barely staying ahead of the barrage, and lands on a crate near a mixing tank.)
+<stagDir>(He roars and shoots gobbets of sludge from his body toward the heroes, who scatter to avoid being hit. <char>Robin</char> jumps and flips like mad, just barely staying ahead of the barrage, and lands on a crate near a mixing tank.)</stagDir>
 
 <char>Robin</char>: <char>Star</char>! Let him have it!
-(She obliges with a starbolt that blows a hole clear through the creature’s chest.)
-
-<char>Starfire</char>: (gasping) Did I let him have too much? (He sucks in a huge breath; the hole fills in.)
+<stagDir>(She obliges with a starbolt that blows a hole clear through the creature’s chest.)</stagDir>
+<char>Starfire</char>: <stagDir>(gasping)</stagDir> Did I let him have too much? <stagDir>(He sucks in a huge breath; the hole fills in.)</stagDir>
 <char>Beast Boy</char>: I’m thinking not enough.
-(Its hand balled into a fist, one gooey arm extends itself toward <char>Starfire</char>, who shrieks as <char>Raven</char> plows her out of the way.)
+<stagDir>(Its hand balled into a fist, one gooey arm extends itself toward <char>Starfire</char>, who shrieks as <char>Raven</char> plows her out of the way.)</stagDir>
 
-<char>Robin</char>: (pulling a disc from his belt) Maybe he just needs to chill.
-(He scales the projectile at <char>Plasmus</char>; it freezes the long arm solid upon impact. The owner of said arm looks at it in surprise, then shatters it against an overhead pipe. <char>Robin</char> jumps for cover, while Beast Boy turns into a pterodactyl and lifts off. <char>Starfire</char> blazes away from above, driving <char>Plasmus</char> back a bit, and <char>Beast Boy</char> executes several punching strikes with his talons. The foe blocks these and retaliates by lashing out with many thick tentacles from the stump of his missing arm.)
-
-[Animation goof: He is seen to have two arms while backing up from her barrage.]
-
-(Both <char>Titans</char> cut and run to stay out of the mess. <char>Starfire</char> throws shots every which way to fend off the attack as <char>Beast Boy</char> does a few evasive maneuvers. Now <char>Raven</char> rises into the air.)
+<char>Robin</char>: <stagDir>(pulling a disc from his belt)</stagDir> <oneLine>Maybe he just needs to chill.</oneLine>
+<stagDir>(He scales the projectile at <char>Plasmus</char>; it freezes the long arm solid upon impact. The owner of said arm looks at it in surprise, then shatters it against an overhead pipe. <char>Robin</char> jumps for cover, while Beast Boy turns into a <transform class="bird">pterodactyl</transform> and lifts off. <char>Starfire</char> blazes away from above, driving <char>Plasmus</char> back a bit, and <char>Beast Boy</char> executes several punching strikes with his talons. The foe blocks these and retaliates by lashing out with many thick tentacles from the stump of his missing arm.)
+</stagDir>
+<annot>[Animation goof: He is seen to have two arms while backing up from her barrage.]</annot>
+<stagDir>(Both <char>Titans</char> cut and run to stay out of the mess. <char>Starfire</char> throws shots every which way to fend off the attack as <char>Beast Boy</char> does a few evasive maneuvers. Now <char>Raven</char> rises into the air.)</stagDir>
 
 <char>Raven</char>: Azarath Metrion Zinthos!
-(She levitates several barrels and launches them at <char>Plasmus</char>; they strike him in the chest, end first, and stick there. His arm now regrown,he gathers his strength and sends them right back, forcing her to dive for cover. <char>Robin</char> leaps in for a flying kick only to get that leg stuck in the mire, followed by his other leg and one hand when he tries more blows. He struggles to get loose.)
+<stagDir>(She levitates several barrels and launches them at <char>Plasmus</char>; they strike him in the chest, end first, and stick there. His arm now regrown,he gathers his strength and sends them right back, forcing her to dive for cover. <char>Robin</char> leaps in for a flying kick only to get that leg stuck in the mire, followed by his other leg and one hand when he tries more blows. He struggles to get loose.)</stagDir>
 
 <char>Robin</char>: Come on! Let me go, you giant zit!
-(It only snarls and roars down at him before sending forth a huge jet of slime that carries him screaming along with it. The purple tide washes over <char>Beast Boy</char>-back to human form-as well. Dripping with it, <char>Robin</char> groans and gets up as <char>Starfire</char> rushes over.)
+<stagDir>(It only snarls and roars down at him before sending forth a huge jet of slime that carries him screaming along with it. The purple tide washes over <char>Beast Boy</char>-<transform class="human">back to human form</transform>-as well. Dripping with it, <char>Robin</char> groans and gets up as <char>Starfire</char> rushes over.)</stagDir>
 
 <char>Starfire</char>: <char>Robin</char>!
 <char>Robin</char>: I’m okay… sort of.
-(He spits out a wad or two. <char>Beast Boy</char>, meanwhile, has made it partway to his feet; his eyes are watering profusely.)
+<stagDir>(He spits out a wad or two. <char>Beast Boy</char>, meanwhile, has made it partway to his feet; his eyes are watering profusely.)</stagDir>
 
 <char>Beast Boy</char>: And I thought <char>Star</char>’s pudding tasted bad!
-(A fresh howl from <char>Plasmus</char>’ direction refocuses the attention of all four <char>Titans</char> in a hurry. Cut to a fuzzy image of him that flickers as the camera pulls back a bit to show this as a giant monitor, with two silhouettes standing before it. One of them-large, muscular, armored-is <char>Slade</char>; the other is a shorter individual.)
+    (A fresh howl from <char>Plasmus</char>’ direction refocuses the attention of all four <char>Titans</char> in a hurry. <directNote kind="cut">Cut to a fuzzy image of him that flickers as the camera pulls back a bit to show this as a giant monitor, with two silhouettes standing before it.</directNote> <charDesc ref="Slade">One of them-large, muscular, armored</charDesc>-is <char>Slade</char>; the other is <charDesc ref="unknown">a shorter individual</charDesc>.)
 
 <char>Slade</char>: Disappointing.
-(<char>Cinderblock</char>’s silhouette moves into the frame. Close-up of <char>Slade</char> and the shorter person-an elderly fellow, bald on top, in a white suit and tie and a black shirt.)
+(<char>Cinderblock</char>’s silhouette moves into the frame. <stagDesc category="close-up">Close-up of <char>Slade</char> and <charDesc ref="unknown">the shorter person-an elderly fellow, bald on top, in a white suit and tie and a black shirt.</charDesc></stagDesc>)
 
-<char>Slade</char>: With one <char>Titan</char> missing, this is almost too easy. (Extreme close-up of his eye.) I was expecting more of a challenge. <char>Cinderblock</char>.
-(Pull back. An overhead light shines down on him, enveloping the old man and part of <char>Cinderblock</char>. The latter can be seen holding some large piece of equipment.)
+<char>Slade</char>: With one <char>Titan</char> missing, this is almost too easy. <stagDesc category="close-up">(Extreme close-up of his eye.)</stagDesc> I was expecting more of a challenge. <char>Cinderblock</char>.
+(<directNote kind="pull">Pull back. An overhead light shines down on him, enveloping the old man and part of <char>Cinderblock</char>.</directNote> The latter can be seen holding some large piece of equipment.)
 
 <char>Slade</char>: Begin Phase Three.
-(An answering grunt, and <char>Cinderblock</char> stumps away. Fade to black.)
+(An answering grunt, and <char>Cinderblock</char> stumps away. <directNote kind="fade">Fade to black.</directNote>)
 
 <act n="3">Act 3</act>
-(Opening shot: an open area of the factory floor. A gush of <char>Plasmus</char>’ muck splatters down from above, and <char>Starfire</char> stands up within it and groans disgustedly.)
+(<stagDesc category="open-shot">Opening shot: an open area of the factory floor.</stagDesc> <stagDir>A gush of <char>Plasmus</char>’ muck splatters down from above, and <char>Starfire</char> stands up within it and groans disgustedly.)</stagDir>
 
-<char>Starfire</char>: I feel like the underside of a Zornian muck beetle. (<char>Raven</char> gets up next to her.)
-<char>Raven</char>: Tell me about it. (<char>Beast Boy</char> runs for his life as <char>Plasmus</char> pursues.)
+<char>Starfire</char>: I feel like the underside of a Zornian muck beetle. <stagDir>(<char>Raven</char> gets up next to her.)</stagDir>
+<char>Raven</char>: Tell me about it. <stagDir>(<char>Beast Boy</char> runs for his life as <char>Plasmus</char> pursues.)</stagDir>
 <char>Beast Boy</char>: Dude, I am not on the menu!
-(<char>Robin</char>’s birdarang sails into view trailing a long line behind it. This grappling hook flies around Plasmus’ legs to wrap them up; <char>Robin</char> is quick to arrive as well. He grabs the free end of the line and takes a few more turns around the giant.)
+<stagDir>(<char>Robin</char>’s birdarang sails into view trailing a long line behind it. This grappling hook flies around Plasmus’ legs to wrap them up; <char>Robin</char> is quick to arrive as well. He grabs the free end of the line and takes a few more turns around the giant.)</stagDir>
 
-<char>Robin</char>: Maybe the best way to take you down… (pulling mightily) …is to tie you up!
-(<char>Beast Boy</char>, now a <transform class="mammal">rhinoceros</transform>, charges and scores a direct hit that sends <char>Plasmus</char> toppling backward to fall among a group of support columns. Starfire bends one over to pin him, and <char>Raven</char> does likewise with others. He struggles against these bonds as the four inspect the handiwork; <char>Beast Boy</char> is back in human form.)
+<char>Robin</char>: Maybe the best way to take you down… <stagDir>(pulling mightily)</stagDir> …is to tie you up!
+<stagDir>(<char>Beast Boy</char>, now a <transform class="mammal">rhinoceros</transform>, charges and scores a direct hit that sends <char>Plasmus</char> toppling backward to fall among a group of support columns. Starfire bends one over to pin him, and <char>Raven</char> does likewise with others. He struggles against these bonds as the four inspect the handiwork; <char>Beast Boy</char> is back in <transform class="human">human form</transform>.)</stagDir>
 
 <char>Starfire</char>: We did it!
 <char>Robin</char>: Nice work, team.
 <char>Beast Boy</char>: Yeah. Didn’t think we’d pull it off without-
-(<char>Raven</char> angrily socks him in the shoulder to cut him off. He lets off a surprised little sheep-like bleat, then laughs and sweats nervously. <char>Robin</char> checks a locator device briefly before tucking it away in his belt.)
+<stagDir>(<char>Raven</char> angrily socks him in the shoulder to cut him off. He lets off a surprised little sheep-like bleat, then laughs and sweats nervously. <char>Robin</char> checks a locator device briefly before tucking it away in his belt.)</stagDir>
 
 <char>Robin</char>: We finished just in time. <char>Cinderblock</char>’s been spotted downtown. Come on!
-(The four <char>Titans</char> turn to leave, but a loud gurgling noise from <char>Plasmus</char>’ direction stops <char>Beast Boy</char>. He turns back.)
-
+<stagDir>(The four <char>Titans</char> turn to leave, but a loud gurgling noise from <char>Plasmus</char>’ direction stops <char>Beast Boy</char>. He turns back.)
+</stagDir>
 <char>Beast Boy</char>: Huh?
-(Cut to an overhead view of the trapped creature, panning slowly along his length, as he starts to ooze a bit under those girders. Back to a head-on view; his entire body flows together and free of the restraints, then shapes itself into a gigantic crab-like thing with one claw, an octopus-like appendage, and a snaky rear limb.)
+(<directNote kind="cut">Cut to an overhead view of the trapped creature, panning slowly along his length, as he starts to ooze a bit under those girders.</directNote> Back to a head-on view; <charDesc ref="Plasmus">his entire body flows together and free of the restraints, then shapes itself into a gigantic crab-like thing with one claw, an octopus-like appendage, and a snaky rear limb.</charDesc>)
 
 <char>Beast Boy</char>: Uh… heads up.
-(Now having formed a second crab claw, <char>Plasmus</char> rushes at the foursome; they burst out through a set of double doors. Cut to just outside as they make it through and slam the doors shut just in time, leaning against them with all their weight. <char>Plasmus</char>’ snarling and pounding can be heard through the metal.)
+(Now having formed a second crab claw, <char>Plasmus</char> rushes at the foursome; they burst out through a set of double doors. <directNote kind="cut">Cut to just outside as they make it through and slam the doors shut just in time, leaning against them with all their weight.</directNote> <char>Plasmus</char>’ snarling and pounding can be heard through the metal.)
 
 <char>Beast Boy</char>: Four against five. Not good odds.
-(He is referring to the claws/beetles, octopus, snake, and body together-five battering rams to employ against the doors.)
+<annot>(He is referring to the claws/beetles, octopus, snake, and body together-five battering rams to employ against the doors.)</annot>
 
 <char>Robin</char>: Forget the odds. We need a plan.
-(The doors tremble even more violently under <char>Plasmus</char>’ assault, and he finally forces them partway open and pushes a tendril out, then another. <char>Starfire</char> screams as the opening grows wider and the head appears.)
+<stagDir>(The doors tremble even more violently under <char>Plasmus</char>’ assault, and he finally forces them partway open and pushes a tendril out, then another. <char>Starfire</char> screams as the opening grows wider and the head appears.)</stagDir>
 
 <char>Robin</char>: Titans! Separate!
-(The doors are finally smashed open. <char>Robin</char>, <char>Starfire</char>, and <char>Beast Boy</char> go in three different directions among the machinery; the latter turns into a <transform class="mammal">cheetah</transform> as he runs. <char>Plasmus</char>’ snake, separated from the rest of the body, chases <char>Starfire</char>; she turns in midair and bombards it with starbolts, but it lunges and catches her to drag her from the air. <char>Beast Boy</char> sprints along the floor, with one of the crab claws in hot pursuit. It opens wide and lashes out a long tongue that snares him. He breaks loose by turning into a <transform class="mammal">gorilla</transform>, but is knocked off his feet by a flying tackle.)
+<stagDir>(The doors are finally smashed open. <char>Robin</char>, <char>Starfire</char>, and <char>Beast Boy</char> go in three different directions among the machinery; the latter turns into a <transform class="mammal">cheetah</transform> as he runs. <char>Plasmus</char>’ snake, separated from the rest of the body, chases <char>Starfire</char>; she turns in midair and bombards it with starbolts, but it lunges and catches her to drag her from the air. <char>Beast Boy</char> sprints along the floor, with one of the crab claws in hot pursuit. It opens wide and lashes out a long tongue that snares him. He breaks loose by turning into a <transform class="mammal">gorilla</transform>, but is knocked off his feet by a flying tackle.)</stagDir>
 
-(<char>Raven</char>, meanwhile, flies along as the octopus chases on the ground. She exerts her powers over all the machinery here, causing the bolts and screws to fall out, and the loosened vessels topple into the aisle one after another. The octopus swerves and slides to miss several of them, but is finally hit broadside. She looks back smugly only to find that it has recovered and placed itself directly in front of her; there is only time for one shocked gasp before it rears up to strike.)
+<stagDir>(<char>Raven</char>, meanwhile, flies along as the octopus chases on the ground. She exerts her powers over all the machinery here, causing the bolts and screws to fall out, and the loosened vessels topple into the aisle one after another. The octopus swerves and slides to miss several of them, but is finally hit broadside. She looks back smugly only to find that it has recovered and placed itself directly in front of her; there is only time for one shocked gasp before it rears up to strike.)</stagDir>
 
-(The only one left is <char>Robin</char>, who keeps going full steam among the other process equipment; the other crab claw is after him and not letting up. He reaches a set of double doors, and the screen snaps to black-the darkened area on the other side, which is illuminated as he hurls himself through and into space. Lurid green light rises from the direction of the floor. Something breaks his fall, and he finds himself carried along in midair as he rubs his head; pull back to show him standing on a moving conveyor belt above several large vats of glowing chemicals.)
+<stagDir>(The only one left is <char>Robin</char>, who keeps going full steam among the other process equipment; the other crab claw is after him and not letting up. He reaches a set of double doors, and <directNote kind="snap">the screen snaps to black-the darkened area on the other side, which is illuminated as he hurls himself through and into space</directNote>. Lurid green light rises from the direction of the floor. Something breaks his fall, and he finds himself carried along in midair as he rubs his head; <directNote kind="pull">pull back to show him standing on a moving conveyor belt above several large vats of glowing chemicals.</directNote>)</stagDir>
 
-(The crab claw lands behind him and pulls back to strike. <char>Robin</char> has his staff out in a snap and delivers several blows that merely splatter through the purple goo. The end is caught and broken off, but he simply extends the other end to make up for the lost length and swings again. This time, his weapon is not only blocked but dashed from his hands to go spiraling over the vats. Going into classic kung fu mode, he backs up a few steps and lunges for a high kick.)
+<stagDir>(The crab claw lands behind him and pulls back to strike. <char>Robin</char> has his staff out in a snap and delivers several blows that merely splatter through the purple goo. The end is caught and broken off, but he simply extends the other end to make up for the lost length and swings again. This time, his weapon is not only blocked but dashed from his hands to go spiraling over the vats. Going into classic kung fu mode, he backs up a few steps and lunges for a high kick.)</stagDir>
 
-(Cut to <char>Starfire</char>, still held fast by <char>Plasmus</char>’ snake portion. As she struggles, it wraps a coil around her head and squeezes itself together into a large ball. She bursts out of it after a moment and sees the main body perched on top of an equipment cabinet, lying in wait. <char>Beast Boy</char>-back in human form-and <char>Raven</char> are carried into view, still held by their respective captor body parts, and the snake reforms at the feet of one very frightened Tamaranean teenager. She recoils at its strike.)
+<stagDir>(<directNote kind="cut">Cut to <char>Starfire</char>, still held fast by <char>Plasmus</char>’ snake portion.</directNote> As she struggles, it wraps a coil around her head and squeezes itself together into a large ball. She bursts out of it after a moment and sees the main body perched on top of an equipment cabinet, lying in wait. <char>Beast Boy</char>-<transform class="human">back in human form</transform>-and <char>Raven</char> are carried into view, still held by their respective captor body parts, and the snake reforms at the feet of one very frightened Tamaranean teenager. She recoils at its strike.)</stagDir>
 
-(Back to the conveyor. <char>Robin</char> steadily backs up before the opponent’s advance, and it soon throws itself on top of him to pin him to the belt’s surface. The <char>Boy Wonder</char> struggles mightily as both are swept toward the free end, which hangs over a bubbling vat. He goes partway over, then smiles wickedly and flips the claw backward off the precipice; however; he miscalculates and has to grab the corner of the belt to keep from going down with it. Close-up of this: the housing starts to pull loose, and a camera shift reveals why-the claw has seized one boot and is pulling with all its strength. <char>Robin</char> strains with all the power he can put into his one-handed grip, but the conveyor has had all it can take. His fingers slide away from the ripping material to leave him plummeting toward the last bath he will ever take.)
+<stagDir>(Back to the conveyor. <char>Robin</char> steadily backs up before the opponent’s advance, and it soon throws itself on top of him to pin him to the belt’s surface. The <char>Boy Wonder</char> struggles mightily as both are swept toward the free end, which hangs over a bubbling vat. He goes partway over, then smiles wickedly and flips the claw backward off the precipice; however; he miscalculates and has to grab the corner of the belt to keep from going down with it. <stagDesc category="close-up">Close-up of this: the housing starts to pull loose, and a camera shift reveals why-the claw has seized one boot and is pulling with all its strength.</stagDesc> <char>Robin</char> strains with all the power he can put into his one-handed grip, but the conveyor has had all it can take. <annot>His fingers slide away from the ripping material to leave him plummeting toward the last bath he will ever take.</annot>)</stagDir>
 
-(Out of nowhere, a familiar bionic arm shoots into view and grabs his wrist. The camera turns down from him to the surface of the vat, where the sludgy apparition is dissolving harmlessly after having fallen in. On the conveyor, <char>Robin</char> has been hoisted up by <char>Cyborg</char>, who stands behind him, and tries desperately to catch his breath.)
+<stagDir>(Out of nowhere, <charDesc ref="Cyborg">a familiar bionic arm</charDesc> shoots into view and grabs his wrist. <directNote>The camera turns down from him to the surface of the vat, where the sludgy apparition is dissolving harmlessly after having fallen in.</directNote> On the conveyor, <char>Robin</char> has been hoisted up by <char>Cyborg</char>, who stands behind him, and tries desperately to catch his breath.)</stagDir>
 
-<char>Cyborg</char>: (smiling) I still got the Sonic if you still got the Boom.
-(<char>Robin</char> returns the smile-the feud between the two has ended in a twinkling. On the factory floor, <char>Plasmus</char>’ other four body parts have reassembled themselves and the other three are nowhere to be seen. He laughs nastily, but stops short when Robin and Cyborg square off against him.)
-
+<char>Cyborg</char>: <stagDir>(smiling)</stagDir> I still got the Sonic if you still got the Boom.
+<stagDir>(<char>Robin</char> returns the smile-the feud between the two has ended in a twinkling. On the factory floor, <char>Plasmus</char>’ other four body parts have reassembled themselves and the other three are nowhere to be seen. He laughs nastily, but stops short when Robin and Cyborg square off against him.)</stagDir>
 <char>Robin</char>, <char>Cyborg</char>: Teen Titans! Go!
-(They go into the same sequence of moves they used while trying to pull off the Sonic Boom attack against <char>Cinderblock</char> inside the prison. This time, however, they do not get tangled up in midair, and <char>Robin</char> hurls an explosive disc while <char>Cyborg</char> fires his cannon. The combined effect of the two weapons is enough to blow <char>Plasmus</char> apart into small puddles of gunk; when the screen clears, we see <char>385901</char> dozing among the slop and snoring fitfully.)
+<stagDir>(They go into the same sequence of moves they used while trying to pull off the Sonic Boom attack against <char>Cinderblock</char> inside the prison. This time, however, they do not get tangled up in midair, and <char>Robin</char> hurls an explosive disc while <char>Cyborg</char> fires his cannon. The combined effect of the two weapons is enough to blow <char>Plasmus</char> apart into small puddles of gunk; <stagDesc>when the screen clears, we see <char>385901</char> dozing among the slop and snoring fitfully</stagDesc>.)</stagDir>
 
-(Cut to <char>Beast Boy</char> and <char>Raven</char>, who sit up out of the remains of their captors, and pan to <char>Starfire</char>, who has already done likewise-they had been engulfed by the slime. <char>Robin</char> and <char>Cyborg</char> look down at the frail man who has just inflicted so much damage on the factory. Dissolve to them outside, watching as he is loaded onto a truck for the return trip to prison; he is contained in a new tank.)
+(<directNote kind="cut">Cut to <char>Beast Boy</char> and <char>Raven</char>, who sit up out of the remains of their captors</directNote>, and <directNote kind="pan">pan to <char>Starfire</char>, who has already done likewise-they had been engulfed by the slime</directNote>. <char>Robin</char> and <char>Cyborg</char> look down at <charDesc ref="385901">the frail man</charDesc> who has just inflicted so much damage on the factory. <directNote kind="dissolve">Dissolve to them outside, watching as he is loaded onto a truck for the return trip to prison; he is contained in a new tank.</directNote>)
 
 <char>Robin</char>: Look, uh… sorry about…
 <char>Cyborg</char>: Yeah.
 <char>Robin</char>: So… are we cool?
-<char>Cyborg</char>: (smiling, holding out a fist) Frosty.
-(<char>Robin</char> smiles back as they tap fists. Pan to the other three <char>Titans</char> in the background.)
+<char>Cyborg</char>: (<stagDir>smiling, holding out a fist</stagDir>) Frosty.
+(<char>Robin</char> smiles back as they tap fists. <directNote kind="pan">Pan to the other three <char>Titans</char> in the background.</directNote>)
 
 <char>Starfire</char>: You made up! Glorious! I wish to initiate a group hug.
 <char>Raven</char>: Pass.
 <char>Beast Boy</char>: Yeah, yeah, yeah, warm fuzzies all around. But we still gotta stop <char>Cinderblock</char>.
-<char>Cyborg</char>: (from o.c.) No, we don’t. (Back to him and <char>Robin</char>.) Thought I’d bring a present, ‘case you were still mad.
-(He gestures behind himself, and in response <char>Cinderblock</char> is hoisted up on a winch-with the equipment he had been carrying in <char>Slade</char>’s lair wrapped around his body to bind him. The stone villain grumbles angrily.)
+<char>Cyborg</char>: <stagDir>(from o.c.)</stagDir> No, we don’t. <stagDir>(Back to him and <char>Robin</char>.)</stagDir> Thought I’d bring a present, ‘case you were still mad.
+<stagDir>(He gestures behind himself, and in response <char>Cinderblock</char> is hoisted up on a winch-with the equipment he had been carrying in <char>Slade</char>’s lair wrapped around his body to bind him. <charDesc ref="Cinderblock">The stone villain</charDesc> grumbles angrily.)</stagDir>
 
 <char>Robin</char>: Thanks. But there is one thing that’s still bothering me.
-(<char>Raven</char>, <char>Beast Boy</char>, and <char>Starfire</char> first react with surprise, then go wide-eyed in disbelief that anything could be bothering their leader at this point, given the events of the past few hours. Zoom in slowly on him.)
+<stagDir>(<char>Raven</char>, <char>Beast Boy</char>, and <char>Starfire</char> first react with surprise, then go wide-eyed in disbelief that anything could be bothering their leader at this point, given the events of the past few hours. <directNote kind="zoom">Zoom in slowly on him.</directNote>)</stagDir>
 
 <char>Robin</char>: Breaking into jail? Using <char>Plasmus</char> to distract us? The whole plan seems to be a little too smart for <char>Cinderblock</char>.
 Cyborg: I’ve been thinking the same thing.
-(The other three are relieved; <char>Beast Boy</char> and <char>Starfire</char> sigh visibly.)
+<stagDir>(The other three are relieved; <char>Beast Boy</char> and <char>Starfire</char> sigh visibly.)</stagDir>
 
 <char>Robin</char>: Someone must have been pulling the strings. But who?
 <char>Cyborg</char>: Well, whoever they are-
-(Letterbox, top half of screen: the <char>Titans</char> are silhouetted against the evening sky, with a full moon behind them.)
+<stagDesc category="letterbox">(Letterbox, top half of screen: the <char>Titans</char> are silhouetted against the evening sky, with a full moon behind them.)</stagDesc>
 
 <char>Cyborg</char>: -they’re no match for the Teen Titans. (He and <char>Robin</char> trade a high five.)
 <char>Robin</char>: I heard that!
-(Fullscreen: dissolve to a close-up of a teacup and saucer on a table or ledge. A fist is slammed down, breaking them, after which a pair of white-gloved hands reaches down with a small broom and dustpan to sweep up the pieces. Pull back; it is the elderly man previously seen with <char>Slade</char>-a butler. He has a fresh cup, which he sets on the arm of his employer’s chair. <char>Slade</char> is once again seated and lit as before. Despite having just lashed out, his voice retains its control.)
+<stagDir>(<stagDesc category="fullscreen">Fullscreen:<directNote kind="dissolve"> dissolve to a close-up of a teacup and saucer on a table or ledge</directNote>. A fist is slammed down, breaking them, after which <charDesc ref="butler">a pair of white-gloved hands reaches down with a small broom and dustpan to sweep up the pieces</charDesc>.</stagDesc> <directNote kind="pull">Pull back; it is the elderly man previously seen with <char>Slade</char>-a butler.</directNote> He has a fresh cup, which he sets on the arm of his employer’s chair. <char>Slade</char> is once again seated and lit as before. Despite having just lashed out, his voice retains its control.)</stagDir>
 
-<char>Slade</char>: Next time my plans will succeed. (Extreme close-up of his eye; zoom in as it narrows.) And the <char>Titans</char> will pay.
-(Fade to black.)
+<char>Slade</char>: Next time my plans will succeed. <stagDesc category="close-up">(Extreme close-up of his eye; zoom in as it narrows.)</stagDesc> And the <char>Titans</char> will pay.
+<directNote kind="fade">(Fade to black.)</directNote>
 
 End
 Character List
