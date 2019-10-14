@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="teenTitan.rnc" type="application/relax-ng-compact-syntax"?>
 <transcript n="4">
     <head><episode>FORCES OF NATURE</episode>
 
-    Written by <writer>Adam Beechen</writer>
+    <writer>Adam Beechen</writer>
     
-    Directed by <director>Ciro Nieli</director>
+    <director>Ciro Nieli</director>
     
-    Storyboard by <storyboard>Mark Howard, Ben Jones, Kalvin Lee, Rafael Rosado, Alan Wan</storyboard>
+    <storyboard>Mark Howard, Ben Jones, Kalvin Lee, Rafael Rosado, Alan Wan</storyboard>
     
-    Animation services by <animation>Dong Woo Animation Company, Ltd.</animation></head>
-<act n="0">Prologue</act>
+    <animation>Dong Woo Animation Company, Ltd.</animation></head>
+<body><act n="0">Prologue</act>
 (Opening shot: a night sky filled with dark thunderhead clouds. Flashes of lightning illuminate their contours. A bulky silhouette stands up among them and begins to swing a pair of sticks against the clouds; every time it brings them down, there is another strike and accompanying thunderclap. Dissolve to another patch of the sky, where even more lightning crackles back and forth. A second silhouette, this one much thinner and with spiky upswetpt hair, stands up and directs its hands here and there. There is a new flare-up every time it does so.)
 
 (When the last one clears, the camera has moved to a point near the underside of the clouds as the flashes continue from within. There is a huge strike, and the camera pulls back to put Titans Tower in view. Inside, in the hall, <char>Beast Boy</char> has become a <transform class="mammal">buffalo</transform> and is straining mightily at a rubber band looped over his horns, trying to catch it on a nearby hook. He succeeds and ducks away, coming up in human form with a mischievous smile on his face. Now he produces a large, filled water balloon that sloshes a bit in his hands, and he lets off a wicked little chuckle.) 
@@ -85,7 +86,7 @@
 
 (Pan from them to <char>Beast Boy</char>, who gives a sheepish grin-accompanied by a sheep's bleating.)
 
-<char>Beast Boy</char>: <char ref="Starfire">Star</char>! It was... (Cut to her; he continues o.c.) ...you weren't supposed to...
+<char>Beast Boy</char>: <char>Star</char>! It was... (Cut to her; he continues o.c.) ...you weren't supposed to...
 
 (Back to him on the end of this. He starts to say something else, but when the camera cuts to <char>Cyborg</char> and <char>Raven</char>, their disapproving stares stop him in his tracks for a moment.)
 
@@ -97,7 +98,7 @@
 
 (Sight gag: her head grows in stages until it is many times normal size, and he shrinks a few notches before it. The oil disappears from her face on the last two words. From here, cut to a close-up of <char>Cyborg</char>, very worried. The sight gag has now ended.) <char>Beast Boy</char>: (from o.c.) I'm a what-bag? (Tilt down to him, in front of <char>Cyborg</char>.)
 
-<char>Cyborg</char>: You heard the <char ref="Starfire">lady</char>.
+<char>Cyborg</char>: You heard the <char>lady</char>.
 
 <char>Raven</char>: (shaking head) You are such a clorbag.
 
@@ -117,23 +118,23 @@ OPENING THEME
 
 (As the smoke starts to clear, the two silhouettes seen among the clouds become visible within it. The last wisps evaporate to give a fully detailed view of both; they wear outfits that look like something like samurai armor, but without the upper body protection. The bulky one has blue skin and black clothing trimmed with blue, and he also wears a samurai-style helmet. A thundercloud is emblazoned on his chest, and he has long black sideburns. His thin cohort, on the other hand, has light yellow skin and hair, and his outfit is red and yellow, with a lightning bolt on the chest. A headband keeps his hair out of the way and has a guard plate stretching down on either side to cover his cheeks. Both wear armbands and wrist/shin guards. We have just met Thunder and Lightning.)
 
-(The two new arrivals look at each other and smile; close-up of Thunder.) <char>Thunder</char>: May we have fun here, <char ref="Lightning">brother</char>? (Pan to <char>Lightning</char>.)
+(The two new arrivals look at each other and smile; close-up of Thunder.) <char>Thunder</char>: May we have fun here, <char>brother</char>? (Pan to <char>Lightning</char>.)
 
 <char>Lightning</char>: Of course! (creating a bolt between his hands) We are <char>Thunder</char> and <char>Lightning</char>. We may do whatever we please!
 
 (He throws the bolt upward. Cut to one of the bridge's columns, where the suspension cables are connected, seen from roadway level. It is struck, and sparks fly everywhere.)
 
-<char>Lightning</char>: (from o.c.) Look, <char ref="Thunder">brother</char>! I command the sparks to dance!
+<char>Lightning</char>: (from o.c.) Look, <char>brother</char>! I command the sparks to dance!
 
 (He laughs as the strike dies out and the camera tilts down to them; the flickering remains fall all around in a shower.)
 
 <char>Thunder</char>: Amusing. Now listen as I make music!
 
-(He claps his hands, creating an intense shock wave, and the camera pulls back a distance to show it radiating outward. The bridge cables are jarred loose and begin to whipsaw back and forth. Cut to the semi, which gets a smoking lightning bolt traced into its side. Pan to the <char ref="Lightning,Thunder">pair</char> on the next line.) <char>Lightning</char>: Let all who pass this way know-<char>Lightning</char> was here!
+(He claps his hands, creating an intense shock wave, and the camera pulls back a distance to show it radiating outward. The bridge cables are jarred loose and begin to whipsaw back and forth. Cut to the semi, which gets a smoking lightning bolt traced into its side. Pan to the <char>pair</char> on the next line.) <char>Lightning</char>: Let all who pass this way know-<char>Lightning</char> was here!
 
 <char>Thunder</char>: And <char>Thunder</char> too!
 
-(He bangs his fists together, knuckle to knuckle, and creates an earthquake that sets the stopped cars and their drivers trembling; all the alarm systems are set off in the process. The <char ref="Lightning,Thunder">brothers</char> laugh, and <char>Thunder</char> pats <char>Lightning</char>'s shoulder.) <char>Lightning</char>: Most amusing.
+(He bangs his fists together, knuckle to knuckle, and creates an earthquake that sets the stopped cars and their drivers trembling; all the alarm systems are set off in the process. The <char>brothers</char> laugh, and <char>Thunder</char> pats <char>Lightning</char>'s shoulder.) <char>Lightning</char>: Most amusing.
 
 <char>Robin</char>: (from o.c.) Hate to break it to you...
 
@@ -145,7 +146,7 @@ OPENING THEME
 
 (He throws a bolt at the truck and just misses the <char>Titans</char>, who scramble in five different directions. The trailer gets a big hole blown through it, wiping out his graffiti. <char>Starfire</char> does a U-turn and swoops down on him with starbolts blazing; he jumps onto a line of stopped cars, she does likewise, and they run on these parallel tracks and trade shots. The firefight continues for several dozen yards until he gets in a lucky hit that knocks her down.)
 
-(His <char ref="Thunder">brother</char>, meanwhile, is mixing it up with <char>Cyborg</char>. They block or dodge a few of each other's punches and start to grapple. Close-up of <char>Thunder</char>'s left fist, which he pulls back and readies for a powerful strike, then of <char>Cyborg</char>'s right as he reconfigures it into the sonic cannon. Pull back to frame both; the fists swing and connect with each other, and the camera pulls back farther as the resulting shock wave throws them far down the bridge in opposite directions. <char>Cyborg</char> lands on his back, but <char>Thunder</char> brings a small cloud to himself and hops onto it to float upward.)
+(His <char>brother</char>, meanwhile, is mixing it up with <char>Cyborg</char>. They block or dodge a few of each other's punches and start to grapple. Close-up of <char>Thunder</char>'s left fist, which he pulls back and readies for a powerful strike, then of <char>Cyborg</char>'s right as he reconfigures it into the sonic cannon. Pull back to frame both; the fists swing and connect with each other, and the camera pulls back farther as the resulting shock wave throws them far down the bridge in opposite directions. <char>Cyborg</char> lands on his back, but <char>Thunder</char> brings a small cloud to himself and hops onto it to float upward.)
 
 (<char>Robin</char> finds the big blue hooligan bearing down on him and has to dodge a thunderclap. He leaps onto a guardrail, but another blast destroys that section and he has to move down a bit. The next attack breaks a support cable; he grabs the swinging free end and is carried away an instant before <char>Thunder</char> obliterates that section of the rail. <char>Robin</char> is carried high into the air before the cable starts to descend. He times his next move carefully and hurls himself over <char>Thunder</char>, avoiding a punch and grabbing the foe's shoulders to throw him across the pavement.)
 
@@ -153,7 +154,7 @@ OPENING THEME
 
 <char>Lightning</char>: Ha!
 
-(Midair; <char>Raven</char> dodges the shot and launches herself downward for a flying kick. The yellow <char ref="Lightning">brother</char> throws up his arms to block and is driven backward by her flurry of attacks. Finally he gets clear and socks her with a bolt that sends her flying. No sooner is she down, though, than <char>Beast Boy</char>-as a <transform class="mammal">giant panda</transform>-lumbers up behind and catches him in a bear hug. <char>Lightning</char> struggles for a moment, then electrifies his entire body and gives the shape-shifting <char ref="Beast_Boy">Titan</char> a few hundred thousand volts. The shock forces him back into human form and causes him to let go.)
+(Midair; <char>Raven</char> dodges the shot and launches herself downward for a flying kick. The yellow <char>brother</char> throws up his arms to block and is driven backward by her flurry of attacks. Finally he gets clear and socks her with a bolt that sends her flying. No sooner is she down, though, than <char>Beast Boy</char>-as a <transform class="mammal">giant panda</transform>-lumbers up behind and catches him in a bear hug. <char>Lightning</char> struggles for a moment, then electrifies his entire body and gives the shape-shifting <char>Titan</char> a few hundred thousand volts. The shock forces him back into human form and causes him to let go.)
 
 <char>Lightning</char>: (laughing) Your powers are strong, but mine are stronger!
 
@@ -174,13 +175,13 @@ OPENING THEME
 
 <char>Beast Boy</char>: This isn't funny! It's wrong!
 
-(An attack of conscience makes <char>Thunder</char> relax his power. Before <char>Beast Boy</char> can say anything more, though, a lightning bolt blasts him away and its shooter jumps down next to his <char ref="Lightning">brother</char>.)
+(An attack of conscience makes <char>Thunder</char> relax his power. Before <char>Beast Boy</char> can say anything more, though, a lightning bolt blasts him away and its shooter jumps down next to his <char>brother</char>.)
 
 <char>Lightning</char>: Ah, the thrill of victory. (putting arm around <char>Thunder</char>'s shoulders) Come, <char>Thunder</char>. We shall seek more amusement.
 
-(They take to the air. Pan to a pile of rubble, from which the blasted <char ref="Beast_Boy">Titan</char> sits up-dazed, smoking, disheveled, drooling a bit. He shakes his head to clear it and finds <char>Starfire</char> floating into view behind him. She is clutching her forearm.)
+(They take to the air. Pan to a pile of rubble, from which the blasted <char>Titan</char> sits up-dazed, smoking, disheveled, drooling a bit. He shakes his head to clear it and finds <char>Starfire</char> floating into view behind him. She is clutching her forearm.)
 
-<char>Beast Boy</char>: Well, that was a shock. (She turns up her nose and floats on.) <char>Starfire</char>: Hmph! <char>Beast Boy</char>: So...I'm guessing you're still mad? (Cut to the other three, <char>Cyborg</char> helps <char>Raven</char> to her feet.) <char>Robin</char>: Okay, <char>team</char>. (<char>Starfire</char> arrives, then <char>Beast Boy</char>.) We have to find those guys before they do any more damage. <char>Cyborg</char>, search the west side. <char>Raven</char>, the east. I'll take downtown. <char>Beast Boy</char>, you and <char ref="Starfire">Star</char> scan from the skies.
+<char>Beast Boy</char>: Well, that was a shock. (She turns up her nose and floats on.) <char>Starfire</char>: Hmph! <char>Beast Boy</char>: So...I'm guessing you're still mad? (Cut to the other three, <char>Cyborg</char> helps <char>Raven</char> to her feet.) <char>Robin</char>: Okay, <char>team</char>. (<char>Starfire</char> arrives, then <char>Beast Boy</char>.) We have to find those guys before they do any more damage. <char>Cyborg</char>, search the west side. <char>Raven</char>, the east. I'll take downtown. <char>Beast Boy</char>, you and <char>Star</char> scan from the skies.
 
 (<char>Beast Boy</char> looks uneasily up at the partner who has just been assigned to him. She has turned her back and crossed her arms.)
 
@@ -190,25 +191,25 @@ OPENING THEME
 
 <char>Cyborg</char>: (pinching his cheek; a big drop of sweat rolls down) Have a nice flight, my little clorbag.
 
-(Dissolve to the open courtyard in front of the museum. On either side of a central open area is a row of vertical concrete slabs; a large metal globe is mounted at the end nearest the building. A couple of <char>fellows</char> make their way across the screen on foot and bicycle before there is a mighty blast of lightning. The troublemaking <char ref="Lightning,Thunder">brothers</char> appear, scaring the <char>men</char> away.)
+(Dissolve to the open courtyard in front of the museum. On either side of a central open area is a row of vertical concrete slabs; a large metal globe is mounted at the end nearest the building. A couple of <char>fellows</char> make their way across the screen on foot and bicycle before there is a mighty blast of lightning. The troublemaking <char>brothers</char> appear, scaring the <char>men</char> away.)
 
 <char>Lightning</char>: Magnificent! (warming up) We can make much mischief here!
 
 (He strikes the globe, which rolls away from its post toward one row of slabs. It bangs into the end one, which topples over into the next, and so on like a row of falling dominoes. Long shot of <char>Thunder</char>, whose expression changes to one of trepidation as the last slab comes down.)
 
-<char>Lightning</char>: (walking into view) <char ref="Thunder">Brother</char>! Did you see what I...something troubles you?
+<char>Lightning</char>: (walking into view) <char>Brother</char>! Did you see what I...something troubles you?
 
 <char>Thunder</char>: The green one's words. He says our fun is...wrong.
 
-<char>Lightning</char>: (laughing) Wrong? (arm across <char>Thunder</char>'s shoulders) He speaks nonsense, <char ref="Thunder">brother</char>! How could such amusement be wrong? The fun is only beginning.
+<char>Lightning</char>: (laughing) Wrong? (arm across <char>Thunder</char>'s shoulders) He speaks nonsense, <char>brother</char>! How could such amusement be wrong? The fun is only beginning.
 
-(He leads his <char ref="Thunder">brother</char> away. Dissolve to <char>Starfire</char> in flight, looking intently down toward the o.c. Jump City; <char>Beast Boy</char>, as a <transform class="bird">hawk</transform>, glides next to her. Their perspective, passing the damaged courtyard of the museum, then cut to ground level as they land. <char>Beast Boy</char> returns to human form, and they begin to inspect the smashed slabs.)
+(He leads his <char>brother</char> away. Dissolve to <char>Starfire</char> in flight, looking intently down toward the o.c. Jump City; <char>Beast Boy</char>, as a <transform class="bird">hawk</transform>, glides next to her. Their perspective, passing the damaged courtyard of the museum, then cut to ground level as they land. <char>Beast Boy</char> returns to human form, and they begin to inspect the smashed slabs.)
 
 <char>Beast Boy</char>: Well, either they were just here, or this is the ugliest modern art I've ever seen.
 
 <char>Starfire</char>: You are not funny. You are a clorbag varblernelk. (She walks o.c.; he follows.)
 
-<char>Beast Boy</char>: Come on, <char ref="Starfire">Star</char>. (Cut to them; he catches up.) You can't stay mad forever. What? Do I have to do the face? (smiling) You know you can't resist the face.
+<char>Beast Boy</char>: Come on, <char>Star</char>. (Cut to them; he catches up.) You can't stay mad forever. What? Do I have to do the face? (smiling) You know you can't resist the face.
 
 (Except for a glance out of the corner of her eye, she has not looked his way throughout all of this. In no time flat, he has transformed into a small kitten with huge, shining eyes. He meows as endearingly as he can; she looks down at him for a long moment.)
 
@@ -220,11 +221,11 @@ OPENING THEME
 
 (She has now reached the point where the globe was anchored. Smoke rises from the stump. <char>Beast Boy</char> runs up again.)
 
-<char>Beast Boy</char>: Just talk to me, <char ref="Starfire">Star</char>! (kneeling) Come on, this is no fun!
+<char>Beast Boy</char>: Just talk to me, <char>Star</char>! (kneeling) Come on, this is no fun!
 
 <char>Lightning</char>: (from o.c.) Wrong again, green one!
 
-(Cut to the stormy sky. Laughing, <char>Thunder</char> floats into view on his cloud and throws a beam downward. He is joined by an equally jubilant <char>Lightning</char>, also firing away. The camera zooms in on the two off-guard <char>Titans</char> and then pulls back to frame the whole courtyard as the <char ref="Lightning,Thunder">brothers</char>' onslaught connects in several places. <char>Starfire</char> runs down one side and manages to keep just ahead of <char>Thunder</char>, also on foot; when she reaches the end, she goes straight up the wall and does a long, high backflip to come down behind him. She throws a starbolt but misses him.)
+(Cut to the stormy sky. Laughing, <char>Thunder</char> floats into view on his cloud and throws a beam downward. He is joined by an equally jubilant <char>Lightning</char>, also firing away. The camera zooms in on the two off-guard <char>Titans</char> and then pulls back to frame the whole courtyard as the <char>brothers</char>' onslaught connects in several places. <char>Starfire</char> runs down one side and manages to keep just ahead of <char>Thunder</char>, also on foot; when she reaches the end, she goes straight up the wall and does a long, high backflip to come down behind him. She throws a starbolt but misses him.)
 
 (Cut to <char>Lightning</char>; he gets a bolt ready.)
 
@@ -238,7 +239,7 @@ OPENING THEME
 
 <char>Thunder</char>: Huh?
 
-(The starbolt reaches him and knocks him across the open expanse to land squarely on the spot where the globe had stood. <char>Beast Boy</char>, now a <transform class="mammal">giant bear</transform>, moves in on him, and <char>Lightning</char> takes his fallen <char ref="Thunder">brother</char>'s place against <char>Starfire</char>. The ursine <char ref="Beast_Boy">Titan</char> gets to his hind legs and plows into <char>Thunder</char>, driving him to the courtyard wall, then runs up in human form and grabs his collar.)
+(The starbolt reaches him and knocks him across the open expanse to land squarely on the spot where the globe had stood. <char>Beast Boy</char>, now a <transform class="mammal">giant bear</transform>, moves in on him, and <char>Lightning</char> takes his fallen <char>brother</char>'s place against <char>Starfire</char>. The ursine <char>Titan</char> gets to his hind legs and plows into <char>Thunder</char>, driving him to the courtyard wall, then runs up in human form and grabs his collar.)
 
 <char>Beast Boy</char>: I don't want to hurt you. And I don't think you want to hurt me.
 
@@ -254,13 +255,13 @@ OPENING THEME
 
 (A broad energy beam shoots past them from the camera and smashes cleanly through the intact row of concrete slabs. It just misses <char>Starfire</char> and <char>Lightning</char>, who have broken off their duel; he sidesteps, but she gasps as a shower of ruined stonework comes straight down toward her.)
 
-<char>Beast Boy</char>: <char ref="Starfire">Star</char>!
+<char>Beast Boy</char>: <char>Star</char>!
 
 (The shadows of the crumbling slabs fall over him. Fade to black.)
 
 <act n="2">Act 2</act>
 
-(Opening shot: the two <char ref="Lightning,Thunder">brothers</char>, backing up in fear and awe at what this newcomer has just brought about.) <char>Sorcerer</char>: (from o.c., echoing) Your gifts are your own. Who are they to tell you how to use them?
+(Opening shot: the two <char>brothers</char>, backing up in fear and awe at what this newcomer has just brought about.) <char>Sorcerer</char>: (from o.c., echoing) Your gifts are your own. Who are they to tell you how to use them?
 
 <char>Lightning</char>: And who are you that commands such power? Show yourself!
 
@@ -274,7 +275,7 @@ OPENING THEME
 
 <char>Sorcerer</char>: Would it matter if you did? You are unique. Gifted. Better. Why should anything interfere with your enjoyment? I am going. Follow, if you wish. (He walks out of the courtyard; <char>Lightning</char> follows.)
 
-<char>Lightning</char>: Come, <char ref="Thunder">brother</char>, and leave your foolish thoughts behind.
+<char>Lightning</char>: Come, <char>brother</char>, and leave your foolish thoughts behind.
 
 (<char>Thunder</char> takes a few steps after them, but stops and looks back at the pile of crumbled stone for a moment. He then turns to catch up with the other two, and the camera pans to the wreckage and cuts to a close-up of its surface. A small green <transform class="arachnid">spider</transform>-<char>Beast Boy</char>-scuttles out of a hole in the pile and climbs up the side a bit; he then returns to human form.)
 
@@ -499,4 +500,5 @@ Beast Boy: Star?
 
 (He hot-foots it after the others. Fade to black.)
 End
+</body>
 </transcript>
