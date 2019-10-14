@@ -108,44 +108,44 @@ Various <char>prisoners</char>: Hey, hey, look at this. It’s freedom!...Let’
 
 <char>Beast Boy</char>: Jailbreak? I don’t see any jailbreak.
 <char>Robin</char>: None of us would have seen one if <char>Cyborg</char> hadn’t messed up! (<stagDir>He looks away</stagDir>.)
-(<stagDesc category="gag">Sight gag: each speaker’s head grows a size when he speaks, then shrinks back to normal</stagDesc>.)
+(<stagDir><stagDesc category="gag">Sight gag: each speaker’s head grows a size when he speaks, then shrinks back to normal</stagDesc>.</stagDir>)
 
 <char>Cyborg</char>: Me? I messed up nothing! (with <charDesc ref="Cyborg">great force</charDesc>; <charDesc ref="Robin"><char>Robin</char>’s cape</charDesc> blows back) You got in my way! (<stagDir>He looks away as well</stagDir>.)
 <char>Robin</char>: (<stagDir>turning back</stagDir>) You were too far forward, and <char>Cinderblock</char> got away because of it!
-(<charDesc ref="Robin">An angry little spark pops up on his temple during the end of this and then winks out when his head deflates</charDesc>. <stagDesc>Now the background goes red and the sight gag becomes more exaggerated, with the non-speaker shrinking a bit as he gets yelled at as well</stagDesc>.)
+(<stagDir><charDesc ref="Robin">An angry little spark pops up on his temple during the end of this and then winks out when his head deflates</charDesc>. <stagDesc>Now the background goes red and the sight gag becomes more exaggerated, with the non-speaker shrinking a bit as he gets yelled at as well</stagDesc>.</stagDir>)
 
 <char>Cyborg</char>: (<stagDir>turning back</stagDir>) You saying this is my fault?
 <char>Robin</char>: Want me to say it again?
-(<stagDesc>The sight gag ends. Sparks fly between both pairs of eyes before <char>Starfire</char> pops up between them</stagDesc>.)
+(<stagDir><stagDesc>The sight gag ends. Sparks fly between both pairs of eyes before <char>Starfire</char> pops up between them</stagDesc>.</stagDir>)
 
 <char>Starfire</char>: Stop! No more mean talking!
-(<stagDir>They turn their backs on her and each other</stagDir>, and <stagDesc>the normal background restores itself as <char>Beast Boy</char> speaks up</stagDesc>.)
+(<stagDir>They turn their backs on her and each other, and <stagDesc>the normal background restores itself as <char>Beast Boy</char> speaks up</stagDesc>.</stagDir>)
 
 <char>Beast Boy</char>: Yeah. If you two are gonna fight, we need time to sell tickets. (<stagDir>He backs off; <char>Raven</char> steps up</stagDir>.)
 <char>Raven</char>: <char>Cinderblock</char> escaped. No amount of yelling will change that. So stop acting like idiots, and let’s go home.
 (<stagDir><char>Cyborg</char> and <char>Robin</char> throw each other a disdainful glance from over their shoulders</stagDir>.)
 
 <char>Robin</char>, <char>Cyborg</char>: Hmph!
-(Their respective exhalations are visible in the air. Now <stagDir>they stride away, leaving the other <char ref="Starfire,Beast_Boy,Raven">Titans</char> nonplussed</stagDir>.)
+(Their respective exhalations are visible in the air. Now <stagDir>they stride away, leaving the other <char>Titans</char> nonplussed</stagDir>.)
 
 <char>Robin</char>: (<stagDir>softly</stagDir>) Loser.
 <char>Cyborg</char>: (<stagDir>softly</stagDir>) Jerk.
-(<stagDesc category="letterbox">Letterbox view: they whirl to face one another.</stagDesc>)
+(<stagDir><stagDesc category="letterbox">Letterbox view: they whirl to face one another.</stagDesc></stagDir>)
 
 <char>Robin</char>, <char>Cyborg</char>: What did you say?!?
-(<stagDesc category="fullscreen">Fullscreen: they go face to face. The background turns red again</stagDesc>.)
+(<stagDir><stagDesc category="fullscreen">Fullscreen: they go face to face. The background turns red again</stagDesc>.</stagDir>)
 
-<char>Robin</char>: Do you have a problem, <char ref="Cyborg">Tin Man</char>?
+<char>Robin</char>: Do you have a problem, <char>Tin Man</char>?
 <char>Cyborg</char>: Yeah! <charDesc ref="Robin">It’s four feet tall and smells like cheap hair gel</charDesc>!
-(This hits him the wrong way. <directNote kind="cut">Cut to the others against the wall</directNote>. <stagDesc category="gag">Sight gag: they have become scared infants, with the pair’s shadows thrown across them as rough caricatures</stagDesc>.)
+(<stagDir>This hits him the wrong way. <directNote kind="cut">Cut to the others against the wall</directNote>. <stagDesc category="gag">Sight gag: they have become scared infants, with the pair’s shadows thrown across them as rough caricatures</stagDesc>.</stagDir>)
 
 <char>Robin</char>: (from o.c.) Well, you’re <charDesc ref="Cyborg">an oversized klutz and your feet smell like motor oil</charDesc>! (<stagDir><char>Beast Boy</char> starts to cry</stagDir>.)
 <char>Cyborg</char>: (from o.c.) You’re bossy, you’re rude, you got no taste in music!
-(<directNote kind="shift">The sight gag ends as the camera shifts to frame all five again</directNote>.)
+(<stagDir><directNote kind="shift">The sight gag ends as the camera shifts to frame all five again</directNote>.</stagDir>)
 
 <char>Robin</char>: I don’t even know why you’re on this team!
 <char>Cyborg</char>: That makes two of us! I QUIT!!
-(<stagDir>These two words leave the rest of the group staring wide-eyed in total shock</stagDir>. <stagDesc category="letterbox">Letterbox, in the top third of the screen: his silhouette stalks away from theirs against a blue field, and <char>Robin</char> hangs his head</stagDesc>. <directNote kind="fade">Fade to black as the sound of machinery makes itself heard</directNote>.)
+(<stagDir>These two words leave the rest of the group staring wide-eyed in total shock. <stagDesc category="letterbox">Letterbox, in the top third of the screen: his silhouette stalks away from theirs against a blue field, and <char>Robin</char> hangs his head</stagDesc>. <directNote kind="fade">Fade to black as the sound of machinery makes itself heard</directNote>.</stagDir>)
 
 <stagDir>(<directNote kind="fade">Fade in to a close-up of turning gears</directNote> and <directNote kind="dissolve">dissolve to a series of other shots of heavy equipment hard at work-cams and pistons and crankshafts</directNote>. <directNote kind="pan">Pan from the last view across a large enclosure illuminated chiefly by dim red light, then stop on a shadowy figure seated on a large chair atop a raised platform</directNote>. No features can be seen except the glint of full-body armor and one eye, the left. An overhead fixture pours light down on the seat. This is <char>Slade</char>, though he will not be named for some time to come. In the harsh glare, the right side of the head and shoulder show a gray tint, while red-orange appears on the other side.)
 </stagDir>
