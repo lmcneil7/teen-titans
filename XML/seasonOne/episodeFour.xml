@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="teenTitan.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schema/teenTitan.rnc" type="application/relax-ng-compact-syntax"?>
 <transcript n="4">
     <head><episode>FORCES OF NATURE</episode>
 
@@ -11,90 +11,92 @@
     
     <animation>Dong Woo Animation Company, Ltd.</animation></head>
 <body><act n="0">Prologue</act>
-(Opening shot: a night sky filled with dark thunderhead clouds. Flashes of lightning illuminate their contours. A bulky silhouette stands up among them and begins to swing a pair of sticks against the clouds; every time it brings them down, there is another strike and accompanying thunderclap. Dissolve to another patch of the sky, where even more lightning crackles back and forth. A second silhouette, this one much thinner and with spiky upswetpt hair, stands up and directs its hands here and there. There is a new flare-up every time it does so.)
+(<stagDesc category="open-shot">Opening shot: a night sky filled with dark thunderhead clouds. Flashes of lightning illuminate their contours</stagDesc>. <charDesc ref="Thunder">A bulky silhouette stands up among them and begins to swing a pair of sticks against the clouds; every time it brings them down, there is another strike and accompanying thunderclap.</charDesc> <directNote kind="dissolve">Dissolve to another patch of the sky, where even more lightning crackles back and forth.</directNote> <charDesc ref="Lightning">A second silhouette, this one much thinner and with spiky upswetpt hair, stands up and directs its hands here and there.</charDesc> <directNote>There is a new flare-up every time it does so.</directNote>)
 
-(When the last one clears, the camera has moved to a point near the underside of the clouds as the flashes continue from within. There is a huge strike, and the camera pulls back to put Titans Tower in view. Inside, in the hall, <char>Beast Boy</char> has become a <transform class="mammal">buffalo</transform> and is straining mightily at a rubber band looped over his horns, trying to catch it on a nearby hook. He succeeds and ducks away, coming up in human form with a mischievous smile on his face. Now he produces a large, filled water balloon that sloshes a bit in his hands, and he lets off a wicked little chuckle.) 
+<stagDir>(<directNote>When the last one clears, the camera has moved to a point near the underside of the clouds as the flashes continue from within.</directNote> There is a huge strike, and <directNote kind="pull">the camera pulls back to put Titans Tower in view</directNote>. Inside, in the hall, <char>Beast Boy</char> has become a <transform class="mammal">buffalo</transform> and is straining mightily at a rubber band looped over his horns, trying to catch it on a nearby hook. He succeeds and ducks away, <transform class="human">coming up in human form</transform> with a mischievous smile on his face. Now he produces a large, filled water balloon that sloshes a bit in his hands, and he lets off a wicked little chuckle.)</stagDir> 
 <char>Beast Boy</char>: This is gonna be so sweet!
 
-<char>Raven</char>: (from o.c.) What are you doing?
+<char>Raven</char>: <stagDir>(from o.c.)</stagDir> What are you doing?
 
-(Surprised by her words, he lets go of the balloon and completely freaks out as he tries desperately to make a safe catch. Finally he gets hold of it and turns around, and the camera pans to show <char>Raven</char> behind him.) 
+<stagDir>(Surprised by her words, he lets go of the balloon and completely freaks out as he tries desperately to make a safe catch. Finally he gets hold of it and turns around, and <directNote kind="pan">the camera pans to show <char>Raven</char> behind him.</directNote>)</stagDir> 
 <char>Raven</char>: Please tell me this isn't another ridiculous prank.
 
 <char>Beast Boy</char>: Okay. It's not a ridiculous prank. It's a brilliant one!
 
-(He laughs. Close-up of her, rolling her eyes wearily.)
+<stagDir>(He laughs. <stagDesc category="close-up">Close-up of her, rolling her eyes wearily.</stagDesc>)</stagDir>
 
-<char>Beast Boy</char>: (from o.c.) All right, check it out. (Pull back to frame both.) 'Member how <char>Cyborg</char> put red dye in my shampoo and I turned brown for two days? Well, sister, it's payback time.
+<char>Beast Boy</char>: <stagDir>(from o.c.)</stagDir> All right, check it out. <directNote kind="pull">(Pull back to frame both.)</directNote> 'Member how <char>Cyborg</char> put red dye in my shampoo and I turned brown for two days? Well, sister, it's payback time.
 
-(A thought balloon appears above his head as he describes the situation. It shows, in "Super Deformed" style, the hapless victim-tinted brown, holding a scrub brush, in towel, shower cap, and slippers-standing there while the other SD Titans scroll past and laugh at him. The balloon disappears as he finishes; now a pull string hangs down from the ceiling, and he reaches for it.)
+<stagDesc category="gag">(A thought balloon appears above his head as he describes the situation. It shows, in "Super Deformed" style, <charDesc ref="Cyborg">the hapless victim-tinted brown, holding a scrub brush, in towel, shower cap, and slippers-standing there while the other SD Titans scroll past and laugh at him</charDesc>. The balloon disappears as he finishes; now a pull string hangs down from the ceiling, and he reaches for it.)</stagDesc>
 
 <char>Beast Boy</char>: I give you...the <char>Beast Boy</char> Insta-Lube 9000!
 
-(As he says this, he pulls the string and he and <char>Raven</char> back up o.c. Down comes a blueprint that fills most of the screen; the words "<char>Beast Boy</char>" and "Insta-Lube" slide in beneath it, after which "9000" drops from the lower edge and replaces them. The diagram shows the rubber band, which is part of a floor-mounted slingshot, held back by the hook and with the balloon loaded in. A tripwire in front of the rig runs through overhead pulleys and is tied to a lever that is in turn connected to the hook.)
+<stagDesc category="fullscreen">(As he says this, he pulls the string and he and <char>Raven</char> back up o.c. Down comes a blueprint that fills most of the screen; the words "<char>Beast Boy</char>" and "Insta-Lube" slide in beneath it, after which "9000" drops from the lower edge and replaces them. The diagram shows the rubber band, which is part of a floor-mounted slingshot, held back by the hook and with the balloon loaded in. A tripwire in front of the rig runs through overhead pulleys and is tied to a lever that is in turn connected to the hook.)</stagDesc>
 
-(The lower portion of the screen dissolves to a shot of the hall and zooms in on the tripwire, and on the blueprint, a rough figure of <char>Cyborg</char> steps up and catches his foot there.)
+(<directNote kind="dissolve">The lower portion of the screen dissolves to a shot of the hall</directNote> and <directNote kind="zoom">zooms in on the tripwire</directNote>, and <stagDesc category="blueprint">on the blueprint, a rough figure of <char>Cyborg</char> steps up and catches his foot there</stagDesc>.)
 
-<char>Beast Boy</char>: (voice over) See, when Chrome-Dome steps around the corner, his foot tugs the string. (Lower portion: follow it to the lever.) The string trips the lever...
+<char>Beast Boy</char>: <stagDir>(voice over)</stagDir> See, when Chrome-Dome steps around the corner, his foot tugs the string. (<stagDesc category="lower">Lower portion: follow it to the lever.</stagDesc>) The string trips the lever...
 
-(Blueprint: it moves forward and pops the band loose. Lower portion: zoom in on the attachment point.)
+(<stagDesc category="blueprint">Blueprint: it moves forward and pops the band loose.</stagDesc> <stagDesc category="lower">Lower portion: zoom in on the attachment point.</stagDesc>)
 
-<char>Beast Boy</char>: (voice over) ...the lever releases the mother of all rubber bands...
+<char>Beast Boy</char>: <stagDir>(voice over)</stagDir> ...the lever releases the mother of all rubber bands...
 
-(Blueprint: the balloon sails toward <char>Cyborg</char> in slow motion. Lower portion: <char>Raven</char> walks over to the setup, and <char>Beast Boy</char> pops into view with the ammo.) <char>Beast Boy</char>: (loading it in) ...which sends a balloon-load of motor oil flying right at him, and BOOSH! (The blueprint rolls back up on this last word.) Pretty clever, huh?
+(<stagDesc category="blueprint">Blueprint: the balloon sails toward <char>Cyborg</char> in slow motion.</stagDesc> <stagDesc category="lower">Lower portion: <char>Raven</char> walks over to the setup, and <char>Beast Boy</char> pops into view with the ammo.</stagDesc>) 
+<char>Beast Boy</char>: <stagDir>(loading it in)</stagDir> ...which sends a balloon-load of motor oil flying right at him, and BOOSH! <stagDir>(The blueprint rolls back up on this last word.)</stagDir> Pretty clever, huh?
 
 <char>Raven</char>: You're a genius. 
 <char>Beast Boy</char>: It's just a little good clean dirty fun.
 
-(A door opens o.c.; he perks up his ears to listen.) <char>Beast Boy</char>: Here he comes. (He ducks away, then back to whisk her off.)
+<stagDir>(A door opens o.c.; he perks up his ears to listen.)</stagDir> <char>Beast Boy</char>: Here he comes. <stagDir>(He ducks away, then back to whisk her off.)</stagDir>
 
-<char>Raven</char>: Whoa! (They hide around a corner.) I do not think-
+<char>Raven</char>: Whoa! <stagDir>(They hide around a corner.)</stagDir> I do not think-
 
 <char>Beast Boy</char>: Shhh!
 
 <char>Raven</char>: But what if-
 
-<char>Beast Boy</char>: Shhh! (Long silence.)
-
-<char>Cyborg</char>: (from o.c., whispering) Why are we hiding?
+<char>Beast Boy</char>: Shhh! <stagDir>(Long silence.)
+</stagDir>
+<char>Cyborg</char>: <stagDir>(from o.c., whispering)</stagDir> Why are we hiding?
 
 <char>Beast Boy</char>: Shhh!
 
-(His eyes instantly go as wide as saucers upon realizing that his target is nowhere near ground zero, and the camera pulls back as he flips out for a moment. <char>Cyborg</char> is hunched down behind both of them.) <char>Beast Boy</char>: <char>Cyborg</char>?! You can't be <char>Cyborg</char>!
+<stagDir>(His eyes instantly go as wide as saucers upon realizing that his target is nowhere near ground zero, and <directNote kind="pull">the camera pulls back as he flips out for a moment.</directNote> <char>Cyborg</char> is hunched down behind both of them.)</stagDir> 
+<char>Beast Boy</char>: <char>Cyborg</char>?! You can't be <char>Cyborg</char>!
 
 <char>Cyborg</char>: I can't?
 
-<char>Beast Boy</char>: (pointing at him, then into hall) If you're you, then who's...?
+<char>Beast Boy</char>: <stagDir>(pointing at him, then into hall)</stagDir> If you're you, then who's...?
 
-(Footsteps echo out there as all three look out. Cut to a shot down the way, the camera positioned just behind the oil-filled balloon, then to an extreme close-up of the tripwire. A violet boot steps into view and catches it, the string is pulled taut, the lever moves, and the hook starts to pull away from the rubber band. Cut to in front of the balloon, which is released as <char>Beast Boy</char> jumps out in a frantic attempt to stop it.)
+<stagDir>(Footsteps echo out there as all three look out. <directNote kind="cut">Cut to a shot down the way, the camera positioned just behind the oil-filled balloon</directNote>, then <stagDesc category="close-up">to an extreme close-up of the tripwire</stagDesc>. <charDesc ref="Starfire">A violet boot</charDesc> steps into view and catches it, the string is pulled taut, the lever moves, and the hook starts to pull away from the rubber band. <directNote kind="cut">Cut to in front of the balloon, which is released as <char>Beast Boy</char> jumps out in a frantic attempt to stop it.</directNote>)</stagDir>
 
 <char>Beast Boy</char>: NOOOOOOOO!!
 
-(Audio and video both shift to slow motion as the projectile is propelled forward by the tension. Just as he is about to run into the camera, cut to a long shot of <char>Starfire</char> and zoom in to an extreme close-up of her face. She is so taken by surprise that she literally cannot see straight.)
+<stagDir>(<directNote kind="shift">Audio and video both shift to slow motion as the projectile is propelled forward by the tension.</directNote> Just as he is about to run into the camera, <directNote kind="cut">cut to a long shot of <char>Starfire</char></directNote> and <directNote kind="zoom">zoom in to an extreme close-up of her face</directNote>. <annot>She is so taken by surprise that she literally cannot see straight.</annot>)</stagDir>
 
-<char>Starfire</char>: (normal speed) Eek!
+<char>Starfire</char>: <stagDir>(normal speed)</stagDir> Eek!
 
-(Pull back to show the balloon right in front of her; it collides with her face, splattering her with the viscous contents, and knocks her onto her back. Normal speed: <char>Beast Boy</char> runs up.)
+<stagDir>(<directNote kind="pull">Pull back to show the balloon right in front of her</directNote>; it collides with her face, splattering her with the viscous contents, and knocks her onto her back. Normal speed: <char>Beast Boy</char> runs up.)</stagDir>
 
 <char>Beast Boy</char>: <char>Starfire</char>!
 
-(She has propped herself up on her hands, but cannot see him due to all the oil covering her eyes. <char>Cyborg</char> and <char>Raven</char> come over.) <char>Cyborg</char>: You okay? (She gets her eyes open.)
+<stagDir>(She has propped herself up on her hands, but cannot see him due to all the oil covering her eyes. <char>Cyborg</char> and <char>Raven</char> come over.)</stagDir> <char>Cyborg</char>: You okay? <stagDir>(She gets her eyes open.)</stagDir>
 
-<char>Starfire</char>: (puzzled) This is punishment? I did something wrong? (Cut to <char>Raven</char> and <char>Cyborg</char>.)
+<char>Starfire</char>: <stagDir>(puzzled)</stagDir> This is punishment? I did something wrong? <directNote kind="cut">(Cut to <char>Raven</char> and <char>Cyborg</char>.)</directNote>
 
 <char>Raven</char>: You didn't. He did.
 
-(Pan from them to <char>Beast Boy</char>, who gives a sheepish grin-accompanied by a sheep's bleating.)
+<directNote kind="pan">(Pan from them to <char>Beast Boy</char>, who gives a sheepish grin-accompanied by a sheep's bleating.)</directNote>
 
-<char>Beast Boy</char>: <char>Star</char>! It was... (Cut to her; he continues o.c.) ...you weren't supposed to...
+<char>Beast Boy</char>: <char>Star</char>! It was... <directNote kind="cut">(Cut to her; he continues o.c.)</directNote> ...you weren't supposed to...
 
-(Back to him on the end of this. He starts to say something else, but when the camera cuts to <char>Cyborg</char> and <char>Raven</char>, their disapproving stares stop him in his tracks for a moment.)
+<stagDir>(Back to him on the end of this. He starts to say something else, but when <directNote kind="cut">the camera cuts to <char>Cyborg</char> and <char>Raven</char></directNote>, their disapproving stares stop him in his tracks for a moment.)</stagDir>
 
-<char>Beast Boy</char>: (from o.c.) I didn't... (Pull back to frame him; he trails off and laughs.) Just remember to change that oil every three thousand miles.
+<char>Beast Boy</char>: <stagDir>(from o.c.)</stagDir> I didn't... <directNote kind="pull">(Pull back to frame him; he trails off and laughs.)</directNote> Just remember to change that oil every three thousand miles.
 
-(He tries to laugh again, but it dies on his lips. <char>Starfire</char> stands up and leans over him.)
+<stagDir>(He tries to laugh again, but it dies on his lips. <char>Starfire</char> stands up and leans over him.)</stagDir>
 
-<char>Starfire</char>: (with steadily building rage) On my planet, we have a name for those who do such terrible things. You are a...a...CLORBAG VARBLERNELK!!
+<char>Starfire</char>: <stagDir>(with steadily building rage)</stagDir> On my planet, we have a name for those who do such terrible things. You are a...a...CLORBAG VARBLERNELK!!
 
 (Sight gag: her head grows in stages until it is many times normal size, and he shrinks a few notches before it. The oil disappears from her face on the last two words. From here, cut to a close-up of <char>Cyborg</char>, very worried. The sight gag has now ended.) <char>Beast Boy</char>: (from o.c.) I'm a what-bag? (Tilt down to him, in front of <char>Cyborg</char>.)
 
