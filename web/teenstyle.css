@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 16px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h4{
+    color: white;
+}
+a {color: orange;
+}
