@@ -98,17 +98,17 @@
 
 <char>Starfire</char>: <stagDir>(with steadily building rage)</stagDir> On my planet, we have a name for those who do such terrible things. You are a...a...CLORBAG VARBLERNELK!!
 
-(Sight gag: her head grows in stages until it is many times normal size, and he shrinks a few notches before it. The oil disappears from her face on the last two words. From here, cut to a close-up of <char>Cyborg</char>, very worried. The sight gag has now ended.) <char>Beast Boy</char>: (from o.c.) I'm a what-bag? (Tilt down to him, in front of <char>Cyborg</char>.)
+<stagDesc category="gag">(Sight gag: her head grows in stages until it is many times normal size, and he shrinks a few notches before it. The oil disappears from her face on the last two words. From here, cut to a close-up of <char>Cyborg</char>, very worried. The sight gag has now ended.)</stagDesc> <char>Beast Boy</char>: <stagDir>(from o.c.)</stagDir> I'm a what-bag? <stagDir>(Tilt down to him, in front of <char>Cyborg</char>.)</stagDir>
 
 <char>Cyborg</char>: You heard the <char>lady</char>.
 
-<char>Raven</char>: (shaking head) You are such a clorbag.
+<char>Raven</char>: <stagDir>(shaking head)</stagDir> You are such a clorbag.
 
-<char>Beast Boy</char>: Come on, you guys. Can't anybody take a joke? (A flash of lightning interrupts the standoff.)
+<char>Beast Boy</char>: Come on, you guys. Can't anybody take a joke? <stagDesc>(A flash of lightning interrupts the standoff.)</stagDesc>
 
-<char>Robin</char>: (from o.c.) <char>Titans</char>! (Cut to him, silhouetted against the glare.) Trouble!
+<char>Robin</char>: <stagDir>(from o.c.)</stagDir> <char>Titans</char>! <directNote kind="cut">(Cut to him, silhouetted against the glare.)</directNote> Trouble!
 
-(The next strike illuminates him fully and leaves the screen black when it dissipates.)
+<directNote kind="black-screen">(The next strike illuminates him fully and leaves the screen black when it dissipates.)</directNote>
 
 
 OPENING THEME
@@ -116,106 +116,115 @@ OPENING THEME
 
 <act n="1">Act 1</act>
 
-(Opening shot: the bridge across Jump City Bay. Lighting flashes among the storm clouds and finally strikes the roadway. Overhead view of the blast, then cut to a big rig on the bridge. The driver yells in surprise and cuts his wheels sharply to the right, braking as he does so; the truck stops just short of the smoking, flaming strike point. Many cars slam on their brakes to avoid a collision, creating an instant traffic jam.)
+<stagDir>(<stagDesc category="open-shot">Opening shot: the bridge across Jump City Bay.</stagDesc> Lighting flashes among the storm clouds and finally strikes the roadway. <stagDesc category="overhead-shot">Overhead view of the blast</stagDesc>, then <directNote kind="cut">cut to a big rig on the bridge</directNote>. The driver yells in surprise and cuts his wheels sharply to the right, braking as he does so; the truck stops just short of the smoking, flaming strike point. Many cars slam on their brakes to avoid a collision, creating an instant traffic jam.)</stagDir>
 
-(As the smoke starts to clear, the two silhouettes seen among the clouds become visible within it. The last wisps evaporate to give a fully detailed view of both; they wear outfits that look like something like samurai armor, but without the upper body protection. The bulky one has blue skin and black clothing trimmed with blue, and he also wears a samurai-style helmet. A thundercloud is emblazoned on his chest, and he has long black sideburns. His thin cohort, on the other hand, has light yellow skin and hair, and his outfit is red and yellow, with a lightning bolt on the chest. A headband keeps his hair out of the way and has a guard plate stretching down on either side to cover his cheeks. Both wear armbands and wrist/shin guards. We have just met Thunder and Lightning.)
+<stagDir>(<directNote kind="dissolve">As the smoke starts to clear, the two silhouettes seen among the clouds become visible within it. The last wisps evaporate to give a fully detailed view of both</directNote>; <charDesc ref="brothers">they wear outfits that look like something like samurai armor, but without the upper body protection</charDesc>. <charDesc ref="Thunder">The bulky one has blue skin and black clothing trimmed with blue, and he also wears a samurai-style helmet. A thundercloud is emblazoned on his chest, and he has long black sideburns.</charDesc> <charDesc ref="Lightning">His thin cohort, on the other hand, has light yellow skin and hair, and his outfit is red and yellow, with a lightning bolt on the chest. A headband keeps his hair out of the way and has a guard plate stretching down on either side to cover his cheeks.</charDesc> <charDesc ref="brothers">Both wear armbands and wrist/shin guards.</charDesc> We have just met <char>Thunder</char> and <char>Lightning</char>.)</stagDir>
 
-(The two new arrivals look at each other and smile; close-up of Thunder.) <char>Thunder</char>: May we have fun here, <char>brother</char>? (Pan to <char>Lightning</char>.)
+<stagDir>(The two new arrivals look at each other and smile; <stagDesc category="close-up">close-up of Thunder.</stagDesc>)</stagDir> 
+<char>Thunder</char>: May we have fun here, <char>brother</char>? <directNote kind="pan">(Pan to <char>Lightning</char>.)</directNote>
 
-<char>Lightning</char>: Of course! (creating a bolt between his hands) We are <char>Thunder</char> and <char>Lightning</char>. We may do whatever we please!
+<char>Lightning</char>: Of course! <stagDir>(creating a bolt between his hands)</stagDir> We are <char>Thunder</char> and <char>Lightning</char>. We may do whatever we please!
 
-(He throws the bolt upward. Cut to one of the bridge's columns, where the suspension cables are connected, seen from roadway level. It is struck, and sparks fly everywhere.)
+<stagDir>(He throws the bolt upward. <directNote kind="cut">Cut to one of the bridge's columns, where the suspension cables are connected, seen from roadway level.</directNote> <stagDesc>It is struck, and sparks fly everywhere.</stagDesc>)</stagDir>
 
-<char>Lightning</char>: (from o.c.) Look, <char>brother</char>! I command the sparks to dance!
+<char>Lightning</char>: <stagDir>(from o.c.)</stagDir> Look, <char>brother</char>! I command the sparks to dance!
 
-(He laughs as the strike dies out and the camera tilts down to them; the flickering remains fall all around in a shower.)
+<stagDir>(He laughs as the strike dies out and the camera tilts down to them; the flickering remains fall all around in a shower.)</stagDir>
 
 <char>Thunder</char>: Amusing. Now listen as I make music!
 
-(He claps his hands, creating an intense shock wave, and the camera pulls back a distance to show it radiating outward. The bridge cables are jarred loose and begin to whipsaw back and forth. Cut to the semi, which gets a smoking lightning bolt traced into its side. Pan to the <char>pair</char> on the next line.) <char>Lightning</char>: Let all who pass this way know-<char>Lightning</char> was here!
+<stagDir>(He claps his hands, creating an intense shock wave, and <directNote kind="pull">the camera pulls back a distance to show it radiating outward</directNote>. The bridge cables are jarred loose and begin to whipsaw back and forth. <directNote kind="cut">Cut to the semi, which gets a smoking lightning bolt traced into its side.</directNote> <directNote kind="pan">Pan to the <char>pair</char> on the next line.</directNote>)</stagDir> 
+<char>Lightning</char>: Let all who pass this way know-<char>Lightning</char> was here!
 
 <char>Thunder</char>: And <char>Thunder</char> too!
 
-(He bangs his fists together, knuckle to knuckle, and creates an earthquake that sets the stopped cars and their drivers trembling; all the alarm systems are set off in the process. The <char>brothers</char> laugh, and <char>Thunder</char> pats <char>Lightning</char>'s shoulder.) <char>Lightning</char>: Most amusing.
+<stagDir>(He bangs his fists together, knuckle to knuckle, and creates an earthquake that sets the stopped cars and their drivers trembling; all the alarm systems are set off in the process. The <char>brothers</char> laugh, and <char>Thunder</char> pats <char>Lightning</char>'s shoulder.)</stagDir> 
+<char>Lightning</char>: Most amusing.
 
-<char>Robin</char>: (from o.c.) Hate to break it to you...
+<char>Robin</char>: <stagDir>(from o.c.)</stagDir> Hate to break it to you...
 
-(Surprised, they look toward the traffic snarl; cut to the truck, where the <char>Titans</char> are standing on the trailer.)
+<stagDir>(Surprised, they look toward the traffic snarl; <directNote kind="cut">cut to the truck, where the <char>Titans</char> are standing on the trailer</directNote>.)</stagDir>
 
 <char>Robin</char>: ...but you guys have a lousy sense of humor! This ends-now!
 
-<char>Lightning</char>: (shaking fist) No one gives orders to <char>Thunder</char> and <char>Lightning</char>! (warming up) Taste my power!
+<char>Lightning</char>: <stagDir>(shaking fist)</stagDir> No one gives orders to <char>Thunder</char> and <char>Lightning</char>! <stagDir>(warming up)</stagDir> Taste my power!
 
-(He throws a bolt at the truck and just misses the <char>Titans</char>, who scramble in five different directions. The trailer gets a big hole blown through it, wiping out his graffiti. <char>Starfire</char> does a U-turn and swoops down on him with starbolts blazing; he jumps onto a line of stopped cars, she does likewise, and they run on these parallel tracks and trade shots. The firefight continues for several dozen yards until he gets in a lucky hit that knocks her down.)
+<stagDir>(He throws a bolt at the truck and just misses the <char>Titans</char>, who scramble in five different directions. The trailer gets a big hole blown through it, wiping out his graffiti. <char>Starfire</char> does a U-turn and swoops down on him with starbolts blazing; he jumps onto a line of stopped cars, she does likewise, and they run on these parallel tracks and trade shots. The firefight continues for several dozen yards until he gets in a lucky hit that knocks her down.)</stagDir>
 
-(His <char>brother</char>, meanwhile, is mixing it up with <char>Cyborg</char>. They block or dodge a few of each other's punches and start to grapple. Close-up of <char>Thunder</char>'s left fist, which he pulls back and readies for a powerful strike, then of <char>Cyborg</char>'s right as he reconfigures it into the sonic cannon. Pull back to frame both; the fists swing and connect with each other, and the camera pulls back farther as the resulting shock wave throws them far down the bridge in opposite directions. <char>Cyborg</char> lands on his back, but <char>Thunder</char> brings a small cloud to himself and hops onto it to float upward.)
+<stagDir>(His <char>brother</char>, meanwhile, is mixing it up with <char>Cyborg</char>. They block or dodge a few of each other's punches and start to grapple. <stagDesc category="close-up">Close-up of <char>Thunder</char>'s left fist, which he pulls back and readies for a powerful strike</stagDesc>, <stagDesc category="close-up">then of <char>Cyborg</char>'s right as he reconfigures it into the sonic cannon</stagDesc>. <directNote kind="pull">Pull back to frame both</directNote>; the fists swing and connect with each other, and <directNote kind="pull">the camera pulls back farther as the resulting shock wave throws them far down the bridge in opposite directions</directNote>. <char>Cyborg</char> lands on his back, but <char>Thunder</char> brings a small cloud to himself and hops onto it to float upward.)</stagDir>
 
-(<char>Robin</char> finds the big blue hooligan bearing down on him and has to dodge a thunderclap. He leaps onto a guardrail, but another blast destroys that section and he has to move down a bit. The next attack breaks a support cable; he grabs the swinging free end and is carried away an instant before <char>Thunder</char> obliterates that section of the rail. <char>Robin</char> is carried high into the air before the cable starts to descend. He times his next move carefully and hurls himself over <char>Thunder</char>, avoiding a punch and grabbing the foe's shoulders to throw him across the pavement.)
+<stagDir>(<char>Robin</char> finds <charDesc ref="Thunder">the big blue hooligan</charDesc> bearing down on him and has to dodge a thunderclap. He leaps onto a guardrail, but another blast destroys that section and he has to move down a bit. The next attack breaks a support cable; he grabs the swinging free end and is carried away an instant before <char>Thunder</char> obliterates that section of the rail. <char>Robin</char> is carried high into the air before the cable starts to descend. He times his next move carefully and hurls himself over <char>Thunder</char>, avoiding a punch and grabbing the foe's shoulders to throw him across the pavement.)</stagDir>
 
-(Cut to <char>Lightning</char>, throwing a bolt.)
+<directNote kind="cut">(Cut to <char>Lightning</char>, throwing a bolt.)</directNote>
 
 <char>Lightning</char>: Ha!
 
-(Midair; <char>Raven</char> dodges the shot and launches herself downward for a flying kick. The yellow <char>brother</char> throws up his arms to block and is driven backward by her flurry of attacks. Finally he gets clear and socks her with a bolt that sends her flying. No sooner is she down, though, than <char>Beast Boy</char>-as a <transform class="mammal">giant panda</transform>-lumbers up behind and catches him in a bear hug. <char>Lightning</char> struggles for a moment, then electrifies his entire body and gives the shape-shifting <char>Titan</char> a few hundred thousand volts. The shock forces him back into human form and causes him to let go.)
+<stagDir>(Midair; <char>Raven</char> dodges the shot and launches herself downward for a flying kick. <charDesc ref="Lightning">The yellow brother</charDesc> throws up his arms to block and is driven backward by her flurry of attacks. Finally he gets clear and socks her with a bolt that sends her flying. No sooner is she down, though, than <char>Beast Boy</char>-as a <transform class="mammal">giant panda</transform>-lumbers up behind and catches him in a bear hug. <char>Lightning</char> struggles for a moment, then electrifies his entire body and gives the shape-shifting <char>Titan</char> a few hundred thousand volts. The shock forces him <transform class="human">back into human form</transform> and causes him to let go.)</stagDir>
 
-<char>Lightning</char>: (laughing) Your powers are strong, but mine are stronger!
+<char>Lightning</char>: <stagDir>(laughing)</stagDir> Your powers are strong, but mine are stronger!
 
-(<char>Beast Boy</char>, lying against a chunk of debris, groans and rubs his head for several seconds. He then gasps as <char>Thunder</char>'s shadow falls over him; a flash of lightning, and the camera has shifted to the big blue one.)
+<stagDir>(<char>Beast Boy</char>, lying against a chunk of debris, groans and rubs his head for several seconds. He then gasps as <char>Thunder</char>'s shadow falls over him; a flash of lightning, and <directNote kind="shift">the camera has shifted to <charDesc ref="Thunder">the big blue one</charDesc></directNote>.)</stagDir>
 
-<char>Thunder</char>: Your power of the animals is impressive, green one. (He warms up his fists.) Rise so we may do battle.
+<char>Thunder</char>: Your power of the animals is impressive, green one. <stagDir>(He warms up his fists.)</stagDir> Rise so we may do battle.
 
 
-<char>Beast Boy</char>: Why are you doing this? (He stands up.)
+<char>Beast Boy</char>: Why are you doing this? <stagDir>(He stands up.)</stagDir>
 
-<char>Thunder</char>: Because it is not sporting to attack an unready opponent. <char>Beast Boy</char>: No. Why are you wrecking everything?
+<char>Thunder</char>: Because it is not sporting to attack an unready opponent. 
+<char>Beast Boy</char>: No. Why are you wrecking everything?
 
-<char>Thunder</char>: (puzzled) Uh...because it is amusing.
+<char>Thunder</char>: <stagDir>(puzzled)</stagDir> Uh...because it is amusing.
 
-<char>Beast Boy</char>: (gesturing) Do they look amused?
+<char>Beast Boy</char>: <stagDir>(gesturing)</stagDir> Do they look amused?
 
-(Pan in that direction to show the scared <char>motorists</char> huddling behind their damaged and overturned cars. The answer to that question is obvious. Back to <char>Thunder</char> and <char>Beast Boy</char>.) <char>Thunder</char>: I-
+(<directNote kind="pan">Pan in that direction to show the scared <char>motorists</char> huddling behind their damaged and overturned cars.</directNote> <annot>The answer to that question is obvious.</annot> <directNote kind="shift">Back to <char>Thunder</char> and <char>Beast Boy</char>.</directNote>) <char>Thunder</char>: I-
 
 <char>Beast Boy</char>: This isn't funny! It's wrong!
 
-(An attack of conscience makes <char>Thunder</char> relax his power. Before <char>Beast Boy</char> can say anything more, though, a lightning bolt blasts him away and its shooter jumps down next to his <char>brother</char>.)
+<stagDir>(An attack of conscience makes <char>Thunder</char> relax his power. Before <char>Beast Boy</char> can say anything more, though, a lightning bolt blasts him away and its shooter jumps down next to his <char>brother</char>.)</stagDir>
 
-<char>Lightning</char>: Ah, the thrill of victory. (putting arm around <char>Thunder</char>'s shoulders) Come, <char>Thunder</char>. We shall seek more amusement.
+<char>Lightning</char>: Ah, the thrill of victory. <stagDir>(putting arm around <char>Thunder</char>'s shoulders)</stagDir> Come, <char>Thunder</char>. We shall seek more amusement.
 
-(They take to the air. Pan to a pile of rubble, from which the blasted <char>Titan</char> sits up-dazed, smoking, disheveled, drooling a bit. He shakes his head to clear it and finds <char>Starfire</char> floating into view behind him. She is clutching her forearm.)
+<stagDir>(They take to the air. <directNote kind="pan">Pan to a pile of rubble, from which the blasted <char>Titan</char> sits up-dazed, smoking, disheveled, drooling a bit.</directNote> He shakes his head to clear it and finds <char>Starfire</char> floating into view behind him. She is clutching her forearm.)</stagDir>
 
-<char>Beast Boy</char>: Well, that was a shock. (She turns up her nose and floats on.) <char>Starfire</char>: Hmph! <char>Beast Boy</char>: So...I'm guessing you're still mad? (Cut to the other three, <char>Cyborg</char> helps <char>Raven</char> to her feet.) <char>Robin</char>: Okay, <char>team</char>. (<char>Starfire</char> arrives, then <char>Beast Boy</char>.) We have to find those guys before they do any more damage. <char>Cyborg</char>, search the west side. <char>Raven</char>, the east. I'll take downtown. <char>Beast Boy</char>, you and <char>Star</char> scan from the skies.
+<char>Beast Boy</char>: Well, <oneLine>that was a shock</oneLine>. <stagDir>(She turns up her nose and floats on.)</stagDir> 
+<char>Starfire</char>: Hmph! 
+<char>Beast Boy</char>: So...I'm guessing you're still mad? 
+<directNote kind="cut">(Cut to the other three, <char>Cyborg</char> helps <char>Raven</char> to her feet.)</directNote> 
+<char>Robin</char>: Okay, <char>team</char>. <stagDir>(<char>Starfire</char> arrives, then <char>Beast Boy</char>.)</stagDir> We have to find those guys before they do any more damage. <char>Cyborg</char>, search the west side. <char>Raven</char>, the east. I'll take downtown. <char>Beast Boy</char>, you and <char>Star</char> scan from the skies.
 
-(<char>Beast Boy</char> looks uneasily up at the partner who has just been assigned to him. She has turned her back and crossed her arms.)
+<stagDir>(<char>Beast Boy</char> looks uneasily up at the partner who has just been assigned to him. She has turned her back and crossed her arms.)</stagDir>
 
-<char>Beast Boy</char>: Um...maybe <char>Cyborg</char> should come with me instead. <char>Robin</char>: <char>Cyborg</char> can't fly.
+<char>Beast Boy</char>: Um...maybe <char>Cyborg</char> should come with me instead. 
+<char>Robin</char>: <char>Cyborg</char> can't fly.
 
 <char>Beast Boy</char>: Oh. Yeah.
 
-<char>Cyborg</char>: (pinching his cheek; a big drop of sweat rolls down) Have a nice flight, my little clorbag.
+<char>Cyborg</char>: <stagDir>(pinching his cheek; a big drop of sweat rolls down)</stagDir> Have a nice flight, my little clorbag.
 
-(Dissolve to the open courtyard in front of the museum. On either side of a central open area is a row of vertical concrete slabs; a large metal globe is mounted at the end nearest the building. A couple of <char>fellows</char> make their way across the screen on foot and bicycle before there is a mighty blast of lightning. The troublemaking <char>brothers</char> appear, scaring the <char>men</char> away.)
+<stagDesc category="setting">(<directNote kind="dissolve">Dissolve to the open courtyard in front of the museum.</directNote> On either side of a central open area is a row of vertical concrete slabs; a large metal globe is mounted at the end nearest the building. A couple of <char>fellows</char> make their way across the screen on foot and bicycle before there is a mighty blast of lightning. The troublemaking <char>brothers</char> appear, scaring the <char>men</char> away.)</stagDesc>
 
-<char>Lightning</char>: Magnificent! (warming up) We can make much mischief here!
+<char>Lightning</char>: Magnificent! <stagDir>(warming up)</stagDir> We can make much mischief here!
 
-(He strikes the globe, which rolls away from its post toward one row of slabs. It bangs into the end one, which topples over into the next, and so on like a row of falling dominoes. Long shot of <char>Thunder</char>, whose expression changes to one of trepidation as the last slab comes down.)
+<stagDir>(He strikes the globe, which rolls away from its post toward one row of slabs. It bangs into the end one, which topples over into the next, and so on like a row of falling dominoes. <stagDesc category="long-shot">Long shot of <char>Thunder</char>, whose expression changes to one of trepidation as the last slab comes down.</stagDesc>)</stagDir>
 
-<char>Lightning</char>: (walking into view) <char>Brother</char>! Did you see what I...something troubles you?
+<char>Lightning</char>: <stagDir>(walking into view)</stagDir> <char>Brother</char>! Did you see what I...something troubles you?
 
-<char>Thunder</char>: The green one's words. He says our fun is...wrong.
+<char>Thunder</char>: <charDesc ref="Beast_Boy">The green one</charDesc>'s words. He says our fun is...wrong.
 
-<char>Lightning</char>: (laughing) Wrong? (arm across <char>Thunder</char>'s shoulders) He speaks nonsense, <char>brother</char>! How could such amusement be wrong? The fun is only beginning.
+<char>Lightning</char>: <stagDir>(laughing)</stagDir> Wrong? <stagDir>(arm across <char>Thunder</char>'s shoulders)</stagDir> He speaks nonsense, <char>brother</char>! How could such amusement be wrong? The fun is only beginning.
 
-(He leads his <char>brother</char> away. Dissolve to <char>Starfire</char> in flight, looking intently down toward the o.c. Jump City; <char>Beast Boy</char>, as a <transform class="bird">hawk</transform>, glides next to her. Their perspective, passing the damaged courtyard of the museum, then cut to ground level as they land. <char>Beast Boy</char> returns to human form, and they begin to inspect the smashed slabs.)
+<stagDir>(He leads his <char>brother</char> away. <directNote kind="dissolve">Dissolve to <char>Starfire</char> in flight, looking intently down toward the o.c. Jump City</directNote>; <char>Beast Boy</char>, as a <transform class="bird">hawk</transform>, glides next to her. Their perspective, passing the damaged courtyard of the museum, then <directNote kind="cut">cut to ground level as they land</directNote>. <char>Beast Boy</char> <transform class="human">returns to human form</transform>, and they begin to inspect the smashed slabs.)</stagDir>
 
 <char>Beast Boy</char>: Well, either they were just here, or this is the ugliest modern art I've ever seen.
 
-<char>Starfire</char>: You are not funny. You are a clorbag varblernelk. (She walks o.c.; he follows.)
+<char>Starfire</char>: You are not funny. You are a clorbag varblernelk. <stagDir>(She walks o.c.; he follows.)</stagDir>
 
-<char>Beast Boy</char>: Come on, <char>Star</char>. (Cut to them; he catches up.) You can't stay mad forever. What? Do I have to do the face? (smiling) You know you can't resist the face.
+<char>Beast Boy</char>: Come on, <char>Star</char>. <directNote kind="cut">(Cut to them; he catches up.)</directNote> You can't stay mad forever. What? Do I have to do the face? <stagDir>(smiling)</stagDir> You know you can't resist the face.
 
-(Except for a glance out of the corner of her eye, she has not looked his way throughout all of this. In no time flat, he has transformed into a small kitten with huge, shining eyes. He meows as endearingly as he can; she looks down at him for a long moment.)
+<stagDir>(Except for a glance out of the corner of her eye, she has not looked his way throughout all of this. In no time flat, he has transformed into <transform class="felidae">a small kitten with huge, shining eyes</transform>. He meows as endearingly as he can; she looks down at him for a long moment.)</stagDir>
 
-<char>Starfire</char>: (turning nose up) Hmph!
+<char>Starfire</char>: <stagDir>(turning nose up)</stagDir> Hmph!
 
 (She walks away and he returns to human form with a surprised meow.)
 
