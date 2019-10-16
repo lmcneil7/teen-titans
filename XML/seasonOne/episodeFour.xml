@@ -376,11 +376,11 @@ OPENING THEME
 
 <char>Robin</char>: Good idea, <char>Raven</char>. <char>Beast Boy</char>! <char>Starfire</char>! Help her out!
 
-(These two put on a burst of speed, and Beast Boy turns into a buffalo to deliver a crushing headbutt against the base of a tree. It topples into a row of others and brings them all down. Meanwhile, Starfire takes up a position high above the boughs; she throws a starbolt that blows another clump of old growth to matchwood. His cannon at the ready, Cyborg leaps toward Fire and lets go with a terrific blast when he lands. It skims the ground and throws up a wall of dirt in the beast's face-a large-scale equivalent of dumping sand on a campfire to put it out.)
+<stagDir>(These two put on a burst of speed, and <char>Beast Boy</char> turns into <transform class="mammal">a buffalo</transform> to deliver a crushing headbutt against the base of a tree. It topples into a row of others and brings them all down. Meanwhile, <char>Starfire</char> takes up a position high above the boughs; she throws a starbolt that blows another clump of old growth to matchwood. His cannon at the ready, <char>Cyborg</char> leaps toward <char>Fire</char> and lets go with a terrific blast when he lands. It skims the ground and throws up a wall of dirt in <charDesc ref="Fire">the beast</charDesc>'s face-a large-scale equivalent of dumping sand on a campfire to put it out.)</stagDir>
 
-(It takes some time for the view to begin to clear. Fire is nowhere in sight among the dust clouds. Cut to the Titans; Beast Boy is in human form again.)
+<stagDir>(It takes some time for the view to begin to clear. <char>Fire</char> is nowhere in sight among the dust clouds. <directNote kind="cut">Cut to the <char>Titans</char></directNote>; <char>Beast Boy</char> is in <transform class="human">human form</transform> again.)</stagDir>
 
-Beast Boy: Is he out?
+<char>Beast Boy</char>: Is he out?
 
 (Pull back to frame him in front of the murky air. In answer to his question, Fire stands up, still blazing and now roaring mad.)
 
