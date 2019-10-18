@@ -386,131 +386,136 @@ OPENING THEME
 
 <char>Raven</char>: You had to ask.
 
-(As it screeches some more, <char>Robin</char> runs up for a closer look. Cut to his perspective of the flaming creature and zoom in a bit. Up the slope to one side, standing on a stone outcropping, is the sorcerer. Close-up: he grins maliciously. Back to <char>Robin</char>, who is starting to put it all together, then to the old man. <char>Thunder</char> and <char>Lightning</char> are behind him.) <char>Sorcerer</char>: Go, young masters. <char>Fire</char> is your creation. They have no right to destroy your fun.
+<stagDir>(As it screeches some more, <char>Robin</char> runs up for a closer look. <directNote kind="cut">Cut to his perspective of the flaming creature</directNote> and <directNote kind="zoom">zoom in a bit</directNote>.<annot> Up the slope to one side, standing on a stone outcropping, is the <char>sorcerer</char>.</annot> <stagDesc category="close-up">Close-up: he grins maliciously.</stagDesc> Back to <char>Robin</char>, who is starting to put it all together, then to <charDesc ref="Sorcerer">the old man</charDesc>. <char>Thunder</char> and <char>Lightning</char> are behind him.)</stagDir> 
+<char>Sorcerer</char>: Go, young masters. <char>Fire</char> is your creation. They have no right to destroy your fun.
 
 <char>Lightning</char>: Yes! We must fight!
 
-Thunder: But, brother-
+<char>Thunder</char>: But, <char>brother</char>-
 
-Lightning: Do not annoy me with your foolish concerns! Come!
+<char>Lightning</char>: Do not annoy me with your foolish concerns! Come!
 
-(The blue brother thinks it over for a moment, and both of them disappear in a flash of light. The sorcerer turns away from the spot where they stood and spreads his arms; he starts to laugh in triumph, but it dies on his lips as Robin's yell is heard from o.c. The Titans' leader sails across the clearing and lands a flying kick that sends the staff spiraling through the air. It sticks in the ground, walking end down, and Robin lands next to it. However, the thing pulls loose and sails back into the old man's hand.)
+<stagDir>(<charDesc ref="Thunder">The blue brother</charDesc> thinks it over for a moment, and both of them disappear in a flash of light. The <char>sorcerer</char> turns away from the spot where they stood and spreads his arms; he starts to laugh in triumph, but it dies on his lips as <char>Robin</char>'s yell is heard from o.c. <charDesc ref="Robin">The Titans' leader</charDesc> sails across the clearing and lands a flying kick that sends the staff spiraling through the air. It sticks in the ground, walking end down, and <char>Robin</char> lands next to it. However, the thing pulls loose and sails back into <charDesc ref="Sorcerer">the old man</charDesc>'s hand.)</stagDir>
 
-(The tense seconds pass as the two face off; finally the sorcerer breaks the silence, his voice starting to take on a tone similar to that used by Slade.) Sorcerer: Robin. We meet at last.
+<stagDir>(The tense seconds pass as the two face off; finally the <char>sorcerer</char> breaks the silence, his voice starting to take on a tone similar to that used by <char>Slade</char>.)</stagDir> 
+<char>Sorcerer</char>: <char>Robin</char>. We meet at last.
 
-Robin: Who are you?
+<char>Robin</char>: Who are you?
 
-(There is no answer, except for a charge with staff raised for a swing. Robin meets it by hurling himself at the enemy as Fire moves closer to the city. Cut to Raven in flight.)
+<stagDir>(There is no answer, except for a charge with staff raised for a swing. <char>Robin</char> meets it by hurling himself at the enemy as <char>Fire</char> moves closer to the city. <directNote kind="cut">Cut to <char>Raven</char> in flight.</directNote>)</stagDir>
 
-Raven: Azarath Metrion Zinthos!
+<char>Raven</char>: Azarath Metrion Zinthos!
 
-(This time, she has targeted the creature itself. The stream of black energy pouring from her hands breaks against the giant's form and stops it in its tracks. When she relents, its flames have gone out, leaving the body black and smoking. Cut to the midsection and tilt up to the head as the surface begins to crack all over; finally the creature lights up again and Raven gasps in shock. It slams its fists together and creates a pyrotechnic shock wave that blasts away all the trees within several dozen yards. She is thrown back by the overpressure, as is Cyborg.)
+<stagDir>(This time, she has targeted <charDesc ref="Fire">the creature</charDesc> itself. The stream of black energy pouring from her hands breaks against <charDesc ref="Fire">the giant</charDesc>'s form and stops it in its tracks. When she relents, <charDesc ref="Fire">its flames have gone out, leaving the body black and smoking</charDesc>. <directNote kind="cut">Cut to the midsection and tilt up to the head as the surface begins to crack all over</directNote>; finally <charDesc ref="Fire">the creature</charDesc> lights up again and <char>Raven</char> gasps in shock. It slams its fists together and creates a pyrotechnic shock wave that blasts away all the trees within several dozen yards. She is thrown back by the overpressure, as is <char>Cyborg</char>.)</stagDir>
 
-(Ground level: he slams down, and Starfire and Raven land and start to help him up. Before they can get him upright, though, a lightning bolt flashes down and knocks all three even farther away. The brothers descend to the clearing; Lightning warms up his hands and advances, while Thunder stays put and gets ready to attack. Before he can throw that curveball, though, Beast Boy-as a tiger-steps into view before him.)
+<stagDir>(<stagDesc category="lower">Ground level: he slams down, and <char>Starfire</char> and <char>Raven</char> land and start to help him up.</stagDesc> Before they can get him upright, though, a lightning bolt flashes down and knocks all three even farther away. The <char>brothers</char> descend to the clearing; <char>Lightning</char> warms up his hands and advances, while <char>Thunder</char> stays put and gets ready to attack. Before he can throw that curveball, though, <char>Beast Boy</char>-as <transform class="mammal">a tiger</transform>-steps into view before him.)</stagDir>
 
-Thunder: Stand aside, green one!
+<char>Thunder</char>: Stand aside, <charDesc ref="Beast_Boy">green one</charDesc>!
 
-(Said green one just roars. They charge at one another, but before any blows can land, violet smoke boils up and covers the entire screen. When it clears, we are in the middle of a bank of clouds in this color. Thunder is among them, but his body is largely in shadow and drawn in a somewhat different style now. The next cut, after the following line, will show Beast Boy in a similar manner. The entire view shimmers and wavers somewhat, and the two voices echo slightly.)
+<stagDesc>(Said <charDesc ref="Beast_Boy">green one</charDesc> just roars. They charge at one another, but before any blows can land, violet smoke boils up and covers the entire screen. When it clears, we are in the middle of a bank of clouds in this color. <char>Thunder</char> is among them, but his body is largely in shadow and drawn in a somewhat different style now. <directNote kind="cut">The next cut, after the following line, will show <char>Beast Boy</char> in a similar manner.</directNote> The entire view shimmers and wavers somewhat, and the two voices echo slightly.)</stagDesc>
 
-Thunder: I do not wish to harm you.
+<char>Thunder</char>: I do not wish to harm you.
 
-Beast Boy: But you want to destroy homes and innocent lives? Thunder: No.
+<char>Beast Boy</char>: But you want to destroy homes and innocent lives? <char>Thunder</char>: No.
 
-Beast Boy: Then what are you fighting for?
+<char>Beast Boy</char>: Then what are you fighting for?
 
-Thunder: My brother and I...the old one says we are unique, gifted, better.
+<char>Thunder</char>: My <char>brother</char> and I...<charDesc ref="Sorcerer">the old one</charDesc> says we are <charDesc ref="Thunder_and_Lightning">unique, gifted, better</charDesc>.
 
-Beast Boy: Gifts don't make you better, just different. It's how you use them that counts.
+<char>Beast Boy</char>: <oneLine>Gifts don't make you better, just different. It's how you use them that counts.</oneLine>
 
-(Thunder turns this over in his mind a bit. Cut to a close-up of Lightning.)
+<stagDir>(<char>Thunder</char> turns this over in his mind a bit. <directNote kind="cut">Cut to a close-up of <char>Lightning</char>.</directNote>)</stagDir>
 
-Lightning: It seems your power has its limit. (holding up a sparking hand) But mine has none.
+<char>Lightning</char>: It seems your power has its limit. <stagDir>(holding up a sparking hand)</stagDir> But mine has none.
 
-(Pull back. He is standing over the unconscious Starfire and getting ready to light her up like a Christmas tree-but before he can do so, a blast from Thunder plows him away. She comes to and looks in the direction of the shot; shift to frame both brothers. Thunder pushes over a charred tree as he steps up, and Lightning gets to his feet.)
+<stagDir>(<directNote kind="pull">Pull back.</directNote> He is standing over the unconscious <char>Starfire</char> and getting ready to light her up like a Christmas tree-but before he can do so, a blast from <char>Thunder</char> plows him away. She comes to and looks in the direction of the shot; <directNote kind="shift">shift to frame both brothers</directNote>. <char>Thunder</char> pushes over a charred tree as he steps up, and <char>Lightning</char> gets to his feet.)</stagDir>
 
-Lightning: (warming up) You betray me?
+<char>Lightning</char>: <stagDir>(warming up)</stagDir> You betray me?
 
-Thunder: We have done wrong, my brother. Our fun must stop.
+<char>Thunder</char>: We have done wrong, my <char>brother</char>. Our fun must stop.
 
-Lightning: No one commands Lightning- (warming up) -not even Thunder!
+<char>Lightning</char>: No one commands <char>Lightning</char>- <stagDir>(warming up)</stagDir> -not even <char>Thunder</char>!
 
-(He throws a wide beam; the impact sends Thunder tumbling among the trees. Robin and the sorcerer, meanwhile, continue their melee as the mountain burns all around them. Slowly but steadily, the young Titan retreats downhill before his attacker's swings. Soon, though, he holds his ground and blocks one strike after another, then sidesteps when the upper end of the staff is jabbed at him. It hits a tree and sends up a wisp of smoke as if it were a red-hot branding iron. The sorcerer grimaces down at him.)
+<stagDir>(He throws a wide beam; the impact sends <char>Thunder</char> tumbling among the trees. <char>Robin</char> and the <char>sorcerer</char>, meanwhile, continue their melee as the mountain burns all around them. Slowly but steadily, <charDesc ref="Robin">the young Titan</charDesc> retreats downhill before his attacker's swings. Soon, though, he holds his ground and blocks one strike after another, then sidesteps when the upper end of the staff is jabbed at him. It hits a tree and sends up a wisp of smoke as if it were a red-hot branding iron. The <char>sorcerer</char> grimaces down at him.)</stagDir>
 
-(Cut to the mountainside. Fire continues its inexorable advance toward the lower houses as the other four Titans gather to watch. Beast Boy is back in human form.)
+<stagDesc>(<directNote kind="cut">Cut to the mountainside.</directNote> <char>Fire</char> continues its inexorable advance toward the lower houses as the other four <char>Titans</char> gather to watch. <char>Beast Boy</char> is back in <transform class="human">human form</transform>.)</stagDesc>
 
-Cyborg: Those houses go, the whole city could go. We gotta stop the fire!
+<char>Cyborg</char>: Those houses go, the whole city could go. We gotta stop the fire!
 
-Raven: How?
+<char>Raven</char>: How?
 
-Cyborg: Any way we can.
+<char>Cyborg</char>: Any way we can.
 
-(They run down the slope. Cut to Lightning in flight; he throws a bolt out ahead, and the camera shifts to Thunder, whose face suddenly goes slack-realizing he is the target. The electricity washes over him and hurls him back against a wall of rock. He slides down to a sitting position and groans wearily. Looking up, he finds his brother standing over him and ready to unload a king-size shock at point-blank range.) Thunder: Tell me, brother, are we still having fun? (Lightning's conscience gets to him.)
+<stagDir>(They run down the slope. <directNote kind="cut">Cut to Lightning in flight</directNote>; he throws a bolt out ahead, and <directNote kind="shift">the camera shifts to Thunder, whose face suddenly goes slack-realizing he is the target</directNote>. The electricity washes over him and hurls him back against a wall of rock. He slides down to a sitting position and groans wearily. Looking up, he finds his <char>brother</char> standing over him and ready to unload a king-size shock at point-blank range.)</stagDir> 
+<char>Thunder</char>:<oneLine>Tell me, <char>brother</char>, are we still having fun?</oneLine> <stagDir>(<char>Lightning</char>'s conscience gets to him.)</stagDir>
 
-Lightning: (winding down) No.
+<char>Lightning</char>: <stagDir>(winding down)</stagDir> No.
 
-Thunder: (pointing) Observe.
+<char>Thunder</char>: <stagDir>(pointing)</stagDir> Observe.
 
-(Cut to behind Fire as it descends the mountain, then to in front of it and tilt down to the houses. It is hit in the face with a sudden torrent of water, accompanied by an elephant's trumpeting. Pan along a street; Raven is casting a spell to hold the flames back, Beast Boy-as the pachyderm-is spraying water from his trunk, and Cyborg has opened a fire hydrant. Starfire descends among them.)
+<stagDesc>(<directNote kind="cut">Cut to behind <char>Fire</char> as it descends the mountain</directNote>, <directNote kind="cut">then to in front of it</directNote> and <directNote kind="tilt">tilt down to the houses</directNote>. It is hit in the face with a sudden torrent of water, accompanied by an elephant's trumpeting. <directNote kind="pan">Pan along a street</directNote>; <char>Raven</char> is casting a spell to hold the flames back, <char>Beast Boy</char>-as the <transform class="mammal">pachyderm</transform>-is spraying water from his trunk, and <char>Cyborg</char> has opened a fire hydrant. <char>Starfire</char> descends among them.)</stagDesc>
 
-Thunder: They also have gifts, but they use them for good, while we waste ours on dangerous fun. (He puts a hand on Lightning's shoulder.) If we are so special, brother, let us act special. We must help.
+<char>Thunder</char>: They also have gifts, but they use them for good, while we waste ours on dangerous fun. <stagDir>(He puts a hand on <char>Lightning</char>'s shoulder.)</stagDir> <oneLine>If we are so special, <char>brother</char>, let us act special.</oneLine> We must help.
 
-Lightning: But how? Our gifts can only destroy.
+<char>Lightning</char>: But how? Our gifts can only destroy.
 
-Thunder: True. But together we have another gift.
+<char>Thunder</char>: True. But together we have another gift.
 
-(They are gone in a flash of light, ascending into the cloud cover. When they have vanished from sight, a blast of lightning is seen from within. The four Titans find themselves staring at a mountain in flames and a walking inferno that has not let up one bit despite their best efforts. It towers over them and roars.)
+<stagDesc>(They are gone in a flash of light, ascending into the cloud cover. When they have vanished from sight, a blast of lightning is seen from within. The four <char>Titans</char> find themselves staring at a mountain in flames and a walking inferno that has not let up one bit despite their best efforts. It towers over them and roars.)</stagDesc>
 
-(Cut to the clouds, as seen at the beginning of the episode. Thunder strikes them with his sticks and Lightning directs his hands here and there, producing the same effects as before. The camera shifts to point up at them from foot level as the glare plays over both of them and a driving rain begins-the result of combining their talents. At ground level, Fire looks up in alarm at the downpour, then screams in agony as its flames go out in a thick wall of brown smoke. When the view clears, there is nothing left but a few piles of ashes. Pan from them to Beast Boy, Cyborg, Raven, and Starfire. All but Raven cheer wildly; Beast Boy is in human form.)
+<stagDesc>(<directNote kind="cut">Cut to the clouds, as seen at the beginning of the episode.</directNote> <char>Thunder</char> strikes them with his sticks and <char>Lightning</char> directs his hands here and there, producing the same effects as before.<directNote kind="shift"> The camera shifts to point up at them from foot level as the glare plays over both of them and a driving rain begins-the result of combining their talents.</directNote> At ground level, <char>Fire</char> looks up in alarm at the downpour, then screams in agony as its flames go out in a thick wall of brown smoke. When the view clears, there is nothing left but a few piles of ashes. <directNote kind="pan">Pan from them to <char>Beast Boy</char>, <char>Cyborg</char>, <char>Raven</char>, and <char>Starfire</char>.</directNote> All but <char>Raven</char> cheer wildly; <char>Beast Boy</char> is in <transform class="human">human form</transform>.)</stagDesc>
 
-(Up on the mountain, the sorcerer has caught the front of Robin's tunic and hoisted him up. The former's tone of voice is now unmistakable.)
+<stagDir>(Up on the mountain, the <char>sorcerer</char> has caught the front of <char>Robin</char>'s tunic and hoisted him up. <annot>The former's tone of voice is now unmistakable.</annot>)</stagDir>
 
-Sorcerer: Robin. Is that the best you can do?
+<char>Sorcerer</char>: <char>Robin</char>. Is that the best you can do?
 
-(There is a tremendous flash of lightning that whites out the entire screen. When it subsides, the view is at ground level; Robin drops into a crouch, free of the man's grasp. Cut to the robed figure, who has thrown up an arm to guard his face; he brings it down after a moment, revealing it to have been only a mask that was damaged in the strike. Most of the left side has fallen away, and underneath is a smooth expanse of red-orange metal with a narrow slit for the eye. The last remaining pieces come loose to fully expose that half of Slade's still-concealed face-the first time that any of it has been seen on camera. The colored reflection in that part of his silhouette, seen in "Divide and Conquer" and "Final Exam," is now fully explained, and he was able to recognize Robin from Gizmo's transmission at the end of "Final Exam.")
+<stagDir>(<directNote kind="black-screen">There is a tremendous flash of lightning that whites out the entire screen.</directNote> <stagDesc category="lower">When it subsides, the view is at ground level</stagDesc>; <char>Robin</char> drops into a crouch, free of the man's grasp. <directNote kind="cut">Cut to <charDesc ref="Slade">the robed figure</charDesc>, who has thrown up an arm to guard his face; he brings it down after a moment, revealing it to have been only a mask that was damaged in the strike.</directNote> <charDesc ref="Slade">Most of the left side has fallen away, and underneath is a smooth expanse of red-orange metal with a narrow slit for the eye.</charDesc> The last remaining pieces come loose to fully expose that half of <char>Slade</char>'s still-concealed face-the first time that any of it has been seen on camera. <annot><charDesc ref="Slade">The colored reflection in that part of his silhouette</charDesc>, seen in "Divide and Conquer" and "Final Exam," is now fully explained, and he was able to recognize <char>Robin</char> from <char>Gizmo</char>'s transmission at the end of "Final Exam."</annot>)</stagDir>
 
-(Robin gasps in shock and stares, frozen in place-and after a long moment, the mastermind disappears in a blast of smoke that fills the screen. The view clears to show a close-up of the metal disc he threw into the air to bring Fire to life. Pull back; Robin regards it thoughtfully, then picks it up for a very close look.)
+<stagDir>(<char>Robin</char> gasps in shock and stares, frozen in place-and after a long moment, <directNote kind="dissolve">the mastermind disappears in a blast of smoke that fills the screen.</directNote> <stagDesc category="close-up">The view clears to show a close-up of the metal disc he threw into the air to bring <char>Fire</char> to life.</stagDesc> <directNote kind="pull">Pull back; Robin regards it thoughtfully, then picks it up for a very close look.</directNote>)</stagDir>
 
-Robin: Slade.
+<char>Robin</char>: <char>Slade</char>.
 
-(Dissolve to the street, where the celebration is still going on. Beast Boy has his tongue out to catch the raindrops.)
+<stagDir>(<directNote kind="dissolve">Dissolve to the street, where the celebration is still going on.</directNote> <char>Beast Boy</char> has his tongue out to catch the raindrops.)</stagDir>
 
-Beast Boy: Ah, yeah! (He laughs.)
+<char>Beast Boy</char>: Ah, yeah! <stagDir>(He laughs.)</stagDir>
 
-Cyborg: That's what I mean! Very nice!
+<char>Cyborg</char>: That's what I mean! Very nice!
 
-(Beast Boy turns away from the street and sees Thunder and Lightning coming down from the mountain. He crosses to them. Lightning looks away, showing very clearly that he would rather be doing anything else right now.)
+<stagDir>(<char>Beast Boy</char> turns away from the street and sees <char>Thunder</char> and <char>Lightning</char> coming down from the mountain. He crosses to them. <char>Lightning</char> looks away, showing very clearly that he would rather be doing anything else right now.)</stagDir>
 
-Thunder: (bowing) I am sorry for the trouble we have made. (He nudges Lightning, who faces forward.)
+<char>Thunder</char>: <stagDir>(bowing)</stagDir> I am sorry for the trouble we have made. <stagDir>(He nudges <char>Lightning</char>, who faces forward.)</stagDir>
 
-Lightning: I am... (bowing) ...also sorry. (Thunder and Beast Boy shake hands.)
+<char>Lightning</char>: I am... <stagDir>(bowing)</stagDir> ...also sorry. (<char>Thunder</char> and <char>Beast Boy</char> shake hands.)
 
-Thunder: You have taught us much, green one. Thank you. Beast Boy: Don't thank me. (He gestures at Starfire; she steps forward.) Thank the person who taught me. (She and the brothers bow to each other.)
+<char>Thunder</char>: You have taught us much, green one. Thank you. 
+<char>Beast Boy</char>: Don't thank me. (He gestures at <char>Starfire</char>; she steps forward.) Thank the person who taught me. (She and the <char>brothers</char> bow to each other.)
 
-Starfire: And thank you for helping to defeat the flame monster.
+<char>Starfire</char>: And thank you for helping to defeat <charDesc ref="Fire">the flame monster</charDesc>.
 
-(Cut to an overhead view of the six-two brothers and four Titans-and then dissolve to a long shot of the Tower, seen from the city proper. It is now sunrise of the next day, the clouds have broken, and a rainbow stretches up from the horizon behind the Tower. Pan a short distance to the entire team, on a ridge overlooking Jump City. Robin hands Slade's talisman to Cyborg so he can give it a looking over.)
+(<stagDesc><directNote kind="cut">Cut to an overhead view of the six-two <char>brothers</char> and four <char>Titans</char></directNote>-and then <directNote kind="dissolve">dissolve to <stagDesc category="long-shot">a long shot of the Tower</stagDesc></directNote>, seen from the city proper. It is now sunrise of the next day, the clouds have broken, and a rainbow stretches up from the horizon behind the Tower. <directNote kind="pan">Pan a short distance to the entire team, on a ridge overlooking Jump City.</directNote> <char>Robin</char> hands <char>Slade</char>'s talisman to <char>Cyborg</char> so he can give it a looking over.)</stagDesc>
 
-[Animation goofs: Starfire's armband appears and disappears during this final scene, and the black stones in her wrist guards turn red.) Cyborg: So, Slade wants to destroy the city. Question is, why?
+<annot>[Animation goofs: Starfire's armband appears and disappears during this final scene, and the black stones in her wrist guards turn red.]</annot> 
+<char>Cyborg</char>: So, <char>Slade</char> wants to destroy the city. Question is, why?
 
-Robin: I don't know, but I will find out-and he won't get away with it. (Beast Boy comes up behind Starfire.)
+<char>Robin</char>: I don't know, but I will find out-and he won't get away with it. <stagDir>(<char>Beast Boy</char> comes up behind <char>Starfire</char>.)</stagDir>
 
-Beast Boy: So...am I, you know...still a clorbag?
+<char>Beast Boy</char>: So...am I, you know...still a clorbag?
 
-Starfire: Mmm-no. I believe you are more of a...milnip wusserloop.
+<char>Starfire</char>: Mmm-no. I believe you are more of a...milnip wusserloop.
 
-(Not being too fluent in Tamaranean, he does not know what to make of this label for a moment. Bewilderment quickly gives way to a big grin, though.)
+<stagDir>(Not being too fluent in Tamaranean, he does not know what to make of this label for a moment. Bewilderment quickly gives way to a big grin, though.)</stagDir>
 
-Beast Boy: SWEET! (dancing) Go, Beast Boy! I'm a milnip! Who's your wusserloop? Huh?
+<char>Beast Boy</char>: SWEET! <stagDir>(dancing)</stagDir> Go, Beast Boy! I'm a milnip! Who's your wusserloop? Huh?
 
-(He stops dancing; for a moment his eyes have stars in them.)
+<stagDir>(He stops dancing; for a moment his eyes have stars in them.)</stagDir>
 
-Beast Boy: (a bit puzzled) That is a good thing...right, Star?
+<char>Beast Boy</char>: <stagDir>(a bit puzzled)</stagDir> That is a good thing...right, <char>Star</char>?
 
-(She just giggles and goes airborne to head home. Raven follows her, while Robin and Cyborg start running. The green Titan is left standing by himself.)
+<stagDir>(She just giggles and goes airborne to head home. <char>Raven</char> follows her, while <char>Robin</char> and <char>Cyborg</char> start running. <charDesc ref="Beast_Boy">The green Titan</charDesc> is left standing by himself.)</stagDir>
 
-Beast Boy: Star?
+<char>Beast Boy</char>: Star?
 
-(He hot-foots it after the others. Fade to black.)
+<stagDir>(He hot-foots it after the others. <directNote kind="fade">Fade to black.</directNote>)</stagDir>
 End
 Character List
     <charList type="recurring" subtype="titan">Beast Boy</charList>
@@ -521,7 +526,8 @@ Character List
     <charList type="recurring" subtype="villain">Thunder</charList>
     <charList type="recurring" subtype="villain">Lightning</charList>
     <charList type="nonrecurring" subtype="supporting">Sorcerer</charList>
-    
-
+    <charList type="recurring" subtype="villain">Slade</charList>
+    <charList type="recurring" subtype="villain">Gizmo</charList>
+    <charList type="nonrecurring" subtype="villain">Fire</charList>
 </body>
 </transcript>
