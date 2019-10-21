@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transcript n="7">
-    <head>
-        missing
-    </head>
+    <head><episode>SWITCHED</episode>
+        
+    <writer>Rick Copp</writer>
+    
+    <director>Ciro Nieli</director>
+    
+    <storyboard>Kalvin Lee, Alan Wan, Ben Jones, Matt Youngberg</storyboard>
+        
+    <animation>DR Movie Co. Ltd.</animation></head>
 <body><act n="0">Prologue</act>
 (Opening shot: a closed stage curtain illuminated by a spotlight. It opens, revealing a backdrop that depicts Titans Tower and the city proper behind it on the shore. A wooden Robin marionette drops into view and hangs before this scene, and the voice of the o.c. puppeteer speaks for it.)
 
@@ -583,5 +589,6 @@ Raven, Starfire: (chanting) Azarath Metrion Zinthos...
 
 Raven, Starfire: (fading out) Azarath Metrion Zinthos...
 
-(Fade to black.)</body>
+(Fade to black.)
+</body>
 </transcript>
