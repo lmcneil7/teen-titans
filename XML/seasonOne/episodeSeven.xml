@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../schema/teenTitan.rnc" type="application/relax-ng-compact-syntax"?>
 <transcript n="7">
     <head><episode>SWITCHED</episode>
         
@@ -10,21 +12,21 @@
         
     <animation>DR Movie Co. Ltd.</animation></head>
 <body><act n="0">Prologue</act>
-(Opening shot: a closed stage curtain illuminated by a spotlight. It opens, revealing a backdrop that depicts Titans Tower and the city proper behind it on the shore. A wooden Robin marionette drops into view and hangs before this scene, and the voice of the o.c. puppeteer speaks for it.)
+(Opening shot: a closed stage curtain illuminated by a spotlight. It opens, revealing a backdrop that depicts Titans Tower and the city proper behind it on the shore. A wooden<char>Robin</char>:marionette drops into view and hangs before this scene, and the voice of the o.c. puppeteer speaks for it.)
 
-Robin puppet: Titans! Go!
+<char>Robin puppet</char>: Titans! Go!
 
-(The figure leaps across the stage, the camera panning to follow, then looks back the way it came. It is alone.) Robin puppet: Hey!
+(The figure leaps across the stage, the camera panning to follow, then looks back the way it came. It is alone.) <char>Robin puppet</char>: Hey!
 
 (Pull back to frame the entire stage. Figures in the likenesses of the other four are clustered at the other end. The same person provides all five voices, taking on the appropriate inflection for each. While the three boys' puppets have hinged mouths, similar to a soldier-shaped nutcracker, the two girls' puppets do not.)
 
-Robin puppet: Aren't you guys coming?
+<char>Robin puppet</char>: Aren't you guys coming?
 
-(Close-up of Raven; pan to each in turn.)
+(Close-up of <char>Raven</char>; pan to each in turn.)
 
-Raven puppet: What's the point? We can't possibly defeat the Puppet King.
+<char>Raven</char>puppet: What's the point? We can't possibly defeat the Puppet King.
 
-Starfire puppet: He is too clever and powerful, not to mention good-looking.
+<char>Starfire</char>puppet: He is too clever and powerful, not to mention good-looking.
 
 Cyborg puppet: Yeah. We should probably just surrender now.
 
@@ -45,43 +47,43 @@ OPENING THEME
 
 
 <act n="1">Act One</act>
-(Opening shot: outer space. Raven rises into view near the camera, her eyes shut and her face composed.)
+(Opening shot: outer space. <char>Raven</char>rises into view near the camera, her eyes shut and her face composed.)
 
-Raven: (chanting) Azarath Metrion Zinthos...Azarath Metrion Zinthos...
+<char>Raven</char>: (chanting) Azarath Metrion Zinthos...Azarath Metrion Zinthos...
 
 (During the previous line, the camera pulls back in steps to show her floating a foot or so above the surface of a small asteroid. She is meditating.)
 
-Starfire: (voice over, distant) Raven?
+<char>Starfire</char>: (voice over, distant) Raven?
 
 (The background starts to crack and peel away; close-up of Raven, now considerably annoyed, as it keeps breaking up to reveal the operations center. The previous backdrop reflected Raven's state of mind.)
 
-Starfire: (voice over, closer) Raven?
+<char>Starfire</char>: (voice over, closer) Raven?
 
-(Pull back slightly to frame her at the opening door; Raven has her back to it.)
+(Pull back slightly to frame her at the opening door; <char>Raven</char>has her back to it.)
 
-Starfire: Please forgive my interruption, but have you seen Robin?
+<char>Starfire</char>: Please forgive my interruption, but have you seen Robin?
 
-Raven: No.
+<char>Raven</char>: No.
 
-Starfire: Oh. (She turns to leave, but stops.) Perhaps you have seen Cyborg?
+<char>Starfire</char>: Oh. (She turns to leave, but stops.) Perhaps you have seen Cyborg?
 
-Raven: No. (Starfire turns again, but stops.)
+<char>Raven</char>: No. (<char>Starfire</char>turns again, but stops.)
 
-Starfire: Beast Boy?
+<char>Starfire</char>: <char>Beast Boy</char>?
 
-Raven: My eyes are closed, Starfire, I haven't seen anyone.
+<char>Raven</char>: My eyes are closed, Starfire, I haven't seen anyone.
 
-Starfire: They must be doing the hanging out someplace. (She turns again; close-up as she stops.) Perhaps we should do the hanging out. We never have before, and conceivably it could be fun. We might journey to the mall of shopping, or perform braiding maneuvers upon each other's hair, or...
+<char>Starfire</char>: They must be doing the hanging out someplace. (She turns again; close-up as she stops.) Perhaps we should do the hanging out. We never have before, and conceivably it could be fun. We might journey to the mall of shopping, or perform braiding maneuvers upon each other's hair, or...
 
-(Pull back on this last word to put Raven in frame. If she was annoyed before, she is now absolutely ready to explode-eyes bugging out, black flames outlining her head, face set in a fierce grimace.)
+(Pull back on this last word to put <char>Raven</char>in frame. If she was annoyed before, she is now absolutely ready to explode-eyes bugging out, black flames outlining her head, face set in a fierce grimace.)
 
-Starfire: You wish to be alone? (She backs off.)
+<char>Starfire</char>: You wish to be alone? (She backs off.)
 
-Raven: (voice still composed) How could you tell?
+<char>Raven</char>: (voice still composed) How could you tell?
 
 (She calms down again. Pull back across the operations center; the background slides away in sections, one toward each edge of the screen, to put her back n outer space.)
 
-Raven: (chanting) Azarath Metrion Zinth-
+<char>Raven</char>: (chanting) Azarath Metrion Zinth-
 
 (The scene cracks open and falls apart, leaving a white field and Cyborg's head behind her.)
 
@@ -89,109 +91,109 @@ Cyborg: MAIL CALL!!
 
 (She lets out a long, shocked yell as the operations center reestablishes itself. Hitting the floor with a thud, she winds up in a heap before the three boys, who have just come in. Cyborg is carrying a crate.)
 
-Starfire: (flying to them) Robin! Cyborg! Beast Boy! You are back! It was...quiet while you were gone.
+<char>Starfire</char>: (flying to them) Robin! Cyborg! <char>Beast Boy</char>! You are back! It was...quiet while you were gone.
 
-Raven: (standing up, dusting herself off) Not that quiet.
+<char>Raven</char>: (standing up, dusting herself off) Not that quiet.
 
 (The crate is set down on the kitchen table; it bears a label reading "To: Teen Titans-Titan Tower.")
 
-Beast Boy: (as all gather around) Check it out. This was sitting by the front door. Fan mail-probably a gift from one of my many admirers.
+<char>Beast Boy</char> (as all gather around) Check it out. This was sitting by the front door. Fan mail-probably a gift from one of my many admirers.
 
-(Raven rolls her eyes. Close-up of Robin, bent over for a closer look at the crate.)
+(<char>Raven</char>rolls her eyes. Close-up of Robin, bent over for a closer look at the crate.)
 
 [Now "Titans Tower" has the S in the proper place.]
 
-Robin: Actually, it doesn't say who it's from.
+<char>Robin</char>: Actually, it doesn't say who it's from.
 
 (Cyborg reaches into view and grabs the lid.)
 
 Cyborg: (from o.c.) Well, one way to find out.
 
-(He yanks it up; cut to inside as Cyborg, Robin, and Starfire peek in.)
+(He yanks it up; cut to inside as Cyborg, Robin, and <char>Starfire</char>peek in.)
 
-Cyborg: Whoa! Robin: Cool! (Starfire giggles; Beast Boy looks in.)
+Cyborg: Whoa! <char>Robin</char>: Cool! (<char>Starfire</char>giggles; Beast Boy looks in.)
 
-Beast Boy: Honestly, I was kinda hoping for chocolate.
+<char>Beast Boy</char> Honestly, I was kinda hoping for chocolate.
 
 (Cyborg reaches toward the camera; cut to him. He brings up the puppet copy of himself seen in the prologue.) Cyborg: Aww, isn't that cute? Puppet Cy has a light-up eye.
 
-(It does indeed. Beast Boy and Robin have found their duplicates.)
+(It does indeed. Beast Boy and<char>Robin</char>:have found their duplicates.)
 
-Robin: (pulling his puppet's belt buckle) Yeah. They got all the details just right.
+<char>Robin</char>: (pulling his puppet's belt buckle) Yeah. They got all the details just right.
 
-Beast Boy: Speak for yourself. I'm way better looking than this-and taller.
+<char>Beast Boy</char> Speak for yourself. I'm way better looking than this-and taller.
 
-(Raven looks at hers.)
+(<char>Raven</char>looks at hers.)
 
-Raven: Someone certainly has a lot of time on their hands.
+<char>Raven</char>: Someone certainly has a lot of time on their hands.
 
-(On the end of this line, she pulls back the puppet's hood and finds that her hairline has also been recreated. Starfire giggles as she looks hers over and works it around a bit.) Starfire: I have never seen such a whimsical device. (Close-up of it; she makes it bow and speaks for it.)
+(On the end of this line, she pulls back the puppet's hood and finds that her hairline has also been recreated. <char>Starfire</char>giggles as she looks hers over and works it around a bit.) <char>Starfire</char>: I have never seen such a whimsical device. (Close-up of it; she makes it bow and speaks for it.)
 
-Starfire: (from o.c., deep tone) Hello, Starfire! (leaning into view to shake,, normal voice) Hello, tiny wooden replica of Starfire!
+<char>Starfire</char>: (from o.c., deep tone) Hello, <char>Starfire</char>! (leaning into view to shake,, normal voice) Hello, tiny wooden replica of <char>Starfire</char>!
 
 (Beast Boy's puppet jumps over behind Robin's.)
 
-Beast Boy: (from o.c.) Dude! (It delivers a kick to the rear; cut to the two boys.) My puppet is totally kicking your puppet's butt!
+<char>Beast Boy</char> (from o.c.) Dude! (It delivers a kick to the rear; cut to the two boys.) My puppet is totally kicking your puppet's butt!
 
-Robin: Not for long.
+<char>Robin</char>: Not for long.
 
 (Shifting his voice into kung fu mode, he makes his marionette strike Beast Boy's with a chop that sends it crashing into the wooden Cyborg.)
 
 Cyborg: (from o.c.; puppet shakes fist) You want a piece of me, little man?
 
-(The Beast Boy and Robin puppets keep taking swipes at each other as their operators provide good-natured fighting banter. Cyborg soon gets into the act as well; his replica swings into view to join the Three Stooges-style fracas. After a few seconds, pull back to frame the three Titans and Raven, who watches with obvious contempt.) Raven: Boys. (Starfire comes to her, working her own puppet.)
+(The Beast Boy and<char>Robin</char>:puppets keep taking swipes at each other as their operators provide good-natured fighting banter. Cyborg soon gets into the act as well; his replica swings into view to join the Three Stooges-style fracas. After a few seconds, pull back to frame the three Titans and Raven, who watches with obvious contempt.) <char>Raven</char>: Boys. (<char>Starfire</char>comes to her, working her own puppet.)
 
-Starfire: Shall my tiny replica do battle with your tiny replica?
+<char>Starfire</char>: Shall my tiny replica do battle with your tiny replica?
 
-Raven: Knock yourself out. (She tosses hers to Starfire and walks away, leaving only the camera on the receiving end of the latter's puzzled stare. Fade to black.)
+<char>Raven</char>: Knock yourself out. (She tosses hers to <char>Starfire</char>and walks away, leaving only the camera on the receiving end of the latter's puzzled stare. Fade to black.)
 
 (Fade in to the exterior of the Tower that night. Cut to a series of overhead views of the following: the entrance hall, the operations center, a corner of the hall, the storage area, the kitchen tables-complete with the open crate that contained the presents. Not a soul is seen in any of these shots. After a few moments of the last area, a hand shoots into view, accompanied by a few wisps of straw and the sound of splintering wood. The camera shifts to show the hand reaching up from the crate, with the previous views and others shown on the operations center monitors-cameras for after-hours surveillance. Next the other hand emerges, and both brace against the crate's edge as a shadowed figure hoists itself out. The crown on the overlarge head gives it away as the Puppet King. All the monitors fill with static, and the screen snaps to black.)
 
-(Snap to an overhead view of Starfire asleep in her room. Her bed is circular, with pink sheets and blankets, and she is sleeping the wrong way around on top of the bedclothes-feet on the pillow, head hanging off the opposite edge. Her puppet lies nearby on a round stool. Initially, the camera frames her head near the top of the screen, but it soon rotates 180 degrees to bring her feet into that position.)
+(Snap to an overhead view of <char>Starfire</char>asleep in her room. Her bed is circular, with pink sheets and blankets, and she is sleeping the wrong way around on top of the bedclothes-feet on the pillow, head hanging off the opposite edge. Her puppet lies nearby on a round stool. Initially, the camera frames her head near the top of the screen, but it soon rotates 180 degrees to bring her feet into that position.)
 
 (Pull back across the room; the door slides open. In a close-up of the sleeping girl, we see the Puppet King's outline pop up just behind her, then duck away and come up at a different spot. He drops out of sight in a flash; she awakens and sits up a moment later as the door closes.)
 
-Starfire: (gasping in fright) Who is there?
+<char>Starfire</char>: (gasping in fright) Who is there?
 
 (Cut to a computer screen flashing the words "Game Over" and showing a dead monkey that clutches a flower to its chest. Ghosts rise from the body. The camera moves past this and zooms in on a set of bunk beds, the bottom one of which is festooned with unmade sheets and dirty clothes. A sleeping silhouette can be seen on the top bunk; the voice gives it away as Beast Boy and this place as his room.)
 
-Beast Boy: (talking in sleep) Ladies...please...
+<char>Beast Boy</char> (talking in sleep) Ladies...please...
 
 (Close-up of the bunks, tilting up to the top. He is cradling a sock; his figurine hangs from the headboard.)
 
-Beast Boy: ...one at a time. You'll all get to take your picture with me. (He makes as if to kiss the unwashed footwear as the camera pulls back. The Puppet King has climbed up to the bunk, and he holds out a wooden crosspiece such as the ones attached to all the puppets. This one has no strings, but a green spot begins to glow on one of the six arms and Beast Boy is briefly surrounded with light of the same color. He shudders in his sleep, then relaxes-and a ghostly copy of the teen emerges from his body and enters the puppet.)
+<char>Beast Boy</char> ...one at a time. You'll all get to take your picture with me. (He makes as if to kiss the unwashed footwear as the camera pulls back. The Puppet King has climbed up to the bunk, and he holds out a wooden crosspiece such as the ones attached to all the puppets. This one has no strings, but a green spot begins to glow on one of the six arms and Beast Boy is briefly surrounded with light of the same color. He shudders in his sleep, then relaxes-and a ghostly copy of the teen emerges from his body and enters the puppet.)
 
 (Cut to the hall. Starfire's door opens; she steps out, missing the Puppet King's shadow as it passes at the far end.)
 
-Starfire: (softly) Hello? Hello? (Cut to Cyborg's feet; he is lying on the inclined table seen in his room during "Divide and Conquer." Pan to show the rest of his sleeping form. One big hand grips his plaything to his chest. The intruder's hand pops up near the camera, holding that crosspiece; a blue-white spot now appears on one of the arms, and the big man is enveloped in that color light. He jerks awake with a sharp gasp, but his head soon rolls to one side as a specter of himself passes from his body to the puppet. The little red eye lights up,)
+<char>Starfire</char>: (softly) Hello? Hello? (Cut to Cyborg's feet; he is lying on the inclined table seen in his room during "Divide and Conquer." Pan to show the rest of his sleeping form. One big hand grips his plaything to his chest. The intruder's hand pops up near the camera, holding that crosspiece; a blue-white spot now appears on one of the arms, and the big man is enveloped in that color light. He jerks awake with a sharp gasp, but his head soon rolls to one side as a specter of himself passes from his body to the puppet. The little red eye lights up,)
 
-(Cut to the stairs. The door opens and Starfire looks out, just as those short legs clamber up the stairs. She returns to normal volume.)
+(Cut to the stairs. The door opens and <char>Starfire</char>looks out, just as those short legs clamber up the stairs. She returns to normal volume.)
 
-Starfire: Is someone there?
+<char>Starfire</char>: Is someone there?
 
-(In Robin's room, his supine form is already swathed in red light. He drops o.c. as his ethereal form escapes its physical shell and passes to the puppet sitting atop some nearby bookshelves. The hall again; Starfire looks along it, her back to the camera, as a creepy chuckle echoes in the darkness-the same voice from the prologue. It gets louder; she turns to face us.)
+(In Robin's room, his supine form is already swathed in red light. He drops o.c. as his ethereal form escapes its physical shell and passes to the puppet sitting atop some nearby bookshelves. The hall again; <char>Starfire</char>looks along it, her back to the camera, as a creepy chuckle echoes in the darkness-the same voice from the prologue. It gets louder; she turns to face us.)
 
-Starfire: Huh? (She approaches.) If this is a joke, it is not-
+<char>Starfire</char>: Huh? (She approaches.) If this is a joke, it is not-
 
-(She cuts it off at the sound of an o.c. door being opened, and she turns toward it. Cut to just behind her; it is Raven's door, and she is looking out at Starfire. Both scream in sheer terror and surprise, their hair standing on end briefly. The short violet strands form the shape of the bird for which their wearer was named, with the sides forming wings and the widow's peak in front creating the head.)
+(She cuts it off at the sound of an o.c. door being opened, and she turns toward it. Cut to just behind her; it is Raven's door, and she is looking out at <char>Starfire</char>. Both scream in sheer terror and surprise, their hair standing on end briefly. The short violet strands form the shape of the bird for which their wearer was named, with the sides forming wings and the widow's peak in front creating the head.)
 
-Starfire: Raven! You have also heard the strange noises?
+<char>Starfire</char>: <char>Raven</char>! You have also heard the strange noises?
 
-Raven: The strange noises of you talking outside my door? Hard to miss.
+<char>Raven</char>: The strange noises of you talking outside my door? Hard to miss.
 
-Starfire: Oh. (blushing) Forgive me, I thought there was someone-
+<char>Starfire</char>: Oh. (blushing) Forgive me, I thought there was someone-
 
-(This time, the thing that cuts her off is a blast from the o.c. Cyborg's sonic cannon that just misses both of them. Turning toward its source, they find the other three Titans charging down the hall. Robin leaps for a kick as Beast Boy turns into a dinosaur and charges ahead. The former nearly takes Starfire's head off with the sole of his boot; the latter tries to get at Raven, but she creates energy barriers to slow him down a bit. The eyes of both aggressors are glowing.)
+(This time, the thing that cuts her off is a blast from the o.c. Cyborg's sonic cannon that just misses both of them. Turning toward its source, they find the other three Titans charging down the hall.<char>Robin</char>:leaps for a kick as Beast Boy turns into a dinosaur and charges ahead. The former nearly takes Starfire's head off with the sole of his boot; the latter tries to get at Raven, but she creates energy barriers to slow him down a bit. The eyes of both aggressors are glowing.)
 
-Raven: Beast Boy, it's me! Don't make me hurt you!
+<char>Raven</char>: Beast Boy, it's me! Don't make me hurt you!
 
-(He breaks through the shield she has put up and snaps at her. As Starfire flies over Robin's head, he gets three discs ready in one hand and hurls them. She shoots them down with starbolts; the first two fizzle out, but the third explodes with great force when shot and she is thrown downward. Cyborg catches her, and we see that his eyes are glowing like those of the other two boys.)
+(He breaks through the shield she has put up and snaps at her. As <char>Starfire</char>flies over Robin's head, he gets three discs ready in one hand and hurls them. She shoots them down with starbolts; the first two fizzle out, but the third explodes with great force when shot and she is thrown downward. Cyborg catches her, and we see that his eyes are glowing like those of the other two boys.)
 
-(Beast Boy has continued his advance against Raven. A swing of the tail knocks her down the hall, where Cyborg catches her as well and pins one girl under each arm.)
+(Beast Boy has continued his advance against <char>Raven</char> A swing of the tail knocks her down the hall, where Cyborg catches her as well and pins one girl under each arm.)
 
-Raven: Let me go! (Robin and Beast Boy approach; the latter returns to human form.)
+<char>Raven</char>: Let me go! (Robin and Beast Boy approach; the latter returns to human form.)
 
-Starfire: Friends! Why do you attack us?
+<char>Starfire</char>: Friends! Why do you attack us?
 
 Puppet King: (from o.c.) Oh. They're not your friends anymore.
 
@@ -201,33 +203,33 @@ Puppet King: They are my puppets. (pulling figures from behind back) These are y
 
 All lines marked with one asterisk are delivered in the fashion just described. ***
 
-Robin: Starfire!
+<char>Robin</char>: <char>Starfire</char>!
 
-Cyborg: Raven!
+Cyborg: <char>Raven</char>!
 
-Beast Boy: Help!
+<char>Beast Boy</char> Help!
 
-Raven: Release them!
+<char>Raven</char>: Release them!
 
-(Starfire gasps.)
+(<char>Starfire</char>gasps.)
 
 Puppet King: (swinging puppets behind back) Sorry, but you're not in charge here. You don't command me.
 
-(He holds up his crosspiece, which now shows lights on five of its arms-red for Robin, orange for Starfire, blue for Raven.)
+(He holds up his crosspiece, which now shows lights on five of its arms-red for Robin, orange for Starfire, blue for <char>Raven</char>)
 
 Puppet King: I command you.
 
-(Beast Boy and Robin raise the Raven and Starfire marionettes, respectively, and each girl groans as she is wreathed in her own color light-the beginning of the same process that took the souls of the boys.)
+(Beast Boy and<char>Robin</char>:raise the <char>Raven</char>and <char>Starfire</char>marionettes, respectively, and each girl groans as she is wreathed in her own color light-the beginning of the same process that took the souls of the boys.)
 
 Puppet King: And with the Puppet King pulling the strings, the Teen Titans will command the entire city.
 
-Raven: (as her soul and Starfire's escape) Azarath...Metrion...Zinthos.
+<char>Raven</char>: (as her soul and Starfire's escape) Azarath...Metrion...Zinthos.
 
 (Both pass out as a black starburst emerges from her forehead and flares over the entire hall, knocking everyone silly. The crosspiece spins away from its master's hand and skids along the floor.)
 
 Puppet King: My control!
 
-(Beams shoot from the ends corresponding to the two girls, and their souls float free of the wooden receptacles and flash into the bodies of the prone girls-Starfire's to Raven and vice versa. By the time the Puppet King has his control device back in hand, they have made it upright and sprinted off down the hall.)
+(Beams shoot from the ends corresponding to the two girls, and their souls float free of the wooden receptacles and flash into the bodies of the prone girls-Starfire's to <char>Raven</char>and vice versa. By the time the Puppet King has his control device back in hand, they have made it upright and sprinted off down the hall.)
 
 Puppet King: After them.
 
@@ -235,283 +237,283 @@ Puppet King: After them.
 
 All lines marked with two asterisks are spoken by the indicated girl, in her normal voice but from within the other's body. Stage directions also follow this convention until further notice. ***
 
-Starfire: (softly) The boys! Raven! What are we going to-
+<char>Starfire</char>: (softly) The boys! <char>Raven</char>! What are we going to-
 
-(Raven reaches over and switches on a hanging light bulb, and the two girls get a good eyeful of each other in their new situation. Each one's face shows the kind of expression she might have if she were still in her own body, and they give each other a long and very bewildered look. Both are at normal speaking volume now.)
+(<char>Raven</char>reaches over and switches on a hanging light bulb, and the two girls get a good eyeful of each other in their new situation. Each one's face shows the kind of expression she might have if she were still in her own body, and they give each other a long and very bewildered look. Both are at normal speaking volume now.)
 
-Raven: Starfire?
+<char>Raven</char>: Starfire?
 
-Starfire: Raven? (She gasps.) You are me! (Again, louder, looking at herself.) And I am you!
+<char>Starfire</char>: Raven? (She gasps.) You are me! (Again, louder, looking at herself.) And I am you!
 
 (Black energy crackles from her forehead and shatters the light bulb, putting them into near-total darkness again. Fade to black.)
 
 <act n="2">Act Two</act>
 (Opening shot: an overhead pan along a street in Jump City. It is now early the next morning. Beast Boy, as a hawk, pulls into view with a cry and moves ahead of the camera-searching for the two runaways. Ground level: his shadow passes over a manhole, and the entire street shakes briefly as its cover blows sky-high thanks to some out-of-control telekinesis. The steel circle slams back to the pavement, rattling loudly as it settles until Starfire's hand reaches up and pushes it aside. She climbs out.)
 
-Starfire: Oh, Raven! This is awful! (Raven emerges.) Terribly, horribly awful! (Raven heads down the sidewalk, pulling Starfire along behind her.)
+<char>Starfire</char>: Oh, <char>Raven</char>! This is awful! (<char>Raven</char>emerges.) Terribly, horribly awful! (<char>Raven</char>heads down the sidewalk, pulling <char>Starfire</char>along behind her.)
 
-Raven: Tell me about it.
+<char>Raven</char>: Tell me about it.
 
-Starfire: Very well. (gradually panicking) Robin, Cyborg, and Beast Boy have been trapped inside tiny wooden bodies, while a nasty creature called the Puppet King has taken control of their real bodies, which he is using to hunt us down, and you and I are in the wrong bodies and-
+<char>Starfire</char>: Very well. (gradually panicking) Robin, Cyborg, and Beast Boy have been trapped inside tiny wooden bodies, while a nasty creature called the Puppet King has taken control of their real bodies, which he is using to hunt us down, and you and I are in the wrong bodies and-
 
 (Throughout all of this, the powers of the body she has borrowed manifest themselves in the following three ways. A couple of parking meters bend themselves double, newspaper boxes spew their contents in all directions, and a mailbox melts down. The only thing that stops her flow of words is Raven's hand on her shoulder, startling a gasp out of her.)
 
-Raven: Starfire! You have to calm down. My powers are driven by emotion. The more you feel, the more energy you unleash.
+<char>Raven</char>: <char>Starfire</char>! You have to calm down. My powers are driven by emotion. The more you feel, the more energy you unleash.
 
-Starfire: But what if they find us? What if our friends are doomed? (as a big sweat drop rolls down Raven's head) What if I am stuck looking like this forever?
+<char>Starfire</char>: But what if they find us? What if our friends are doomed? (as a big sweat drop rolls down Raven's head) What if I am stuck looking like this forever?
 
 (Her head spins on her neck several times-think The Exorcist.)
 
-Raven: We'll fix it. I don't know how, but we will rescue the boys and we will get our bodies back. (Pause.) What's wrong with the way I look?
+<char>Raven</char>: We'll fix it. I don't know how, but we will rescue the boys and we will get our bodies back. (Pause.) What's wrong with the way I look?
 
-Starfire: (hastily) Nothing.
+<char>Starfire</char>: (hastily) Nothing.
 
 (A pedestrian crossing signal above their heads explodes-she is still very much on edge.)
 
-Starfire: I will try to calm down. (She exhales and closes her eyes.) Peace...quiet...tranquil-
+<char>Starfire</char>: I will try to calm down. (She exhales and closes her eyes.) Peace...quiet...tranquil-
 
 (A car parked next to them is launched straight up and crashes back to the ground, upside down, nearly two seconds later. Its alarm goes off.)
 
-Raven: We are so doomed. (A cry from Beast Boy, overhead o.c.)
+<char>Raven</char>: We are so doomed. (A cry from Beast Boy, overhead o.c.)
 
-Starfire: (pointing) Beast Boy!
+<char>Starfire</char>: (pointing) <char>Beast Boy</char>!
 
 (From-the-ground view of the sky, tilting up from the pair. He is above the rooftops, illuminated by the full moon, but soon goes into a sharp descent with talons extended. Back to the girls, zooming in, on the start of the next line.)
 
-Raven: You mean zombie Beast Boy. (pulling Starfire toward alley) Run!
+<char>Raven</char>: You mean zombie Beast Boy. (pulling <char>Starfire</char>toward alley) Run!
 
-(As they follow the alley's turns, Raven starts jumping and flapping her arms-trying to get clear of the ground.)
+(As they follow the alley's turns, <char>Raven</char>starts jumping and flapping her arms-trying to get clear of the ground.)
 
-Raven: Fly! Fly! (After another turn or two, they slow to a walk.)
+<char>Raven</char>: Fly! Fly! (After another turn or two, they slow to a walk.)
 
-Starfire: We cannot fight them again. I do not wish to, and in our present condition we would surely be defeated.
+<char>Starfire</char>: We cannot fight them again. I do not wish to, and in our present condition we would surely be defeated.
 
-Raven: Okay. How do you fly this thing? (She gestures at herself.)
+<char>Raven</char>: Okay. How do you fly this thing? (She gestures at herself.)
 
-Starfire: You must feel flight.
+<char>Starfire</char>: You must feel flight.
 
-Raven: What?
+<char>Raven</char>: What?
 
-Starfire: When you feel the unbridled joy of flight, you will fly.
+<char>Starfire</char>: When you feel the unbridled joy of flight, you will fly.
 
-Raven: Unbridled joy? Not really my thing.
+<char>Raven</char>: Unbridled joy? Not really my thing.
 
-Starfire: (pointing o.c.) Look!
+<char>Starfire</char>: (pointing o.c.) Look!
 
-(The hand movement creates a black spark that throws Raven off her feet. Camera shift: now we see Beast Boy, as a tiger, rushing toward them.)
+(The hand movement creates a black spark that throws <char>Raven</char>off her feet. Camera shift: now we see Beast Boy, as a tiger, rushing toward them.)
 
-Raven: What do I have to feel to use starbolts?
+<char>Raven</char>: What do I have to feel to use starbolts?
 
-Starfire: Righteous fury.
+<char>Starfire</char>: Righteous fury.
 
-Raven: Your alien strength?
+<char>Raven</char>: Your alien strength?
 
-Starfire: Boundless confidence.
+<char>Starfire</char>: Boundless confidence.
 
-Raven: Never mind.
+<char>Raven</char>: Never mind.
 
-(She runs back the way they came and yanks Starfire along. As Beast Boy pursues, they take a different turn and wind up in a darker stretch of the alley. Something black swishes by in front, bringing them up short with a gasp; it straightens up to expose Robin's silhouette. They back up a few steps only to find the green jungle cat blocking the retreat. He moves in a little closer and roars, and now Robin brings out his fighting staff and runs at them. Beast Boy pounces as well. The girls stand pat and sidestep at the last moment; the two hypnotized Titans collide in midair, and the staff socks Beast Boy in the head and goes flying along the alley. Raven and Starfire make tracks while the attackers lie dazed, Robin pinned under Beast Boy. The staff clunks down on the latter's head; both are soon on their feet to continue the chase.) (Yet another side passage in the alley. Starfire passes it, but Raven ducks in and reaches out to haul her opposite number back. They flatten themselves against the wall to stay out of sight of Robin and Beast Boy, who pass the corner without a second thought. A momentary relieved smile from Raven is cut off when two very large and familiar bionic hands smash through the bricks behind them. Raven screams in terror and is propelled upward at terrific speed by an inadvertent burst of telekinesis from Starfire, who runs off as Cyborg knocks the wall down.)
+(She runs back the way they came and yanks <char>Starfire</char>along. As Beast Boy pursues, they take a different turn and wind up in a darker stretch of the alley. Something black swishes by in front, bringing them up short with a gasp; it straightens up to expose Robin's silhouette. They back up a few steps only to find the green jungle cat blocking the retreat. He moves in a little closer and roars, and now<char>Robin</char>:brings out his fighting staff and runs at them. Beast Boy pounces as well. The girls stand pat and sidestep at the last moment; the two hypnotized Titans collide in midair, and the staff socks Beast Boy in the head and goes flying along the alley. <char>Raven</char>and <char>Starfire</char>make tracks while the attackers lie dazed,<char>Robin</char>:pinned under Beast Boy. The staff clunks down on the latter's head; both are soon on their feet to continue the chase.) (Yet another side passage in the alley. <char>Starfire</char>passes it, but <char>Raven</char>ducks in and reaches out to haul her opposite number back. They flatten themselves against the wall to stay out of sight of<char>Robin</char>:and Beast Boy, who pass the corner without a second thought. A momentary relieved smile from <char>Raven</char>is cut off when two very large and familiar bionic hands smash through the bricks behind them. <char>Raven</char>screams in terror and is propelled upward at terrific speed by an inadvertent burst of telekinesis from Starfire, who runs off as Cyborg knocks the wall down.)
 
-Starfire: Wait for me, please!
+<char>Starfire</char>: Wait for me, please!
 
-(He drools a little bit as he looks after them. Now they round a corner and stop, but soon they are forced to back up when he steps in after them. He is visible only as a silhouette, and Robin and Beast Boy, in human form, join him. They close in; the girls back up to a dead-end wall.)
+(He drools a little bit as he looks after them. Now they round a corner and stop, but soon they are forced to back up when he steps in after them. He is visible only as a silhouette, and<char>Robin</char>:and Beast Boy, in human form, join him. They close in; the girls back up to a dead-end wall.)
 
-Raven: If I can't fly, you have to levitate. You know those words I always-
+<char>Raven</char>: If I can't fly, you have to levitate. You know those words I always-
 
-Starfire: Yes! (She sucks in a huge breath and holds it.)
+<char>Starfire</char>: Yes! (She sucks in a huge breath and holds it.)
 
-Raven: Wait! You have to focus! (Exhale.)
+<char>Raven</char>: Wait! You have to focus! (Exhale.)
 
-Starfire: (hastily) Azarath Metrion Zinthos!
+<char>Starfire</char>: (hastily) Azarath Metrion Zinthos!
 
-(She goes up like a rocket, dragging Raven by the hand, and both scream as they gain too much altitude. The three puppet-Titans stare up after them; the two stop in midair before barreling over the trio's heads. Operating on the ragged edge of control, Starfire tows Raven up to roof level and beyond to soar over Jump City.)
+(She goes up like a rocket, dragging <char>Raven</char>by the hand, and both scream as they gain too much altitude. The three puppet-Titans stare up after them; the two stop in midair before barreling over the trio's heads. Operating on the ragged edge of control, <char>Starfire</char>tows <char>Raven</char>up to roof level and beyond to soar over Jump City.)
 
-Starfire: I wish to stop! Please tell me the way to stop!
+<char>Starfire</char>: I wish to stop! Please tell me the way to stop!
 
-Raven: Look at the ground and imagine-
+<char>Raven</char>: Look at the ground and imagine-
 
-(Starfire turns her gaze downward; cut to her perspective of the passing city blocks.)
+(<char>Starfire</char>turns her gaze downward; cut to her perspective of the passing city blocks.)
 
-Raven: (from o.c.) Wait!
+<char>Raven</char>: (from o.c.) Wait!
 
-(Back to them. The severely inexperienced pilot drops like a rock, Raven goes with her, and they slam down in a huge pile of trash between two buildings. After a moment, they poke their heads up; Raven shovels waste feverishly toward the street.)
+(Back to them. The severely inexperienced pilot drops like a rock, <char>Raven</char>goes with her, and they slam down in a huge pile of trash between two buildings. After a moment, they poke their heads up; <char>Raven</char>shovels waste feverishly toward the street.)
 
-Starfire: Ugh! I smell like the breath of a Snervian blork worm. Raven, what are you-
+<char>Starfire</char>: Ugh! I smell like the breath of a Snervian blork worm. Raven, what are you-
 
-Raven: (clapping hand to Starfire's mouth) Shhh!
+<char>Raven</char>: (clapping hand to Starfire's mouth) Shhh!
 
-(Leaning back to hide herself behind the berm she has made, she throws a trash bag at Starfire and lands it on her head to drive her down and out of sight. Robin and Cyborg walk into view from opposite directions and stop near the garbage to look around a bit. Not seeing anything worth attention, they continue on their respective patrols. Cut to behind the trash pile as they leave, then tilt down to the two girls huddled behind it. A little aura of energy appears briefly around one of Starfire's hands; Raven gives her a hard look as she moans sadly at having lost control again. The next two lines are delivered in hushed tones.)
+(Leaning back to hide herself behind the berm she has made, she throws a trash bag at <char>Starfire</char>and lands it on her head to drive her down and out of sight.<char>Robin</char>:and Cyborg walk into view from opposite directions and stop near the garbage to look around a bit. Not seeing anything worth attention, they continue on their respective patrols. Cut to behind the trash pile as they leave, then tilt down to the two girls huddled behind it. A little aura of energy appears briefly around one of Starfire's hands; <char>Raven</char>gives her a hard look as she moans sadly at having lost control again. The next two lines are delivered in hushed tones.)
 
-Starfire: Peace, quiet, tranquility...peace, quiet, tranquility.
+<char>Starfire</char>: Peace, quiet, tranquility...peace, quiet, tranquility.
 
-Raven: It's all right. They're going.
+<char>Raven</char>: It's all right. They're going.
 
 (Their perspective, peering out at the departing pair through an opening in the wall of junk. A large green rat-Beast Boy-pops into view; back to Starfire, who gasps in fright and is silenced by Raven's hand on her mouth. The rodent sniffs the air a bit and climbs up the bags behind them as they remain stock-still. Extreme close-up of Starfire's temple; a drop of sweat forms and slides down to the hand over her mouth. Raven's face is framed from nose to chin, with sweat sliding down her cheek as well and her lower lip caught nervously between her teeth. Back to Beast Boy, who is still sniffing about. The next words bring him to a stop.)
 
 Puppet King: (from o.c.) Enough!
 
-(The Titan scuttles away; pan to the two fugitives, who are still making no sound, then cut to Robin and Cyborg. Beast Boy rejoins them and takes human form; they turn toward the voice.)
+(The Titan scuttles away; pan to the two fugitives, who are still making no sound, then cut to<char>Robin</char>:and Cyborg. Beast Boy rejoins them and takes human form; they turn toward the voice.)
 
 Puppet King: (from o.c.) We will catch the other two after the ceremony is complete.
 
 (On the end of this line, cut to a patch of brickwork on the building's upper stories and tilt down to ground level. He stands there, near the fetid castoffs, with the three boys' puppets still in hand, and he steps forward and holds them up.)
 
-Robin: Ceremony?
+<char>Robin</char>: Ceremony?
 
 Cyborg: What ceremony?
 
 Puppet King: Just a little spell that will destroy you three- (Cut to the hypnotized trio; he continues o.c.) -and make your bodies mine forever. (Extreme close-up of him.) Come, my puppets.
 
-(He walks away and they follow. After all have gone, cut to an alley behind the dump heap. A few trash bags are flung away; the two girls step out, and Raven tries to get her auburn hair untangled.)
+(He walks away and they follow. After all have gone, cut to an alley behind the dump heap. A few trash bags are flung away; the two girls step out, and <char>Raven</char>tries to get her auburn hair untangled.)
 
-Raven: How can you stand having this much hair?
+<char>Raven</char>: How can you stand having this much hair?
 
-Starfire: Quickly, Raven! Our friends are in danger! We must follow and-
+<char>Starfire</char>: Quickly, <char>Raven</char>! Our friends are in danger! We must follow and-
 
-Raven: (pulling her back) And what? Save them with my unusable powers while your unbridled emotions blow us to bits? Nice flying, by the way. (A black aura surrounds Starfire.)
+<char>Raven</char>: (pulling her back) And what? Save them with my unusable powers while your unbridled emotions blow us to bits? Nice flying, by the way. (A black aura surrounds <char>Starfire</char>.)
 
-Starfire: (angrily) At least I am able to fly. (Raven digs in her ear.) On my planet, even a newborn can unleash the joy of flight. But you are too busy being grumpy and rude to feel anything at all!
+<char>Starfire</char>: (angrily) At least I am able to fly. (<char>Raven</char>digs in her ear.) On my planet, even a newborn can unleash the joy of flight. But you are too busy being grumpy and rude to feel anything at all!
 
-Raven: Maybe you haven't noticed, but my emotions are dangerous. I can't afford to feel anything. (She turns her back.) You may have my body, but you know nothing about me. (The aura dissipates.)
+<char>Raven</char>: Maybe you haven't noticed, but my emotions are dangerous. I can't afford to feel anything. (She turns her back.) You may have my body, but you know nothing about me. (The aura dissipates.)
 
-Starfire: Perhaps you are right. (Raven turns to her.) And if you and I are to overcome this ordeal, we must know everything about each other. So...begin sharing.
+<char>Starfire</char>: Perhaps you are right. (<char>Raven</char>turns to her.) And if you and I are to overcome this ordeal, we must know everything about each other. So...begin sharing.
 
-Raven: (smiling) All right.
+<char>Raven</char>: (smiling) All right.
 
-(Cut to a shot of them on the ground, facing each other-Starfire cross-legged, Raven kneeling-and pull back slowly.)
+(Cut to a shot of them on the ground, facing each other-<char>Starfire</char>cross-legged, <char>Raven</char>kneeling-and pull back slowly.)
 
-Raven: I was born in a place called Azarath.
+<char>Raven</char>: I was born in a place called Azarath.
 
 (Fade to black.)
 
 <act n="3">Act Three</act>
-(Opening shot: an overhead view of a run-down area in Jump City. Pan to a decrepit old theater, the Bijou, with a courtyard in front of it. There is a large stone fountain, behind which Raven and Starfire have hunkered down to keep an eye on the front entrance. Beast Boy, as a Doberman pinscher, paces at the bottom of the steps that lead up to it. Both girls keep their voices down on the next two lines.)
+(Opening shot: an overhead view of a run-down area in Jump City. Pan to a decrepit old theater, the Bijou, with a courtyard in front of it. There is a large stone fountain, behind which <char>Raven</char>and <char>Starfire</char>have hunkered down to keep an eye on the front entrance. Beast Boy, as a Doberman pinscher, paces at the bottom of the steps that lead up to it. Both girls keep their voices down on the next two lines.)
 
-Raven: Safe to say we're not walking in through the front door. We'll have to try the roof.
+<char>Raven</char>: Safe to say we're not walking in through the front door. We'll have to try the roof.
 
-Starfire: (taking her hand) Agreed. Now, do just as I instructed. Close your eyes and think of something joyful. (Raven rolls her eyes and sighs wearily. Starfire returns to normal volume.)
+<char>Starfire</char>: (taking her hand) Agreed. Now, do just as I instructed. Close your eyes and think of something joyful. (<char>Raven</char>rolls her eyes and sighs wearily. <char>Starfire</char>returns to normal volume.)
 
-Starfire: You might choose flowers, or kittens, or the laughter of children, or-
+<char>Starfire</char>: You might choose flowers, or kittens, or the laughter of children, or-
 
-(She gasps as she is hauled up by Raven, who has floated clear of the ground. Slowly but surely, they ascend to the roof and are not seen by Beast Boy; he perks up his ears and turns to look in their direction, but they are already out of sight. The girls touch down next to a locked trapdoor.)
+(She gasps as she is hauled up by Raven, who has floated clear of the ground. Slowly but surely, they ascend to the roof and are not seen by <char>Beast Boy</char>; he perks up his ears and turns to look in their direction, but they are already out of sight. The girls touch down next to a locked trapdoor.)
 
-Starfire: Very, very good! What was your joyful thought?
+<char>Starfire</char>: Very, very good! What was your joyful thought?
 
-Raven: You don't want to know.
+<char>Raven</char>: You don't want to know.
 
-Starfire: Oh, but I do. Please tell me. What did you imagine?
+<char>Starfire</char>: Oh, but I do. Please tell me. What did you imagine?
 
-Raven: You not talking. (Starfire's eyes pop.)
+<char>Raven</char>: You not talking. (Starfire's eyes pop.)
 
-Starfire: Oh. Well...I am glad I was able to help.
+<char>Starfire</char>: Oh. Well...I am glad I was able to help.
 
-(Raven looks at her, then down at the lock, then at her again.)
+(<char>Raven</char>looks at her, then down at the lock, then at her again.)
 
-Raven: Your turn. Find your center. Focus your energy on the lock.
+<char>Raven</char>: Your turn. Find your center. Focus your energy on the lock.
 
-(Starfire closes her eyes for a moment. When she opens them again, they are glowing white as when Raven uses her own powers; she raises her hands.)
+(<char>Starfire</char>closes her eyes for a moment. When she opens them again, they are glowing white as when <char>Raven</char>uses her own powers; she raises her hands.)
 
-Starfire: Azarath...Metrion... (The lock floats up as far as it can.) ...Zinthos.
+<char>Starfire</char>: Azarath...Metrion... (The lock floats up as far as it can.) ...Zinthos.
 
 (On the last word, she brings her hands down and the lock snaps. She giggles.)
 
-Raven: (impressed) Nice work.
+<char>Raven</char>: (impressed) Nice work.
 
-Starfire: (jumping up) Success!
+<char>Starfire</char>: (jumping up) Success!
 
 (The outburst causes her abilities to flare up; the trapdoor flies open and sends echoes throughout the theater.)
 
-Raven: (sarcastically) Nice work.
+<char>Raven</char>: (sarcastically) Nice work.
 
 (Cut to the catwalks in the auditorium and tilt down to the stage. The Puppet King stands before a large bowl filled with blue-white flames. Candles have been set up and a scenery flat is to one side; the boys' puppets are hanging over the top edge of the latter. He has his wooden crosspiece in one hand and a test tube in the other. The echo of the trapdoor draws his attention, and he gestures with the controller toward the flat.)
 
 Puppet King: Search and destroy.
 
-(Cut to the flat. The silhouettes of Robin and Cyborg stand beside it.)
+(Cut to the flat. The silhouettes of<char>Robin</char>:and Cyborg stand beside it.)
 
 Puppet King: (from o.c.) I do not want an audience. (They move off; back to him.) Well, Titans... (uncorking tube, pouring contents into bowl) ...time for your grand finale.
 
-(The flames blaze up. Cut to just below one of the catwalks as sparks float toward it; tilt up to show Raven and Starfire watching from here.)
+(The flames blaze up. Cut to just below one of the catwalks as sparks float toward it; tilt up to show <char>Raven</char>and <char>Starfire</char>watching from here.)
 
-Raven: (horrified) No. (The Puppet King holds up the three figures.)
+<char>Raven</char>: (horrified) No. (The Puppet King holds up the three figures.)
 
 Puppet King: It's going to be a real showstopper.
 
-Robin: Stop!
+<char>Robin</char>: Stop!
 
 Cyborg: Don't!
 
-Beast Boy: Please!
+<char>Beast Boy</char> Please!
 
-Cyborg: Hey! (A yell from Robin under this.)
+Cyborg: Hey! (A yell from<char>Robin</char>:under this.)
 
-Robin: No!
+<char>Robin</char>: No!
 
 Cyborg: Stop!
 
-Beast Boy: Help!
+<char>Beast Boy</char> Help!
 
 Puppet King: Don't worry. I'll take good care of your bodies. After all, they'll be mine forever. (Close-up of his upraised hand; he lets go of the strings, and the puppets drop toward the flaming oblivion he has prepared for them. Before they can land in the bowl, though, Starfire's telekinesis catches them and lifts them away to the catwalk. She sweeps the three wooden figures into a crushing hug.)
 
-Starfire: My friends! You are unharmed! (She laughs.)
+<char>Starfire</char>: My friends! You are unharmed! (She laughs.)
 
-Robin: Starfire?
+<char>Robin</char>: Starfire?
 
-Raven: It's a long story.
+<char>Raven</char>: It's a long story.
 
 (The angered villain gestures with his crosspiece; in response, his three victims step toward him. Beast Boy has returned to human form.)
 
-Puppet King: Go, my puppets! Capture them! (They move out; Beast Boy transforms into a vampire bat to fly up while Robin clambers up the scaffolding. Starfire stands on the catwalk, still reveling in her rescue of the puppets, but is yanked away by Raven.)
+Puppet King: Go, my puppets! Capture them! (They move out; Beast Boy transforms into a vampire bat to fly up while<char>Robin</char>:clambers up the scaffolding. <char>Starfire</char>stands on the catwalk, still reveling in her rescue of the puppets, but is yanked away by <char>Raven</char>)
 
-Raven: Move!
+<char>Raven</char>: Move!
 
-(They run along the planks, but scream as Beast Boy brings them up short. Robin vaults up and crouches behind them, and Cyborg leaps onto the railing with his cannon ready to fire. The blast sends both girls and the puppets flying every which way; the latter tumble onto the stage in a heap.) [Animation goof: In this sequence, Cyborg's left arm has the cannon.]
+(They run along the planks, but scream as Beast Boy brings them up short.<char>Robin</char>:vaults up and crouches behind them, and Cyborg leaps onto the railing with his cannon ready to fire. The blast sends both girls and the puppets flying every which way; the latter tumble onto the stage in a heap.) [Animation goof: In this sequence, Cyborg's left arm has the cannon.]
 
-Beast Boy: Dude, get your butt outta my face!
+<char>Beast Boy</char> Dude, get your butt outta my face!
 
-Robin: Can't move. Deal with it.
+<char>Robin</char>: Can't move. Deal with it.
 
-(The girls are doing a little short-range skydiving of their own. Starfire tries to grab a curtain cord to stop herself, Raven does her best to start flying, and neither one has any success. Beast Boy is in human form again; he hops onto the railing and turns into a gorilla, and he and Robin jump over the edge. Their two targets have finally managed to hit the brakes and are floating near another catwalk. They scatter an instant before Robin swings across the space on a rope. Starfire makes her way through the jumble of rigging, barely staying ahead of him, and both light on a walk to face off.)
+(The girls are doing a little short-range skydiving of their own. <char>Starfire</char>tries to grab a curtain cord to stop herself, <char>Raven</char>does her best to start flying, and neither one has any success. Beast Boy is in human form again; he hops onto the railing and turns into a gorilla, and he and<char>Robin</char>:jump over the edge. Their two targets have finally managed to hit the brakes and are floating near another catwalk. They scatter an instant before<char>Robin</char>:swings across the space on a rope. <char>Starfire</char>makes her way through the jumble of rigging, barely staying ahead of him, and both light on a walk to face off.)
 
-Starfire: (dodging a kick) Robin, I do not wish to fight you.
+<char>Starfire</char>: (dodging a kick) Robin, I do not wish to fight you.
 
 (She avoids his next punch, but he turns the move into a grab for her cloak and gets it, throwing her toward the railing. He moves a few steps toward her, ready to finish the job. Close-up of his feet when he stops; one of them is within a loop of rope that lies on the boards.)
 
-Starfire: But I will if I must!
+<char>Starfire</char>: But I will if I must!
 
-(She levitates a nearby sandbag and drops it over the side. The rope attached to it is the same one whose loop Robin is standing in, and he is quickly dragged up by that leg. Now Raven flies through the support framework, doing her best to stay ahead of Cyborg and Beast Boy, both of whom are swinging among the cables to get at her. The latter finally finds a grip and bears her down to the catwalk, but she kicks him away and quickly backs up to the wall as Cyborg rejoins the attack.)
+(She levitates a nearby sandbag and drops it over the side. The rope attached to it is the same one whose loop<char>Robin</char>:is standing in, and he is quickly dragged up by that leg. Now <char>Raven</char>flies through the support framework, doing her best to stay ahead of Cyborg and Beast Boy, both of whom are swinging among the cables to get at her. The latter finally finds a grip and bears her down to the catwalk, but she kicks him away and quickly backs up to the wall as Cyborg rejoins the attack.)
 
-Raven: Okay, Raven. Starbolts. Just let go of your emotions, feel the righteous fury, and...
+<char>Raven</char>: Okay, <char>Raven</char> Starbolts. Just let go of your emotions, feel the righteous fury, and...
 
-(The attempt comes to a very sudden end when Cyborg aims a punch at her and knocks out a few dozen bricks. Beast Boy tries to seize her again as well; she dodges away, but he counters by slamming his clasped hands onto the catwalk to break it. Raven hurtles toward the stage, but manages to reverse course and deliver a walloping uppercut that dumps the shape-shifter-now back in human form-at Cyborg's feet.)
+(The attempt comes to a very sudden end when Cyborg aims a punch at her and knocks out a few dozen bricks. Beast Boy tries to seize her again as well; she dodges away, but he counters by slamming his clasped hands onto the catwalk to break it. <char>Raven</char>hurtles toward the stage, but manages to reverse course and deliver a walloping uppercut that dumps the shape-shifter-now back in human form-at Cyborg's feet.)
 
 (The big man jumps onto the railing, grabs a rope, and swings across at her. She has just enough time to get airborne before those enormous metal boots crash through both sides. Realizing that he is now below her, she angles herself for a diving kick and connects to drive the rope out of his hands. He plunges toward the stage and passes Starfire, who gasps in shock and gathers her energy.)
 
-Starfire: Azarath Metrion Zinthos!
+<char>Starfire</char>: Azarath Metrion Zinthos!
 
-(As she says this, cut to the pile of puppets on the stage; they are directly underneath the falling Titan and will be crushed to toothpicks upon impact. The spell catches him and pushes him out of the way. Back to Starfire, who smiles a bit as she moves her hand to direct his motion; she looks upward, screams suddenly, and dodges a falling sandbag. A snarling Robin has gotten loose of the trap she sprang on him and is diving with enough speed to peel his lips back from his teeth. An instant after he lands on the catwalk, Cyborg-still moving under her influence-sails across and plows him away.)
+(As she says this, cut to the pile of puppets on the stage; they are directly underneath the falling Titan and will be crushed to toothpicks upon impact. The spell catches him and pushes him out of the way. Back to Starfire, who smiles a bit as she moves her hand to direct his motion; she looks upward, screams suddenly, and dodges a falling sandbag. A snarling<char>Robin</char>:has gotten loose of the trap she sprang on him and is diving with enough speed to peel his lips back from his teeth. An instant after he lands on the catwalk, Cyborg-still moving under her influence-sails across and plows him away.)
 
-(Raven lands on a higher walk and smiles down at Starfire, but a loud growl from above draws a shocked gasp and sets her running. Beast Boy, in gorilla form again, leaps down to her level in a bid to crush her, he misses, but the tremor from his landing throws her off her feet. She gets up and holds one hand straight out in front of herself as he approaches.)
+(<char>Raven</char>lands on a higher walk and smiles down at Starfire, but a loud growl from above draws a shocked gasp and sets her running. Beast Boy, in gorilla form again, leaps down to her level in a bid to crush her, he misses, but the tremor from his landing throws her off her feet. She gets up and holds one hand straight out in front of herself as he approaches.)
 
-Raven: Righteous fury, righteous fury, concentrate...
+<char>Raven</char>: Righteous fury, righteous fury, concentrate...
 
-(A green spark flickers from the extended hand-the beginning of a starbolt-but his swipe at her ends the experiment. She lifts off only to have one of her ankles caught by Beast Boy; he hurls her back to the catwalk and lifts his clasped hands to smash her apart once and for all. Only a last-second roll to one side saves her life. Fetching up against the railing, she looks down at the sound of a scream from Starfire. The latter is still dodging Robin's strikes.)
+(A green spark flickers from the extended hand-the beginning of a starbolt-but his swipe at her ends the experiment. She lifts off only to have one of her ankles caught by <char>Beast Boy</char>; he hurls her back to the catwalk and lifts his clasped hands to smash her apart once and for all. Only a last-second roll to one side saves her life. Fetching up against the railing, she looks down at the sound of a scream from <char>Starfire</char>. The latter is still dodging Robin's strikes.)
 
-Starfire: Raven, help!
+<char>Starfire</char>: Raven, help!
 
-(Cyborg charges in to throw a punch, but Raven can do nothing to help-Beast Boy plants one of those huge mitts on her head and lifts her up by it. She shakes loose and drives the sole of her boot in his face before leaping back to perch on a scaffolding.)
+(Cyborg charges in to throw a punch, but <char>Raven</char>can do nothing to help-Beast Boy plants one of those huge mitts on her head and lifts her up by it. She shakes loose and drives the sole of her boot in his face before leaping back to perch on a scaffolding.)
 
-Raven: Starfire!
+<char>Raven</char>: <char>Starfire</char>!
 
-(Starfire looks up toward her, Robin goes up for a kick, and those violet soles push off from the framework. Raven goes into the fastest dive she can do and tackles the Boy Wonder in midair, driving him off the catwalk and catching the edge of his cape in one hand to leave him hanging.)
+(<char>Starfire</char>looks up toward her,<char>Robin</char>:goes up for a kick, and those violet soles push off from the framework. <char>Raven</char>goes into the fastest dive she can do and tackles the Boy Wonder in midair, driving him off the catwalk and catching the edge of his cape in one hand to leave him hanging.)
 
-Starfire: Not me! (pointing down) Them!
+<char>Starfire</char>: Not me! (pointing down) Them!
 
-(Raven follows her gaze; her face registers the same shock that set off her counterpart's panic. Overhead view of the stage, zooming in on the flaming vessel. The Puppet King runs toward it, carrying the three boys' replicas; cut to him as he holds them over the fire.)
+(<char>Raven</char>follows her gaze; her face registers the same shock that set off her counterpart's panic. Overhead view of the stage, zooming in on the flaming vessel. The Puppet King runs toward it, carrying the three boys' replicas; cut to him as he holds them over the fire.)
 
 Puppet King: The Puppet King is in command! (Raven's free hand blazes green.)
 
-Raven: NO!!
+<char>Raven</char>: NO!!
 
 (She hurls a full-strength starbolt-the product of the fury she has been trying to capture-that explodes with the force of a small bomb upon impact. The puppets and their maker are flung across the stage; his crosspiece arcs high over the scene, bounces off a sandbag, and drops neatly toward the blue-white fire. It flares up brilliantly when the wood falls in.)
 
@@ -521,25 +523,25 @@ Puppet King: Uh! My control!
 
 Puppet King: NOOOOOOO!!
 
-(The influence lifts him to his feet, and the three puppets tremble as the souls trapped within them fly free and return to the boys' bodies. Cut to Starfire, whose spirit pours out of the blue-cloaked body it has been inhabiting, then pan to Raven, whose spirit does likewise as Robin rests in her arms. The two girls' life forces intertwine briefly before returning to their proper homes.)
+(The influence lifts him to his feet, and the three puppets tremble as the souls trapped within them fly free and return to the boys' bodies. Cut to Starfire, whose spirit pours out of the blue-cloaked body it has been inhabiting, then pan to Raven, whose spirit does likewise as<char>Robin</char>:rests in her arms. The two girls' life forces intertwine briefly before returning to their proper homes.)
 
-(Cut to the three puppets on the stage, now just lifeless pieces of wood, and pan across a bit as Starfire lands and sets Robin down. Raven joins them.)
+(Cut to the three puppets on the stage, now just lifeless pieces of wood, and pan across a bit as <char>Starfire</char>lands and sets<char>Robin</char>:down. <char>Raven</char>joins them.)
 
-Starfire: I am me! (to Raven) And you are you!
+<char>Starfire</char>: I am me! (to Raven) And you are you!
 
 (Cyborg and Beast Boy emerge from the wings. The latter is in human form again, and all three have completely recovered from the madman's influence.)
 
 Cyborg: And we're us!
 
-Robin: Thanks to you two.
+<char>Robin</char>: Thanks to you two.
 
-Beast Boy: (briefly turning one arm into a gorilla's) You go, girls!
+<char>Beast Boy</char> (briefly turning one arm into a gorilla's) You go, girls!
 
-Starfire: (gasping happily) Raven, we have done it!
+<char>Starfire</char>: (gasping happily) Raven, we have done it!
 
-(Raven finds herself swept up in a wildly enthusiastic hug that is nowhere close to her liking.)
+(<char>Raven</char>finds herself swept up in a wildly enthusiastic hug that is nowhere close to her liking.)
 
-Raven: You're hugging me...
+<char>Raven</char>: You're hugging me...
 
 Puppet King: (from o.c., agonized) NOOOOOOO!!
 
@@ -549,45 +551,45 @@ Puppet King: The magic! Without it, I'm just a...
 
 (The luminosity fades away, and he collapses as a slack-jawed, googly-eyed figurine without being able to finish the sentence. Fade to black.)
 
-(Fade in to the operations center. It is now later in the day, and Raven floats near the windows, meditating. Her back is to the camera.)
+(Fade in to the operations center. It is now later in the day, and <char>Raven</char>floats near the windows, meditating. Her back is to the camera.)
 
-Raven: (chanting) Azarath Metrion Zinthos... (Close-up of her.) Azarath Metrion Zinthos...
+<char>Raven</char>: (chanting) Azarath Metrion Zinthos... (Close-up of her.) Azarath Metrion Zinthos...
 
-(On the next line, the camera pans/tilts slightly to show Starfire standing behind her.)
+(On the next line, the camera pans/tilts slightly to show <char>Starfire</char>standing behind her.)
 
-Starfire: Raven, forgive my interruption, but...
+<char>Starfire</char>: Raven, forgive my interruption, but...
 
-Raven: I haven't seen Robin, Cyborg, or Beast Boy.
+<char>Raven</char>: I haven't seen Robin, Cyborg, or Beast Boy.
 
-Starfire: (hesitatntly) Truthfully, I am wishing to join you in meditation.
+<char>Starfire</char>: (hesitatntly) Truthfully, I am wishing to join you in meditation.
 
-Raven: Really? (turning around) All right.
+<char>Raven</char>: Really? (turning around) All right.
 
-(Starfire flies over and assumes Raven's pose, floating at the same height above the ground.)
+(<char>Starfire</char>flies over and assumes Raven's pose, floating at the same height above the ground.)
 
-Raven: (closing eyes, turning to windows) Find your center.
+<char>Raven</char>: (closing eyes, turning to windows) Find your center.
 
 (Cut to Starfire, who closes hers as well.)
 
-Raven: (from o.c.) Focus your energies, and... (She faces the windows; pull back to frame both.)
+<char>Raven</char>: (from o.c.) Focus your energies, and... (She faces the windows; pull back to frame both.)
 
-Raven, Starfire: (chanting) Azarath Metrion Zinthos...Azarath Metrion...
+Raven, <char>Starfire</char>: (chanting) Azarath Metrion Zinthos...Azarath Metrion...
 
-(On the end of the second repetition, close-up of Raven. She breaks off and opens one eye as Starfire completes the mantra.)
+(On the end of the second repetition, close-up of <char>Raven</char> She breaks off and opens one eye as <char>Starfire</char>completes the mantra.)
 
-Raven: Starfire? (Pan to her; she opens one eye.)
+<char>Raven</char>: Starfire? (Pan to her; she opens one eye.)
 
-Starfire: Yes?
+<char>Starfire</char>: Yes?
 
-Raven: (hesitantly) After this...would you like to go to the mall?
+<char>Raven</char>: (hesitantly) After this...would you like to go to the mall?
 
-Starfire: (nodding) Mmm-hmm. (Both close their eyes.)
+<char>Starfire</char>: (nodding) Mmm-hmm. (Both close their eyes.)
 
-Raven, Starfire: (chanting) Azarath Metrion Zinthos...
+<char>Raven</char>, <char>Starfire</char>: (chanting) Azarath Metrion Zinthos...
 
 (Cut to the same shot that began this final sequence, with both girls floating before the panoramic view of Jump City Bay.)
 
-Raven, Starfire: (fading out) Azarath Metrion Zinthos...
+<char>Raven</char>, <char>Starfire</char>: (fading out) Azarath Metrion Zinthos...
 
 (Fade to black.)
 </body>
