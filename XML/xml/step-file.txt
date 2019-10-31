@@ -28,3 +28,10 @@ Find multiple speakers
 Beast Boy:
     Find: `ref="#Beast Boy"`
     Replace with: `ref="#BeastBoy"`
+    
+1. Capture other character references
+Find: `( |sd>|spkr>)(Character's name here)`
+Replace with: `\1<char>\2</char>`
+Example: Cinderblock
+Find:``( |sd>|spkr>)(Cinderblock)`
+Replace with: `\1<char>\2</char>`
