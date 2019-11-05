@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <head>
+        <title issue="1">The New Teen Titans</title>
+        <publisher>DC Comics</publisher>
+        <writer>Marv Wolfman</writer>
+        <penciller>George Perez</penciller>
+        <finisher>Romeo Tanghal</finisher>
+        <letterer>Ben Oda</letterer>
+        <colorist>Adrienne Roy</colorist>
+        <editor>Len Wein</editor>
+        <date when="1980-11">November 1980</date>
+    </head>
+    <characterList>
+        <charList id="gordanian">Gordanian(s)</charList>
+        <charList id="starfire">Koriand'r (Starfire)</charList>
+        <charList id="trogaar">Trogaar</charList>
+        <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
+        <charList id="raven">Raven</charList>
+        <charList id="kflash">Wally West (Kid Flash)</charList>
+        <charList id="batman">Bruce Wayne (Batman)</charList>
+        <charList id="wgirl">(Wonder Girl)</charList>
+        <charList id="wwoman">Diana Prince (Wonder Woman)</charList>
+        <charList id="hippolyta">Hippolyta</charList>
+        <charList id="bboy">Garfield Logan (Beast Boy (Changeling))</charList>
+        <charList id="cyborg">Victor Stone (Cyborg)</charList>
+        <charList id="coach">Coach</charList>
+        <charList id="carol">Carol</charList>
+        <charList id="grant">Grant</charList>
+        <charList id="computo">C.O.M.P.U.T.O.</charList>
+    </characterList>
+    <settingList>
+        <setting>
+            <title>Q'st'r</title>
+            <p>A slave ship that Koriand'r is trying to escape from.</p>
+            <charsPresent>
+                <char ref="#gorganian">Gorganians</char>
+                <char ref="#trogaar">Trogaar</char>
+                <char ref="#starfire">Koriand'r</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Small Pod Ship</title>
+            <p>Koriand'r uses it to escape the Gorganian</p>
+            <charsPresent>
+                <char ref="#starfire">Koriand'r</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>The Wayne Foundation</title>
+            <p>Starting in Robin's bedroom; he is having a nightmare. Raven appears and convices him to start up the New Teen Titans. Robin is leaving the buiding and passes Bruce.</p>
+            <charsPresent>
+                <char ref="#robin">Dick Grayson</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#batman">Bruce Wayne</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Strrets of Gotham City</title>
+            <p>Robin is riding his bike and following Raven, who is flying</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#raven">Raven</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Abandoned Apartment Building</title>
+            <p>Wonder Girl is there to find answers about her past. Flashback to introduce her past. Robin appears with Beast Boy and Raven. Kid Flash appears.</p>
+            <charsPresent>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#wwoman">Wonder Woman</char>
+                <char ref="#hippolyta">Hippolyta</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#kflash">Kid Flash</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Newark City College, New Jersey - Track &amp; Field</title>
+            <p>On the track by the pole vault, Victor is trying to convince his coach to still let him play for the school. His coach says no. The other Titans appear.</p>
+            <charsPresent>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#coach">Coach</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#cyborg">Cyborg</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#robin">Robin</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>United Nations Plaza in New York</title>
+            <p>The U.N. plaza is being attacked by Gorganians. The Titans battle them.</p>
+            <charsPresent>
+                <char ref="#gorganian">Gorganians</char>
+                <char ref="#cyborg">Cyborg</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#raven">Raven</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>An Apartment in East Village, New York</title>
+            <p>Grant and Carol's apartment in the East Village.</p>
+            <charsPresent>
+                <char ref="#grant">Grant</char>
+                <char ref="#carol">Carol</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#gorganian">Gorganians</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#cyborg">Cyborg</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#wgirl">Wonder Girl</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Gorganian Ship</title>
+            <p>Koriand'r is in a sort of containment on the Gorganian ship</p>
+            <charsPresent>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#gorganian">Gorganians</char>
+                <char ref="#trogaar">Trogaar</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#cyborg">Cyborg</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#kflash">Kid Flash</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Back on the Ground</title>
+            <p>The Titans have successfully rescued Koriand'r</p>
+            <charsPresent>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#cyborg">Cyborg</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#grant">Grant</char>
+                <char ref="#computo">C.O.M.P.U.T.O.</char>
+            </charsPresent>
+        </setting>
+    </settingList>
+    <referenceList>
+        <reference type="person">Trogaar</reference>
+        <reference type="deity">X'hal</reference>
+        <reference type="place">Hnyxx's Moon</reference>
+        <reference type="person">Protoplasm</reference>
+        <reference type="place">Paradise Island</reference>
+        <reference type="thing">Molybdenum Steel</reference>
+        <reference type="deity">Minerva</reference>
+        <reference type="deity">Hera</reference>
+        <reference type="person">Chrga</reference>
+        <reference type="place">S.T.A.R. Labs</reference>
+    </referenceList>
+</root>

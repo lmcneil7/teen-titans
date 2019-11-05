@@ -1,0 +1,27 @@
+start = root
+root = element root {head, characterList, settingList, referenceList}
+head = element head {title, publisher, writer, penciller, finisher, letterer, colorist, editor, date}
+title = element title {issue?, text}
+issue = attribute issue {xsd:int}
+publisher = element publisher {text}
+writer = element writer {text}
+penciller = element penciller {text}
+finisher = element finisher {text}
+letterer = element letterer {text}
+colorist = element colorist {text}
+editor = element editor {text}
+date = element date {when, text}
+when = attribute when {xsd:date|xsd:gYearMonth}
+characterList = element characterList {charList+}
+charList = element charList {id, text}
+id = attribute id {text}
+settingList = element settingList {setting+}
+setting = element setting {title, p, charsPresent}
+p = element p {text}
+charsPresent = element charsPresent {char+}
+char = element char {ref, text}
+ref = attribute ref {text}
+referenceList = element referenceList {reference+}
+reference = element reference {type, text}
+type = attribute type {text}
+
