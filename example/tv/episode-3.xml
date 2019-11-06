@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="#../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <head>
         <episode>DIVIDE AND CONQUER</episode>
@@ -110,9 +110,9 @@
                 gauntlet. She lands with her back to the camera, surveying her triumph, then turns
                 to face front.</sd>
 
-            <sp><spkr ref="#Narrator">Narrator</spkr>And for the right price.. <sd>Gizmo and
-                    Mammoth slide up on either side; pull back slightly.</sd> ...this ideal team can
-                be yours.</sp>
+            <sp><spkr ref="#Narrator">Narrator</spkr>And for the right price..<sd>Gizmo and Mammoth
+                    slide up on either side; pull back slightly.</sd>...this ideal team can be
+                yours.</sp>
 
             <sd>The image gives way to static, which resolves into the H.I.V.E. Academy's crest
                 against a dark field. A gray-haired woman steps into view; severe dark outfit with a
@@ -136,16 +136,16 @@
                 screen and deeper into the machinery; pan to follow.</sd>
 
             <sp><spkr ref="#Slade">Slade</spkr>My plans demand operatives who can function in the
-                real world <sd>They step onto a catwalk.</sd> If your students are going to serve
+                real world<sd>They step onto a catwalk.</sd>If your students are going to serve
                 me...</sp>
 
             <sd>They reach a darkened area with two spotlights shining down from above. One pool of
                 light is occupied by the three graduates; she steps into the other while he sits in
                 the blackness.</sd>
 
-            <sp><spkr ref="#Slade">Slade</spkr>...they'll have to pass one final exam <sd>Extreme
-                    close-up of his eye.</sd> Destroy the Teen Titans <sd>Pull back to frame
-                    all.</sd> and then we'll talk.</sp>
+            <sp><spkr ref="#Slade">Slade</spkr>...they'll have to pass one final exam<sd>Extreme
+                    close-up of his eye.</sd>Destroy the Teen Titans<sd>Pull back to frame
+                all.</sd>and then we'll talk.</sp>
 
             <sd>The light on the trio goes out, and the headmistress bows before hers is
                 extinguished as well. Only the outline of Slade's figure and his eye are visible
@@ -160,19 +160,19 @@
             <sd>Opening shot: the exterior of Titans Tower during the day.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
-                <sd>from inside</sd> Aw, man, come on!</sp>
+                <sd>from inside</sd>Aw, man, come on!</sp>
 
             <sd>Cut to a slow pan across the kitchen. The sink and counter are piled high with dirty
                 dishes, and the floor is strewn with garbage.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
-                <sd>from o.c.</sd> It's gotta be around here someplace!</sp>
+                <sd>from o.c.</sd>It's gotta be around here someplace!</sp>
 
             <sd>Beast Boy, as a bloodhound, sniffs at some of the trash as a frustrated groan is
                 heard from Cyborg's direction.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
-                <sd>from o.c.</sd> I don't believe this!</sp>
+                <sd>from o.c.</sd>I don't believe this!</sp>
 
             <sd>Pull back to frame the entire operations center, in total disarray. Beast Boy keeps
                 nosing around on the floor while Cyborg hoists the couch and shakes it in search of
@@ -183,7 +183,7 @@
             <sd>Beast Boy returns to human form.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
-                <sd>rummaging</sd> What makes you so sure I lost it</sp>
+                <sd>rummaging</sd>What makes you so sure I lost it</sp>
 
             <sd>They lean into each other's faces.</sd>
 
@@ -203,18 +203,18 @@
             <sd>Sight gag ends; close-up of Raven.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
-                <sd>from o.c.</sd> Things disappear. How am I supposed to know where they go?</sp>
+                <sd>from o.c.</sd>Things disappear. How am I supposed to know where they go?</sp>
 
             <sd>She lowers her book on this line to give the camera a good look at the annoyance in
                 her eyes. During the next one, a vein starts to throb in her temple.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
-                <sd>from o.c.</sd> Well, how am I supposed to watch TV without a remote</sp>
+                <sd>from o.c.</sd>Well, how am I supposed to watch TV without a remote</sp>
 
             <sd>Raven slams her book shut and stands up.</sd>
 
             <sp><spkr ref="#Raven">Raven</spkr>
-                <sd>icily</sd> Simple. You just get up and change the channel.</sp>
+                <sd>icily</sd>Simple. You just get up and change the channel.</sp>
 
             <sd>The two squabbling boys give her and each other a very long and puzzled look.</sd>
 
@@ -225,36 +225,36 @@
             <sp><spkr ref="#Raven">Raven</spkr>I wasn't joking.</sp>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
-                <sd>from o.c.</sd> Good, 'cause it wasn't funny! Now either help us look for the
-                remote <sd>She grimaces; angry spark by her head.</sd> or go back to your nasty old
-                book and--</sp>
+                <sd>from o.c.</sd>Good, 'cause it wasn't funny! Now either help us look for the
+                    remote<sd>She grimaces; angry spark by her head.</sd>or go back to your nasty
+                old book and--</sp>
 
             <sp><spkr ref="#Raven">Raven</spkr>
-                <sd>over end of previous line, face flushing</sd> This is a pointless argument over
-                a useless device.</sp>
+                <sd>over end of previous line, face flushing</sd>This is a pointless argument over a
+                useless device.</sp>
 
             <sd>A big drop of sweat appears on her temple briefly as she says this. Her face returns
                 to its normal color as she walks o.c.</sd>
 
             <sp><spkr ref="#Raven">Raven</spkr>
-                <sd>from o.c.</sd> You are wasting your energy and disrupting my concentration</sp>
+                <sd>from o.c.</sd>You are wasting your energy and disrupting my concentration</sp>
 
             <sd>The side door behind her opens to show Robin and Starfire.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
-                <sd>from o.c.</sd> I'm telling you, I didn't lose it! You were the one watching TV
+                <sd>from o.c.</sd>I'm telling you, I didn't lose it! You were the one watching TV
                 last!</sp>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>
-                <sd>to Robin, over the previous line</sd> And that is the secret to traveling faster
+                <sd>to Robin, over the previous line</sd>And that is the secret to traveling faster
                 than light.</sp>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
-                <sd>from o.c.</sd> So if you want to blame someone <sd>Starfire gasps; Robin
-                    stares.</sd> look in the mirror, buddy!</sp>
+                <sd>from o.c.</sd>So if you want to blame someone<sd>Starfire gasps; Robin
+                    stares.</sd>look in the mirror, buddy!</sp>
 
             <sp><spkr ref="#Robin">Robin</spkr>
-                <sd>over the end of the previous line</sd> Whoa! Take it easy, Titans! Combat
+                <sd>over the end of the previous line</sd>Whoa! Take it easy, Titans! Combat
                 practice is this afternoon!</sp>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>We must mend your dispute by the sharing of
@@ -263,20 +263,20 @@
             <sd>Both cross the room.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
-                <sd>from o.c.</sd> I don't need food, what I need is a time machine, I didn't--</sp>
+                <sd>from o.c.</sd>I don't need food, what I need is a time machine, I didn't--</sp>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Back me up here, Robin!! Have I ever lost
                 any--?</sp>
 
             <sp><spkr ref="#Robin">Robin</spkr>
-                <sd>from o.c</sd> Okay! Okay</sp>
+                <sd>from o.c</sd>Okay! Okay</sp>
 
             <sd>whistles</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>To stop him from taking the REMOTE!!!</sp>
 
             <sp><spkr ref="#Robin">Robin</spkr>
-                <sd>from o.c</sd> Hey! Come on!! Settle down! ENOUGH!!!</sp>
+                <sd>from o.c</sd>Hey! Come on!! Settle down! ENOUGH!!!</sp>
 
             <sd>Snap to black, accompanied by louder arguing from all but Starfire. The view
                 resolves into the inside of the refrigerator as she opens it to look in. There is a
@@ -308,7 +308,7 @@
                 experience?</sp>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
-                <sd>offended</sd> Dude, I've been most of those animals!</sp>
+                <sd>offended</sd>Dude, I've been most of those animals!</sp>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>I suggest a large pizza with pickles, bananas,
                 and mint frosting.</sp>
@@ -341,7 +341,7 @@
                 receiving his transmission on a hidden radio.</sd>
 
             <sp><spkr ref="#Gizmo">Gizmo</spkr>
-                <sd>over the radio</sd> Begin Phase One.</sp>
+                <sd>over the radio</sd>Begin Phase One.</sp>
 
             <sd>She carelessly tosses a spell at the bus, causing it to start rolling downhill. Back
                 to the pizza joint; as the vehicle's horn blares from down the street, the Titans
@@ -375,7 +375,7 @@
                 source of the crying as well.</sd>
 
             <sp><spkr ref="#Gizmo">Gizmo</spkr>
-                <sd>over a hidden speaker</sd> Are you pit-sniffers normally this stupid?</sp>
+                <sd>over a hidden speaker</sd>Are you pit-sniffers normally this stupid?</sp>
 
             <sd>The bear's head swivels slightly toward the camera on the end of this, and the eyes
                 suddenly glow and fire laser beams. Pull back; Robin, Beast Boy, and Starfire are
@@ -390,7 +390,7 @@
                 of the camera, which has backed up to ground level.</sd>
 
             <sp><spkr ref="#Gizmo">Gizmo</spkr>
-                <sd>from o.c.</sd> That was too easy <sd>Cut to these two.</sd> What a buncha
+                <sd>from o.c.</sd>That was too easy<sd>Cut to these two.</sd>What a buncha
                 cludge-heads. You guys want to get pizza?</sp>
 
             <sd>Quick pan to Robin, Beast Boy, and Starfire, who have ended up in an alley, on the
@@ -403,13 +403,13 @@
                 ground, is revealed as the driving force.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
-                <sd>standing up from the hole</sd> We're just getting started!</sp>
+                <sd>standing up from the hole</sd>We're just getting started!</sp>
 
             <sd>A bird-shaped shadow looms up behind him. It resolves into Raven as she brings her
                 arms back in and wraps her cloak around herself.</sd>
 
-            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Who are these guys <sd>A question mark
-                    appears by his head.</sd> And what's a cludge-head?</sp>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Who are these guys<sd>A question mark appears
+                    by his head.</sd>And what's a cludge-head?</sp>
 
             <sp><spkr ref="#Gizmo">Gizmo</spkr>We are the H.I.V.E.!</sp>
 
@@ -464,7 +464,7 @@
             <sd>Back to Robin and Raven, on the ground.</sd>
 
             <sp><spkr ref="#Robin">Robin</spkr>
-                <sd>getting up and charging</sd> Beast Boy! Hang on!</sp>
+                <sd>getting up and charging</sd>Beast Boy! Hang on!</sp>
 
             <sd>Mammoth throws the green elephant straight up into the air and hits it with a
                 jumping punch on the way down. Robin suddenly finds himself directly in the path of
@@ -477,7 +477,7 @@
             <sd>The others stand up.</sd>
 
             <sp><spkr ref="#Robin #Raven">Robin and Raven</spkr>
-                <sd>in unison</sd> It's just you.</sp>
+                <sd>in unison</sd>It's just you.</sp>
 
             <sp><spkr ref="#Robin">Robin</spkr>Listen up, team. I have a plan.</sp>
 
@@ -485,8 +485,8 @@
                 manages to get out of the way; they end up almost a block away.</sd>
 
             <sp><spkr ref="#Gizmo">Gizmo</spkr>
-                <sd>from o.c.</sd> Gee, scrum-buffer <sd>Cut to the H.I.V.E. team; he is back on the
-                    ground.</sd> Sure hope your fancy plan includes getting fried!</sp>
+                <sd>from o.c.</sd>Gee, scrum-buffer<sd>Cut to the H.I.V.E. team; he is back on the
+                    ground.</sd>Sure hope your fancy plan includes getting fried!</sp>
 
             <sd>The weapon that fired those shots is poking over his shoulder. It levels itself at
                 Robin, who stands his ground.</sd>
@@ -524,8 +524,8 @@
                 follow their movement as the door is heard closing. The entrance hall has armchairs
                 along both walls.</sd>
 
-            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>That didn't just happen <sd>She helps him
-                    into a chair; he rubs his leg.</sd> Tell me that didn't just happen.</sp>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>That didn't just happen<sd>She helps him into
+                    a chair; he rubs his leg.</sd>Tell me that didn't just happen.</sp>
 
             <sp><spkr ref="#Raven">Raven</spkr>It did happen. We cannot change the truth, no matter
                 how much we dislike it.</sp>
@@ -534,7 +534,7 @@
                 them.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
-                <sd>smiling</sd> Who knew we had a doctor in the house? Thanks.</sp>
+                <sd>smiling</sd>Who knew we had a doctor in the house? Thanks.</sp>
 
             <sp><spkr ref="#Raven">Raven</spkr>No problem.</sp>
 
@@ -547,8 +547,8 @@
 
             <sd>Raven cannot meet his eyes; neither can Beast Boy when the camera pans to him.</sd>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>Tell me how we kicked their butts. Come on, I
-                gotta have the play-by-play.</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Tell me how we kicked their butts. Come on, I gotta
+                have the play-by-play.</sp>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>Where is Robin</sp>
 
@@ -557,20 +557,20 @@
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Um, Star? We're not sure.</sp>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>
-                <sd>from o.c.</sd> Not sure <sd>Back to her.</sd> Why are you not--?</sp>
+                <sd>from o.c.</sd>Not sure<sd>Back to her.</sd>Why are you not--?</sp>
 
-            <sp><spkr ref="#Raven">Raven</spkr>We searched everywhere <sd>Cut to her waist
-                    level.</sd> And all we found was this.</sp>
+            <sp><spkr ref="#Raven">Raven</spkr>We searched everywhere<sd>Cut to her waist
+                    level.</sd>And all we found was this.</sp>
 
             <sd>She produces his utility belt from beneath her cloak. Starfire gasps in horror;
                 Cyborg groans and claps both hands to his forehead.</sd>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>I shoulda been there. I let that kid sneak up on
-                me and, what was I--? It was a trap, and I-- I shoulda known.</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>I shoulda been there. I let that kid sneak up on me
+                and, what was I--? It was a trap, and I-- I shoulda known.</sp>
 
-            <sp><spkr ref="#Starfire">Starfire</spkr>I do not understand <sd>Cut to Raven and Beast
-                    Boy; she continues o.c.</sd> How could you not find him<sd>Pull back; she looks
-                    straight at Raven.</sd> People do not just vanish! He has to be someplace, so go
+            <sp><spkr ref="#Starfire">Starfire</spkr>I do not understand<sd>Cut to Raven and Beast
+                    Boy; she continues o.c.</sd>How could you not find him<sd>Pull back; she looks
+                    straight at Raven.</sd>People do not just vanish! He has to be someplace, so go
                 there and look!</sp>
 
             <sd>Beast Boy puts himself between the two girls to keep things from getting ugly.</sd>
@@ -623,8 +623,8 @@
                 debris as a bobcat, he runs o.c; when the view clears, Jinx steps unhurriedly after
                 him, she caused the panels to fall.</sd>
 
-            <sp><spkr ref="#Jinx">Jinx</spkr>Here, kitty, kitty. What's the matter <sd>More panels
-                    blow out.</sd> Afraid of a little bad luck?</sp>
+            <sp><spkr ref="#Jinx">Jinx</spkr>Here, kitty, kitty. What's the matter<sd>More panels
+                    blow out.</sd>Afraid of a little bad luck?</sp>
 
             <sd>Cut to inside the gym. Raven and Starfire burst through the closed doors and slam
                 them shut again. A starbolt is fired against the frame and traced along the doors'
@@ -651,13 +651,13 @@
                 visage.</sd>
 
             <sp><spkr ref="#Gizmo">Gizmo</spkr>
-                <sd>from all screens</sd> So, Tin Man, you got a heart under all that outdated
+                <sd>from all screens</sd>So, Tin Man, you got a heart under all that outdated
                 crud-ware?</sp>
 
             <sd>He turns away, but a single giant screen, also showing Gizmo, comes on next to
                 him.</sd>
 
-            <sp><spkr ref="#Gizmo">Gizmo</spkr>Not telling <sd>Pull back to frame them all.</sd>
+            <sp><spkr ref="#Gizmo">Gizmo</spkr>Not telling<sd>Pull back to frame them all.</sd>
                 Guess I'll have to take you apart and find out!</sp>
 
             <sd>Tilt up to the ceiling on the end of this. The whiz kid's spider legs carry him into
@@ -724,7 +724,7 @@
                 circuitry.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
-                <sd>strained</sd> Get out of my systems! Nobody hacks my systems!</sp>
+                <sd>strained</sd>Get out of my systems! Nobody hacks my systems!</sp>
 
             <sd>He runs back and forth, clearly against his will due to the hotwiring, then stops as
                 his limbs start to flail randomly. His right arm is raised.</sd>
@@ -736,13 +736,13 @@
                 projected against the far wall.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
-                <sd>from o.c.</sd> My arm!</sp>
+                <sd>from o.c.</sd>My arm!</sp>
 
             <sd>Cut to the exterior of the Tower, which shakes and bends as the fight inside
                 continues. It is now later in the day.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
-                <sd>from inside</sd> Get off! Get off me! Stop!</sp>
+                <sd>from inside</sd>Get off! Get off me! Stop!</sp>
 
             <sd>He flies screaming off the roof as if shot from a cannon, and the camera pulls back
                 a distance as he comes down in the middle of Jump City Bay. Another set of yells and
@@ -766,8 +766,8 @@
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>That didn't just happen. Tell me that didn't
                 just happen.</sp>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>Get out of my systems <sd>The seagulls fly
-                    away.</sd> Get off me.</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Get out of my systems<sd>The seagulls fly
+                    away.</sd>Get off me.</sp>
 
             <sd>Dissolve to a close-up of a soda can washing up on the shore. Now the spoken words
                 start to overlap.</sd>
@@ -801,7 +801,7 @@
                 again?</sp>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
-                <sd>really annoyed</sd> Not now, man.</sp>
+                <sd>really annoyed</sd>Not now, man.</sp>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Hey, I was just trying to--</sp>
 
@@ -817,13 +817,13 @@
             <sp><spkr ref="#Starfire">Starfire</spkr>But you are so damaged and--</sp>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
-                <sd>rounding on her; she gasps</sd> I got it!</sp>
+                <sd>rounding on her; she gasps</sd>I got it!</sp>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Hey! She only wanted to help! What is your
                 problem?</sp>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>What do you think <sd>Long shot of them and the
-                    Tower.</sd> We got kicked out of our house, a pint-size Poindexter took me for a
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>What do you think<sd>Long shot of them and the
+                    Tower.</sd>We got kicked out of our house, a pint-size Poindexter took me for a
                 joyride, and in case you haven't noticed, I just became left-handed!</sp>
 
             <sp><spkr ref="#Raven">Raven</spkr>Enough! We need to control our emotions.</sp>
@@ -836,8 +836,8 @@
             <sp><spkr ref="#Starfire">Starfire</spkr>I wish Robin were here.</sp>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
-                <sd>from o.c.</sd> Well, he's not <sd>Pull back to frame them all.</sd> Don't you
-                guys get it? They won, we lost. IT"S OVER!!</sp>
+                <sd>from o.c.</sd>Well, he's not<sd>Pull back to frame them all.</sd>Don't you guys
+                get it? They won, we lost. IT"S OVER!!</sp>
 
             <sd>Cut to a patch of water and pan slowly to the shore. The four heroes stand slumped
                 in defeat.</sd>
@@ -845,7 +845,7 @@
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Then...the Teen Titans are finished?</sp>
 
             <sp><spkr ref="#Robin">Robin</spkr>
-                <sd>from o.c.</sd> Not yet.</sp>
+                <sd>from o.c.</sd>Not yet.</sp>
 
             <sd>His voice draws four very surprised glances over four assorted pairs of shoulders.
                 Pan quickly in that direction to show him standing in front of some bushes; arms
@@ -875,13 +875,13 @@
                 as they hang it up.</sd>
 
             <sp><spkr ref="#Gizmo">Gizmo</spkr>Higher...a little to the left...a little
-                more...and.. <sd>take his hands down and gives a thumbs-up</sd> ...perfect!</sp>
+                    more...and..<sd>take his hands down and gives a thumbs-up</sd>...perfect!</sp>
 
             <sd>Pull back across the room and down to ground level to put him in view. The arm is
                 mounted high on the wall.</sd>
 
             <sp><spkr ref="#Gizmo">Gizmo</spkr>
-                <sd>walking away</sd> Slade's gonna have kittens when he hears we whipped the Titans
+                <sd>walking away</sd>Slade's gonna have kittens when he hears we whipped the Titans
                 and took their stinking Tower!</sp>
 
             <sd>On the end of this, cut to the kitchen as he passes it. Mammoth looks in the fridge,
@@ -890,26 +890,26 @@
                 latter's spare cloaks over her arm.</sd>
 
             <sp><spkr ref="#Jinx">Jinx</spkr>Not to mention Robin's favorite fashion
-                    statement<sd>She eyes the cloak and sighs with contempt.</sd> But that's the
-                only thing fashionable around here</sp>
+                    statement<sd>She eyes the cloak and sighs with contempt.</sd>But that's the only
+                thing fashionable around here</sp>
 
             <sd>Pull back to put Mammoth in view.</sd>
 
-            <sp><spkr ref="#Mammoth">Mammoth</spkr>Tell me about it <sd>He pulls a moldy hamburger
-                    from the fridge.</sd> Hmph. All their food is way out of date.</sp>
+            <sp><spkr ref="#Mammoth">Mammoth</spkr>Tell me about it<sd>He pulls a moldy hamburger
+                    from the fridge.</sd>Hmph. All their food is way out of date.</sp>
 
             <sd>This does not stop him from downing the burger in one gulp.</sd>
 
             <sp><spkr ref="#Gizmo">Gizmo</spkr>
-                <sd>from o.c.</sd> You think that stuff's rotten<sd>Cut to him in the operations
-                    center; he holds up a CD.</sd> Wait 'til you see their music<sd>tossing it
-                    aside, then another</sd> Crud...snot...</sp>
+                <sd>from o.c.</sd>You think that stuff's rotten<sd>Cut to him in the operations
+                    center; he holds up a CD.</sd>Wait 'til you see their music<sd>tossing it aside,
+                    then another</sd>Crud...snot...</sp>
 
             <sd>Dissolve to the mounted arm and zoom in slowly, then dissolve to an extreme close-up
                 of the middle finger and keep zooming in.</sd>
 
             <sp><spkr ref="#Gizmo">Gizmo</spkr>
-                <sd>from o.c., sighing</sd> ...mega-crud...snot...</sp>
+                <sd>from o.c., sighing</sd>...mega-crud...snot...</sp>
 
             <sd>The fingertip pulls loose of the hand, remaining connected to it by two thin jointed
                 armatures. It swivels to point its open and at us and reveals a tiny camera lens
@@ -933,7 +933,7 @@
             <sd>Back to Gizmo, who has yet another CD in hand.</sd>
 
             <sp><spkr ref="#Gizmo">Gizmo</spkr>
-                <sd>throwing it and the next one away</sd> Ugh. Crud...snot...</sp>
+                <sd>throwing it and the next one away</sd>Ugh. Crud...snot...</sp>
 
             <sd>The arm moves along the ledge behind him and is not noticed. It stops near one of
                 the consoles and points its camera around the area before jumping down into the
@@ -990,8 +990,8 @@
             <sd>Close-up of Robin's upraised hand; his belt lands neatly in it.</sd>
 
             <sp><spkr ref="#Robin">Robin</spkr>
-                <sd>from o.c.</sd> Sorry to interrupt the victory celebration <sd>Cut to his waist
-                    level; he fastens it.</sd> But like I said.. <sd>Head level.</sd> ...this isn't
+                <sd>from o.c.</sd>Sorry to interrupt the victory celebration<sd>Cut to his waist
+                    level; he fastens it.</sd>But like I said..<sd>Head level.</sd>...this isn't
                 over.</sp>
 
             <sd>Pull back. Cyborg is there, reattaching his arm, and the other three Titans soon
@@ -1018,7 +1018,7 @@
                 clear, but that changes in an instant when Gizmo jumps down from the fallen water
                 tanks and lands on his back.</sd>
 
-            <sp><spkr ref="#Gizmo">Gizmo</spkr>Hey, Robo-Wimp<sd>He pulls out his tool.</sd> Feel
+            <sp><spkr ref="#Gizmo">Gizmo</spkr>Hey, Robo-Wimp<sd>He pulls out his tool.</sd>Feel
                 like getting hacked?</sp>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Nope. How 'bout you? Robin! Now!</sp>
@@ -1029,8 +1029,8 @@
                 roof.</sd>
 
             <sp><spkr ref="#Gizmo">Gizmo</spkr>
-                <sd>runs around, trying to pull the thing off</sd> Cut it out! It's gonna crash my
-                whole system <sd>He rips off his shoulder-mounted laser.</sd> Get it off me! Get it
+                <sd>runs around, trying to pull the thing off</sd>Cut it out! It's gonna crash my
+                whole system<sd>He rips off his shoulder-mounted laser.</sd>Get it off me! Get it
                 off me!</sp>
 
             <sd>Robin's device triggers the jet pack, carrying him off the roof. Jinx runs like mad
@@ -1086,9 +1086,9 @@
                 comes into view at the edge of the platform.</sd>
 
             <sp><spkr ref="#Headmistress">Headmistress</spkr>I assure you, such failures are not
-                tolerated within the H.I.V.E<sd>Close-up of her.</sd> Once the agents have been
+                tolerated within the H.I.V.E<sd>Close-up of her.</sd>Once the agents have been
                 retrieved from the authorities, they will be disciplined<sd>Cut to waist level; she
-                    socks a fist into her palm.</sd> Strictly disciplined.</sp>
+                    socks a fist into her palm.</sd>Strictly disciplined.</sp>
 
             <sd>Cut to another part of the platform. Slade steps out from among the pipes; the
                 Headmistress has been addressing herself to him. The light glinting off his figure
@@ -1096,8 +1096,8 @@
                 red-orange on the left.</sd>
 
             <sp><spkr ref="#Slade">Slade</spkr>Actually, your agents served my plans quite well. I
-                never expected them to succeed <sd>Extreme close-up of his eye; light shines on
-                    it.</sd> They were merely messengers. And the message has been received.</sp>
+                never expected them to succeed<sd>Extreme close-up of his eye; light shines on
+                    it.</sd>They were merely messengers. And the message has been received.</sp>
 
             <sd>On the end of this, pan slightly to a transmitter in his raised left hand, a
                 counterpart of the one Gizmo carried. He activates it, and on the monitor behind the
@@ -1111,13 +1111,13 @@
             <sd>Cut to the exterior of the Tower. The original architecture has been restored.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
-                <sd>from inside</sd> NOOOO!! This is the worst thing that could ever happen!</sp>
+                <sd>from inside</sd>NOOOO!! This is the worst thing that could ever happen!</sp>
 
             <sd>Close-up of him. He is in human form, with hands to head and ready to pull his green
                 hair out.</sd>
 
-            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>My tunes! They've been.. <sd>He steps
-                    back.</sd> ...alphabetized.</sp>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>My tunes! They've been..<sd>He steps
+                    back.</sd>...alphabetized.</sp>
 
             <sd>Pull back again. He tosses CDs around the operations center as Cyborg looks high and
                 low, much as he did at the start of Act One. Robin stands behind the couch and
@@ -1128,7 +1128,7 @@
             <sd>Raven comes downstairs, carrying the cloak Jinx borrowed.</sd>
 
             <sp><spkr ref="#Raven">Raven</spkr>
-                <sd>icily</sd> They went into my room. No one should ever go into my room</sp>
+                <sd>icily</sd>They went into my room. No one should ever go into my room</sp>
 
             <sd>Starfire gasps and pops up from under the kitchen counter.</sd>
 
@@ -1136,7 +1136,7 @@
                 food!</sp>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
-                <sd>lifting the couch</sd> You gotta be kidding me! The whole place gets cleaned and
+                <sd>lifting the couch</sd>You gotta be kidding me! The whole place gets cleaned and
                 I still can't find the--</sp>
 
             <sd>A whistle from o.c. stops him short; cut to Robin, who points down toward the couch.
