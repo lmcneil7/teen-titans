@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <head>
+        <episode>THE SUM OF HIS PARTS</episode>
+        <writer>David Slack</writer>
+        <director>Ciro Nieli</director>
+        <storyboard>Kalvin Lee, Rafael Rosado, Alan Wan</storyboard>
+        <animation>Dong Woo Animation Company, Ltd.</animation>
+        <source>https://teentitans.fandom.com/wiki/The_Sum_of_His_Parts_(Transcript)</source>
+    </head>
+    <characterList>
+        <charList type="nonrecurring" id="MalePanicker">Male Panicker</charList>
+        <charList type="nonrecurring" id="Female Panicker">Female Panicker</charList>
+        <charList type="recurring" id="Cyborg" subtype="titan">Cyborg</charList>
+        <charList type="recurring" id="Starfire" subtype="titan">Starfire</charList>
+        <charList type="recurring" id="Robin" subtype="titan">Robin</charList>
+        <charList type="recurring" id="BeastBoy" subtype="titan">Beast Boy</charList>
+        <charList type="recurring" id="Raven" subtype="titan">Raven</charList>
+        <charList type="nonrecurring" id="Boy1">Boy 1</charList>
+        <charList type="recurring" id="Mumbo" subtype="villain">Mumbo</charList>
+        <charList type="nonrecurring" id="Computer1">Computer 1</charList>
+        <charList type="nonrecurring" id="Voice">Voice</charList>
+        <charList type="nonrecurring" id="Fixit" subtype="both">Fixit</charList>
+        <charList type="nonrecurring" id="Computer2">Computer 2</charList>
+        <charList type="nonrecurring" id="Boy 2">Boy 2</charList>
+    </characterList>
+    <body>
+        <act n="0">
+            <title>Prologue</title>
+            <sd>Opening shot: a park filled with people enjoying a beautiful afternoon. Pan across
+                the area; there is Frisbee-throwing, kite-flying, a young man and woman picnicking,
+                the whole deal.</sd>
+
+            <sp><spkr ref="#MalePicnicker">Male Picnicker</spkr><sd>holds out a soda</sd> Soda?</sp>
+
+            <sp><spkr ref="#FemalePicnicker">Female Picnicker</spkr>Why, I'd love one.</sp>
+
+            <sd>Cut to a close-up of Cyborg. He has bent over something just down o.c., but then
+                straightens up.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>Feels the fresh air.</sd> Mmm-mmm. Would you
+                look at that. A little sunshine, a little breeze. Only one thing could make this day
+                better.</sp>
+
+            <sd>Pull back a bit as he bends down again. The thing in front of him is a barbecue
+                grill, and he opens the lid to expose…</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Four and a half pounds of baby back ribs.</sp>
+
+            <sd>He lifts the rack away on a platter. Cut to a picnic table, where Robin is digging
+                into a burger and Starfire is heartily sucking something down through a straw.
+                Positioned just over her right shoulder, the camera does not allow us to see her
+                drink on the table. Cyborg sits down.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Man, I love picnic food!</sp>
+
+            <sd>He buries his face in the ribs, chomping huge mouthfuls of pork, and Robin matches
+                that effort with the burger. Cut to Starfire; now the top of her glass can be
+                seen.</sd>
+
+            <sp><spkr ref="#Starfire">Starfire</spkr>Agreed, Cyborg. <sd>flushes happily</sd> This
+                tangy yellow beverage is truly delightful.</sp>
+
+            <sd>She swigs some more of it. Back to the two boys, who stop scarfing down their food
+                to stare in surprise.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Uh, Starfire?</sp>
+
+            <sp><spkr ref="#Robin">Robin</spkr>That’s mustard.</sp>
+
+            <sd>Sight gag: she hugs the container; the mustard jar, with its screw cap removed,
+                giant size as smaller ones float past in the background.</sd>
+
+            <sp><spkr ref="#Starfire">Starfire</spkr>Is there more?</sp>
+
+            <sd>The sight gag ends; Robin and Cyborg cannot tear their eyes away from the scene and
+                their food sits forgotten in their hands. A shred of meat is clearly heard falling
+                from Cyborg’s face in the stillness. Pull back from the table and pan to the tree
+                where the grill is set up. Beast Boy, as a lemur, climbs around in the branches and
+                hangs down from the lowest one by his tail; by the time he gets within reach of the
+                grill, he is back in human form. He picks up two hot dogs.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Sweet! My tofu dogs are cooked to perfection.
+                    <sd>Pull back; Raven sits in the shade of a nearby tree.</sd> Yo, Raven. Try
+                one. They’re loaded with soybeany goodness.</sp>
+
+            <sp><spkr ref="#Raven">Raven</spkr>I respect that you don’t eat meat. Please respect
+                that I don’t eat fake meat.</sp>
+
+            <sd>The vegetarian Titan proceeds to wolf down both dogs at once. Cyborg runs past; cut
+                to him on the open grass, football in hand.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>All right, y’all. Who wants to play some
+                fool-ball?</sp>
+
+            <sd>Robin, Beast Boy, and Starfire run over, clamoring to get into the game. They cut
+                off abruptly and look in Raven’s direction; cut to her. She has not moved an
+                inch.</sd>
+
+            <sp><spkr ref="#Raven">Raven</spkr>I’ll be referee.</sp>
+
+            <sd>Close-up of the ball on the grass as Cyborg puts his hand on it. Pull back to show
+                him ready to hike to Robin, and Beast Boy and Starfire set to block.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Red! Twenty-three! Hut! Hut! Hut!</sp>
+
+            <sd>Close-up of the ball again on the last “hut.” Cyborg hikes it back and then runs
+                past the defensive line, and Beast Boy stands in front of Robin while Starfire goes
+                after the running Titan.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>One Gotham City…</sp>
+
+            <sd>Cut to Cyborg in the open.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>from o.c.</sd> …two Gotham City…three
+                Gotham City...</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>over the previous line</sd> You can run, you
+                can fly, but you can’t catch Cy!</sp>
+            <sd>Starfire flies after him now.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>from o.c.</sd> …four Gotham City…
+                    <sd>Starfire speeds up; back to Beast Boy.</sd> …five Gotham City!</sp>
+
+            <sd>Close-up of Robin, backing up to throw a pass. He yells in sudden fear as the ground
+                shakes; cut to the source; Beast Boy, now a charging triceratops. The Titans’ leader
+                skids backward, then jumps onto the green behemoth’s snout and runs straight down
+                his back. Jumping clear of the tail, Robin fires a pass downfield. Cut to Cyborg,
+                with no blockers anywhere in sight, and pan to follow his run. As he goes, the blue
+                lights that shine through the transparent coverings of his cybernetic parts start to
+                fade. Cut to the ball, sailing through the air, then back to him. The lights have
+                come back on, but they soon fade again.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>I got it! I got it! I--</sp>
+
+            <sd>His face suddenly freezes, as does he, but the camera keeps panning ahead. It
+                finally stops and backs up quickly; Cyborg might as well be a statue for his total
+                lack of motion. Hands still outstretched, feet frozen in the middle of a running
+                stride. The football drops into view and bounces off the side of his head, and he
+                slowly topples forward onto the grass.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Cyborg? Cyborg!</sp>
+
+            <sd>The big teenager’s mouth and normal eye close, and the red light of his eye implant
+                winks out. Four very worried and surprised Titans, including Beast Boy in human
+                form, gather around him in short order. Fade to black.</sd>
+
+            <cue>OPENING THEME</cue>
+
+        </act>
+        <act n="1">
+            <title>Act One</title>
+            <sd>The screen remains black at this point. Dialogue, when it starts, initially sounds
+                as if it is being heard through a speaker.</sd>
+
+            <sp><spkr ref="#">Starfire</spkr><sd>voice over</sd> Cyborg? <sd>A flicker of
+                    light.</sd> Cyborg!</sp>
+
+            <sd>The words "Reserve Battery Activated" appear as the background lightens into a blank
+                view that appears as if it could be on a badly tuned television set. The display
+                changes to "Power Remaining 00: 30: 00," and the clock starts to count down. This is
+                Cyborg's perspective.</sd>
+
+            <sp><spkr ref="#Raven">Raven</spkr><sd>voice over o.c.</sd> What's wrong with him?
+                    <sd>Static.</sd></sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>voice over o.c.</sd> Is he gonna be
+                okay?</sp>
+
+            <sd>The view blacks out again and then gives way, as of an eye opening, to the four
+                concerned teammates. The poorly tuned, grainy quality remains for the moment.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Shh. I think he's coming to.</sp>
+
+            <sd>Now the image jumps a bit and gradually refines itself, and the audio returns to
+                normal.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Cyborg! Are you all right?</sp>
+
+            <sd>Pull back; Starfire and Robin help him up. His lights are back on.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Yeah. <sd>grunts</sd> Thanks.</sp>
+
+            <sp><spkr ref="#Raven">Raven</spkr>What happened?</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Something musta gone wrong with my systems.</sp>
+
+            <sd>He raises his forearm, and the camera cuts to a close-up of it as he brings up a
+                display panel. It shows a nearly-drained bar graph and the "Power Remaining"
+                timer.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>from o.c.</sd> Oh, man! <sd>Pull back to frame
+                    him.</sd> My power cell's dying.</sp>
+
+            <sp><spkr ref="#Starfire">Starfire</spkr><sd>panicked</sd> Dying?!?</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>It's only a battery. I'm fine. Happens every couple
+                of years. Just a natural part of being unnatural.</sp>
+
+            <sp><spkr ref="#Robin">Robin</spkr>So what do we do?</sp>
+
+            <sd>Cyborg picks up the football and hands it to Robin.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>You keep playing. I go home and change
+                batteries.</sp>
+
+            <sd>He starts away.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>You sure you don't want help?</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Just 'cause I can't have fun doesn't mean y'all
+                can't.</sp>
+
+            <sd>Dissolve to a patch of sunny sky, seen from slightly above ground level, and tilt
+                down to the battery-powered Titan on the way back to home base. The temporary
+                shutdown is now weighing heavy on his mind.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>sighs</sd> Sure was a nice day.</sp>
+
+            <sp><spkr ref="#Boy1">Boy 1</spkr><sd>from o.c.</sd> Cyborg!</sp>
+
+            <sd>Surprised, Cyborg turns around to see who has called his name. Pull back to show the
+                speaker as a young fellow, perhaps ten years old, seen from behind. On the next
+                line, the camera shifts to show him in a baseball jersey, cap, and mitt.</sd>
+
+            <sp><spkr ref="#Boy1">Boy 1</spkr>Whoa, Cyborg! It's really you! You're my favorite
+                'cause, look!</sp>
+
+            <sd>He pulls off the mitt to expose a prosthetic hand.</sd>
+
+            <sp><spkr ref="#Boy1">Boy 1</spkr>You're just like me!</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Um...yeah, I...I guess I am.</sp>
+
+            <sd>Something starts beeping; an alarm from his systems, and he looks at his forearm.
+                Opening the display panel, he finds the words "Titan Alert" flashing on it.</sd>
+
+            <sp><spkr ref="#Boy1">Boy 1</spkr>Cool!</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Nice meeting you, kid, but I got butt to kick.</sp>
+
+            <sd>He runs off.</sd>
+
+            <sp><spkr ref="#Boy1">Boy 1</spkr>Cool!</sp>
+
+            <sd>The panel now shows the power bar and timer again, now with a bit over thirteen
+                minutes to go. Cyborg closes it and sprints resolutely across the park. Dissolve to
+                a close-up of a nervous, gagged man whose eyebrows twitch in puzzlement. He emits
+                muffled yells as the camera pulls back a bit and turns upside down. Pull back
+                farther; he is strapped into a straitjacket and hanging by his ankles from the
+                ceiling of this place, a jewelry store. In the fore, loading the display cases'
+                contents into a bag, is a magician in full formal attire: tuxedo, white gloves, long
+                red cape, top hat, flower in lapel. Two odd features stand out; his blue skin and
+                the black mask over his eyes. He turns from the case and bows to the captive. This
+                is the Amazing Mumbo.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>Thanks so much. You've been a wonderful audience. Now
+                watch as the Amazing Mumbo vanishes into thin air! <sd>He produces a wand and twirls
+                    it.</sd> Mumbo Jumbo!</sp>
+
+            <sd>Pointing the wand at the ground, he conjures up a burst of light and smoke that
+                fills the screen; when it clears, he is gone. Cut to the entrance to Tito's
+                Junkyard, where he races into view. His legs are pistoning so fast that they look
+                something like those of the Road Runner in top gear. Mumbo races through the piles
+                of discarded items, then skids to a stop and snaps his fingers. A large diamond,
+                part of his haul from the robbery, appears between them.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr><sd>inspecting it with a loupe</sd> Not bad for a
+                matinee.</sp>
+
+            <sp><spkr ref="#Robin">Robin</spkr><sd>from o.c.</sd> Show's over, Mumbo!</sp>
+
+            <sd>The villainous legerdemain artist gasps and looks back over his shoulder; pan
+                quickly to a ledge overlooking the junkyard. All the Titans save Cyborg are
+                there.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Now hand over the jewels before the critics decide to
+                trash your performance.</sp>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>Now, Robin, I'm sure there's a peaceful solution
+                here... <sd>He produces a lit bomb in each hand.</sd> ...but this isn't it!</sp>
+
+            <sd>He flings them at the four, who dive for cover to avoid the explosions. Laughing,
+                Mumbo plucks a flower from his lapel and tosses it at Robin; it goes off at his feet
+                and just misses him. The Boy Wonder lands at the edge of a trash pit, ready to go
+                again, but Cyborg's hand reaches up and pulls him in before he can do anything. The
+                black mask hangs briefly in the air before falling after him. Cut to inside; the big
+                fellow has something strapped to his back.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Who said you could start the party without me?</sp>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Cyborg?! What about your power cell?</sp>
+
+            <sd>Something explodes very close to them; cut to the cackling Mumbo, who now has a
+                handful of cherry bombs and is letting them fly in all directions. Starfire and
+                Raven have taken cover behind neighboring junk piles, and they return fire;
+                starbolts from the former, a few strategically levitated and aimed pieces of waste
+                from the latter. Mumbo dodges both girls' counterattacks and then jumps very high to
+                avoid Beast Boy's charge as a velociraptor.</sd>
+
+            <sd>Back to Robin and Cyborg in the pit.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Go home. Get fixed. We can handle this without
+                you.</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>I won't let you guys fight alone.</sp>
+
+            <sp><spkr ref="#Robin">Robin</spkr>And I won't let you put yourself in danger.</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>I got it covered.</sp>
+
+            <sd>He turns around, showing the thing on his back to be four car batteries wired
+                together.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>External battery pack. <sd>He brings out his sonic
+                    cannon.</sd> Teen Titans! Go!</sp>
+
+            <sd>One giant leap carries him out of the pit. Close-up of Mumbo, with his hat off.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>Huh?</sp>
+
+            <sd>Pull back; he has the hat in hand and is about to pull something out of it. A blast
+                from the cannon hurls him to the other end of the junkyard; he groans as a tin can
+                bounces off his head and the hat rolls to a stop nearby. Putting it on and standing
+                up, he tugs at his shirt sleeve and starts to pull a long rope of knotted-together
+                handkerchiefs from it.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>Nothing up my sleeve... <sd>getting to the end, he
+                    whips the rope forth</sd> ...and, presto!</sp>
+
+            <sd>Cyborg is dashing in, but the silks wrap themselves tightly around his body to
+                immobilize him.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>No!</sp>
+
+            <sd>He is spilled to the ground in an instant. A sound from o.c. draws Mumbo's attention
+                elsewhere; cut to the source, Robin, angling himself for a flying kick. Mumbo stands
+                near one end of a pipe that juts from the trash piles.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>Need a hand?</sp>
+
+            <sd>He reaches into the pipe, and his hand comes out the other end; an impossibly long
+                reach for any mere mortal-and grabs Robin's cape. The young man flails his arms and
+                legs, trying hopelessly to escape. Mumbo's other hand shoots out from several other
+                pipes and gives him a high-speed beating.</sd>
+
+            <sp><spkr ref="#Raven">Raven</spkr>Azarath Metrion Zinthos!</sp>
+
+            <sd>She heaves a few large appliances at the prestidigitator, who has stopped thrashing
+                Robin. He just stands there and dispels her magic with a gesture; the junk remains
+                suspended in midair for a moment and becomes a shower of rose petals at another wave
+                of the hand.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>You think that's good? Watch me pull a rabbit out of
+                my hat! <sd>sweeps it off</sd> Hocus-pocus!</sp>
+
+            <sd>Out comes a wave of stuffed rabbits that covers Raven from head to toe. Mumbo puts
+                the hat back on and adjusts his gloves; now Beast Boy, as a bighorn sheep, thunders
+                straight at him.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr><sd>producing and spreading a deck of cards</sd> Pick
+                a card, every card!</sp>
+
+            <sd>Half the deck is now in each hand, and he throws the pasteboards straight ahead at
+                the superhero. When they reach him, they have grown to many times normal size, large
+                enough to sweep him off his feet.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>For my next trick, I'll require a lovely
+                assistant.</sp>
+
+            <sd>He whips a cane out of his cape on the end of this line and promptly reaches into
+                the air with its hooked end. Cut to Starfire in flight; she is caught around the
+                waist and yanked down with a cry of surprise. A few wooden slats assemble themselves
+                into a floating box that encloses her entire body except for head and feet, which
+                protrude from the ends. The next thing to be brought out of the mad magician's cape
+                is a long handsaw, which he brandishes over her. Obviously, he is about to attempt
+                the old sawing-a-woman-in-half trick.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr><sd>as a big sweat drop slides down behind Starfire's
+                    head</sd> It's only fair to warn you... <sd>Cut to her; he continues o.c.</sd>
+                ...I have no idea what I'm doing.</sp>
+
+            <sd>Pull back. Cyborg shoots across the screen and nails him with a huge flying tackle,
+                and the two slide among the trash heaps, throwing up thick clouds of dust. They
+                clear to leave the four-hundred-pound Titan pinning the villain to the ground.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>I hate fighting dirty. Shall we clean you up?</sp>
+
+            <sd>A jet of water squirts from the flower in his lapel, hitting Cyborg with the force
+                of a fire hose and throwing him over the garbage mountains. He lands in a nearby
+                dump truck; cut to inside. The water has shorted out his jury-rigged power supply
+                and knocked it off his back. A red light starts to flash on his forearm; close-up of
+                the display panel, counting down from five seconds. Pull back as he tries to climb
+                out, then cut to the panel again. The timer reaches zero, and his systems shut down
+                as they did in the prologue. Frozen in place, he offers no resistance as the dump
+                truck's hydraulics kick into gear. The load of garbage is dumped out the back,
+                taking Cyborg and the car batteries with it, and falls into a Dumpster whose floor
+                has rusted away. Beneath it is the entrance to an underground cavern; the refuse
+                tumbles away in the blackness.</sd>
+
+            <sd>Robin runs to the truck.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Cyborg? Cyborg!</sp>
+
+            <sd>It kicks into gear; Mumbo is at the wheel.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>Exit stage left.</sp>
+
+            <sd>He floors the accelerator and peels out. The other three Titans gather behind Robin;
+                Beast Boy is back in human form.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Titans! He's got Cyborg!</sp>
+
+            <sd>They spread out to start a search. Dissolve to an overhead view of the Dumpster and
+                zoom in slowly, then dissolve to just inside the cavern and tilt down from the
+                entrance. The missing Titan lies immobile among the rest of the trash; around him in
+                the gloom, several round red eyes light up. He is dragged slowly toward them, after
+                which they wink out. Fade to black.</sd>
+
+        </act>
+        <act n="2">
+            <title>Act Two</title>
+            <sd>The word "Online" is typed onto the black screen, then disappears to make way for
+                "Charging" in the same manner.</sd>
+
+            <sp><spkr ref="#Computer1">Computer 1</spkr><sd>in time with the above</sd> Online.
+                Charging.</sp>
+
+            <sd>A horizontal band of white light crosses the middle of the screen and widens to fill
+                the entire view. The brightness yields to a shot of a large circular chamber with
+                strong overhead lights; the camera is pointing up at the ceiling. Cyborg's hand
+                reaches into view in time with his weary groans; this is his perspective. His
+                systems are working again. A male voice begins to speak; very level, measured,
+                almost monotonic.</sd>
+
+            <sp><spkr ref="#Voice">Voice</spkr>You are operational.</sp>
+
+            <sd>The speaker moves into view and looks down at Cyborg. It is a tall android figure
+                swathed in a long robe; all we can see for the moment is the head, which sports a
+                flat, angular face marked by two glowing blue slits for eyes. Instead of hair,
+                circuit pathways cover the scalp. This is Fixit.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>That is good.</sp>
+
+            <sd>Pull back. Lying on a large table, Cyborg has several wires plugged into his chest.
+                He groans.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>What's going--?</sp>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>Rest, friend. <sd>walks o.c.</sd> Your new power cell
+                is not fully charged.</sp>
+
+            <sd>The Titan reaches overhead and pulls down one of the lights to aim it across the
+                chamber. Cut to a motley group of robots in another area; their eyes glow red,
+                marking them as the ones that towed him in here.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>from o.c.</sd> Who are you?</sp>
+
+            <sd>The light pans across many others on elevated benches.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr><sd>from o.c.</sd> I am called Fixit.</sp>
+
+            <sd>Back to Cyborg.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Whoa.</sp>
+
+            <sd>Cut to a darkened patch and pan the light across the spectators again.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr><sd>from o.c.</sd> You were broken. I have brought
+                you here to be repaired.</sp>
+
+            <sd>On the end of this, the light reaches the ceiling and tilts down to illuminate him.
+                He crosses the chamber.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Where's "here"?</sp>
+
+            <sd>Fixit moves into view near the camera; his robe blacks out the screen. From here,
+                dissolve to a group of buildings in Jump City, seem from ground level. A plume of
+                smoke wafts into view, and the camera pans/tilts down to the source; it is the dump
+                truck Cyborg landed in, which has crashed into a building. The other four Titans
+                have caught up to it. Mumbo is nowhere in sight.</sd>
+
+            <sp><spkr ref="#Starfire">Starfire</spkr>Cyborg is not inside!</sp>
+
+            <sp><spkr ref="#Robin">Robin</spkr><sd>checks his tracking device</sd> And his locator
+                signal is being jammed. <sd>puts it away</sd> This doesn't make sense. <sd>Beast Boy
+                    turns o.c.</sd> Why would Mumbo want to kidnap Cyborg?</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>from o.c.</sd> Guys!</sp>
+
+            <sd>Close-up of the illusionist's discarded top hat on the ground.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>picks up Mumbo's top hat</sd> Over here! I
+                found something!</sp>
+
+            <sd>peeks in</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>I wouldn't--</sp>
+
+            <sd>A huge flock of doves flies out of the hat. When they have gone, the four Titans are
+                covered with feathers, Beast Boy most of all.</sd>
+
+            <sp><spkr ref="#Raven">Raven</spkr>Way to go.</sp>
+
+            <sd>Snap to black, then fade in to a close-up of Cyborg's forearm. He opens the display
+                panel and finds the power bar completely lit and the message "Full Power 100%."</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr><sd>from o.c.</sd> Charging is complete. The new
+                power cell is functioning properly.</sp>
+
+            <sd>Pull back; Cyborg is unplugged and sitting up. A couple of hovering robots complete
+                a repair scan and float away.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Yeah. <sd>stretches</sd> I'm feeling better. Lots
+                better.</sp>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>Of course you are. <sd>walking o.c.</sd> I am
+                Fixit.</sp>
+
+            <sd>Cut to ceiling level; mechanical junk of all types tumbles into the chamber from an
+                overhead chute. Tilt down to ground level as Fixit goes over to the pile.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>Things come to me broken. I make repairs. <sd>He
+                    picks up two small parts.</sd> Let me see. <sd>They float out of his hands; he
+                    studies them.</sd> Yes...yes...hmm...pity. <sd>He picks up another one.</sd>
+                Interesting. The damage is too extensive. <sd>It floats; he takes up a fourth.</sd>
+                Perhaps if we can find another processor.</sp>
+
+            <sd>During the previous line, Cyborg gets off the table and watches Fixit for some
+                seconds. Finally, he waves and starts to leave.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Well, thanks...for everything.</sp>
+
+            <sd>Several of the red-eyed robots turn suddenly in his direction. The components Fixit
+                had suspended in midair hit the ground, and he advances across the chamber with a
+                new note of urgency in his voice.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>You cannot leave.</sp>
+
+            <sd>Cyborg, at the exit, stops and turns back.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>I can't?</sp>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr><sd>returns to normal tone</sd> You are not repaired,
+                not fully.</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>I'm not?</sp>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>My examination revealed many flaws, serious
+                flaws.</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>panicked</sd> Serious? How serious? What's
+                wrong with me?</sp>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>There is no cause for alarm. More repairs are needed.
+                More repairs will be made.</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>But, I feel fine. Are you sure I'm--?</sp>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>Quite. Will you remain? It is for the best.</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Well, yeah, I guess. <sd>works his forearm
+                    controls</sd> Let me just tell my friends where I am.</sp>
+
+            <sd>His back turned to Fixit, he does not notice that the android's eyes have gone red.
+                What he does notice is that when the display panel for his built-in communicator
+                opens, it shows a badly garbled signal; jammed by the proprietor of the place.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Whoa! <sd>Fixit's eyes go blue again.</sd>
+                Something really is wrong with me.</sp>
+
+            <sd>He shuts it off.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr><sd>gestures to the table</sd> Rest now. You may
+                contact your friends later. <sd>Cyborg climbs up.</sd> I am sure they are not too
+                concerned.</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>lying down</sd> Maybe they should be.</sp>
+
+            <sd>Cut to the other four Titans racing through the streets, then to a building front
+                that has been garishly decorated with rainbow-colored clouds and stars. No points
+                for guessing who did this bit of graffiti. Pan to a parked bus, which disappears in
+                a puff of smoke, then to the location where it materializes; a block or so down the
+                road. The camera moves on to another corner, where a mailbox jumps into view under
+                its own power, spits out a live rabbit, and bounces away a bit before doing this
+                again. Pan to follow a young woman as she floats out from around this corner; ten
+                feet or so off the ground, horizontal, headfirst, with three large hoops encircling
+                her body. The old "levitating woman" trick has received a new twist thanks to
+                Mumbo.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>I'll say this much for Mumbo; he's an easy act
+                to follow.</sp>
+
+            <sp><spkr ref="#Starfire">Starfire</spkr>Oh, I would commit myself to a life of
+                muck-shoveling in the filth mines of Cornex if Cyborg could only be returned
+                safely.</sp>
+
+            <sp><spkr ref="#Raven">Raven</spkr>He was malfunctioning. He shouldn't have been
+                helping.</sp>
+
+            <sp><spkr ref="#Robin">Robin</spkr>I tried to stop him, but he's Cyborg.</sp>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr><sd>from o.c., distant</sd> Mumbo-jumbo!</sp>
+
+            <sd>The sound of a spell being cast is heard, and all four Titans run toward it. Cut to
+                an ATM at a street corner; it is spewing a mountain of cash onto the sidewalk. As
+                the heroes run up, the camera pans away from them a bit to show two other machines
+                exhibiting the same green diarrhea. Mumbo is at the last one, hammering away at its
+                keypad. He laughs, then cocks an eyebrow at the new arrival and sweeps his hat off;
+                a replacement for the one he lost.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>Sorry, folks.</sp>
+
+            <sd>He holds the hat upright, open end down; all the money is promptly sucked up into it
+                as if it were a vacuum cleaner, after which he puts it back on.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>No time for autographs.</sp>
+
+            <sd>He runs o.c.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Titans! Get him!</sp>
+
+            <sd>Cut to inside an alley. The magician runs along its course as Raven flies after
+                him.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>Open, says me!</sp>
+
+            <sd>Cut to the wall at the alley's dead end. Responding to his command, the bricks
+                disappear, several at a time, to make an opening big enough for him to pass through.
+                They pop back into place just in time to stop Raven from following. Cut to Mumbo,
+                still running along. A loud lowing causes him to hit the brakes and yell in fear;
+                pull back as the source steps into view, Beast Boy as a large bull. He snorts
+                angrily and charges, and the camera cuts to his perspective as Mumbo pulls his cape
+                off and holds it in front of him. The garment is jerked away to reveal that a brick
+                wall has suddenly appeared behind it. Beast Boy rams this head on, and the camera
+                pulls back from the impact to show him lying dazed next to its remains. Mumbo steps
+                out from behind the masonry, his cape back on, and turns his hat into a sombrero
+                with a flick of the wrist.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>Olé!</sp>
+
+            <sd>He turns the headgear back to normal and runs off down the alley. However, he is not
+                alone for long; Starfire flies over the roof of an adjacent building and throws a
+                starbolt at him as she takes over the pursuit. Overhead view of him, with her shots
+                peppering the ground on either side. She pulls into view, and the camera cuts to
+                him; he conjures a bouquet in one hand.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>Flowers for the lady.</sp>
+
+            <sd>He tosses the bunch up over his shoulder and they explode in her face. A few more
+                steps bring him to another dead end, where Robin drops into view to square off. His
+                handy-dandy fighting staff is out and fully extended for a twirl in no time
+                flat.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>Abracadabra!</sp>
+
+            <sd>A flash of light, and the metal shaft has turned into a cobra. Robin yells in
+                surprise and drops the venomous creature. Close-up of it on the ground as Mumbo's
+                shadow passes by and his laughter is heard, then cut to him running up a flight of
+                stairs to make his escape. All four Titans charge after him, Beast Boy back in human
+                form.</sd>
+
+            <sd>Close-up of Cyborg's full power gauge; pull back slightly. This is his
+                perspective.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>I don't get it. All my sensors say I'm fine.</sp>
+
+            <sd>He lowers his arm; Fixit approaches.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>Your sensors are incomplete. Mine are more
+                precise.</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Guess I'm just... <sd>Pull back; he lies on the
+                    table; fully wired up.</sd> ...getting kinda nervous. How long am I gonna be
+                down here, anyway?</sp>
+
+            <sd>Cut to a gathering of robots on the chamber floor. A small droid floats past
+                them.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr><sd>from o.c.</sd> Repairs could take some time.
+                    <sd>Cut to him.</sd> Besides, why would you want to leave? <sd>The droid reaches
+                    him; he grasps it.</sd> Look around you.</sp>
+
+            <sd>A cable extends itself down from the ceiling, plugs into a port on Fixit's forehead,
+                and begins to glow red.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>Look at yourself. <sd>Another droid floats over.</sd>
+                You belong with us.</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>No, I don't. I mean, you've got a nice place here
+                and you've been really cool to me, but... <sd>Back to Fixit; he continues o.c.</sd>
+                ...I couldn't live down here. I don't know how you can.</sp>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>What do you mean? The power supply is adequate.
+                Replacement parts are easy to find.</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>I need more than that! What about sunlight? What
+                about fresh air? What about food?</sp>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>I do not require these things. <sd>The cable
+                    disconnects.</sd> And when repairs are complete... <sd>walking o.c.</sd>
+                ...neither will you.</sp>
+
+            <sd>Cyborg gets himself vertical and unplugs the lines hooked into his body.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>You know what? I'm feeling all right now. So thanks
+                anyway, but I'm just gonna go.</sp>
+
+            <sd>He walks away. Fixit turns from his work and puts even more urgency and command into
+                his voice than when the patient first tried to clear out.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>Stay.</sp>
+
+            <sd>His eyes go red. Cyborg suddenly finds a number of spectator robots blocking his
+                path. He takes a step back and is surprised by a few small ones that jump onto his
+                shoulders and chest and grip firmly.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Yo, what are you--? <sd>A flexible arm reaches into
+                    view and grabs his wrist.</sd> Hey!</sp>
+
+            <sd>Cut to the source, another robot. It reaches out with its other arm.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>from o.c.</sd> Let me go!</sp>
+
+            <sd>Back to him; the second arm clamps onto his other wrist. He struggles against the
+                contraptions' hold on him, but cannot break free. Pull back a distance; several
+                other members of Fixit's legions extend cattle prods from their upper surfaces and
+                electrify them. The current races along the two extended arms toward the captive,
+                and as he starts to scream, the camera cuts to Fixit's emotionless countenance and
+                pans to follow his gaze back to the table. It tilts until it is nearly vertical, and
+                Cyborg is carried into view and placed on it. He has been securely bound.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>Repairs are not yet complete.</sp>
+
+            <sd>The table swivels a bit to give the Titan a direct view of a large closed door. Zoom
+                in slowly.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr><sd>from o.c.</sd> Your biological components are
+                imperfect and must be replaced.</sp>
+
+            <sd>The door hisses open, releasing a cloud of vapor. Behind it is only blackness, but
+                after a second or two this yields to show, hanging on a support framework, an array
+                of secondhand robotic parts; enough to replace every remaining natural portion of
+                Cyborg's body. The face is missing its left eye, since he already has an implant on
+                that side. A small gasp is heard from the o.c intended recipient of this overhaul.
+                Cut to an extreme close-up of him.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>horrified</sd> No.</sp>
+
+            <sd>Dissolve to a close-up of the robotic face. Everything except the glowing red right
+                eye fades to black; it does the same a moment later.</sd>
+
+        </act>
+        <act n="3">
+            <title>Act Three</title>
+            <sd>The screen remains black as the following line is spoken and the words are typed
+                up.</sd>
+
+            <sp><spkr ref="#Computer2">Computer 2</spkr>Biological components removed. Repairs
+                complete.</sp>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr><sd>voice over</sd> Awaken, friend. Awaken and see
+                your new face.</sp>
+
+            <sd>The view flickers and gives way to a shot of Cyborg, seen from behind and looking in
+                a mirror. Every last scrap of organic tissue has been switched out for the
+                artificial parts that had hung on the rack. He rubs a hand down the side of his
+                face, then raises it in a fist with a growl of rage. Close-up of the reflection; the
+                fist comes down and shatters the glass. Behind it is blackness, with a point of
+                light shining in the distance and shooting rays toward the camera. Cyborg is sucked
+                into view toward this; it starts to grow, filling the screen.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>NOOOOOOOOO!!</sp>
+
+            <sd>A flash of white, and we see him on Fixit's examining table; back to normal, wired
+                up, and now held to the table with thick steel bands. He yells in pure fear as his
+                eyes snap open; the previous scene was a nightmare.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr><sd>from o.c.</sd> Do not be afraid.</sp>
+
+            <sd>Cut to him by the table. His eyes have assumed their normal blue color.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>You were dreaming. <sd>walking o.c.</sd> Sleep will
+                not be necessary once repairs are complete.</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>struggling</sd> What if I don't want to be
+                repaired? What if I like me this way?</sp>
+
+            <sd>Fixit goes to the rack of parts.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>Such thoughts come from your imperfect biological
+                components.</sp>
+
+            <sd>He raises a hand; a tool floats into it, and he does a bit of welding on he
+                face.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>They will be replaced momentarily.</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Not if I can help it.</sp>
+
+            <sd>Cut to a rooftop. Mumbo leaps into view and bounds from building to building.
+                Starfire flies after him, then Raven, and Beast Boy brings up the rear as a
+                kangaroo. The crazed magician makes one impossible jump after another as the three
+                Titans struggle to keep up. Pull back to an overhead view; Robin gets into the
+                action, hoofing it along the rooftops of higher buildings. After a few more blocks,
+                Mumbo stops dead and whirls to face them, bringing his wand to the ready.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>Abracadabra!</sp>
+
+            <sd>He waves the wand; cut to the two flyers and the hopper as they scatter to avoid the
+                hexes.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr><sd>from o.c.</sd> Alakazam! Hocus-pocus!</sp>
+
+            <sd>Back to him. He laughs madly, the top of his head flapping clear of his neck after
+                the style of the Canadian characters on South Park.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>You'll never stop the Amazing Mumbo! Never! Ne--</sp>
+
+            <sd>Close-up of his wand hand on the end of this line. Something black and green whips
+                past and carries the prop with it. Pull back; Mumbo is caught completely off
+                guard.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>Huh?</sp>
+
+            <sd>Cut to Robin, holding aloft the wand he swiped; he breaks it in half. Mumbo screams
+                as bags of money, all the loot from his crime spree, go flying out of his pockets.
+                He then cries a waterfall while his top hat shrinks and disappears; finally, he
+                collapses o.c. Pull back to reveal that he is now an ordinary-looking old fellow, on
+                his knees among the vast amounts of cash. Starfire, Raven, and Beast Boy touch down
+                behind him, and Robin's shadow falls across him from the front. He is dragged up by
+                his shirt front for a little face-to-face talk.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>No more tricks! Where, is, Cyborg?</sp>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>How should I know?</sp>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Where is he?!?</sp>
+
+            <sp><spkr ref="#Raven">Raven</spkr>You took him from the junkyard!</sp>
+
+            <sd>Pull back to frame everyone; Beast Boy is in human form.</sd>
+
+            <sp><spkr ref="#Starfire">Starfire</spkr>What have you done with him?</sp>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>Nothing! Honest! When you broke the wand, you broke
+                all my spells. Even if I had done something, it'd be over now. Poof! He'd be
+                standing right here.</sp>
+
+            <sd>Robin drops him.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>If Cy's not with him, then he's still back
+                at--</sp>
+
+            <sp><spkr ref="#Robin, Beast Boy, Raven and Starfire">Robin, Beast Boy, Raven and
+                    Starfire</spkr><sd>all together at the same time</sd> The junkyard!</sp>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr><sd>smiling nervously</sd> So, do I still have to go
+                to jail?</sp>
+
+            <sd>He gets a very nasty look from the four Titans and his face falls. A big drop of
+                sweat slides down his temple.</sd>
+
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>I thought so.</sp>
+
+            <sd>Cut to Cyborg, now straining mightily against the steel bands that hold him to the
+                table. Zoom in past him to Fixit, who continues his spot repairs on the new parts.
+                He stops after a moment.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>I am ready. We will begin now.</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Perfect timing.</sp>
+
+            <sd>A mighty surge of muscle power breaks him loose. Unplugging himself, he slides off
+                the table and makes a run for it. Fixit's eyes go red as he beams a command; cut to
+                just outside the exit door, which closes in response. Cyborg gasps an instant before
+                it seals itself, blacking out the screen; snap to him inside.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>I didn't want to have to do this, but...</sp>
+
+            <sd>He reconfigures his arm into cannon mode and prepares to fire, but the weapon merely
+                fizzles out with a wisp of smoke.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Huh?</sp>
+
+            <sd>Fixit's eyes are blue again.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr><sd>advances toward the camera</sd> Your defensive
+                systems have been disabled for the procedure. They will be reactivated when repairs
+                are complete.</sp>
+
+            <sd>Snarling, Cyborg runs at him, but a red-eye flash sends several metal tentacles
+                snaking down from the ceiling. They ensnare him just before he can tackle Fixit; he
+                hauls fiercely at them and is able to reach one hand forward. Close-up of it, within
+                inches of the hermit's robe. The fingers close on the fabric and pull it away, and
+                the camera backs up to ground level and tilts up to give a good view of what is
+                within. There is a jumble of internal organs heavily interwoven with cables and
+                switches, even a small, fully jointed robotic arm. Fixit, then, is not a true
+                android, but rather a mix of mechanical and organic parts just like the Titan he is
+                trying to "repair."</sd>
+
+            <sd>Cyborg sucks in a long, shocked gasp, but Fixit shows no trace of anger at having
+                had his innards exposed to full view.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>The biological malfunctions are growing worse.
+                    <sd>closes his robe</sd> We must begin at once.</sp>
+
+            <sd>He moves o.c. Cut to the floor of the underground cavern; a circle of it is
+                illuminated by the sunlight spilling in from above. The car batteries Cyborg had
+                wired up to power himself lie in a jumble here. Robin drops into view and looks them
+                over carefully; the other three Titans are gathered at the edge of the hole that
+                leads in.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>His battery pack. He must have fallen down here.
+                    <sd>Beast Boy jumps down as well.</sd> Star! Can you give us some light?</sp>
+
+            <sd>Pull back; now all four Titans are underground. One of Starfire's hands begins to
+                glow, and she holds it up to substitute for a torch. They advance into the
+                gloom.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Cyborg!</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Cy!</sp>
+
+            <sp><spkr ref="#Starfire">Starfire</spkr>Cyborg?</sp>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Cyborg!</sp>
+
+            <sd>After they have passed o.c., leaving the screen blacked out, snap to a long shot of
+                the chamber. Cyborg has again been secured to the table, and Fixit has bent to his
+                work. Sparks fly from the welding in progress, to the sound of weak moaning.
+                Close-up of one hand, which twitches convulsively, then of Fixit's expressionless
+                face. The sparks' glare plays over his flat features.</sd>
+
+            <sd>Snap to black, the lightless exterior part of the cavern. The other four teammates
+                advance into view, but stop at the sound of machinery moving o.c. Robin gasps in
+                surprise; pull back to frame the source, one after another of Fixit's robots,
+                blocking the forward path and cutting off retreat. Beast Boy cranes his neck for a
+                look at the biggest of the lot.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Wow... <sd>He chuckles nervously.</sd> Uh, any
+                of you guys seen a dude about this tall with one red eye and titanium body
+                armor?</sp>
+
+            <sd>He reaches up to indicate the height on "this tall," then turns his left eye red and
+                adopts an approximate likeness of Cyborg in time with the other two features he
+                names. The robots' only response is to step forward in readiness for battle. Robin
+                backs up a step of his own; Beast Boy has assumed his normal appearance.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Teen Titans! Go!</sp>
+
+            <sd>Starfire stays put while the other three spread out. She throws a string of
+                starbolts at the robot advancing toward her and blows it apart with the last one.
+                Robin punches another to send sparks flying, then smashes it to junk with a high
+                kick. A third is forcing Beast Boy back into the inky shadows, so that his eyes are
+                all that can be seen of him. We hear a low growl from that corner, and the lights
+                come up to show that he has transformed into a huge gorilla and caught the
+                mechanical aggressor in a crushing grip. He tears it apart and sets out to find
+                others.</sd>
+
+            <sd>Raven raises her arm to cast a spell as the lights go out entirely on her. Two black
+                slashes of energy cross the screen; fade in to show the biggest robot of the lot,
+                with two glowing incisions crossing its upper body. The thing shorts out, slides
+                apart along the fault lines Raven has opened, and explodes.</sd>
+
+            <sd>Close-up of Fixit's tray of tools. One floats up, then another; pull back to frame
+                him, still hard at work. The two devices hover nearby within easy reach, and he
+                takes one of them in hand after a moment. A piece of Cyborg's armor plating clatters
+                to the floor. Now Fixit takes the robotic face off the rack; cut to a close-up of
+                the madly struggling Titan as the shadow of his single-minded repairman falls over
+                him, then to his perspective.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>Do not resist. It is for the best.</sp>
+
+            <sd>He lowers the face toward the camera. Cut to Cyborg.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>No, it isn't! If you take out my biological
+                components...</sp>
+
+            <sd>The face is set in place; his next three lines sound as if they are coming through a
+                speaker set in it. Extreme close-up of the right eye behind the red glass.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>...you take out the best part of me! The part that
+                makes me who I am!</sp>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>Your memories, your "self", will be preserved.
+                    <sd>His eyes go red; close-up of them.</sd> I will download them into your new
+                brain.</sp>
+
+            <sd>The port on his forehead opens to allow a cable to extend outward. It plugs itself
+                into Cyborg's new face, right between the eyes.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>No...you can't do this, please! You don't
+                understand!</sp>
+
+            <sd>Extreme close-up of the right eye, squeezed tightly shut. It opens as the camera
+                zooms in through the pupil.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>NOOOOOOOOO!!</sp>
+
+            <sd>The screen flickers briefly and begins to show scenes from the prologue and Act One,
+                dissolving from one to the next; Fixit is copying memories to his own system. Pan
+                across the park...Cyborg, Robin, Starfire at the picnic table...Starfire hugging the
+                mustard jar...Cyborg and Robin staring at her in disbelief...gathering for the
+                football game...Raven asking what happened to him when he conked out (mirror image
+                from original scene)...the start of the game's first play...Robin backing up for a
+                pass...Beast Boy counting down to tackle...the ball sailing through the air...Cyborg
+                going long for the catch...the other four Titans, waiting to see if he will come
+                around from the shutdown...Starfire and Robin helping him up...the boy with the
+                artificial hand running up to say hello...the catcher's mitt being removed to expose
+                the prosthesis...then a flash of white, and we are back in the chamber. Fixit cries
+                out and stumbles away from Cyborg, the connecting cable retreating into his
+                forehead. He crashes to the ground.</sd>
+
+            <sd>In the outer portion of the cavern, the shots Starfire is holding in check light up
+                the area again. She, Raven, and Beast Boy, the last back in human form, have found
+                themselves staring at a great many robots who have been knocked out by their
+                combined efforts. Pan to Robin, who is trying to catch his breath; he starts in
+                surprise at the sound of o.c. machinery. Cut to the source, another squadron
+                struggling to move forward, then to him as he backs up into the other three. The
+                units totter toward them and then go dead-incapacitated by the shock to Fixit's
+                system.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Huh?</sp>
+
+            <sd>The floor of the chamber. The face that was to have replaced Cyborg's drops next to
+                the table, whose steel restraints have all been broken, and the real McCoy climbs
+                off and kneels groaning next to it. Robin reaches into view and puts a hand on his
+                shoulder.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr><sd>from o.c.</sd> Cyborg! <sd>Pull back to frame
+                    both.</sd> Are you okay?</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Yeah.</sp>
+
+            <sd>They straighten up. Pull back; the other three Titans are in the chamber as
+                well.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr><sd>from o.c., wistfully</sd> So...beautiful.</sp>
+
+            <sd>Cut to just behind Cyborg and zoom in slowly over his shoulder. Fixit is kneeling by
+                the rack of parts.</sd>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr>I had forgotten how beautiful. The world...
+                    <sd>Cyborg walks up.</sd> ...through your eyes.</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Through human eyes. The same kind you have.</sp>
+
+            <sp><spkr ref="#Fixit">Fixit</spkr><sd>looks at his hands</sd> Perhaps I am the one in
+                need of repairs.</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>And maybe I'm the guy who can help repair you.</sp>
+
+            <sd>He holds out a hand, and the fellow mechanical half-breed smiles and takes hold,
+                allowing himself to be helped to his feet.</sd>
+
+            <sd>Dissolve to a patch of clear sky and tilt down to the park. Once again, people are
+                enjoying the fine weather in their own way. Cut to a long shot of the Titans, save
+                Cyborg, gathered around a picnic basket set out on a blanket. The fifth member of
+                the team walks into view, carrying the football, but is stopped by a familiar
+                voice.</sd>
+
+            <sp><spkr ref="#Boy1">Boy 1</spkr><sd>from o.c.</sd> Cyborg! Hey, Cyborg!</sp>
+
+            <sd>Cut to him; he runs up, with his mitten gone and prosthesis fully exposed, and he
+                has a friend with him.</sd>
+
+            <sp><spkr ref="#Boy1">Boy 1</spkr><sd>to his friend</sd> See? It's Cyborg. He's just
+                like me!</sp>
+
+            <sp><spkr ref="#Boy2">Boy 2</spkr>Whoa, cool!</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>I am just like you. But it's not your arm that
+                makes us the same. <sd>Cut to the two; he points at the first boy's heart and
+                    continues o.c.</sd> It's the stuff connected to it.</sp>
+
+            <sd>Both beam at this; pull back to frame him.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Now, go deep!</sp>
+
+            <sd>They do so, laughing, and he lets the pigskin fly. Tilt up and pan to follow its
+                spiraling flight across the park, then fade to black.</sd>
+        </act>
+    </body>
+</root>
