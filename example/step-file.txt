@@ -5,14 +5,18 @@ Find: `&|<|>`
 If any are present, perform separate find and replace and replace the ampersand first!
 
 1. Wrap Acts
-Find: `^(Prologue|Act (\d))`
-Replace with: `</act><act n="\2">\n<title>\0</title>`
+Find: `^(Prologue|Act \w+)`
+Replace with: `</act><act n="">\n<title>\1</title>`
 This uses clopen method, manually remove the additional `</act>` tag from the beginning and move it to the end.
+Manually enter act `@n` values (0, 1, 2, 3, etc.)
+
+1. Move stage directions that appear at the end of a character's speech to a new line.
+Find: `[^:] (\()`
+Replace with: `\n\n\1`
 
 1. Wrap speakers and speeches
-Find: `(^\w+.+): `
-Replace with: `<sp><spkr ref="#\1">\1</spkr>`
-Manually add `</sp>` tags; a bit tedious :(
+Find: `(^\w.+?):(.+?)(\n\n)`
+Replace with: `<sp><spkr ref="\1">\1</spkr>\2</sp>\3`
 
 1. Wrap stage direction
 Find: `\((.+?)\)`
@@ -20,18 +24,6 @@ Replace with: `<sd>\1</sd>`
 
 1. Add `<header>` and `<body>` tags
 
-1. Fix @ref values
-Find multiple speakers
-    Find: `ref="#\w+,"`
-    Manually fix
-        - remove comma
-Beast Boy:
-    Find: `ref="#Beast Boy"`
-    Replace with: `ref="#BeastBoy"`
-    
-1. Capture other character references
-Find: `( |sd>|spkr>)(Character's name here)`
-Replace with: `\1<char>\2</char>`
-Example: Cinderblock
-Find:``( |sd>|spkr>)(Cinderblock)`
-Replace with: `\1<char>\2</char>`
+1. Find distinct-values for the `<spkr>` tags to allow for easier creation of `<characterList>`
+XPath: `//spkr => distinct-values()`
+    **This also shows you if any characters are speaking in unison**

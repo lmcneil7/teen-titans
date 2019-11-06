@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <head>
+        <episode>FORCES OF NATURE</episode>
+        <writer>David Slack</writer>
+        <director>Ciro Nieli</director>
+        <storyboard>Kalvin Lee, Rafael Rosado, Alan Wan</storyboard>
+        <animation>Dong Woo Animation Company, Ltd.</animation>
+        <source>https://teentitans.fandom.com/wiki/Forces_of_Nature_(Transcript)</source>
+    </head>
+    <characterList>
+        <charList type="recurring" id="BeastBoy" subtype="titan">Beast Boy</charList>
+        <charList type="recurring" id="Raven" subtype="titan">Raven</charList>
+        <charList type="recurring" id="Cyborg" subtype="titan">Cyborg</charList>
+        <charList type="recurring" id="Starfire" subtype="titan">Starfire</charList>
+        <charList type="recurring" id="Robin" subtype="titan">Robin</charList>
+        <charList type="nonrecurring" id="Thunder" subtype="villain">Thunder</charList>
+        <charList type="nonrecurring" id="Lightning" subtype="villain">Lightning</charList>
+        <charList type="nonrecurring" id="Sorcerer" subtype="villain">Sorcerer</charList>
+    </characterList>
+    <body>
+        <act n="0">
+            <title>Prologue</title>
+            <sd>Opening shot: a night sky filled with dark thunderhead clouds. Flashes of lightning
+                illuminate their contours. A bulky silhouette stands up among them and begins to
+                swing a pair of sticks against the clouds; every time it brings them down, there is
+                another strike and accompanying thunderclap. Dissolve to another patch of the sky,
+                where even more lightning crackles back and forth. A second silhouette, this one
+                much thinner and with spiky upswetpt hair, stands up and directs its hands here and
+                there. There is a new flare-up every time it does so.</sd>
+
+            <sd>When the last one clears, the camera has moved to a point near the underside of the
+                clouds as the flashes continue from within. There is a huge strike, and the camera
+                pulls back to put Titans Tower in view. Inside, in the hall, Beast Boy has become a
+                buffalo and is straining mightily at a rubber band looped over his horns, trying to
+                catch it on a nearby hook. He succeeds and ducks away, coming up in human form with
+                a mischievous smile on his face. Now he produces a large, filled water balloon that
+                sloshes a bit in his hands, and he lets off a wicked little chuckle.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>This is gonna be so sweet!</sp>
+
+            <sp><spkr ref="#Raven">Raven</spkr>
+                <sd>from o.c.</sd> What are you doing?</sp>
+
+            <sd>Surprised by her words, he lets go of the balloon and completely freaks out as he
+                tries desperately to make a safe catch. Finally, he gets hold of it and turns
+                around, and the camera pans to show Raven behind him.</sd>
+
+            <sp><spkr ref="#Raven">Raven</spkr>Please tell me this isn't another ridiculous
+                prank.</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Okay. It's not a ridiculous prank. It's a
+                brilliant one!</sp>
+
+            <sd>He laughs. Close-up of her, rolling her eyes wearily.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
+                <sd>from o.c.</sd> All right, check it out <sd>Pull back to frame both.</sd> 'Member
+                how Cyborg put red dye in my shampoo and I turned brown for two days? Well, sister,
+                it's payback time.</sp>
+
+            <sd>A thought balloon appears above his head as he describes the situation. It shows, in
+                "Super Deformed" style, the hapless victim-tinted brown, holding a scrub brush, in
+                towel, shower cap, and slippers, standing there while the other SD Titans scroll
+                past and laugh at him. The balloon disappears as he finishes; now a pull string
+                hangs down from the ceiling, and he reaches for it.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>I give you...the Beast Boy Insta-Lube
+                9000!</sp>
+
+            <sd>As he says this, he pulls the string and he and Raven back up o.c. Down comes a
+                blueprint that fills most of the screen; the words "Beast Boy" and "Insta-Lube"
+                slide in beneath it, after which "9000" drops from the lower edge and replaces them.
+                The diagram shows the rubber band, which is part of a floor-mounted slingshot, held
+                back by the hook and with the balloon loaded in. A tripwire in front of the rig runs
+                through overhead pulleys and is tied to a lever that is in turn connected to the
+                hook.</sd>
+
+            <sd>The lower portion of the screen dissolves to a shot of the hall and zooms in on the
+                tripwire, and on the blueprint, a rough figure of Cyborg steps up and catches his
+                foot there.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
+                <sd>voice over</sd> See, when Chrome-Dome steps around the corner, his foot tugs the
+                string <sd>Lower portion: follow it to the lever.</sd> The string trips the
+                lever...</sp>
+
+            <sd>Blueprint: it moves forward and pops the band loose. Lower portion: zoom in on the
+                attachment point.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
+                <sd>voice over</sd> ...the lever releases the mother of all rubber bands...</sp>
+
+            <sd>Blueprint: the balloon sails toward Cyborg in slow motion. Lower portion: Raven
+                walks over to the setup, and Beast Boy pops into view with the ammo.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
+                <sd>loading it in</sd> ...which sends a balloon, load of motor oil flying right at
+                him, and BOOSH <sd>The blueprint rolls back up on this last word.</sd> Pretty
+                clever, huh?</sp>
+
+            <sp><spkr ref="#Raven">Raven</spkr>You're a genius.</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>It's just a little good clean dirty fun.</sp>
+
+            <sd>A door opens o.c.; he perks up his ears to listen.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Here he comes</sp>
+
+            <sd>He ducks away, then back to whisk her off.</sd>
+
+            <sp><spkr ref="#Raven">Raven</spkr>Whoa <sd>They hide around a corner.</sd> I do not
+                think--</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Shhh!</sp>
+
+            <sp><spkr ref="#Raven">Raven</spkr>But what if--?</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Shhh</sp>
+
+            <sd>Long silence.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>
+                <sd>from o.c., whispering</sd> Why are we hiding?</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Shhh!</sp>
+
+            <sd>His eyes instantly go as wide as saucers upon realizing that his target is nowhere
+                near ground zero, and the camera pulls back as he flips out for a moment. Cyborg is
+                hunched down behind both of them.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Cyborg?! You can't be Cyborg!</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>I can't?</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
+                <sd>pointing at him, then into hall</sd> If you're you, then who's...?</sp>
+
+            <sd>Footsteps echo out there as all three look out. Cut to a shot down the way, the
+                camera positioned just behind the oil-filled balloon, then to an extreme close-up of
+                the tripwire. A violet boot steps into view and catches it, the string is pulled
+                taut, the lever moves, and the hook starts to pull away from the rubber band. Cut to
+                in front of the balloon, which is released as Beast Boy jumps out in a frantic
+                attempt to stop it.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>NOOOOOOOO!!</sp>
+
+            <sd>Audio and video both shift to slow motion as the projectile is propelled forward by
+                the tension. Just as he is about to run into the camera, cut to a long shot of
+                Starfire and zoom in to an extreme close-up of her face. She is so taken by surprise
+                that she literally cannot see straight.</sd>
+
+            <sp><spkr ref="#Starfire">Starfire</spkr>
+                <sd>normal speed</sd> Eek!</sp>
+
+            <sd>Pull back to show the balloon right in front of her; it collides with her face,
+                splattering her with the viscous contents, and knocks her onto her back. Normal
+                speed: Beast Boy runs up.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Starfire!</sp>
+
+            <sd>She has propped herself up on her hands, but cannot see him due to all the oil
+                covering her eyes. Cyborg and Raven come over.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>You okay</sp>
+
+            <sd>She gets her eyes open.</sd>
+
+            <sp><spkr ref="#Starfire">Starfire</spkr>
+                <sd>puzzled</sd> This is punishment? I did something wrong</sp>
+
+            <sd>Cut to Raven and Cyborg.</sd>
+
+            <sp><spkr ref="#Raven">Raven</spkr>You didn't. He did.</sp>
+
+            <sd>Pan from them to Beast Boy, who gives a sheepish grin-accompanied by a sheep's
+                bleating.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Star! It was.. <sd>Cut to her; he continues
+                    o.c.</sd> ...you weren't supposed to...</sp>
+
+            <sd>Back to him on the end of this. He starts to say something else, but when the camera
+                cuts to Cyborg and Raven, their disapproving stares stop him in his tracks for a
+                moment.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
+                <sd>from o.c.</sd> I didn't.. <sd>Pull back to frame him; he trails off and
+                    laughs.</sd> Just remember to change that oil every three thousand miles.</sp>
+
+            <sd>He tries to laugh again, but it dies on his lips. Starfire stands up and leans over
+                him.</sd>
+
+            <sp><spkr ref="#Starfire">Starfire</spkr>
+                <sd>with steadily building rage</sd> On my planet, we have a name for those who do
+                such terrible things. You are a...a...CLORBAG VARBLERNELK!!</sp>
+
+            <sd>Sight gag: her head grows in stages until it is many times normal size, and he
+                shrinks a few notches before it. The oil disappears from her face on the last two
+                words. From here, cut to a close-up of Cyborg, very worried. The sight gag has now
+                ended.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
+                <sd>from o.c.</sd> I'm a what-bag</sp>
+
+            <sd>Tilt down to him, in front of Cyborg.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>You heard the lady.</sp>
+
+            <sp><spkr ref="#Raven">Raven</spkr>
+                <sd>shaking her head</sd> You are such a clorbag.</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Come on, you guys. Can't anybody take a
+                joke</sp>
+
+            <sd>A flash of lightning interrupts the standoff.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>
+                <sd>from o.c.</sd> Titans <sd>Cut to him, silhouetted against the glare.</sd>
+                Trouble!</sp>
+
+            <sd>The next strike illuminates him fully and leaves the screen black when it
+                dissipates.</sd>
+
+            <cue>OPENING THEME</cue>
+
+        </act>
+        <act n="1">
+            <title>Act One</title>
+            <sd>Opening shot: the bridge across Jump City Bay. Lighting flashes among the storm
+                clouds and finally strikes the roadway. Overhead view of the blast, then cut to a
+                big rig on the bridge. The driver yells in surprise and cuts his wheels sharply to
+                the right, braking as he does so; the truck stops just short of the smoking, flaming
+                strike point. Many cars slam on their brakes to avoid a collision, creating an
+                instant traffic jam.</sd>
+
+            <sd>As the smoke starts to clear, the two silhouettes seen among the clouds become
+                visible within it. The last wisps evaporate to give a fully detailed view of both;
+                they wear outfits that look like something like samurai armor, but without the upper
+                body protection. The bulky one has blue skin and black clothing trimmed with blue,
+                and he also wears a samurai-style helmet. A thundercloud is emblazoned on his chest,
+                and he has long black sideburns. His thin cohort, on the other hand, has light
+                yellow skin and hair, and his outfit is red and yellow, with a lightning bolt on the
+                chest. A headband keeps his hair out of the way and has a guard plate stretching
+                down on either side to cover his cheeks. Both wear armbands and wrist/shin guards.
+                We have just met Thunder and Lightning.</sd>
+
+            <sd>The two new arrivals look at each other and smile; close-up of Thunder.</sd>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>May we have fun here, brother</sp>
+
+            <sd>Pan to Lightning.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>Of course <sd>creating a bolt between his
+                    hands</sd> We are Thunder and Lightning. We may do whatever we please!</sp>
+
+            <sd>He throws the bolt upward. Cut to one of the bridge's columns, where the suspension
+                cables are connected, seen from roadway level. It is struck, and sparks fly
+                everywhere.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>
+                <sd>from o.c.</sd> Look, brother! I command the sparks to dance!</sp>
+
+            <sd>He laughs as the strike dies out and the camera tilts down to them; the flickering
+                remains fall all around in a shower.</sd>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>Amusing. Now listen as I make music!</sp>
+
+            <sd>He claps his hands, creating an intense shock wave, and the camera pulls back a
+                distance to show it radiating outward. The bridge cables are jarred loose and begin
+                to whipsaw back and forth. Cut to the semi, which gets a smoking lightning bolt
+                traced into its side. Pan to the pair on the next line.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>Let all who pass this way know Lightning was
+                here!</sp>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>And Thunder, too!</sp>
+
+            <sd>He bangs his fists together, knuckle to knuckle, and creates an earthquake that sets
+                the stopped cars and their drivers trembling; all the alarm systems are set off in
+                the process. The brothers laugh, and Thunder pats Lightning's shoulder.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>Most amusing.</sp>
+
+            <sp><spkr ref="#Robin">Robin</spkr>
+                <sd>from o.c.</sd> Hate to break it to you...</sp>
+
+            <sd>Surprised, they look toward the traffic snarl; cut to the truck, where the Titans
+                are standing on the trailer.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>...but you guys have a lousy sense of humor! This
+                ends now!</sp>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>
+                <sd>shakes his fist</sd> No one gives orders to Thunder and Lightning <sd>warms
+                    up</sd> Taste my power!</sp>
+
+            <sd>He throws a bolt at the truck and just misses the Titans, who scramble in five
+                different directions. The trailer gets a big hole blown through it, wiping out his
+                graffiti. Starfire does a U-turn and swoops down on him with starbolts blazing; he
+                jumps onto a line of stopped cars, she does likewise, and they run on these parallel
+                tracks and trade shots. The firefight continues for several dozen yards until he
+                gets in a lucky hit that knocks her down.</sd>
+
+            <sd>His brother, meanwhile, is mixing it up with Cyborg. They block or dodge a few of
+                each other's punches and start to grapple. Close-up of Thunder's left fist, which he
+                pulls back and readies for a powerful strike, then of Cyborg's right as he
+                reconfigures it into the sonic cannon. Pull back to frame both; the fists swing and
+                connect with each other, and the camera pulls back farther as the resulting shock
+                wave throws them far down the bridge in opposite directions. Cyborg lands on his
+                back, but Thunder brings a small cloud to himself and hops onto it to float
+                upward.</sd>
+
+            <sd>Robin finds the big blue hooligan bearing down on him and has to dodge a
+                thunderclap. He leaps onto a guardrail, but another blast destroys that section and
+                he has to move down a bit. The next attack breaks a support cable; he grabs the
+                swinging free end and is carried away an instant before Thunder obliterates that
+                section of the rail. Robin is carried high into the air before the cable starts to
+                descend. He times his next move carefully and hurls himself over Thunder, avoiding a
+                punch and grabbing the foe's shoulders to throw him across the pavement.</sd>
+
+            <sd>Cut to Lightning, throwing a bolt.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>Ha!</sp>
+
+            <sd>Midair; Raven dodges the shot and launches herself downward for a flying kick. The
+                yellow brother throws up his arms to block and is driven backward by her flurry of
+                attacks. Finally, he gets clear and shocks her with a bolt that sends her flying. No
+                sooner is she down, though, then Beast Boy, as a giant panda, lumbers up behind and
+                catches him in a bear hug. Lightning struggles for a moment, then electrifies his
+                entire body and gives the shape-shifting Titan a few hundred thousand volts. The
+                shock forces him back into human form and causes him to let go.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>
+                <sd>laughing</sd> Your powers are strong, but mine are stronger!</sp>
+
+            <sd>Beast Boy, lying against a chunk of debris, groans and rubs his head for several
+                seconds. He then gasps as Thunder's shadow falls over him; a flash of lightning, and
+                the camera has shifted to the big blue one.</sd>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>Your power of the animals is impressive, green
+                one <sd>He warms up his fists.</sd> Rise so we may do battle.</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Why are you doing this</sp>
+
+            <sd>He stands up.</sd>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>Because it is not sporting to attack an unready
+                opponent.</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>No. Why are you wrecking everything?</sp>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>
+                <sd>puzzled</sd> Uh...because it is amusing.</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
+                <sd>gesturing</sd> Do they look amused?</sp>
+
+            <sd>Pan in that direction to show the scared motorists huddling behind their damaged and
+                overturned cars. The answer to that question is obvious. Back to Thunder and Beast
+                Boy.</sd>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>I--</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>This isn't funny! It's wrong!</sp>
+
+            <sd>An attack of conscience makes Thunder relax his power. Before Beast Boy can say
+                anything more, though, a lightning bolt blasts him away and its shooter jumps down
+                next to his brother.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>Ah, the thrill of victory <sd>puts his arm
+                    around Thunder's shoulders</sd> Come, Thunder. We shall seek more
+                amusement.</sp>
+
+            <sd>They take to the air. Pan to a pile of rubble, from which the blasted Titan sits up,
+                dazed, smoking, disheveled, drooling a bit. He shakes his head to clear it and finds
+                Starfire floating into view behind him. She is clutching her forearm.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Well, that was a shock</sp>
+
+            <sd>She turns up her nose and floats on.</sd>
+
+            <sp><spkr ref="#Starfire">Starfire</spkr>Hmph!</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>So...I'm guessing you're still mad</sp>
+
+            <sd>Cut to the other three, Cyborg helps Raven to her feet.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Okay, team <sd>Starfire arrives, then Beast Boy.</sd>
+                We have to find those guys before they do any more damage. Cyborg, search the west
+                side. Raven, the east. I'll take downtown. Beast Boy, you and Star scan from the
+                skies.</sp>
+
+            <sd>Beast Boy looks uneasily up at the partner who has just been assigned to him. She
+                has turned her back and crossed her arms.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Um...maybe Cyborg should come with me
+                instead.</sp>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Cyborg can't fly.</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Oh. Yeah.</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>
+                <sd>pinching his cheek; a big drop of sweat rolls down</sd> Have a nice flight, my
+                little clorbag.</sp>
+
+            <sd>Dissolve to the open courtyard in front of the museum. On either side of a central
+                open area is a row of vertical concrete slabs; a large metal globe is mounted at the
+                end nearest the building. A couple of fellows make their way across the screen on
+                foot and bicycle before there is a mighty blast of lightning. The troublemaking
+                brothers appear, scaring the men away.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>Magnificent <sd>warms up</sd> We can make
+                much mischief here!</sp>
+
+            <sd>He strikes the globe, which rolls away from its post toward one row of slabs. It
+                bangs into the end one, which topples over into the next, and so on like a row of
+                falling dominoes. Long shot of Thunder, whose expression changes to one of
+                trepidation as the last slab comes down.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>
+                <sd>walks into view</sd> Brother! Did you see what I...something troubles you?</sp>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>The green one's words. He says our fun
+                is...wrong.</sp>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>
+                <sd>laughs</sd> Wrong <sd>puts his arm across Thunder's shoulders</sd> He speaks
+                nonsense, brother! How could such amusement be wrong? The fun is only
+                beginning.</sp>
+
+            <sd>He leads his brother away. Dissolve to Starfire in flight, looking intently down
+                toward the o.c. Jump City; Beast Boy, as a falcon, glides next to her. Their
+                perspective, passing the damaged courtyard of the museum, then cut to ground level
+                as they land. Beast Boy returns to human form, and they begin to inspect the smashed
+                slabs.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Well, either they were just here, or this is
+                the ugliest modern art I've ever seen.</sp>
+
+            <sp><spkr ref="#Starfire">Starfire</spkr>You are not funny. You are a clorbag
+                varblernelk</sp>
+
+            <sd>She walks o.c.; he follows.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Come on, Star<sd>Cut to them; he catches
+                    up.</sd> You can't stay mad forever. What? Do I have to do the face
+                    <sd>smiling</sd> You know you can't resist the face.</sp>
+
+            <sd>Except for a glance out of the corner of her eye, she has not looked his way
+                throughout all of this. In no time flat, he has transformed into a small kitten with
+                huge, shining eyes. He meows as endearingly as he can; she looks down at him for a
+                long moment.</sd>
+
+            <sp><spkr ref="#Starfire">Starfire</spkr>
+                <sd>turning her nose up</sd> Hmph!</sp>
+
+            <sd>She walks away and he returns to human form with a surprised meow.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>She resisted the face!</sp>
+
+            <sd>She has now reached the point where the globe was anchored. Smoke rises from the
+                stump. Beast Boy runs up again.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Just talk to me, Star <sd>kneels</sd> Come on,
+                this is no fun!</sp>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>
+                <sd>from o.c.</sd> Wrong again, green one!</sp>
+
+            <sd>Cut to the stormy sky. Laughing, Thunder floats into view on his cloud and throws a
+                beam downward. He is joined by an equally jubilant Lightning, also firing away. The
+                camera zooms in on the two off-guard Titans and then pulls back to frame the whole
+                courtyard as the brothers' onslaught connects in several places. Starfire runs down
+                one side and manages to keep just ahead of Thunder, also on foot; when she reaches
+                the end, she goes straight up the wall and does a long, high backflip to come down
+                behind him. She throws a starbolt, but misses him.</sd>
+
+            <sd>Cut to Lightning; he gets a bolt ready.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>Ha!</sp>
+
+            <sd>He flings it at Beast Boy, who changes into a rabbit and hops away. Lightning chases
+                him toward the ruins of those slabs and fires again. The startled green bunny runs
+                o.c., and when the camera tilts up to the sky, we see that he has become a crane.
+                More lightning comes his way and is just barely dodged; now he drops to the ground
+                as a mouse and runs toward Lightning. The projectiles are very easy for him to evade
+                now. Close-up of the static-electricity master.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>
+                <sd>laughing</sd> Your animal forms cannot protect you forever!</sp>
+
+            <sd>Beast Boy, as a bighorn sheep, barrels into him and sends him flying. Starfire flips
+                and leaps her way to the end of the courtyard as Thunder closes in. He projects a
+                beam toward her, she counters with a mighty starbolt, and the two attacks meet
+                between them and cancel out. Overhead view of the two duelists; her energy starts to
+                overwhelm his. Close-up of him.</sd>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>Huh?</sp>
+
+            <sd>The starbolt reaches him and knocks him across the open expanse to land squarely on
+                the spot where the globe had stood. Beast Boy, now a giant bear, moves in on him,
+                and Lightning takes his fallen brother's place against Starfire. The ursine Titan
+                gets to his hind legs and plows into Thunder, driving him to the courtyard wall,
+                then runs up in human form and grabs his collar.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>I don't want to hurt you. And I don't think
+                you want to hurt me.</sp>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>Pain does not amuse us.</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Could've fooled me. Keep playing rough, and
+                innocent people will get hurt.</sp>
+
+            <sd>This makes the big blue fellow think a bit. Cut to a fence that separates the
+                concrete of the courtyard from the museum lawn. There is a sudden puff of smoke,
+                which solidifies into a tall figure wearing long red traveling robes and a broad,
+                flat-crowned hat. An arm is lowered from the face, revealing long white hair blowing
+                about an old but strong male face. The overall impression is vaguely Oriental, and
+                is reinforced by the thin mustache and beard. Only one eye, the left, can be seen.
+                Under the red robes, the man wears black ones and has hidden an old wooden box on a
+                tripod. This has a hand crank in its side, much like an old-style movie camera.</sd>
+
+            <sd>The sorcerer smiles evilly and begins to turn the crank. The front cover falls away
+                to expose a camera lens, which glows red and then white. Beast Boy and Thunder are
+                caught off guard as the ground trembles.</sd>
+
+            <sp><spkr ref="#BeastBoy #Thunder">Beast Boy and Thunder</spkr>Huh?</sp>
+
+            <sd>A broad energy beam shoots past them from the camera and smashes cleanly through the
+                intact row of concrete slabs. It just misses Starfire and Lightning, who have broken
+                off their duel; he sidesteps, but she gasps as a shower of ruined stonework comes
+                straight down toward her.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Star!</sp>
+
+            <sd>The shadows of the crumbling slabs fall over him. Fade to black.</sd>
+
+        </act>
+        <act n="2">
+            <title>Act Two</title>
+            <sd>Opening shot: the two brothers, backing up in fear and awe at what this newcomer has
+                just brought about.</sd>
+
+            <sp><spkr ref="#Sorcerer">Sorcerer</spkr>
+                <sd>from o.c., echoing</sd> Your gifts are your own. Who are they to tell you how to
+                use them?</sp>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>And who are you that commands such power?
+                Show yourself!</sp>
+
+            <sd>The dust from the destruction of the concrete slabs starts to clear.</sd>
+
+            <sp><spkr ref="#Sorcerer">Sorcerer</spkr>
+                <sd>from "o.c."</sd> As you wish <sd>The haze parts to reveal him standing
+                    within.</sd> I am but a humble old man- <sd>The camera, abandoned, shuts
+                    down.</sd> --whose power is drawn from nature, like your own. Come with me, and
+                sow as much destruction as you please</sp>
+
+            <sd>He turns away.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>
+                <sd>to Thunder</sd> Yes! More fun</sp>
+
+            <sd>Thunder restrains him with a hand on his shoulder.</sd>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>Will we harm anyone?</sp>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>What? The green one has poisoned your
+                mind.</sp>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>This destruction, will we harm the innocent?</sp>
+
+            <sp><spkr ref="#Sorcerer">Sorcerer</spkr>Would it matter if you did? You are unique.
+                Gifted. Better. Why should anything interfere with your enjoyment? I am going.
+                Follow, if you wish</sp>
+
+            <sd>He walks out of the courtyard; Lightning follows.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>Come, brother, and leave your foolish
+                thoughts behind.</sp>
+
+            <sd>Thunder takes a few steps after them, but stops and looks back at the pile of
+                crumbled stone for a moment. He then turns to catch up with the other two, and the
+                camera pans to the wreckage and cuts to a close-up of its surface. A small green
+                spider, Beast Boy, scuttles out of a hole in the pile and climbs up the side a bit;
+                he then returns to human form.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Star? Starfire? Where are you <sd>climbs
+                    down</sd> Come on! Gimme a sign here <sd>He starts to dig.</sd> You have to be
+                all right, okay? 'Cause I-it s just a joke, you know? Back at the Tower, and...I'm
+                sorry. I never said it, but I'm really, really sorry. It was supposed to be funny.
+                And you could've been hurt, and...</sp>
+
+            <sd>He strains to lift a good-sized fragment and manages to get it clear of the
+                pile.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
+                <sd>softly</sd> ...I'm a total clorbag.</sp>
+
+            <sd>Cut to behind him; a tall shadow is thrown across him from near the camera. Pull
+                back to frame its source, Starfire, with not so much as a scratch on her. He turns
+                around.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Huh?</sp>
+
+            <sd>She gives him a warm, forgiving smile that instantly perks him up.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Starfire!</sp>
+
+            <sd>Taking kitten form again, he jumps into her outstretched hands and she cuddles him
+                to her chest. Her perspective; he looks up at her and meows happily.</sd>
+
+            <sp><spkr ref="#Starfire">Starfire</spkr>
+                <sd>laughing</sd> I am glad you are unharmed as well</sp>
+
+            <sd>Pull back from both; he takes human form and kneels before her.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>I am so sorry. You gotta forgive me.</sp>
+
+            <sp><spkr ref="#Starfire">Starfire</spkr>I already have <sd>She helps him up.</sd> Now
+                those evil brothers must be made to apologize.</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>I don't think they are evil. I think they're
+                just like me.</sp>
+
+            <sd>Dissolve to a clearing in the mountains outside Jump City. A few scarecrow-like
+                dummies have been set up, consisting of two crossed tree limbs with a blanket
+                wrapped around them. Some characters have been painted on the cloth. Pan across the
+                area; more such dummies have been set up, and the sorcerer stands among them.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>
+                <sd>from o.c., contemptuously</sd> Sticks and leaves <sd>Cut to him and Thunder in
+                    the clearing.</sd> Is this a joke? There is no fun in blasting such frail
+                targets!</sp>
+
+            <sp><spkr ref="#Sorcerer">Sorcerer</spkr>Are you certain, young master? Try. You may
+                like what you see.</sp>
+
+            <sd>The young master in question groans and throws a bolt at one of the dummies; it
+                instantly catches fire and makes him rethink his opinion of the whole exercise.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>Dancing lights! Pleasing.</sp>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>Let Thunder try his hand.</sp>
+
+            <sd>He steps toward a target and throws a blast, causing the thing to disappear in a
+                small explosion and a great clap of sound.</sd>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>Wondrous noise!</sp>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>See, brother? There is no harm in our
+                fun.</sp>
+
+            <sp><spkr ref="#Sorcerer">Sorcerer</spkr>And there is so much fun to be had.</sp>
+
+            <sd>The two thrill-seekers grin at each other. Lightning flies across the clearing,
+                blasting one target after another, and Thunder leaps high and slams a fist against
+                the ground to open a furrow. A target at the end of it lights up, followed by
+                several others when he redirects his efforts. Now both brothers work in tandem and
+                turn one target after another into blazing torches. They finally stop their assault
+                and back up to the sorcerer.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>More targets, old one!</sp>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>Yes, please, give us more.</sp>
+
+            <sp><spkr ref="#Sorcerer">Sorcerer</spkr>That won't be necessary. You've done quite
+                enough.</sp>
+
+            <sd>He produces a metal disc from underneath his robes. Close-up: it bears a character,
+                Chinese in appearance, that looks something like a stylized letter S. Pull back; he
+                scales the object over the clearing as Thunder and Lightning watch, totally baffled.
+                It stops high in the sky and spins in place; electricity crackles around it as it
+                picks up speed, culminating in a mighty orange flash. Pull back to show it suspended
+                over the burning target as rays of light shoot down to strike every last one. Beams
+                of orange light start to play between them and just miss the two puzzled
+                brothers.</sd>
+
+            <sd>Pull back to a long overhead shot to reveal that these have traced out a large,
+                rough humanoid shape on the ground, with a final wide beam from above touching the
+                heart area. When the light show stops, the outline starts to burn intensely; the
+                sorcerer holds up a staff topped with the same character that was on the disc he
+                threw.</sd>
+
+            <sp><spkr ref="#Sorcerer">Sorcerer</spkr>Rise.</sp>
+
+            <sd>The apparition does so with an unearthly screeching noise. It has that character
+                engraved on its forehead.</sd>
+
+            <sp><spkr ref="#Sorcerer">Sorcerer</spkr>Burn, Fire! Burn it all!</sp>
+
+            <sd>It starts down the mountainside toward the city proper, but stops upon finding the
+                Titans some distance away.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Didn't anyone ever tell you <sd>Cut to them.</sd>
+                Play with fire, you're going to get burned.</sp>
+
+            <sd>The beast swings a flaming forearm at the team, forcing them to scatter. Robin looks
+                up from the duck-and-cover position he has assumed and sees Fire pushing trees aside
+                and making its way toward Jump City. Smoke and flames billow in its wake as the
+                camera pans slightly to put the entire metro area in view, and right in its path.
+                The sorcerer waves the fumes aside with his staff.</sd>
+
+            <sp><spkr ref="#Sorcerer">Sorcerer</spkr>Good. Very good.</sp>
+
+            <sd>Thunder and Lightning cannot believe what they have just had a hand in
+                unleashing.</sd>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>Brother, what have we done?</sp>
+
+            <sd>The thing continues down the mountain. Fade to black.</sd>
+
+        </act>
+        <act n="3">
+            <title>Act Three</title>
+            <sd>Opening shot: a group of houses built downhill of the newly kindled forest. Tilt up
+                to show the extent of the blazes, then cut to Fire as it stalks on toward the city.
+                The Titans chase it.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Titans! Go!</sp>
+
+            <sd>He pulls even with the creature on foot while Raven does likewise in the air.
+                Pulling a couple of grenades from his belt, he throws them at its feet; they throw
+                up a wall of smoke when they blow. Raven flies through it all.</sd>
+
+            <sp><spkr ref="#Raven">Raven</spkr>Flames can't spread if there's nothing to burn.
+                Azarath Metrion Zinthos</sp>
+
+            <sd>Her spell uproots several trees.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Good idea, Raven. Beast Boy! Starfire! Help her
+                out!</sp>
+
+            <sd>These two put on a burst of speed, and Beast Boy turns into a buffalo to deliver a
+                crushing headbutt against the base of a tree. It topples into a row of others and
+                brings them all down. Meanwhile, Starfire takes up a position high above the boughs;
+                she throws a starbolt that blows another clump of old growth to matchwood. His
+                cannon at the ready, Cyborg leaps toward Fire and lets go with a terrific blast when
+                he lands. It skims the ground and throws up a wall of dirt in the beast's face; a
+                large-scale equivalent of dumping sand on a campfire to put it out.</sd>
+
+            <sd>It takes some time for the view to begin to clear. Fire is nowhere in sight among
+                the dust clouds. Cut to the Titans; Beast Boy is in human form again.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Is he out?</sp>
+
+            <sd>Pull back to frame him in front of the murky air. In answer to his question, Fire
+                stands up, still blazing and now roaring mad.</sd>
+
+            <sp><spkr ref="#Raven">Raven</spkr>You had to ask.</sp>
+
+            <sd>As it screeches some more, Robin runs up for a closer look. Cut to his perspective
+                of the flaming creature and zoom in a bit. Up the slope to one side, standing on a
+                stone outcropping, is the sorcerer. Close-up: he grins maliciously. Back to Robin,
+                who is starting to put it all together, then to the old man. Thunder and Lightning
+                are behind him.</sd>
+
+            <sp><spkr ref="#Sorcerer">Sorcerer</spkr>Go, young masters. Fire is your creation. They
+                have no right to destroy your fun.</sp>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>Yes! We must fight!</sp>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>But, brother--</sp>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>Do not annoy me with your foolish concerns!
+                Come!</sp>
+
+            <sd>The blue brother thinks it over for a moment, and both of them disappear in a flash
+                of light. The sorcerer turns away from the spot where they stood and spreads his
+                arms; he starts to laugh in triumph, but it dies on his lips as Robin's yell is
+                heard from o.c. The Titans' leader sails across the clearing and lands a flying kick
+                that sends the staff spiraling through the air. It sticks in the ground, walking end
+                down, and Robin lands next to it. However, the thing pulls loose and sails back into
+                the old man's hand.</sd>
+
+            <sd>The tense seconds pass as the two face off; finally the sorcerer breaks the silence,
+                his voice starting to take on a tone similar to that used by Slade.</sd>
+
+            <sp><spkr ref="#Sorcerer">Sorcerer</spkr>Robin. We meet at last.</sp>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Who are you?</sp>
+
+            <sd>There is no answer, except for a charge with staff raised for a swing. Robin meets
+                it by hurling himself at the enemy as Fire moves closer to the city. Cut to Raven in
+                flight.</sd>
+
+            <sp><spkr ref="#Raven">Raven</spkr>Azarath Metrion Zinthos!</sp>
+
+            <sd>This time, she has targeted the creature itself. The stream of black energy pouring
+                from her hands breaks against the giant's form and stops it in its tracks. When she
+                relents, its flames have gone out, leaving the body black and smoking. Cut to the
+                midsection and tilt up to the head as the surface begins to crack all over; finally,
+                the creature lights up again and Raven gasps in shock. It slams its fists together
+                and creates a pyrotechnic shock wave that blasts away all the trees within several
+                dozen yards. She is thrown back by the overpressure, as is Cyborg.</sd>
+
+            <sd>Ground level: he slams down, and Starfire and Raven land and start to help him up.
+                Before they can get him upright, though, a lightning bolt flashes down and knocks
+                all three even farther away. The brothers descend to the clearing; Lightning warms
+                up his hands and advances, while Thunder stays put and gets ready to attack. Before
+                he can throw that curveball, though, Beast Boy, as a tiger, steps into view before
+                him.</sd>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>Stand aside, green one!</sp>
+
+            <sd>Said green one just roars. They charge at one another, but before any blows can
+                land, violet smoke boils up and covers the entire screen. When it clears, we are in
+                the middle of a bank of clouds in this color. Thunder is among them, but his body is
+                largely in shadow and drawn in a somewhat different style now. The next cut, after
+                the following line, will show Beast Boy in a similar manner. The entire view
+                shimmers and wavers somewhat, and the two voices echo slightly.</sd>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>I do not wish to harm you.</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>But you want to destroy homes and innocent
+                lives?</sp>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>No.</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Then what are you fighting for?</sp>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>My brother and I...the old one says we are
+                unique, gifted, better.</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Gifts don't make you better, just different.
+                It's how you use them that counts.</sp>
+
+            <sd>Thunder turns this over in his mind a bit. Cut to a close-up of Lightning.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>It seems your power has its limit <sd>holds
+                    up a sparking hand</sd> But mine has none.</sp>
+
+            <sd>Pull back. He is standing over the unconscious Starfire and getting ready to light
+                her up like a Christmas tree, but before he can do so, a blast from Thunder plows
+                him away. She comes to and looks in the direction of the shot; shift to frame both
+                brothers. Thunder pushes over a charred tree as he steps up, and Lightning gets to
+                his feet.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>
+                <sd>warms up</sd> You betray me?</sp>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>We have done wrong, my brother. Our fun must
+                stop.</sp>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>No one commands Lightning.. <sd>warming
+                    up</sd> ...not even Thunder!</sp>
+
+            <sd>He throws a wide beam; the impact sends Thunder tumbling among the trees. Robin and
+                the sorcerer, meanwhile, continue their melee as the mountain burns all around them.
+                Slowly but steadily, the young Titan retreats downhill before his attacker's swings.
+                Soon, though, he holds his ground and blocks one strike after another, then
+                sidesteps when the upper end of the staff is jabbed at him. It hits a tree and sends
+                up a wisp of smoke as if it were a red-hot branding iron. The sorcerer grimaces down
+                at him.</sd>
+
+            <sd>Cut to the mountainside. Fire continues its inexorable advance toward the lower
+                houses as the other four Titans gather to watch. Beast Boy is back in human
+                form.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Those houses go, the whole city could go. We gotta
+                stop the fire!</sp>
+
+            <sp><spkr ref="#Raven">Raven</spkr>How?</sp>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Any way we can.</sp>
+
+            <sd>They run down the slope. Cut to Lightning in flight; he throws a bolt out ahead, and
+                the camera shifts to Thunder, whose face suddenly goes slack-realizing he is the
+                target. The electricity washes over him and hurls him back against a wall of rock.
+                He slides down to a sitting position and groans wearily. Looking up, he finds his
+                brother standing over him and ready to unload a king-size shock at point-blank
+                range.</sd>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>Tell me, brother, are we still having fun</sp>
+
+            <sd>Lightning's conscience gets to him.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>
+                <sd>winding down</sd> No.</sp>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>
+                <sd>pointing</sd> Observe.</sp>
+
+            <sd>Cut to behind Fire as it descends the mountain, then to in front of it and tilt down
+                to the houses. It is hit in the face with a sudden torrent of water, accompanied by
+                an elephant's trumpeting. Pan along a street; Raven is casting a spell to hold the
+                flames back, Beast Boy, as the pachyderm, is spraying water from his trunk, and
+                Cyborg has opened a fire hydrant. Starfire descends among them.</sd>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>They also have gifts, but they use them for good,
+                while we waste ours on dangerous fun <sd>He puts a hand on Lightning's
+                    shoulder.</sd> If we are so special, brother, let us act special. We must
+                help.</sp>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>But how? Our gifts can only destroy.</sp>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>True. But together we have another gift.</sp>
+
+            <sd>They are gone in a flash of light, ascending into the cloud cover. When they have
+                vanished from sight, a blast of lightning is seen from within. The four Titans find
+                themselves staring at a mountain in flames and a walking inferno that has not let up
+                one bit despite their best efforts. It towers over them and roars.</sd>
+
+            <sd>Cut to the clouds, as seen at the beginning of the episode. Thunder strikes them
+                with his sticks and Lightning directs his hands here and there, producing the same
+                effects as before. The camera shifts to point up at them from foot level as the
+                glare plays over both of them and a driving rain begins; the result of combining
+                their talents. At ground level, Fire looks up in alarm at the downpour, then screams
+                in agony as its flames go out in a thick wall of brown smoke. When the view clears,
+                there is nothing left but a few piles of ashes. Pan from them to Beast Boy, Cyborg,
+                Raven, and Starfire. All but Raven cheer wildly; Beast Boy is in human form.</sd>
+
+            <sd>Up on the mountain, the sorcerer has caught the front of Robin's tunic and hoisted
+                him up. The former's tone of voice is now unmistakable.</sd>
+
+            <sp><spkr ref="#Sorcerer">Sorcerer</spkr>Robin. Is that the best you can do?</sp>
+
+            <sd>There is a tremendous flash of lightning that whites out the entire screen. When it
+                subsides, the view is at ground level; Robin drops into a crouch, free of the man's
+                grasp. Cut to the robed figure, who has thrown up an arm to guard his face; he
+                brings it down after a moment, revealing it to have been only a mask that was
+                damaged in the strike. Most of the left side has fallen away, and underneath is a
+                smooth expanse of red-orange metal with a narrow slit for the eye. The last
+                remaining pieces come loose to fully expose that half of Slade's still-concealed
+                face; the first time that any of it has been seen on camera. The colored reflection
+                in that part of his silhouette, seen in "Divide and Conquer" and "Final Exam," is
+                now fully explained, and he was able to recognize Robin from Gizmo's transmission at
+                the end of "Final Exam."</sd>
+
+            <sd>Robin gasps in shock and stares, frozen in place, and after a long moment, the
+                mastermind disappears in a blast of smoke that fills the screen. The view clears to
+                show a close-up of the metal disc he threw into the air to bring Fire to life. Pull
+                back; Robin regards it thoughtfully, then picks it up for a very close look.</sd>
+
+            <sp><spkr ref="#Robin">Robin</spkr>Slade.</sp>
+
+            <sd>Dissolve to the street, where the celebration is still going on. Beast Boy has his
+                tongue out to catch the raindrops.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Ah, yeah</sp>
+
+            <sd>He laughs.</sd>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>That's what I mean! Very nice!</sp>
+
+            <sd>Beast Boy turns away from the street and sees Thunder and Lightning coming down from
+                the mountain. He crosses to them. Lightning looks away, showing very clearly that he
+                would rather be doing anything else right now.</sd>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>
+                <sd>bows</sd> I am sorry for the trouble we have made</sp>
+
+            <sd>He nudges Lightning, who faces forward.</sd>
+
+            <sp><spkr ref="#Lightning">Lightning</spkr>I am.. <sd>also bows</sd> ...also sorry</sp>
+
+            <sd>Thunder and Beast Boy shake hands.</sd>
+
+            <sp><spkr ref="#Thunder">Thunder</spkr>You have taught us much, green one. Thank
+                you.</sp>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Don't thank me <sd>He gestures at Starfire;
+                    she steps forward.</sd> Thank the person who taught me</sp>
+
+            <sd>She and the brothers bow to each other.</sd>
+
+            <sp><spkr ref="#Starfire">Starfire</spkr>And thank you for helping to defeat the flame
+                monster.</sp>
+
+            <sd>Cut to an overhead view of the six; two brothers and four Titans, and then dissolve
+                to a long shot of the Tower, seen from the city proper. It is now sunrise of the
+                next day, the clouds have broken, and a rainbow stretches up from the horizon behind
+                the Tower. Pan a short distance to the entire team, on a ridge overlooking Jump
+                City. Robin hands Slade's talisman to Cyborg so he can give it a looking over.</sd>
+
+            <cue>Animation goofs: Starfire's armband appears and disappears during this final scene,
+                and the black stones in her wrist guards turn red.</cue>
+
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>So, Slade wants to destroy the city. Question is,
+                why?</sp>
+
+            <sp><spkr ref="#Robin">Robin</spkr>I don't know, but I will find out, and he won't get
+                away with it</sp>
+
+            <sd>Beast Boy comes up behind Starfire.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>So...am I, you know...still a clorbag?</sp>
+
+            <sp><spkr ref="#Starfire">Starfire</spkr>Mmm, no. I believe you are more of a...milnip
+                wusserloop.</sp>
+
+            <sd>Not being too fluent in Tamaranean, he does not know what to make of this label for
+                a moment. Bewilderment quickly gives way to a big grin, though.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>SWEET <sd>dances</sd> Go, Beast Boy! I'm a
+                milnip! Who's your wusserloop? Huh?</sp>
+
+            <sd>He stops dancing; for a moment his eyes have stars in them.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
+                <sd>a bit puzzled</sd> That is a good thing...right, Star?</sp>
+
+            <sd>She just giggles and goes airborne to head home. Raven follows her, while Robin and
+                Cyborg start running. The green Titan is left standing by himself.</sd>
+
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Star?</sp>
+
+            <sd>He hot-foots it after the others. Fade to black.</sd>
+        </act>
+    </body>
+</root>
