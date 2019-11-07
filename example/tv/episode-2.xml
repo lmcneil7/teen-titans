@@ -27,11 +27,11 @@
     <body>
         <act n="0">
             <title>PROLOGUE</title>
-            <sd>Opening shot: outer space. There is a distant flash of light, from which four
-                glowing objects emerge and approach the camera; pan to follow them across the
-                cosmos. As they home in on Earth, three peel off while the fourth heads straight for
-                the planet. A camera shift reveals it to be long and cylindrical, something like a
-                missile in shape, with several trailing tentacles.</sd>
+            <sd><stageDesc>Opening shot: outer space.</stageDesc> There is a distant flash of light, from which four
+                glowing objects emerge and approach the camera; <directNote kind="pan">pan to follow them across the
+                cosmos</directNote>. As they home in on Earth, three peel off while the fourth heads straight for
+                the planet. <directNote kind="shift">A camera shift reveals it to be long and cylindrical, something like a
+                missile in shape, with several trailing tentacles.</directNote></sd>
 
             <sd>Cut to the night sky, where a fireworks show is in full swing. Pull back to show the
                 area as the waterfront; the craft’s brilliant streak descends past the display and
