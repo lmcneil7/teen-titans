@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <head>
         <episode>DIVIDE AND CONQUER</episode>
@@ -35,7 +35,7 @@
                 front entrance, as well as from a spot on the bridge that leads to the complex.
                     <annot>If these clues are not enough to indicate that something very bad is
                     going on, the blaring klaxons and sirens settle the point decisively</annot>.
-                    <directNote kind="zoom">Zoom in very slowly and cut to inside the
+                    <directNote kind="zoom">Zoom in very slowly</directNote> and <directNote kind="cut">cut to inside the
                     entrance</directNote>; three guards run in through it.<charDesc ref="guards"
                     >Each has a number emblazoned on his shoulder-1, 3, 8.</charDesc></sd>
 
@@ -57,8 +57,8 @@
                     blocky, and appears to be built entirely of concrete</charDesc>.<annot>We have
                     just met the villain<char>Cinderblock</char></annot>. Laser blasts from the
                 guards strike the edges of the hole he has made, while a few connect with his back
-                and others fly past. He turns to them, revealing an equally blocky face with small
-                red eyes. The shots are having no discernible effect on him. Voicing a grating roar,
+                and others fly past. He turns to them, <charDesc ref="Cinderblock">revealing an equally blocky face with small
+                red eyes</charDesc>. The shots are having no discernible effect on him. Voicing a grating roar,
                 he raises one massive foot and stomps the ground; this produces a long fissure that
                 throws debris and dust into the three guards’ faces to spoil their aim.<directNote
                     kind="cut">Cut to inside the cellblock</directNote>. He moves in and stops upon
@@ -89,8 +89,8 @@
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>voice over</sd>Five!</sp>
             <sd>The<char>Titans</char>stand ready for battle now.</sd>
 
-            <sp><spkr ref="#Robin">Robin</spkr>No matter how you do the math, it all adds up to you
-                going down. So, are you going to go quietly...</sp>
+            <sp><spkr ref="#Robin">Robin</spkr><oneLine>No matter how you do the math, it all adds up to you
+                going down.</oneLine> So, are you going to go quietly...</sp>
             <sd>
                 <directNote kind="pan">Pan to<char>Cyborg</char></directNote>
             </sd>
@@ -184,7 +184,7 @@
 
             <sp><spkr ref="#Robin">Robin</spkr>Want to give this guy the Sonic Boom?</sp>
             <sd><char>Cyborg</char>smiles and converts his arm to sonic cannon mode.</sd>
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>I got the Sonic if you got the Boom.</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr><oneLine>I got the Sonic if you got the Boom.</oneLine></sp>
             <sd>Their three teammates regroup and look off down the corridor.<directNote kind="cut"
                     >Cut to<char>Cinderblock</char>, still heading farther in.</directNote></sd>
 
@@ -549,8 +549,8 @@
                     <char>Starfire</char>, who shrieks as<char>Raven</char>plows her out of the
                 way.</sd>
 
-            <sp><spkr ref="#Robin">Robin</spkr><sd>pulling a disc from his belt</sd>Maybe he just
-                needs to chill.</sp>
+            <sp><spkr ref="#Robin">Robin</spkr><sd>pulling a disc from his belt</sd><oneLine>Maybe he just
+                needs to chill.</oneLine></sp>
             <sd>He scales the projectile at<char>Plasmus</char>; it freezes the long arm solid upon
                 impact. The owner of said arm looks at it in surprise, then shatters it against an
                 overhead pipe.<char>Robin</char>jumps for cover, while Beast Boy turns into a
