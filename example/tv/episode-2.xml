@@ -27,16 +27,17 @@
     <body>
         <act n="0">
             <title>PROLOGUE</title>
-            <sd><stageDesc>Opening shot: outer space.</stageDesc> There is a distant flash of light, from which four
-                glowing objects emerge and approach the camera; <directNote kind="pan">pan to follow them across the
-                cosmos</directNote>. As they home in on Earth, three peel off while the fourth heads straight for
-                the planet. <directNote kind="shift">A camera shift reveals it to be long and cylindrical, something like a
-                missile in shape, with several trailing tentacles.</directNote></sd>
+            <sd><stageDesc>Opening shot: outer space.</stageDesc> There is a distant flash of light,
+                from which four glowing objects emerge and approach the camera; <directNote
+                    kind="pan">pan to follow them across the cosmos</directNote>. As they home in on
+                Earth, three peel off while the fourth heads straight for the planet. <directNote
+                    kind="shift">A camera shift reveals it to be <charDesc ref="Centauri">long and cylindrical, something
+                    like a missile in shape, with several trailing tentacles</charDesc>.</directNote></sd>
 
-            <sd>Cut to the night sky, where a fireworks show is in full swing. Pull back to show the
-                area as the waterfront; the craft’s brilliant streak descends past the display and
-                below the horizon. Pan to a nearby carnival-Ferris wheel, roller coaster, games, the
-                usual. Close-up of one of the wheel’s cars, which holds Robin and Starfire. She
+            <sd><directNote kind="cut">Cut to the night sky, where a fireworks show is in full swing.</directNote> <directNote kind="pull">Pull back to show the
+                area as the waterfront</directNote>; the craft’s brilliant streak descends past the display and
+                below the horizon. <directNote kind="pan">Pan to a nearby carnival-Ferris wheel, roller coaster, games, the
+                usual.</directNote> <stageDesc category="close-up">Close-up of one of the wheel’s cars, which holds <char>Robin</char> and <char>Starfire</char>.</stageDesc> She
                 watches the pyrotechnics with complete awe and sighs blissfully.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>Beautiful. Tell me again what they are
@@ -68,182 +69,182 @@
             <sp><spkr ref="#Robin">Robin</spkr>Whoo-hoo-hoo! Amazing!</sp>
             <sp><spkr ref="#Starfire">Starfire</spkr>Earth is full of amazing things too.</sp>
             <sp><spkr ref="#Robin">Robin</spkr>Best planet I’ve ever been to.</sp>
-            <sd>The craft seen in space sweeps past the Ferris wheel and yanks Starfire from her
-                seat in its tentacles; she is carried screaming into the sky.</sd>
+            <sd>The craft seen in space sweeps past the Ferris wheel and yanks <char>Starfire</char> from her
+                seat in <charDesc ref="Centauri">its tentacles</charDesc>; she is carried screaming into the sky.</sd>
 
             <sp><spkr ref="#Robin">Robin</spkr>STARFIRE!!</sp>
-            <sd>Fade to white, then snap to black.</sd>
+            <sd><directNote kind="fade">Fade to white</directNote>, then <directNote kind="snap">snap to black</directNote>.</sd>
 
             <cue>OPENING THEME</cue>
 
         </act>
         <act n="1">
             <title>Act 1</title>
-            <sd>Opening shot: the craft streaking toward the camera over the bay. The carnival is
-                now in the distant background. Starfire struggles against the hold on her.</sd>
+            <sd><stageDesc category="open-shot">Opening shot: the craft streaking toward the camera over the bay.</stageDesc> The carnival is
+                now in the distant background. <char>Starfire</char> struggles against the hold on her.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>Wherever you are taking me, I do not wish to
                 go!</sp>
-            <sd>She fires a starbolt at the tentacles’ base; the craft stops in midair, crackling
-                all over with the energy of the shot, and she extricates herself and bugs out. The
-                device goes after her. From here, cut to an overhead shot of the carnival game
-                booths, then to a close-up of several bottles set up for the old ring-toss game. A
+            <sd>She fires a starbolt at <charDesc ref="Centauri">the tentacles’ base; the craft stops in midair, crackling
+                all over with the energy of the shot</charDesc>, and she extricates herself and bugs out. The
+                device goes after her. From here, <directNote kind="cut">cut to <stageDesc category="overhead-shot">an overhead shot of the carnival game
+                booths</stageDesc></directNote>, then to <stageDesc category="close-up">a close-up of several bottles set up for the old ring-toss game</stageDesc>. A
                 ring is thrown into view, bouncing off the neck of a bottle as a near miss; the next
-                one rattles down on target. Tilt up to the counter, to the sound of Beast Boy’s
-                laughter. He and Cyborg have been playing.</sd>
+                one rattles down on target. <directNote kind="tilt">Tilt up to the counter</directNote>, to the sound of <char>Beast Boy</char>’s
+                laughter. He and <char>Cyborg</char> have been playing.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Boo-yah!</sp>
             <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Sweet!</sp>
-            <sd>They trade a high five. Cut to outside the booth as Beast Boy is handed his prize, a
-                huge stuffed chicken. Raven leans against a post, her arms crossed and her
+            <sd>They trade a high five. <directNote kind="cut">Cut to outside the booth as <char>Beast Boy</char> is handed his prize, a
+                huge stuffed chicken.</directNote> <char>Raven</char> leans against a post, her arms crossed and her
                 expression showing her low opinion of the whole exercise.</sd>
 
             <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Told you we’d win you a prize.</sp>
             <sd>He gives her the toy.</sd>
             <sp><spkr ref="#Raven">Raven</spkr>A giant chicken. I must be the luckiest girl in the
                 world.</sp>
-            <sd>Robin lands nearby, in a crouch.</sd>
+            <sd><char>Robin</char> lands nearby, in a crouch.</sd>
             <sp><spkr ref="#Robin">Robin</spkr>
-                <sd>standing up</sd>Titans! Trouble!</sp>
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>Where’s Starfire?</sp>
+                <sd>standing up</sd><char>Titans</char>! Trouble!</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Where’s <char>Starfire</char>?</sp>
             <sp><spkr ref="#Robin">Robin</spkr>That’s the trouble.</sp>
-            <sd>He runs off; Raven tosses the chicken aside and all three follow him. Reaching the
-                end of the pier, they look over the bay and see a scintillating object plummet
-                straight toward the waves. It resolves into Starfire as she pulls up sharply to skim
-                the surface, leaving a broad wake behind herself. The craft is hot on her tail. She
-                looks back over her shoulder, gasps, and sidesteps to avoid a lashing tentacle;
+            <sd>He runs off; <char>Raven</char> tosses the chicken aside and all three follow him. Reaching the
+                end of the pier, they look over the bay and see <charDesc ref="Centauri">a scintillating object</charDesc> plummet
+                straight toward the waves. <directNote kind="resolve">It resolves into <char>Starfire</char> as she pulls up sharply to skim
+                the surface</directNote>, leaving a broad wake behind herself. <charDesc ref="Centauri">The craft</charDesc> is hot on her tail. She
+                looks back over her shoulder, gasps, and sidesteps to avoid <charDesc ref="Centauri">a lashing tentacle</charDesc>;
                 turning onto her back, she throws a couple of starbolts that hit the nose without
                 effect.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>No more chasing now, please!</sp>
             <sd>A flip to face forward again, and she is off like a shot. She angles herself toward
-                the pier and flies neatly through the other four Titans; the pursuer does
+                the pier and flies neatly through the other four <char>Titans</char>; <charDesc ref="Centauri">the pursuer</charDesc> does
                 likewise.</sd>
 
             <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Who’s her new best friend?</sp>
             <sp><spkr ref="#Robin">Robin</spkr>Don’t know-<sd>socking fist against palm</sd>-but I
                 can’t wait to meet him.</sp>
-            <sd>The chase loops around the Ferris wheel and back to the pier, where Starfire stops
-                just behind the rest of the team. Beast Boy is first to attack, leaping high and
-                turning into an alligator to bite at the tentacles’ bases-just barely missing. Raven
+            <sd>The chase loops around the Ferris wheel and back to the pier, where <char>Starfire</char> stops
+                just behind the rest of the team. <char>Beast Boy</char> is first to attack, leaping high and
+                turning into <transform class="reptile">an alligator</transform> to bite at <charDesc ref="Centauri">the tentacles’ bases</charDesc>-just barely missing. <char>Raven</char>
                 levitates a nearby hot dog cart and heaves it at the oncoming vehicle, which crashes
-                right through it. As the thing races past Cyborg, he grabs the tentacles and hauls
+                right through it. As the thing races past <char>Cyborg</char>, he grabs <charDesc ref="Centauri">the tentacles</charDesc> and hauls
                 on them with all his strength. Ever so slowly, he is dragged forward a few feet
-                before bringing the craft to a stop.</sd>
+                before bringing <charDesc ref="Centauri">the craft</charDesc> to a stop.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Don’t know what you did to make this thing mad,
-                Star, but it couldn’t hurt to apologize!</sp>
+                <char>Star</char>, but it couldn’t hurt to apologize!</sp>
             <sp><spkr ref="#Starfire">Starfire</spkr>I am… sorry?</sp>
-            <sd>The tentacles yank themselves out of his grip. Robin whips out his staff, extends
+            <sd><charDesc ref="Centauri">The tentacles</charDesc> yank themselves out of his grip. <char>Robin</char> whips out his staff, extends
                 it, and goes on the offensive; a mighty swing reverberates against the nose and
-                drives the craft back. It tumbles over the guardrails as he lands and puts the
-                weapon away. Beast Boy, back in human form, looks down after it; a loud splash is
+                drives <charDesc ref="Centauri">the craft</charDesc> back. It tumbles over the guardrails as he lands and puts the
+                weapon away. <char>Beast Boy</char>, back in <transform class="human">human form</transform>, looks down after it; a loud splash is
                 heard from down o.c.</sd>
 
             <sp><spkr ref="#Beast Boy">Beast Boy</spkr>
                 <sd>bewildered</sd>So, did we just win?</sp>
-            <sd>The thing crashes up through the planks at the Titans’ feet to answer that one with
-                a big fat no. Robin vaults onto the nose.</sd>
+            <sd><charDesc ref="Centauri">The thing</charDesc> crashes up through the planks at the <char>Titans</char>’ feet <annot>to answer that one with
+                a big fat no</annot>. <char>Robin</char> vaults onto the nose.</sd>
 
-            <sp><spkr ref="#Robin">Robin</spkr>Don’t see an OFF switch. Guess I’ll have to make
-                one.</sp>
-            <sd>Close-up of a panel; his fist flies down and smashes through it, and he pulls out a
-                handful of wiring underneath. Sparks fly from the broken connections; pull back as
-                he jumps free. The craft veers hopelessly out of control, rising higher and higher
+            <sp><spkr ref="#Robin">Robin</spkr><oneLine>Don’t see an OFF switch. Guess I’ll have to make
+                one.</oneLine></sp>
+            <sd><stageDesc category="close-up">Close-up of a panel</stageDesc>; his fist flies down and smashes through it, and he pulls out a
+                handful of wiring underneath. Sparks fly from the broken connections; <directNote kind="pull">pull back as
+                he jumps free</directNote>. <charDesc ref="Centauri">The craft</charDesc> veers hopelessly out of control, rising higher and higher
                 toward the stratosphere, and finally explodes in a mighty conflagration among the
-                fireworks that are still going off. Robin lands next to Starfire.</sd>
+                fireworks that are still going off. <char>Robin</char> lands next to <char>Starfire</char>.</sd>
 
             <sp><spkr ref="#Robin">Robin</spkr>Whatever that thing was, it can’t hurt you now.</sp>
             <sp><spkr ref="#Starfire">Starfire</spkr>But…why did it wish to hurt me at all?</sp>
             <sd>Animation goof: In this shot, her armband is on the left side rather than the
                 right.</sd>
-            <sd>Dissolve to the exterior of Titans Tower, then cut to just inside the operations
-                center door. Starfire, positively ecstatic, enters first while her teammates stand
-                at the doorway. Pan to follow her.</sd>
+            <sd><directNote kind="dissolve">Dissolve to <stageDesc category="setting">the exterior of Titans Tower</stageDesc></directNote>, then <directNote kind="cut">cut to just inside the operations
+                center door</directNote>. <char>Starfire</char>, positively ecstatic, enters first while her teammates stand
+                at the doorway. <directNote kind="pan">Pan to follow her.</directNote></sd>
 
-            <sp><spkr ref="#Starfire">Starfire</spkr>Come, friends.<sd>The background changes to
-                    flowers and bathes her in light.</sd>I shall thank you for my rescue by reciting
+            <sp><spkr ref="#Starfire">Starfire</spkr>Come, friends.<sd><stageDesc category="setting">The background changes to
+                    flowers</stageDesc> and bathes her in light.</sd>I shall thank you for my rescue by reciting
                 the Poem of Gratitude-all six thousand verses.</sp>
-            <sd>Normal background resumes, and the camera cuts to the other four, now inside the
-                operations center. This segue, to them, is as subtle as a car wreck-and their eyes
-                and the accompanying sound effect reinforce the point. Pull back to put Starfire in
-                view, facing them. The next voice, from o.c., catches her by surprise-young, female,
-                perhaps a bit cocky, and very smooth.</sd>
+            <sd><stageDesc category="setting">Normal background resumes</stageDesc>, and <directNote kind="cut">the camera cuts to the other four, now inside the
+                operations center</directNote>. <annot>This segue, to them, is as subtle as a car wreck-and their eyes
+                and the accompanying sound effect reinforce the point.</annot> <directNote kind="pull">Pull back to put <char>Starfire</char> in
+                view, facing them.</directNote> <charDesc ref="Voice">The next voice, from o.c., catches her by surprise-young, female,
+                perhaps a bit cocky, and very smooth.</charDesc></sd>
 
             <sp><spkr ref="#Voice">Voice</spkr>I see you haven’t changed a bit.</sp>
-            <sd>Cut to the speaker, a teenage girl similar in appearance to Starfire, but whose
-                clothing is black rather than violet. Her hair is this same color, her eyes narrow
+            <sd><directNote kind="cut">Cut to the speaker</directNote>, <charDesc ref="Blackfire">a teenage girl similar in appearance to <char>Starfire</char>, but whose
+                clothing is black rather than violet</charDesc>. <charDesc ref="Blackfire">Her hair is this same color, her eyes narrow
                 and blue, and she wears metallic full-body armor beneath her clothes. In addition,
-                her wrist guards and neck piece are metal-colored. This is Blackfire. She leans
+                her wrist guards and neck piece are metal-colored.</charDesc> This is <char>Blackfire</char>. She leans
                 against the back of the couch, but pushes off from it on her next line.</sd>
 
             <sp><spkr ref="#Blackfire">Blackfire</spkr>When we were little, I was always rescuing
-                Starfire.</sp>
-            <sd>Laughing, she opens her arms wide as Starfire squeals with delight and runs over to
+                <char>Starfire</char>.</sp>
+            <sd>Laughing, she opens her arms wide as <char>Starfire</char> squeals with delight and runs over to
                 hug her.</sd>
 
-            <sp><spkr ref="#Starfire">Starfire</spkr>Sister!</sp>
+            <sp><spkr ref="#Starfire">Starfire</spkr><charDesc ref="Blackfire">Sister</charDesc>!</sp>
             <sp><spkr ref="#Blackfire">Blackfire</spkr>
                 <sd>holding up a necklace with a large green gem</sd>Brought you a present.</sp>
-            <sd>Starfire gasps deeply and her eyes pop at the sight of this bauble.</sd>
+            <sd><char>Starfire</char> gasps deeply and her eyes pop at the sight of this bauble.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>A Centauri moon diamond?!? Where did you
                 get-</sp>
             <sp><spkr ref="#Blackfire">Blackfire</spkr>On the Centauri moons, of course.<sd>She
-                    fastens it around Starfire’s neck.</sd>Oh, look, it matches your eyes.</sp>
-            <sd>The recipient beams for a moment, then opens her eyes wide to give the camera a full
-                view. Sight gag: they have become diamonds as well, and they grow a little bigger as
-                a cash register is heard going off. This ends after a moment.</sd>
+                    fastens it around <char>Starfire</char>’s neck.</sd>Oh, look, it matches your eyes.</sp>
+            <sd><charDesc ref="Starfire">The recipient</charDesc> beams for a moment, then <stageDesc category="fullscreen">opens her eyes wide to give the camera a full
+                view</stageDesc>. <directNote kind="gag">Sight gag: they have become diamonds as well, and they grow a little bigger as
+                a cash register is heard going off. This ends after a moment.</directNote></sd>
 
-            <sp><spkr ref="#Starfire">Starfire</spkr>You must meet my friends!</sp>
-            <sd>Blackfire is yanked across the operations center before she can say a word.</sd>
+            <sp><spkr ref="#Starfire">Starfire</spkr>You must meet my <charDesc ref="Titans">friends</charDesc>!</sp>
+            <sd><char>Blackfire</char> is yanked across the operations center before she can say a word.</sd>
 
-            <sp><spkr ref="#Starfire">Starfire</spkr>I wish to introduce my big sister.</sp>
-            <sd>Blackfire steps forward.</sd>
-            <sp><spkr ref="#Blackfire">Blackfire</spkr>Blackfire.<sd>Starfire is caught out at her
-                    boldness.</sd>And since Star told me all about the Titans in her transmissions,
-                let me guess.<sd>She points to…</sd>Cyborg.</sp>
+            <sp><spkr ref="#Starfire">Starfire</spkr>I wish to introduce my <charDesc ref="Blackfire">big sister</charDesc>.</sp>
+            <sd><char>Blackfire</char> steps forward.</sd>
+            <sp><spkr ref="#Blackfire">Blackfire</spkr><char>Blackfire</char>.<sd><char>Starfire</char> is caught out at her
+                    boldness.</sd>And since <char>Star</char> told me all about the <char>Titans</char> in her transmissions,
+                let me guess.<sd>She points to…</sd><char>Cyborg</char>.</sp>
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
-                <sd>holding out hand to shake</sd>Pleased to meet you, little lady.</sp>
+                <sd>holding out hand to shake</sd>Pleased to meet you, <charDesc ref="Blackfire">little lady</charDesc>.</sp>
             <sd>There is a loud grinding of metal as she takes the hand; after letting go, he finds
                 his fingers to have been squeezed temporarily out of alignment.</sd>
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>Little lady, big handshake. Well, all right.</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr><charDesc ref="Blackfire">Little lady, big handshake.</charDesc> Well, all right.</sp>
             <sd>She goes on to…</sd>
-            <sp><spkr ref="#Blackfire">Blackfire</spkr>Raven. I like that gemstone on your Ajna
-                chakra.</sp>
+            <sp><spkr ref="#Blackfire">Blackfire</spkr><char>Raven</char>. I like <charDesc ref="Raven">that gemstone on your Ajna
+                chakra</charDesc>.</sp>
             <sp><spkr ref="#Raven">Raven</spkr>
                 <sd>impressed</sd>You…know about chakras?</sp>
             <sp><spkr ref="#Blackfire">Blackfire</spkr>I got way into meditation on Altara Prime.
-                    <sd>She moves on to…</sd>Beast Boy! What’s up?</sp>
+                    <sd>She moves on to…</sd><char>Beast Boy</char>! What’s up?</sp>
             <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Nothing but the ceiling, baby.</sp>
             <sp><spkr ref="#Blackfire">Blackfire</spkr>
                 <sd>laughing</sd>Good one!</sp>
             <sp><spkr ref="#Beast Boy">Beast Boy</spkr>
-                <sd>to Raven</sd>See? She thinks I’m funny.</sp>
+                <sd>to <char>Raven</char></sd>See? She thinks I’m funny.</sp>
             <sp><spkr ref="#Raven">Raven</spkr>Statistically, I suppose someone has to.</sp>
-            <sd>This deflates him a bit. Finally Blackfire makes her way to the leader.</sd>
-            <sd>Note: In yoga, chakras are points in the body at which spiritual energy is
+            <sd>This deflates him a bit. Finally <char>Blackfire</char> makes her way to <charDesc ref="Robin">the leader</charDesc>.</sd>
+            <sd><annot>Note: In yoga, chakras are points in the body at which spiritual energy is
                 concentrated. There are seven, ranging from the top of the head to the base of the
-                tailbone, and the Ajna chakra-centered on the forehead-is the second one down.</sd>
-            <sp><spkr ref="#Blackfire">Blackfire</spkr>And you must be Robin.<sd>She zips behind him
-                    and fingers his cape.</sd>Oh, I am loving this cape. It’s positively
+                tailbone, and the Ajna chakra-centered on the forehead-is the second one down.</annot></sd>
+            <sp><spkr ref="#Blackfire">Blackfire</spkr>And you must be <char>Robin</char>.<sd>She zips behind him
+                    and fingers <charDesc ref="Robin">his cape</charDesc>.</sd>Oh, I am loving this cape. It’s positively
                 luscious!</sp>
             <sp><spkr ref="#Robin">Robin</spkr>Thanks. It’s a high-density polymerized titanium, ten
                 times stronger than steel.</sp>
             <sp><spkr ref="#Blackfire">Blackfire</spkr>Fascinating.</sp>
-            <sd>Cut to just behind him-her perspective. He directs an appreciative glance over his
-                shoulder as Starfire slides into view and gasps, completely shocked by this
-                exchange. Back to him and the big sister; she has leaned in even closer.</sd>
-            <sp><spkr ref="#Blackfire">Blackfire</spkr>And this mask makes you look very
-                mysterious.</sp>
-            <sd>Starfire inserts herself between them.</sd>
-            <sp><spkr ref="#Starfire">Starfire</spkr>So, beloved sister, what brings you to
+            <sd><directNote kind="cut">Cut to just behind him-her perspective.</directNote> He directs an appreciative glance over his
+                shoulder as <char>Starfire</char> slides into view and gasps, completely shocked by this
+                exchange. Back to him and <charDesc ref="Blackfire">the big sister</charDesc>; she has leaned in even closer.</sd>
+            <sp><spkr ref="#Blackfire">Blackfire</spkr>And <charDesc ref="Robin">this mask makes you look very
+                mysterious</charDesc>.</sp>
+            <sd><char>Starfire</char> inserts herself between them.</sd>
+            <sp><spkr ref="#Starfire">Starfire</spkr>So, <charDesc ref="Blackfire">beloved sister</charDesc>, what brings you to
                 Earth?</sp>
-            <sd>Blackfire crosses to the couch.</sd>
+            <sd><char>Blackfire</char> crosses to the couch.</sd>
             <sp><spkr ref="#Blackfire">Blackfire</spkr>I was in the quadrant. Thought I’d see if
                 Earthlings like to party.<sd>She hops over the back and sits.</sd>Besides, I needed
                 a rest. Nearly got sucked into a black hole on the way here.</sp>
-            <sd>The three boys are at the couch in an eyeblink, leaving Raven by herself at the
+            <sd>The three boys are at the couch in an eyeblink, leaving <char>Raven</char> by herself at the
                 kitchen counter.</sd>
             <sp><spkr ref="#Robin">Robin</spkr>Black hole?</sp>
             <sp><spkr ref="#Cyborg">Cyborg</spkr>No way!</sp>
@@ -258,78 +259,78 @@
                 and bring me one of those sodas I’ve heard so much about.<sd>turning to the
                     boys</sd>So anyway, I’m zooming over an event horizon, approaching light speed,
                 when all of a sudden-</sp>
-            <sd>Starfire walks toward the kitchen on the end of this. Snap to black, which resolves
-                into the interior of the refrigerator as the door opens and she looks in. It is an
-                under-the-counter model, the sort that might be found in a college dorm room. A can
+            <sd>Starfire walks toward the kitchen on the end of this. <directNote kind="snap">Snap to black</directNote>, which <directNote kind="resolve">resolves
+                into the interior of the refrigerator as the door opens and she looks in</directNote>. It is an
+                under-the-counter model, <annot>the sort that might be found in a college dorm room</annot>. A can
                 of soda is on the top shelf.</sd>
             <sp><spkr ref="#Starfire">Starfire</spkr>
                 <sd>disgruntled, to herself</sd>I see you have not changed either.</sp>
-            <sd>She gets the soda and closes the door. The view blacks out again, then snaps to
-                outer space. One by one, three bright streaks flash across the screen; tilt up
-                slightly to show them approaching a large hovering vessel. Cut to a bank of four
-                docking tubes inside as the three objects-duplicates of the craft Robin destroyed at
-                the pier, the ones that peeled off from Earth-slide into place within them and stop.
+            <sd>She gets the soda and closes the door. The view blacks out again, then <directNote kind="snap">snaps to
+                outer space</directNote>. <stageDesc>One by one, three bright streaks flash across the screen</stageDesc>; <directNote kind="tilt">tilt up
+                slightly to show them approaching a large hovering vessel</directNote>. <directNote kind="cut">Cut to a bank of four
+                docking tubes inside as the three objects-duplicates of <charDesc ref="Centauri">the craft <char>Robin</char> destroyed at
+                the pier</charDesc>, the ones that peeled off from Earth-slide into place within them and stop.</directNote>
                 A light on each occupied tube goes green, but that on the empty fourth one flashes
-                red. Cut to an alien crewman in a shadowy nook.</sd>
+                red. <directNote kind="cut">Cut to an alien crewman in a shadowy nook.</directNote></sd>
             <sp><spkr ref="#Crewman 1">Crewman 1</spkr>Our target was not located. The drones have
                 failed.</sp>
-            <sd>Pan slightly; a second crewman is next to him.</sd>
+            <sd><directNote kind="pan">Pan slightly</directNote>; <charDesc ref="Crewman 2">a second crewman</charDesc> is next to him.</sd>
             <sp><spkr ref="#Crewman 2">Crewman 2</spkr>Have they?</sp>
-            <sd>He looks down; cut to a control panel that shows outlines of the four craft, or
-                drones. Three glow green, while the last one is red, matching the status lights on
-                the docking tubes. One clawed hand reaches into view and presses the red outline,
+            <sd>He looks down; <directNote kind="cut">cut to a control panel that shows outlines of <charDesc ref="Centauri">the four craft, or
+                drones</charDesc>.</directNote> <charDesc ref="Centauri">Three glow green, while the last one is red, matching the status lights on
+                the docking tubes.</charDesc> One clawed hand reaches into view and presses the red outline,
                 and the four give way to a view of Earth.</sd>
             <sp><spkr ref="#Crewman 2">Crewman 2</spkr>
-                <sd>from o.c.</sd>The one that probed Earth did not return.<sd>Pull back; both look
-                    at Earth on the main viewer.</sd>That is where we will find the girl.</sp>
-            <sd>Dissolve to the exterior of the Tower. It is now the next day.</sd>
+                <sd>from o.c.</sd>The one that probed Earth did not return.<sd><directNote kind="pull">Pull back; both look
+                    at Earth on the main viewer.</directNote></sd>That is where we will find the girl.</sp>
+            <sd><directNote kind="dissolve">Dissolve to the exterior of the Tower.</directNote> It is now the next day.</sd>
             <sp><spkr ref="#Starfire">Starfire</spkr>
-                <sd>from inside</sd>Sister?</sp>
-            <sd>Cut to her, walking down the hall. She is still wearing the necklace and will
+                <sd>from inside</sd><charDesc ref="Blackfire">Sister</charDesc>?</sp>
+            <sd><directNote kind="cut">Cut to her, walking down the hall.</directNote> She is still wearing the necklace and will
                 continue to do so until further notice.</sd>
-            <sp><spkr ref="#Starfire">Starfire</spkr>Sister?<sd>She looks around a bit.</sd> Sister,
+            <sp><spkr ref="#Starfire">Starfire</spkr><charDesc ref="Blackfire">Sister</charDesc>?<sd>She looks around a bit.</sd> <charDesc ref="Blackfire">Sister</charDesc>,
                 I seek your companionship.</sp>
-            <sd>Close-up of a racing video game in progress. Two vehicles, one green and one white,
+            <sd><stageDesc category="close-up">Close-up of a racing video game in progress.</stageDesc> Two vehicles, one green and one white,
                 speed along a twisting elevated track, and the green one gets out in front and
-                blocks attempts by the white to pass. Cut to Cyborg and Beast Boy on the couch; they
-                are playing GameStation on the window/screen, and their respective expressions tell
+                blocks attempts by the white to pass. <directNote kind="cut">Cut to <char>Cyborg</char> and <char>Beast Boy</char> on the couch; they
+                are playing GameStation on the window/screen</directNote>, and their respective expressions tell
                 right away who is winning.</sd>
             <sp><spkr ref="#Cyborg">Cyborg</spkr>You want to pass me, but you can’t pass me. You
-                can’t pa-<sd>surprised; Beast Boy grins</sd>You passed me!</sp>
+                can’t pa-<sd>surprised; <char>Beast Boy</char> grins</sd>You passed me!</sp>
             <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Tighten the turn…jets…and nitro!</sp>
-            <sd>He jumps up and does a laughing victory dance as Cyborg slumps over; a moment later,
-                he is back on the couch. Starfire walks up behind them.</sd>
+            <sd>He jumps up and does a laughing victory dance as <char>Cyborg</char> slumps over; a moment later,
+                he is back on the couch. <char>Starfire</char> walks up behind them.</sd>
             <sp><spkr ref="#Starfire">Starfire</spkr>Tell me, have either of you seen
-                Blackfire?</sp>
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Blazin’ B? She was here just a second
+                <char>Blackfire</char>?</sp>
+            <sp><spkr ref="#Beast Boy">Beast Boy</spkr><charDesc ref="Blackfire">Blazin’ B</charDesc>? She was here just a second
                 ago.</sp>
-            <sd>His face goes slack as Cyborg grins; back to the screen. The white vehicle hugs the
+            <sd>His face goes slack as <char>Cyborg</char> grins; back to the screen. The white vehicle hugs the
                 guardrail, then knocks the green one aside and zooms on.</sd>
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
                 <sd>from o.c.</sd>Aw, yeah! Back in the lead!</sp>
             <sd>Back to the couch; he laughs heartily.</sd>
             <sp><spkr ref="#Starfire">Starfire</spkr>What fun! May I join your game?</sp>
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>Winner plays Blackfire.</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Winner plays <char>Blackfire</char>.</sp>
             <sp><spkr ref="#Beast Boy">Beast Boy</spkr>
                 <sd>as hearts float up from him</sd>Yeah. She rules at this game.</sp>
             <sp><spkr ref="#Starfire">Starfire</spkr>
                 <sd>deflated</sd>I see.</sp>
-            <sd>She walks away. Cut to a close-up of a door; she reaches into view and knocks. It
-                slides open a small amount and reveals Raven peering out-this is her room.</sd>
-            <sp><spkr ref="#Starfire">Starfire</spkr>Is…my sister in there?</sp>
+            <sd>She walks away. <directNote kind="cut">Cut to <stageDesc category="close-up">a close-up of a door</stageDesc></directNote>; she reaches into view and knocks. It
+                slides open a small amount and reveals <char>Raven</char> peering out-this is her room.</sd>
+            <sp><spkr ref="#Starfire">Starfire</spkr>Is…<charDesc ref="Blackfire">my sister</charDesc> in there?</sp>
             <sp><spkr ref="#Raven">Raven</spkr>No.</sp>
-            <sd>She starts to close the door; cut to her side. The lights are out.</sd>
+            <sd>She starts to close the door; <directNote kind="cut">cut to her side</directNote>. The lights are out.</sd>
             <sp><spkr ref="#Starfire">Starfire</spkr>Oh…Might you wish to hang out with me? We could
                 visit your favorite depressing cafe.</sp>
             <sd>Outside again.</sd>
-            <sp><spkr ref="#Raven">Raven</spkr>Already been. It was open mic and Blackfire wanted to
-                share. Your sister’s poetry is surprisingly dark.</sp>
-            <sd>She closes the door; Starfire heads off down the hall and sighs heavily. Through the
-                open door to the gym, the shadows of Blackfire and Robin can be seen on the wall.
+            <sp><spkr ref="#Raven">Raven</spkr>Already been. It was open mic and <char>Blackfire</char> wanted to
+                share. <charDesc ref="Blackfire">Your sister</charDesc>’s poetry is surprisingly dark.</sp>
+            <sd>She closes the door; <char>Starfire</char> heads off down the hall and sighs heavily. Through the
+                open door to the gym, the shadows of <char>Blackfire</char> and <char>Robin</char> can be seen on the wall.
                 They are close enough to touch, and they do so on the next line.</sd>
             <sp><spkr ref="#Blackfire">Blackfire</spkr>
-                <sd>from inside gym</sd>That’s perfect, Robin.</sp>
-            <sd>Close-up of the little sister, who gasps sharply as her eyes bug out.</sd>
+                <sd>from inside gym</sd>That’s perfect, <char>Robin</char>.</sp>
+            <sd><stageDesc category="close-up">Close-up of <charDesc ref="Starfire">the little sister</charDesc>, who gasps sharply as her eyes bug out.</stageDesc></sd>
             <sp><spkr ref="#Blackfire">Blackfire</spkr>
                 <sd>from inside gym</sd>Hold me just like that, and…</sp>
             <sd>Cut to the gym. She throws him the full width of the room; he spins in the air a bit
