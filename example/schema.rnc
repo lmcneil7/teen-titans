@@ -30,4 +30,4 @@ oneLine = element oneLine {text}
 spkr = element spkr {ref, text}
 ref = attribute ref {text}
 annot = element annot {mixed{(char|transform)*}}
-cue = element cue {text}
+cue = element cue {mixed{(char?)}}
