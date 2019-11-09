@@ -10,19 +10,28 @@ h1{
 h4{
     color: white;
 }
-a {color: orange;
-}
+
 .center{
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
   max-width: 100%;
   height: auto;
+  padding-top: 5%;
 }
 div#header {
     position: fixed;     
        text-align: center;    
-       bottom: 5px; 
+       top: 5px; 
        width: 100%;
 }
+p{
+    color: white;
+}
+
+a:link {color: orange;}      /* unvisited link */
+a:visited {color:#1aa3ff
+;}  /* visited link */
+a:hover {color:#00e600
+;}  /* mouse over link */
