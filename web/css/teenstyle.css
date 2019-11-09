@@ -20,3 +20,9 @@ a {color: orange;
   max-width: 100%;
   height: auto;
 }
+div#header {
+    position: fixed;     
+       text-align: center;    
+       bottom: 5px; 
+       width: 100%;
+}
