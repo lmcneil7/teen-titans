@@ -25,6 +25,7 @@ div#header {
        text-align: center;    
        top: 5px; 
        width: 100%;
+       background-color: black;
 }
 p{
     color: white;
