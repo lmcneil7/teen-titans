@@ -449,12 +449,12 @@
                 toast.</oneLine></sp>
 
             <sd>Both engines rev up. The starting lights drop from red through yellow and finally to
-                green, and they are off the line in a wailing screech of smoking rubber. The T-Car
-                and the midget racer edge back and forth a few times before Cash and Sammy nudge the
+                green, and they are off the line in a wailing screech of smoking rubber. The <char>T-Car</char>
+                and the midget racer edge back and forth a few times before <char>Cash</char> and <char>Sammy</char> nudge the
                 competition aside and speed ahead. They repeat the performance when it starts to
                 pull even again, but the tiny auto drives up onto the banked outer wall of the track
                 and zooms on. When it comes back down, it has taken the lead. The fans cheer wildly.
-                Now Cash and Sammy find themselves stuck behind the swerving micro-car and unable to
+                Now <char>Cash</char> and <char>Sammy</char> find themselves stuck behind the swerving micro-car and unable to
                 get out in front.</sd>
 
             <sp><spkr ref="#Sammy">Sammy</spkr>Dude, we're getting smoked!</sp>
@@ -466,22 +466,22 @@
             <sd>He presses a button labeled "Smoke," causing thick clouds of it to pour from the
                 rear into the path of the other car. They soon part to reveal the vehicle charging
                 on; with a small vacuum nozzle deployed under the front bumper, sucking up the
-                fumes. Those tiny headlights begin to grow in Cash's side view mirror; now he goes
+                fumes. Those tiny headlights begin to grow in <char>Cash</char>'s side view mirror; now he goes
                 for the "Oil Slick" control, and pipes pop out from the rear bumper and spew copious
                 amounts of motor oil. The little car's axles extend to either side, putting the
                 tires beyond the edges of the slick, and the body rises a few feet on the slender
-                rods to avoid the hazard. It rolls neatly past, and over, the T-Car before reverting
+                rods to avoid the hazard. It rolls neatly past, and over, the <char>T-Car</char> before reverting
                 to its original configuration. Again the fans cheer.</sd>
 
-            <sd>Cash is still bent over the wheel. Sammy fixes a bemused stare straight ahead for a
+            <sd><char>Cash</char> is still bent over the wheel. <char>Sammy</char> fixes a bemused stare straight ahead for a
                 second or two before looking at the dash.</sd>
 
             <sp><spkr ref="#Sammy">Sammy</spkr>Hey, what's this one do?</sp>
 
-            <sd>He presses a button and gets his answer after a short delay: the T-Car accelerates
+            <sd>He presses a button and gets his answer after a short delay: the <char>T-Car</char> accelerates
                 dramatically and tears ahead. It goes crazily up the wall and comes down in front
-                before crossing the finish line to take the checkered flag. With the race over, Cash
-                and Sammy do a sharp U-turn and come to a stop, then leap out.</sd>
+                before crossing the finish line to take the checkered flag. With the race over, <char>Cash</char>
+                and <char>Sammy</char> do a sharp U-turn and come to a stop, then leap out.</sd>
 
             <sp><spkr ref="#Sammy">Sammy</spkr>Dude! That was the bomb!</sp>
 
@@ -489,11 +489,11 @@
 
             <sp><spkr ref="#Cash">Cash</spkr>The fastest car in town, and she's totally ours.</sp>
 
-            <sp><spkr ref="#Gizmo">Gizmo</spkr><sd>from o.c.</sd>Not anymore, pit-sniffers!</sp>
+            <sp><spkr ref="#Gizmo">Gizmo</spkr><sd>from o.c.</sd>Not anymore, <charDesc ref="Sammy and Cash">pit-sniffers</charDesc>!</sp>
 
-            <sd>Gizmo, you may recall, was one of the three H.I.V.E. Academy graduates hired by
-                Slade to take on the Titans in "Final Exam." There is a brilliant flash; when it
-                clears, the two juvenile delinquents are caught within a spherical force field
+            <sd><char>Gizmo</char>, <annot>you may recall, was <charDesc ref="Gizmo">one of the three H.I.V.E. Academy graduates hired by
+                <char>Slade</char> to take on the <char>Titans</char> in "Final Exam."</charDesc></annot> There is a brilliant flash; when it
+                clears, <charDesc ref="Sammy and Cash">the two juvenile delinquents</charDesc> are caught within a spherical force field
                 projected by the little car's headlights. Slowly but surely, they are lifted into
                 the air; the surprise leaves them unable to get a coherent word out for a
                 moment.</sd>
@@ -502,19 +502,19 @@
 
             <sp><spkr ref="#Cash">Cash</spkr>Huh? Hey, dude, what's going on here, huh?</sp>
 
-            <sd>The lights shut off, and the entire mini-auto rises into the air to expose Gizmo
+            <sd>The lights shut off, and the entire mini-auto rises into the air to expose <char>Gizmo</char>
                 himself on all fours. It folds itself away into the central equipment pack on his
                 back; he stands up.</sd>
 
-            <sp><spkr ref="#Gizmo">Gizmo</spkr>Check out Gizmo's bonzer new wheels.<sd>He crosses to
-                    the T-Car.</sd>Thanks, hogs. I've been needing a faster getaway car.</sp>
+            <sp><spkr ref="#Gizmo">Gizmo</spkr>Check out <char>Gizmo</char>'s bonzer new wheels.<sd>He crosses to
+                    the <char>T-Car</char>.</sd>Thanks, hogs. I've been needing a faster getaway car.</sp>
 
             <sp><spkr ref="#Sammy">Sammy</spkr>Wait! You can't take it, it's not ours!</sp>
 
             <sp><spkr ref="#Cash">Cash</spkr>Yeah, we were just kind of borrowing it from the
-                Titans.</sp>
+                <char>Titans</char>.</sp>
 
-            <sd>Gizmo, in the driver's seat, laughs.</sd>
+            <sd><char>Gizmo</char>, in the driver's seat, laughs.</sd>
 
             <sp><spkr ref="#Gizmo">Gizmo</spkr>Even better.</sp>
 
@@ -523,16 +523,16 @@
                 Slick," "Proton Cannon," "Smoke." It goes without saying which of these has to do
                 with those crosshairs.</sd>
 
-            <sp><spkr ref="#Gizmo">Gizmo</spkr>So long, snot-munchers!</sp>
+            <sp><spkr ref="#Gizmo">Gizmo</spkr>So long, <charDesc ref="Sammy and Cash">snot-munchers</charDesc>!</sp>
 
-            <sd>On the end of this, cut to a close-up of one screeching tire and pull back. He
-                brings the T-Car around sharply and is off with a mighty roar of the engine. Tilt up
-                from the track to Cash and Sammy, who can only watch helplessly from within the
-                force field.</sd>
+            <sd>On the end of this, <directNote kind="cut">cut to <stageDesc category="close-up">a close-up of one screeching tire</stageDesc></directNote> and <directNote kind="pull">pull back</directNote>. He
+                brings the <char>T-Car</char> around sharply and is off with a mighty roar of the engine. <directNote kind="tilt">Tilt up
+                from the track to <char>Cash</char> and <char>Sammy</char>, who can only watch helplessly from within the
+                force field.</directNote></sd>
 
             <sp><spkr ref="#Cash">Cash</spkr>This is all your fault.</sp>
 
-            <sd>They are yanked out; cut to Cyborg holding them.</sd>
+            <sd>They are yanked out; <directNote kind="cut">cut to <char>Cyborg</char> holding them</directNote>.</sd>
 
             <sp><spkr ref="#Cash #Sammy">Cash and Sammy</spkr>Hey!</sp>
 
@@ -555,48 +555,48 @@
                 suspension for a-d-d-d-d-d-d...<sd>angry again</sd>...don't try to distract me. Who
                 has her now?</sp>
 
-            <sd>A big drop of sweat pops out on Cash's temple.</sd>
+            <sd>A big drop of sweat pops out on <char>Cash</char>'s temple.</sd>
 
-            <sp><spkr ref="#Sammy">Sammy</spkr>Dude named Gizmo. Said something about a getaway car
+            <sp><spkr ref="#Sammy">Sammy</spkr>Dude named <char>Gizmo</char>. Said something about a getaway car
                 and headed downtown.</sp>
 
-            <sd>They are both unceremoniously stuffed back into the force field. Cyborg heads off to
-                continue tracking down his beloved T-Car.</sd>
+            <sd>They are both unceremoniously stuffed back into the force field. <char>Cyborg</char> heads off to
+                continue tracking down his beloved <char>T-Car</char>.</sd>
 
-            <sp><spkr ref="#Cash">Cash</spkr><sd>as he and Sammy pound on field</sd>Hey!</sp>
+            <sp><spkr ref="#Cash">Cash</spkr><sd>as he and <char>Sammy</char> pound on field</sd>Hey!</sp>
 
             <sp><spkr ref="#Sammy">Sammy</spkr>You can't just leave us like this!</sp>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>now o.c.</sd>You're right.<sd>Shift to frame
-                    all three.</sd>I'll make sure the cops come pick you up.</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>now o.c.</sd>You're right.<sd><directNote kind="shift">Shift to frame
+                    all three.</directNote></sd>I'll make sure the cops come pick you up.</sp>
 
-            <sd>They trade a very scared look and start crying. Dissolve to a bank, whose drive-up
-                window is occupied by the idling stolen vehicle. Inside, the sunroof is open and a
-                hose leading from the building is blowing cash into the back seat. Pan from the
-                sizable accumulated pile to Gizmo at the wheel, waist-mounted control unit in hand
+            <sd>They trade a very scared look and start crying. <directNote kind="dissolve">Dissolve to a bank, whose drive-up
+                window is occupied by the idling stolen vehicle.</directNote> Inside, the sunroof is open and a
+                hose leading from the building is blowing cash into the back seat. <directNote kind="pan">Pan from the
+                sizable accumulated pile to <char>Gizmo</char> at the wheel</directNote>, waist-mounted control unit in hand
                 to work the car's systems.</sd>
 
-            <sp><spkr ref="#Gizmo">Gizmo</spkr>This is too easy.<sd>Cut to behind him; he has added
-                    fuzzy dice to the rear view mirror.</sd>Wonder if there's a drive-thru jewelry
+            <sp><spkr ref="#Gizmo">Gizmo</spkr>This is too easy.<sd><directNote kind="cut">Cut to behind him</directNote>; <charDesc ref="T-Car">he has added
+                    fuzzy dice to the rear view mirror</charDesc>.</sd>Wonder if there's a drive-thru jewelry
                 store around here.</sp>
 
-            <sd>Cyborg drops into view and lands on the hood. The boiling mad visage startles a yell
-                out of Gizmo.</sd>
+            <sd><char>Cyborg</char> drops into view and lands on the hood. The boiling mad visage startles a yell
+                out of <char>Gizmo</char>.</sd>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>Get your tiny butt outta my car!</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Get <charDesc ref="Gizmo">your tiny butt</charDesc> outta my car!</sp>
 
-            <sd>With another panicked cry, the owner of that tiny butt starts punching buttons
-                furiously. The T-Car peels out backward.</sd>
+            <sd>With another panicked cry, <charDesc ref="Gizmo">the owner of that tiny butt</charDesc> starts punching buttons
+                furiously. The <char>T-Car</char> peels out backward.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Whoa!</sp>
 
-            <sd>Reaching the street, Gizmo puts it in drive and lays rubber.</sd>
+            <sd>Reaching the street, <char>Gizmo</char> puts it in drive and lays rubber.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>staring at the rear view mirror</sd>Fuzzy dice?
                 Aw, now that's just tacky.<sd>A sharp turn into a car wash.</sd>Whoa!</sp>
 
-            <sd>Gizmo's laughter echoes from inside as the T-Car passes through the whirling brushes
-                and jets of water. Cyborg yells in fright.</sd>
+            <sd><char>Gizmo</char>'s laughter echoes from inside as the <char>T-Car</char> passes through the whirling brushes
+                and jets of water. <char>Cyborg</char> yells in fright.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>No! Keep those nasty plastic brushes off my baby!
                 She's hand-wash only!</sp>
@@ -605,61 +605,61 @@
                 peeved amateur mechanic; when they are rinsed off, he has bared all his teeth in a
                 snarl accentuated by the hot air pouring from the drying nozzles to peel his lips
                 back. Ever so slowly, the ride emerges from the car wash, sparkling clean, as is
-                Cyborg, glaring through the windshield at Gizmo, who has stuck his tongue out. The
-                flame paint job applied by Cash and Sammy has been scrubbed away. They barrel off
+                <char>Cyborg</char>, glaring through the windshield at <char>Gizmo</char>, who has stuck his tongue out. <charDesc ref="T-Car">The
+                flame paint job applied by <char>Cash</char> and <char>Sammy</char> has been scrubbed away.</charDesc> They barrel off
                 past a "Construction Zone Ahead" sign.</sd>
 
-            <sd>Cyborg yells time and again as Gizmo swerves through a string of cones and the tires
-                bounce on the broken road surface. The Titan is doing his best to hang on to that
-                hood. Now he is carried up a steep incline; Cyborg groans loudly as the gears start
+            <sd><char>Cyborg</char> yells time and again as <char>Gizmo</char> swerves through a string of cones and the tires
+                bounce on the broken road surface. The <char>Titan</char> is doing his best to hang on to that
+                hood. Now he is carried up a steep incline; <char>Cyborg</char> groans loudly as the gears start
                 to grind.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>The clutch! You gotta use the clutch!</sp>
 
-            <sp><spkr ref="#Gizmo">Gizmo</spkr><sd>grinning</sd>I know, you stinking hood
-                ornament!</sp>
+            <sp><spkr ref="#Gizmo">Gizmo</spkr><sd>grinning</sd>I know, <charDesc ref="Cyborg">you stinking hood
+                ornament</charDesc>!</sp>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Are you even old enough to drive?</sp>
 
-            <sd>He gets a tongue stuck out at him again. The T-Car reaches the top of the hill and
+            <sd>He gets a tongue stuck out at him again. The <char>T-Car</char> reaches the top of the hill and
                 goes airborne for a few seconds before slamming back onto the road. A too-close
                 encounter with a telephone pole leaves a long gouge on the passenger-side panels;
-                Cyborg gasps in fright, turns his left hand into a circular buffer, and starts
+                <char>Cyborg</char> gasps in fright, turns his left hand into a circular buffer, and starts
                 working on it.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>That'll buff right out, that'll buff right
                 out...</sp>
 
             <sd>He is swept too close to another pole, which knocks the buffer pad away to clatter
-                on the pavement. Long shot of the hot auto, now paralleling a river; pan ahead to a
-                drawbridge over the waterway. The two halves start to rise as a trash barge
+                on the pavement. <stageDesc category="long-shot">Long shot of the hot auto, now paralleling a river</stageDesc>; <directNote kind="pan">pan ahead to a
+                drawbridge over the waterway</directNote>. The two halves start to rise as a trash barge
                 approaches, and the wheels tear toward the "Bridge Closed Ahead" sign, whose warning
                 lights have begun flashing. Crash through a barricade, up the increasingly steeper
-                slope, and Cyborg is on the verge of total meltdown.</sd>
+                slope, and <char>Cyborg</char> is on the verge of total meltdown.</sd>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>Hit the nitro!<sd>Close-up of Gizmo, very scared;
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Hit the nitro!<sd><stageDesc category="close-up">Close-up of <char>Gizmo</char>, very scared</stageDesc>;
                     he continues o.c.</sd>HIT THE NITRO!!</sp>
 
             <sd>The proper button is located and punched, a mighty blast pours from the exhaust;
-                this was the button Sammy pushed earlier, and the T-Car picks up speed as it did
+                <annot>this was the button <char>Sammy</char> pushed earlier</annot>, and the <char>T-Car</char> picks up speed as it did
                 during the race at Crash Alley. It sails off the end of the bridge, gaining altitude
-                as the barge passes beneath and Cyborg finally loses his grip, and touches down on
-                the far end. Cut to him in midair above the river; he yells all the way down to the
-                barge and lands squarely amid its piled-up cargo, while seagulls circle overhead. As
-                he picks a banana peel off his head, Cyborg's facial expression shows that he has
+                as the barge passes beneath and <char>Cyborg</char> finally loses his grip, and touches down on
+                the far end. <directNote kind="cut">Cut to him in midair above the river</directNote>; he yells all the way down to the
+                barge and lands squarely amid its piled-up cargo, while <stageDesc category="overhead-shot">seagulls circle overhead</stageDesc>. As
+                he picks a banana peel off his head, <char>Cyborg</char>'s facial expression shows that he has
                 had about three times as much of this as he can take. The bridge lowers again.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>wearily</sd>Oh, man...</sp>
 
-            <sd>Fade to black.</sd>
+            <sd><directNote kind="fade">Fade to black.</directNote></sd>
 
         </act>
         <act n="3">
             <title>Act Three</title>
-            <sd>Opening shot: the drive-in restaurant to which Cyborg tracked his wheels in Act One.
-                It is now framed in a long shot; he is sitting despondently on the curb, with
-                several items scattered around him. A car pulls up, and in close-up these things are
-                revealed to be empty milkshake cups. Raven comes around on the sidewalk behind
+            <sd><stageDesc category="open-shot">Opening shot: the drive-in restaurant to which Cyborg tracked his wheels in Act One.</stageDesc>
+                <stageDesc category="long-shot">It is now framed in a long shot</stageDesc>; he is sitting despondently on the curb, with
+                several items scattered around him. A car pulls up, and <stageDesc category="close-up">in close-up these things are
+                revealed to be empty milkshake cups</stageDesc>. <char>Raven</char> comes around on the sidewalk behind
                 him.</sd>
 
             <sp><spkr ref="#Raven">Raven</spkr>Fourteen milkshakes. Not a good sign.</sp>
@@ -668,43 +668,43 @@
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>What are you doing here?</sp>
 
-            <sp><spkr ref="#Raven">Raven</spkr>Looking for your car. Soon as we turned Overload in
+            <sp><spkr ref="#Raven">Raven</spkr>Looking for your car. Soon as we turned <char>Overload</char> in
                 to the police, we all split up to search the city.</sp>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>Might as well stop looking. T-Car's probably
-                halfway to Metropolis by now.<sd>Pause.</sd>From the day I designed her, I knew she
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Might as well stop looking. <char>T-Car</char>'s probably
+                halfway to Metropolis by now.<sd>Pause.</sd><charDesc ref="T-Car">From the day I designed her, I knew she
                 was gonna be special. And I worked so hard, every fuel injector, every spark plug, I
-                made her perfect. I put my heart, soul, and circuits into that car. And now, she's
+                made her perfect. I put my heart, soul, and circuits into that car.</charDesc> And now, she's
                 gone forever.<sd>Pause.</sd>Maybe you were right. Maybe it was just a car.</sp>
 
-            <sp><spkr ref="#Raven">Raven</spkr>Maybe. Maybe not.<sd>Zoom in slowly on both.</sd>When
+            <sp><spkr ref="#Raven">Raven</spkr>Maybe. Maybe not.<sd><directNote kind="zoom">Zoom in slowly on both.</directNote></sd>When
                 I use my powers, I have to put a little of my soul into whatever I'm moving. I
                 become a part of it, and it becomes a part of me. That's kinda what happened here.
-                It wasn't just a car. It was...your baby.</sp>
+                It wasn't just a car. <charDesc ref="T-Car">It was...your baby.</charDesc></sp>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>brightening a bit</sd>Yeah.</sp>
 
-            <sd>Close-up of Raven; she gives him a small smile of her own.</sd>
+            <sd><stageDesc category="close-up">Close-up of Raven</stageDesc>; she gives him a small smile of her own.</sd>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>from o.c.</sd>Thanks, Rae.</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>from o.c.</sd>Thanks, <charDesc ref="Raven">Rae</charDesc>.</sp>
 
             <sd>Screech of tires.</sd>
 
-            <sp><spkr ref="#Raven">Raven</spkr>And someone's eating onion rings in your baby.</sp>
+            <sp><spkr ref="#Raven">Raven</spkr>And someone's eating onion rings in <charDesc ref="T-Car">your baby</charDesc>.</sp>
 
-            <sd>Pan to Cyborg, who turns to look in the direction of the noise. His eyes go wide;
-                cut to the parking lot, where the T-Car is about to peel out with Gizmo still
-                driving. A waitress rolls up on her skates.</sd>
+            <sd><directNote kind="pan">Pan to <char>Cyborg</char>, who turns to look in the direction of the noise.</directNote> His eyes go wide;
+                <directNote kind="cut">cut to the parking lot, where the <char>T-Car</char> is about to peel out with <char>Gizmo</char> still
+                driving</directNote>. A waitress rolls up on her skates.</sd>
 
             <sp><spkr ref="#Waitress">Waitress</spkr>Hey! You didn't pay!</sp>
 
-            <sd>Gizmo just laughs as he lays rubber away from the place.</sd>
+            <sd><char>Gizmo</char> just laughs as he lays rubber away from the place.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>HE'LL GET KETCHUP ON THE SEATS!!</sp>
 
-            <sd>Raven looks in a different direction and taps his shoulder to draw his attention.
+            <sd><char>Raven</char> looks in a different direction and taps his shoulder to draw his attention.
                 Pointing o.c. at something, she moves off after it. Across the parking lot, standing
-                by a black convertible with the top down, are Cash and Sammy; they are talking with
+                by a black convertible with the top down, are <char>Cash</char> and <char>Sammy</char>; they are talking with
                 another waitress.</sd>
 
             <sp><spkr ref="#Cash">Cash</spkr>So we were stuck. Looked like we'd get busted for
@@ -713,7 +713,7 @@
             <sp><spkr ref="#Sammy">Sammy</spkr>But then we totally escaped before the cops showed
                 up.</sp>
 
-            <sd>They suddenly find themselves on the receiving end of Raven's powers and are hoisted
+            <sd>They suddenly find themselves on the receiving end of <char>Raven</char>'s powers and are hoisted
                 into the air as the waitress stares in total puzzlement.</sd>
 
             <sp><spkr ref="#Raven">Raven</spkr>Escape from that before the cops show up!</sp>
@@ -721,54 +721,54 @@
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>looking at the car</sd>Sweet ride.<sd>holds up
                     keys</sd>Mind if we borrow it?</sp>
 
-            <sd>The two young hoodlums have no response but a pair of very scared smiles. Cut to a
-                stretch of road outside Jump City; the twice-stolen T-Car rockets around a curve.
-                Inside, we see that Gizmo has connected his waist controller to the steering wheel
+            <sd><charDesc ref="Sammy and Cash">The two young hoodlums have no response but a pair of very scared smiles.</charDesc> <directNote kind="cut">Cut to a
+                stretch of road outside Jump City</directNote>; <charDesc ref="T-Car">the twice-stolen <char>T-Car</char></charDesc> rockets around a curve.
+                Inside, we see that <char>Gizmo</char> has connected his waist controller to the steering wheel
                 and is operating it remotely. He now has both hands free to enjoy the meal he ripped
                 off from the drive-in. The honk of a car horn causes him to spit out a mouthful of
-                soda. Close-up of the rear view mirror; the borrowed convertible is gaining
+                soda. <stageDesc category="close-up">Close-up of the rear view mirror</stageDesc>; the borrowed convertible is gaining
                 fast.</sd>
 
             <sp><spkr ref="#Gizmo">Gizmo</spkr><sd>from o.c.</sd>CRUD!</sp>
 
             <sd>He speeds around a curve in the mountains, but the black roadster keeps pace easily.
-                With a frustrated groan, Gizmo pulls the controller off the wheel to operate it
-                himself. A cloud of exhaust and rubber smoke pours back toward the two Titans.
-                Cyborg is driving.</sd>
+                With a frustrated groan, <char>Gizmo</char> pulls the controller off the wheel to operate it
+                himself. A cloud of exhaust and rubber smoke pours back toward the two <char>Titans</char>.
+                <char>Cyborg</char> is driving.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>He may have a better car, but I'm a better
                 driver!</sp>
 
-            <sd>The chase continues through the serpentine bends of the two-lane blacktop. Pan ahead
-                a bit to show more twists and turns ahead, then cut to the two cars. Cyborg and
-                Raven start to close in.</sd>
+            <sd>The chase continues through the serpentine bends of the two-lane blacktop. <directNote kind="pan">Pan ahead
+                a bit to show more twists and turns ahead</directNote>, then <directNote kind="cut">cut to the two cars</directNote>. <char>Cyborg</char> and
+                <char>Raven</char> start to close in.</sd>
 
             <sp><spkr ref="#Gizmo">Gizmo</spkr>Eat crude, you stinking losers!</sp>
 
-            <sd>He dumps an oil slick into the Titans' path. Cyborg gasps and cuts his wheels
+            <sd>He dumps an oil slick into the <char>Titans</char>' path. <char>Cyborg</char> gasps and cuts his wheels
                 sharply, and the car flips up onto its passenger-side tires to keep from running
                 through the hazard. It drops out of this side wheelie once the oil is past and zooms
-                ahead. As the ultra-high-speed pursuit continues, Gizmo works his own control a bit
+                ahead. As the ultra-high-speed pursuit continues, <char>Gizmo</char> works his own control a bit
                 before opening his eyes wide with surprise.</sd>
 
             <sp><spkr ref="#Gizmo">Gizmo</spkr>Ooooh, cool!</sp>
 
-            <sd>He leans forward; close-up of the "Proton Cannon" button, which he presses. Now the
+            <sd>He leans forward; <stageDesc category="close-up">close-up of the "Proton Cannon" button</stageDesc>, which he presses. Now the
                 roof opens up and this particular weapon extends from within to point back along the
-                road. It locks into place and warms up; Cyborg's eyes pop briefly, and the right one
+                road. It locks into place and warms up; <char>Cyborg</char>'s eyes pop briefly, and the right one
                 tears up.</sd>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>Boo-yah! Check out my baby's proton cannon.</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Boo-yah! Check out <charDesc ref="T-Car">my baby</charDesc>'s proton cannon.</sp>
 
-            <sd>Raven gives him an odd look; he sobers up as a big drop of sweat rolls down his
+            <sd><char>Raven</char> gives him an odd look; he sobers up as a big drop of sweat rolls down his
                 temple.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Uh...I mean...oh, no.</sp>
 
-            <sd>Gizmo opens fire, forcing Cyborg to swerve from side to side in order to avoid being
+            <sd><char>Gizmo</char> opens fire, forcing <char>Cyborg</char> to swerve from side to side in order to avoid being
                 annihilated. One shot hits the road just ahead of the car; he drives straight on
-                through the resulting cloud of smoke. Just at Gizmo rode up on the racetrack wall,
-                Cyborg now takes his car up the rock face a few feet, still dodging the cannon
+                through the resulting cloud of smoke. Just at <char>Gizmo</char> rode up on the racetrack wall,
+                <char>Cyborg</char> now takes his car up the rock face a few feet, still dodging the cannon
                 blasts. Gradually, he eases higher and higher, finally settling on a stretch of road
                 that is at an increased elevation. The two single-minded drivers continue their mad
                 dash on now-parallel courses.</sd>
@@ -776,146 +776,146 @@
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>banging the dashboard</sd>Come on! Faster,
                 faster!</sp>
 
-            <sd>Raven stands up in her seat.</sd>
+            <sd><char>Raven</char> stands up in her seat.</sd>
 
             <sp><spkr ref="#Raven">Raven</spkr>Hang on. Azarath Metrion Zinthos!</sp>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Yo, what are you--?</sp>
 
-            <sd>The car is flung ahead, forcing a terrified scream from his lungs. Pull back; the
-                entire car, under Raven's influence, goes flying off the edge of a curve and starts
-                to drop. Gizmo, on the lower part of the road, is still grinning and working his
-                controller, but the sight of Cyborg and Raven smoothly descending to his right
+            <sd>The car is flung ahead, forcing a terrified scream from his lungs. <directNote kind="pull">Pull back; the
+                entire car, under <char>Raven</char>'s influence, goes flying off the edge of a curve and starts
+                to drop.</directNote> <char>Gizmo</char>, on the lower part of the road, is still grinning and working his
+                controller, but the sight of <char>Cyborg</char> and <char>Raven</char> smoothly descending to his right
                 throws a real surprise his way. The car does not touch the road, but instead eases
                 over to knock fenders.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Pull over!</sp>
 
-            <sp><spkr ref="#Gizmo">Gizmo</spkr><sd>grinning again</sd>Make me, Robo-Wimp!</sp>
+            <sp><spkr ref="#Gizmo">Gizmo</spkr><sd>grinning again</sd>Make me, <charDesc ref="Cyborg">Robo-Wimp</charDesc>!</sp>
 
             <sd>He swerves, pushing the convertible against the rock face, and does a quick
-                360-degree spin. Cyborg and Raven come up even again.</sd>
+                360-degree spin. <char>Cyborg</char> and <char>Raven</char> come up even again.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>I said, pull over!</sp>
 
-            <sd>He reaches toward the T-Car and gets one hand hooked on the passenger-side front
-                door, reaching for Gizmo with the other.</sd>
+            <sd>He reaches toward the <char>T-Car</char> and gets one hand hooked on the passenger-side front
+                door, reaching for <char>Gizmo</char> with the other.</sd>
 
-            <sp><spkr ref="#Gizmo">Gizmo</spkr>Hey! Let me go, you barf-smelling hairball!</sp>
+            <sp><spkr ref="#Gizmo">Gizmo</spkr>Hey! Let me go, <charDesc ref="Cyborg">you barf-smelling hairball</charDesc>!</sp>
 
-            <sd>He turns in his seat to break wind in Cyborg's face.</sd>
+            <sd>He turns in his seat to break wind in <char>Cyborg</char>'s face.</sd>
 
             <sp><spkr ref="#Raven">Raven</spkr>Okay, making it really hard to concentrate.</sp>
 
             <sd>They continue on, trading paint as if this were the last NASCAR race of the season.
                 A third vehicle pulls partly into view, ahead of them and approaching, and its
-                headlights flare over the two Titans.</sd>
+                headlights flare over the two <char>Titans</char>.</sd>
 
             <sp><spkr ref="#Cyborg #Raven">Cyborg and Raven</spkr>Whoa!</sp>
 
-            <sd>Cut to the source, an approaching prison transport van whose horn is blaring. Its
-                lights wash out the entire view, which quickly snaps to a close-up of Gizmo. He has
+            <sd><directNote kind="cut">Cut to the source, an approaching prison transport van whose horn is blaring.</directNote> <directNote kind="black-screen">Its
+                lights wash out the entire view</directNote>, which quickly <directNote kind="snap">snaps to <stageDesc category="close-up">a close-up of <char>Gizmo</char></stageDesc></directNote>. He has
                 just enough time for one yell of sheer panic before the van is upon the group.
-                Guards jump clear, leaving it to careen driverless toward Gizmo, Cyborg, and Raven.
-                The convertible is levitated to a safe height, and the pipsqueak bails out thanks to
-                the ejector seat Cyborg warned Starfire not to mess with.</sd>
+                <char>Guards</char> jump clear, leaving it to careen driverless toward <char>Gizmo</char>, <char>Cyborg</char>, and <char>Raven</char>.
+                The convertible is levitated to a safe height, and <charDesc ref="Gizmo">the pipsqueak</charDesc> bails out thanks to
+                the ejector seat <char>Cyborg</char> warned <char>Starfire</char> not to mess with.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>half speed</sd>NOOOOOOO!!</sp>
 
-            <sd>Cut to a point above the road as he yells this, the camera aimed at the sky. The
-                borrowed ragtop and Gizmo both rise into view, and a parachute deploys from the
-                latter's seat. A colossal explosion occurs at ground level o.c.; cut to the crash
-                site. The van has been knocked onto its side, while the smashed T-Car has fetched up
-                against the undercarriage. Pan away a short distance to a clear patch of road. Raven
-                brings the convertible down for a soft landing to the sound of the o.c. Gizmo's very
+            <sd><directNote kind="cut">Cut to a point above the road as he yells this, the camera aimed at the sky.</directNote> The
+                borrowed ragtop and <char>Gizmo</char> both rise into view, and a parachute deploys from the
+                latter's seat. A colossal explosion occurs at ground level o.c.; <directNote kind="cut">cut to the crash
+                site</directNote>. The van has been knocked onto its side, while the smashed <char>T-Car</char> has fetched up
+                against the undercarriage. <directNote kind="pan">Pan away a short distance to a clear patch of road.</directNote> <char>Raven</char>
+                brings the convertible down for a soft landing to the sound of the o.c. <char>Gizmo</char>'s very
                 nasty laughter; he drifts down into view as they jump out.</sd>
 
             <sp><spkr ref="#Gizmo">Gizmo</spkr>Heh! Looks like your stupid car is--</sp>
 
-            <sd>Raven hits the parachute with a burst of telekinesis and causes it to wrap him up in
+            <sd><char>Raven</char> hits the parachute with a burst of telekinesis and causes it to wrap him up in
                 a very neat bundle.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>runs toward the wreck</sd>Please be okay,
                 please be okay, please be okay...</sp>
 
             <sd>Sparks crackle over the side of the overturned van and form into a lightning bolt
-                that pours itself into the not-even-close-to-okay T-Car; only Overload could do
-                this. He was in that van.</sd>
+                that pours itself into the not-even-close-to-okay <char>T-Car</char>; <annot>only <char>Overload</char> could do
+                this.</annot> He was in that van.</sd>
 
             <sp><spkr ref="#Overload">Overload</spkr><sd>from inside</sd>Car is better than
                 okay.</sp>
 
-            <sd>It turns to face Cyborg; close-up of the villain at the wheel.</sd>
+            <sd>It turns to face Cyborg; <stageDesc category="close-up">close-up of <charDesc ref="Overload">the villain</charDesc> at the wheel</stageDesc>.</sd>
 
             <sp><spkr ref="#Overload">Overload</spkr>Car is mine!</sp>
 
-            <sd>The builder recoils in fear with a small gasp; Overload just laughs and pulls out
+            <sd><charDesc ref="Cyborg">The builder</charDesc> recoils in fear with a small gasp; <char>Overload</char> just laughs and pulls out
                 the circuit board that had been put into the dash in the prologue. Throwing it out,
                 he feeds himself into the slot it had occupied and all the interior lights go red.
-                Extreme close-up of a crack in the windshield, which repairs itself; pull back as
-                the auto is quickly restored to mint condition. However, the white bodywork is now
+                <stageDesc category="close-up">Extreme close-up of a crack in the windshield, which repairs itself</stageDesc>; <directNote kind="pull">pull back as
+                the auto is quickly restored to mint condition</directNote>. However, <charDesc ref="Overload/T-Car">the white bodywork is now
                 an angry gray, the blue circuit trim has turned red, and the windows and windshield
                 are tinted black. The headlights, narrowed into fierce slits, blaze to life as the
-                engine revs up.</sd>
+                engine revs up.</charDesc></sd>
 
-            <sd>Cyborg growls softly; the Overload/T-Car does likewise. They face each other down
+            <sd><char>Cyborg</char> growls softly; the <char>Overload/T-Car</char> does likewise. They face each other down
                 across the empty yards of asphalt.</sd>
 
-            <sp><spkr ref="#Overload/T-Car">Overload/T-Car</spkr>Only way to stop Overload is to
+            <sp><spkr ref="#Overload/T-Car">Overload/T-Car</spkr>Only way to stop <char>Overload</char> is to
                 destroy your precious car!</sp>
 
-            <sd>He/it surges forward with a horrid squeal of rubber. Cut to Cyborg and zoom in
-                slowly; he does not move from his spot, but instead brings out his cannon and aims
+            <sd>He/it surges forward with a horrid squeal of rubber. <directNote kind="cut">Cut to Cyborg</directNote> and <directNote kind="zoom">zoom in
+                slowly</directNote>; he does not move from his spot, but instead brings out his cannon and aims
                 it straight ahead.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>softly</sd>It's not my car anymore.</sp>
 
-            <sd>He fires a blast straight at the camera. Cut to the charging possessed vehicle,
-                which takes the full force of it; the entire body is blown off, as are the tires,
-                leaving the axles and undercarriage a mass of twisted, skidding metal. A piece of
-                debris rolls across the ground, past Gizmo's fuzzy dice, and stops at Cyborg's foot.
-                Overload's circuit-board face lies there, but the rest of his body has
+            <sd>He fires a blast straight at the camera. <directNote kind="cut">Cut to the charging possessed vehicle,
+                which takes the full force of it</directNote>; <charDesc ref="Overload/T-Car">the entire body is blown off, as are the tires,
+                leaving the axles and undercarriage a mass of twisted, skidding metal</charDesc>. A piece of
+                debris rolls across the ground, past <char>Gizmo</char>'s fuzzy dice, and stops at <char>Cyborg</char>'s foot.
+                <char>Overload</char>'s circuit-board face lies there, but the rest of his body has
                 dissipated.</sd>
 
             <sp><spkr ref="#Overload">Overload</spkr><sd>groans wearily and loses
-                steam</sd>Overload...overloaded.</sp>
+                steam</sd><oneLine><char>Overload</char>...overloaded.</oneLine></sp>
 
-            <sd>Overload closes his eye. Dissolve to a second prison van and pan past its rear end
-                to the sound of Gizmo's grumbling. It is now sunrise. Two guards have cuffed him and
-                are hauling him toward the open doors. Inside, Cash and Sammy have also been
-                apprehended. Sammy laughs.</sd>
+            <sd><char>Overload</char> closes his eye. <directNote kind="dissolve">Dissolve to a second prison van</directNote> and <directNote kind="pan">pan past its rear end
+                to the sound of <char>Gizmo</char>'s grumbling</directNote>. It is now sunrise. Two guards have cuffed him and
+                are hauling him toward the open doors. Inside, <char>Cash</char> and <char>Sammy</char> have also been
+                apprehended. <char>Sammy</char> laughs.</sd>
 
-            <sp><spkr ref="#Cash">Cash</spkr><sd>to the o.c. Gizmo</sd>You got busted.</sp>
+            <sp><spkr ref="#Cash">Cash</spkr><sd>to the o.c. <char>Gizmo</char></sd>You got busted.</sp>
 
-            <sd>Gizmo is put in.</sd>
+            <sd><char>Gizmo</char> is put in.</sd>
 
-            <sp><spkr ref="#Gizmo">Gizmo</spkr>So did you, you brainless stinkbombs!</sp>
+            <sp><spkr ref="#Gizmo">Gizmo</spkr>So did you, <charDesc ref="Sammy and Cash">you brainless stinkbombs</charDesc>!</sp>
 
-            <sd>The core of Overload is tossed in after the three auto thieves, and the doors are
-                closed. Cut to Cyborg and Raven, standing among the T-Car's remains, and zoom in
-                slowly.</sd>
+            <sd>The core of <char>Overload</char> is tossed in after the three auto thieves, and the doors are
+                closed. <directNote kind="cut">Cut to <char>Cyborg</char> and <char>Raven</char></directNote>, standing among the <char>T-Car</char>'s remains, and <directNote kind="zoom">zoom in
+                slowly</directNote>.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>She's gone. Gone forever.</sp>
 
-            <sp><spkr ref="#Raven">Raven</spkr>Maybe. Maybe not. These are just parts.<sd>Cut to
-                    him; she continues o.c.</sd>The thing you loved about that car, the thing that
+            <sp><spkr ref="#Raven">Raven</spkr>Maybe. Maybe not. These are just parts.<sd><directNote kind="cut">Cut to
+                    him</directNote>; she continues o.c.</sd>The thing you loved about that car, the thing that
                 made her special,<sd>Back to her.</sd>that came from inside you.</sp>
 
-            <sd>She points ahead o.c. Pull back to ground level, a few feet from the two; lying
+            <sd>She points ahead o.c. <directNote kind="pull">Pull back to ground level, a few feet from the two</directNote>; lying
                 among the junk is the original circuit board, intact. He gasps, picks it up, and
                 smiles.</sd>
 
-            <sd>Dissolve to a litter of auto parts and tools on the floor of the Tower's garage,
-                just as in the prologue, and pan across them to the sound of work in progress. From
-                here, the same sequence of shots is seen, but with a dissolve from one to the next
-                instead of a cut. Spot welding; body panel cut; shock absorber fitted; hubcap bolted
-                on; taillight installed; engine lowered; engine secured; finally, we see Cyborg
-                working under the hood of the newly rebuilt T-Car. He passes a tool off, to the side
-                hidden by the hood, and closes up to reveal Raven standing there; her grease-smeared
-                face and the implement she took from him tell of the help she has been providing. A
+            <sd><directNote kind="dissolve">Dissolve to a litter of auto parts and tools on the floor of the Tower's garage,
+                just as in the prologue</directNote>, and <directNote kind="pan">pan across them to the sound of work in progress</directNote>. From
+                here, <directNote kind="dissolve">the same sequence of shots is seen, but with a dissolve from one to the next
+                instead of a cut</directNote>. Spot welding; body panel cut; shock absorber fitted; hubcap bolted
+                on; taillight installed; engine lowered; engine secured; finally, we see <char>Cyborg</char>
+                working under the hood of the newly rebuilt <char>T-Car</char>. He passes a tool off, to the side
+                hidden by the hood, and <stageDesc category="close-up">closes up to reveal <char>Raven</char> standing there</stageDesc>; <charDesc ref="Raven">her grease-smeared
+                face and the implement she took from him tell of the help she has been providing</charDesc>. A
                 big, exuberant smile stretches beneath that bright red eye implant, and, for the
-                first time, at least in the real world; she uncorks one of her own. Fade to
-                black.</sd>
+                first time, at least in the real world; she uncorks one of her own. <directNote kind="fade">Fade to
+                black.</directNote></sd>
         </act>
     </body>
 </root>
