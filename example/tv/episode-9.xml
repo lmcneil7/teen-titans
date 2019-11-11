@@ -399,7 +399,7 @@
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>What?</sp>
 
-            <sd><stageDesc>Close-up</stageDesc>; another of the namesake weapons has been slapped on there. The panels open
+            <sd><stageDesc category="close-up">Close-up</stageDesc>; another of the namesake weapons has been slapped on there. The panels open
                 up and those gray-gloved hands reach in to tinker with the circuits. Cyborg's arms
                 flail wildly.</sd>
 
@@ -412,26 +412,26 @@
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Yeah, you better run!</sp>
 
             <sd>He does exactly that, passing the gagged Raven and the bound Starfire before jumping
-                off the roof and disappearing. Cut to Beast Boy, back in human form and still caught
+                off the roof and disappearing. <directNote kind="cut">Cut to Beast Boy</directNote>, <transform class="human">back in human form</transform> and still caught
                 in the red mire.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>So, do you guys see what I don't see?</sp>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Who was that guy?</sp>
 
-            <sd>Dissolve to a close-up of several pipes and pan from them to Slade's lair. Red X's
+            <sd><directNote kind="dissolve">Dissolve to a <stageDesc category="close-up">close-up</stageDesc> of several pipes</directNote> and <directNote kind="pan">pan from them to Slade's lair</directNote>. Red X's
                 image is on one of the giant monitors; he holds up the microchip in full view of the
                 mastermind, who stands on the platform.</sd>
 
             <sp><spkr ref="#RedX">Red X</spkr>Rumor has it, you're interested in this.</sp>
 
-            <sd>Cut to Slade, silhouetted, and zoom in slowly.</sd>
+            <sd><directNote kind="cut">Cut to Slade</directNote>, silhouetted, and <directNote kind="zoom">zoom in slowly</directNote>.</sd>
 
             <sp><spkr ref="#Slade">Slade</spkr>I'm interested in many things, Mr. ...</sp>
 
             <sp><spkr ref="#RedX">Red X</spkr>X. Red X.</sp>
 
-            <sd>Extreme close-up of Slade's eye.</sd>
+            <sd><stageDesc category="close-up">Extreme close-up of Slade's eye</stageDesc>.</sd>
 
             <sp><spkr ref="#Slade">Slade</spkr>Hmmm. Catchy. So, are you proposing a sale or a
                 gift?</sp>
@@ -444,22 +444,22 @@
             <sp><spkr ref="#Slade">Slade</spkr>Partnership. My, my, we are ambitious. But an
                 alliance cannot be forged from one small chip.</sp>
 
-            <sd>Pull back across the platform a bit and pan across to put him and Red X's image in
+            <sd><directNote kind="pull">Pull back across the platform a bit</directNote> and <directNote kind="pan">pan across</directNote> to put him and Red X's image in
                 frame.</sd>
 
             <sp><spkr ref="#Slade">Slade</spkr>If you're going to win my trust, I'll require
                 more.</sp>
 
-            <sd>Close-up of the white skull face.</sd>
+            <sd><stageDesc category="close-up">Close-up of the white skull face</stageDesc>.</sd>
 
             <sp><spkr ref="#RedX">Red X</spkr>Just tell me what you want.</sp>
 
-            <sd>Fade to black.</sd>
+            <sd><directNote kind="fade">Fade to black</directNote>.</sd>
 
         </act>
         <act n="2">
             <title>Act Two</title>
-            <sd>Opening shot: the exterior of Titans Tower. It is now the following morning.</sd>
+            <sd><stageDesc category="open-shot">Opening shot: the exterior of Titans Tower</stageDesc>. It is now the following morning.</sd>
 
             <sp><spkr ref="#Robin">Robin</spkr><sd>from inside</sd>I had no idea Red X would pose
                 such a threat.</sp>
@@ -473,36 +473,36 @@
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>You bet you should've been there. Look what he
                 did to my 'do! I'm looking at two months of bad hair days!</sp>
 
-            <sd>Sight gag: a thundercloud floats briefly into view above his head and then vanishes.
-                Quick pan to Raven, who is seen to still have that big red X plastered across her
+            <sd><directNote kind="gag">Sight gag: a thundercloud floats briefly into view above his head and then vanishes.</directNote>
+               <directNote kind="pan"> Quick pan to Raven</directNote>, who is seen to still have that big red X plastered across her
                 mouth. She glares and cusses him out as best she can behind the gag. He and Starfire
                 smile cautiously.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>I don't know, Raven. That's kind of a good
                 look for you.</sp>
 
-            <sd>Close-up of Raven's gagged face against a red field; the vein throbbing on her
+            <sd><stageDesc category="close-up">Close-up of Raven's gagged face</stageDesc> against a red field; the vein throbbing on her
                 forehead speaks more clearly about her supreme vexation than her tongue can. The
                 background returns to normal, and Cyborg reaches into view to pry up a corner of the
                 X.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>from o.c.</sd>Hold still...</sp>
 
-            <sd>Pull back. As Beast Boy and Starfire brace for the inevitable, he rips the thing
-                away with one swift jerk. The two onlookers scream in sympathetic pain; cut to
-                Raven. A vivid red imprint has been left on her face, and she holds her lips pressed
+            <sd><directNote kind="pull">Pull back</directNote>. As Beast Boy and Starfire brace for the inevitable, he rips the thing
+                away with one swift jerk. The two onlookers scream in sympathetic pain; <directNote kind="cut">cut to
+                Raven</directNote>. A vivid red imprint has been left on her face, and she holds her lips pressed
                 together as two ghostly images of her pop out to either side and scream through
                 gritted teeth. They recede after a moment.</sd>
 
             <sp><spkr ref="#Raven">Raven</spkr><sd>calmly</sd>Ow.<sd>The imprint fades.</sd>Even if
                 you had been there, it wouldn't have made any difference.</sp>
 
-            <sd>Pan to Cyborg, holding up the X.</sd>
+            <sd><directNote kind="pan">Pan to Cyborg</directNote>, holding up the X.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Dude knew exactly how to bring each of us down. I
                 guarantee he had a gadget with your name on it.</sp>
 
-            <sd>Cut to Robin on the end of this line, then to Starfire and Beast Boy.</sd>
+            <sd><directNote kind="cut">Cut to Robin on the end of this line</directNote>, then to Starfire and Beast Boy.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>Agreed. You need not feel guilt. We are
                 undamaged.</sp>
@@ -516,9 +516,9 @@
             <sp><spkr ref="#Robin">Robin</spkr>Nothing. Lead was a dead end. I should get back to
                 work.</sp>
 
-            <sd>He turns away. Cut to the other four Titans, who watch in concern as the side door
-                is heard closing to mark his exit. Dissolve to the exterior of Tower, at night, and
-                cut to inside the operations center. The door opens to admit the foursome in a rush;
+            <sd>He turns away. <directNote kind="cut">Cut to the other four Titans</directNote>, who watch in concern as the side door
+                is heard closing to mark his exit. <directNote kind="dissolve">Dissolve to the exterior of Tower</directNote>, at night, and
+                <directNote kind="cut">cut to inside the operations center</directNote>. The door opens to admit the foursome in a rush;
                 Beast Boy's hair is back to normal.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Okay, Robin, what's the...?</sp>
@@ -528,7 +528,7 @@
             <sp><spkr ref="#Starfire">Starfire</spkr>Robin?</sp>
 
             <sd>Their perspective of the place, panning slowly across. No Robin, no villains, no
-                nothing. Cut to near the couch; they proceed slowly into view.</sd>
+                nothing. <directNote kind="cut">Cut to near the couch</directNote>; they proceed slowly into view.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>Robin?</sp>
 
@@ -539,13 +539,13 @@
 
             <sp><spkr ref="#Robin">Robin</spkr><sd>on speaker</sd>I was.</sp>
 
-            <sd>These two words startle the daylights and a short scream out of him. Cut to behind
-                the four; Robin's face is on the window/screen.</sd>
+            <sd>These two words startle the daylights and a short scream out of him. <directNote kind="cut">Cut to behind
+                the four</directNote>; Robin's face is on the window/screen.</sd>
 
             <sp><spkr ref="#Robin">Robin</spkr>But then I spotted Red X pulling a robbery in the
                 tech sector.</sp>
 
-            <sd>Cut to them, panning from Raven to Beast Boy on the next line. He has fallen asleep
+            <sd><directNote kind="cut">Cut to them</directNote>, <directNote kind="pan">panning from Raven to Beast Boy</directNote> on the next line. He has fallen asleep
                 on his feet and is snoring loudly.</sd>
 
             <sp><spkr ref="#Robin">Robin</spkr><sd>on speaker</sd>I'm on it. Get here as soon as you
@@ -556,13 +556,13 @@
 
             <sd>He nods off again before he can finish the sentence. A snore or two later, Cyborg
                 reaches down and grabs a fistful of clothing; Beast Boy is jerked awake and yanked
-                away with a scream. Dissolve to a group of buildings in Jump City, viewed from near
-                the rooftops, and tilt down to the street. The leaderless team is gathered there and
+                away with a scream. <directNote kind="dissolve">Dissolve to a group of buildings in Jump City</directNote>, viewed from near
+                the rooftops, and <directNote kind="tilt">tilt down to the street</directNote>. The leaderless team is gathered there and
                 ready for action. Nothing happens until Cyborg points o.c.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>There!</sp>
 
-            <sd>Cut to behind him and zoom in; he is looking at a nearby building, from whose roof,
+            <sd><directNote kind="cut">Cut to behind him</directNote> and <directNote kind="zoom">zoom in</directNote>; he is looking at a nearby building, from whose roof,
                 Red X jumps down with Robin in hot pursuit. After a few dozen yards, the black-clad
                 thief stops and throws a net back at the chaser. It ensnares him and sends him
                 rolling across the pavement to stop near where he came down from the roof.</sd>
@@ -571,14 +571,14 @@
 
             <sp><spkr ref="#Robin">Robin</spkr>I'm fine! Get X! Go!</sp>
 
-            <sd>Cut to the other four on the end of this. They set off; cut to a subway station
-                entrance, where Red X takes the entire down escalator in one huge leap. Underground,
-                pan from the quiet tunnel to the platform. The crew is on the lookout.</sd>
+            <sd><directNote kind="cut">Cut to the other four on the end of this</directNote>. They set off; <directNote kind="cut">cut to a subway station
+                entrance</directNote>, where Red X takes the entire down escalator in one huge leap. Underground,
+                <directNote kind="pan">pan from the quiet tunnel to the platform</directNote>. The crew is on the lookout.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>I've adjusted my ocular implant to scan at multiple
                 sub-harmonics in the EM spectrum.</sp>
 
-            <sd>Extreme close-up, left side of his face; Beast Boy peeks out.</sd>
+            <sd><stageDesc category="close-up">Extreme close-up, left side of his face</stageDesc>; Beast Boy peeks out.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>confused</sd>'Kay...do you come with
                 subtitles?</sp>
@@ -593,10 +593,10 @@
             <sp><spkr ref="#Raven">Raven</spkr>It's him.</sp>
 
             <sd>Cyborg gets up, still a bit woozy and in no condition to immediately retaliate
-                against the X that appears in midair and flies toward his back. Close-up of it,
+                against the X that appears in midair and flies toward his back. <stageDesc category="close-up">Close-up of it</stageDesc>,
                 being slapped in place by Red X, then pull back. A few sparks fly from the bionic
-                Titan, but he remains in full control of his body this time. Pan from him to the
-                would-be hacker on the next line.</sd>
+                Titan, but he remains in full control of his body this time. <directNote kind="pan">Pan from him to the
+                would-be hacker</directNote> on the next line.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>You gonna have to learn some new tricks, dog.</sp>
 
@@ -613,12 +613,12 @@
                 big man. Both crash to the ground. Silhouette view of the platform, Red X, Raven,
                 and Beast Boy; he nimbly gets the better of both, even after the shape-shifter turns
                 into a bear. Normal view: Raven tumbles down against some crates, and Beast Boy
-                avenges her by ramming Red X from behind as a bighorn sheep.</sd>
+                avenges her by ramming Red X from behind <transform class="mammal">as a bighorn sheep</transform>.</sd>
 
-            <sd>He quickly resumes human form and charges again. The foe catches hold of a pole,
+            <sd>He quickly <transform class="human">resumes human form</transform> and charges again. The foe catches hold of a pole,
                 swings his weight around it, and launches himself feet first back the way he came.
                 His trajectory forces Beast Boy to duck; a punch is thrown at the Titan, who stands
-                up just in time to catch it on the jaw. Cut to the tracks, where he is knocked
+                up just in time to catch it on the jaw. <directNote kind="cut">Cut to the tracks</directNote>, where he is knocked
                 across to hit the opposite edge and bounce down to the rails. Sitting up dazedly, he
                 snaps back fully when the glare of headlights falls across him and a train whistle
                 makes itself heard. The early express is right on time. As Beast Boy stares like a
@@ -636,13 +636,13 @@
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Who is that guy?</sp>
 
-            <sd>Fade to black.</sd>
+            <sd><directNote kind="fade">Fade to black</directNote>.</sd>
 
-            <sd>Pan to bring a pool of light into view, cast by an overhead source. Red X sits at a
+            <sd><directNote kind="pan">Pan to bring a pool of light into view</directNote>, cast by an overhead source. Red X sits at a
                 desk under it and is busy at a computer. Slade's silhouette is on the monitor.</sd>
 
-            <sp><spkr ref="#Slade">Slade</spkr>Impressive, Red X.<sd>Extreme close-up of his eye as
-                    he continues.</sd>I tapped into the security cameras to catch your performance.
+            <sp><spkr ref="#Slade">Slade</spkr>Impressive, Red X.<sd><stageDesc category="close-up">Extreme close-up of his eye as
+                    he continues</stageDesc>.</sd>I tapped into the security cameras to catch your performance.
                 You treated the Titans to quite a show.</sp>
 
             <sp><spkr ref="#RedX">Red X</spkr>Glad you enjoyed it.</sp>
@@ -662,7 +662,7 @@
                 discuss your future.</sp>
 
             <sd>He fades away, leaving only the bit of hardware on the display. The picture
-                disintegrates into static; pan from it to Red X, seen from behind. He turns to the
+                disintegrates into static; <directNote kind="pan">pan from it to Red X</directNote>, seen from behind. He turns to the
                 camera.</sd>
 
             <sp><spkr ref="#RedX">Red X</spkr>Good.</sp>
@@ -671,13 +671,13 @@
 
             <sp><spkr ref="#Robin">Robin</spkr>It's about time we met face to face.</sp>
 
-            <sd>Fade to black.</sd>
+            <sd><directNote kind="fade">Fade to black</directNote>.</sd>
 
         </act>
         <act n="3">
             <title>Act Three</title>
-            <sd>Opening shot: the exterior of the Tower. It is later that same night. Cut to a
-                computer map of Jump City, with two spots marked, and pull back; it is on the
+            <sd><stageDesc category="open-shot">Opening shot: the exterior of the Tower</stageDesc>. It is later that same night.<directNote kind="cut"> Cut to a
+                computer map of Jump City</directNote>, with two spots marked, and <directNote kind="pull">pull back</directNote>; it is on the
                 operations center window/screen, and all the Titans but Robin are looking at it.
                 Raven stands at one of the consoles.</sd>
 
@@ -697,17 +697,17 @@
             <sp><spkr ref="#Robin">Robin</spkr><sd>heading toward the side door</sd>It'll have to
                 wait. I'm close to a breakthrough with Slade.</sp>
 
-            <sp><spkr ref="#Starfire">Starfire</spkr><sd>gasps</sd>More wonderful!<sd>Cut to him at
-                    the door; she continues o.c.</sd>Perhaps we could be of assistance to...</sp>
+            <sp><spkr ref="#Starfire">Starfire</spkr><sd>gasps</sd>More wonderful!<sd><directNote kind="cut">Cut to him at
+                    the door</directNote>; she continues o.c.</sd>Perhaps we could be of assistance to...</sp>
 
             <sd>Robin trails off briefly as his back retreats into the dark hall.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr><sd>from o.c.</sd>...you.</sp>
 
-            <sd>Close-up; she hangs her head dejectedly.</sd>
+            <sd><stageDesc category="close-up">Close-up</stageDesc>; she hangs her head dejectedly.</sd>
 
-            <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>from o.c.</sd>Let him go.<sd>Cut to him
-                    and the others.</sd>Not like he's been much help lately anyway. If Robin wasn't
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>from o.c.</sd>Let him go.<sd><directNote kind="cut">Cut to him
+                    and the others</directNote>.</sd>Not like he's been much help lately anyway. If Robin wasn't
                 always A.W.O.L., X would be K.O.'d by now.</sp>
 
             <sp><spkr ref="#Raven">Raven</spkr>I can't believe I'm saying this, but Beast Boy's
@@ -715,16 +715,16 @@
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Y'all think maybe Robin's losing his grip?</sp>
 
-            <sp><spkr ref="#Starfire">Starfire</spkr>No! Robin's grip is not lost!<sd>Cut to the
-                    others, nonplussed; she continues o.c.</sd>He works harder than any of you! He
+            <sp><spkr ref="#Starfire">Starfire</spkr>No! Robin's grip is not lost!<sd><directNote kind="cut">Cut to the
+                    others</directNote>, nonplussed; she continues o.c.</sd>He works harder than any of you! He
                 works to catch Slade before something terrible happens!<sd>Back to her.</sd>He works
                 to save us all!</sp>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Yeah. That's why every time we need him, he
                 disappears.</sp>
 
-            <sd>Starfire has no ready answer for this charge. Dissolve to an overhead view of
-                Robin's room, with that single overhead light still shining down on the loaded desk.
+            <sd>Starfire has no ready answer for this charge. <directNote kind="dissolve">Dissolve to an overhead view of
+                Robin's room</directNote>, with that single overhead light still shining down on the loaded desk.
                 The door is closed, but opens to admit her; as she proceeds in and looks at the
                 newspaper-covered walls, Starfire recalls some of his words.</sd>
 
@@ -750,8 +750,8 @@
 
             <sd>Starfire's foot steps into view near it.</sd>
 
-            <sp><spkr ref="#Starfire">Starfire</spkr><sd>from o.c.</sd>Huh?<sd>Cut to
-                her.</sd>Robin?</sp>
+            <sp><spkr ref="#Starfire">Starfire</spkr><sd>from o.c.</sd>Huh?<sd><directNote kind="cut">Cut to
+                her</directNote>.</sd>Robin?</sp>
 
             <sp><spkr ref="#HologramRobin">Hologram Robin</spkr>I'm fine! Get X! Go!<sd>as Starfire
                     reaches through him</sd>I'm fine! Get X! Go!</sp>
@@ -761,9 +761,9 @@
 
             <sd>She gasps sharply as the truth dawns on her; Robin's masquerade as Red X, coupled
                 with the fact that the Robin who accompanied the other Titans on their chase was
-                this double. Cut to a close-up of the green microchip seen during his last talk with
-                Slade, in a protective field of its own. Pull back as Red X approaches to show the
-                surrounding area dimly lit. He plucks the item away; pan across the area to show a
+                this double. <directNote kind="cut">Cut to a <stageDesc category="close-up">close-up</stageDesc> of the green microchip</directNote> seen during his last talk with
+                Slade, in a protective field of its own. <directNote kind="pull">Pull back as Red X approaches</directNote> to show the
+                surrounding area dimly lit. He plucks the item away; <directNote kind="pan">pan across the area</directNote> to show a
                 pool of light cast from one overhead lamp.</sd>
 
             <sp><spkr ref="#Slade">Slade</spkr><sd>from o.c.</sd>Excellent work.</sp>
@@ -783,14 +783,14 @@
             <sp><spkr ref="#Slade">Slade</spkr>Indeed. You and I are so very much alike. It seems
                 only natural that we should be partners.</sp>
 
-            <sd>Close-up of his open hand on the end of this, then cut to Red X, who holds up all
+            <sd><stageDesc category="close-up">Close-up of his open hand</stageDesc> on the end of this, then <directNote kind="cut">cut to Red X</directNote>, who holds up all
                 three microchips.</sd>
 
             <sp><spkr ref="#RedX">Red X</spkr>What are they for? I need to know what we're
                 planning...partner.</sp>
 
             <sp><spkr ref="#Slade">Slade</spkr>Patience. You can't expect me to trust you with such
-                sensitive information right away...<sd>Extreme close-up of his eye.</sd>...can
+                sensitive information right away...<sd><stageDesc category="close-up">Extreme close-up of his eye</stageDesc>.</sd>...can
                 you..., Robin?</sp>
 
             <sd>Red X's eyes pop at the realization that his cover has been blown. There is a flash
@@ -801,17 +801,17 @@
                 during the highlight reel at the start of "Final Exam." In addition, there is a
                 balcony that is now packed with ranks of commando robots. From one direction after
                 another, the mechanical enforcers advance slightly to close in. Red X gets ready to
-                throw down, and the camera cuts to Slade. As the robots on either side of him start
-                to advance, the entire room shakes with the force of an o.c. explosion. Cut to its
-                source; the ceiling has been blown out, and shadows start to appear in the
+                throw down, and the <directNote kind="cut">camera cuts to Slade</directNote>. As the robots on either side of him start
+                to advance, the entire room shakes with the force of an o.c. explosion. <directNote kind="cut">Cut to its
+                source</directNote>; the ceiling has been blown out, and shadows start to appear in the
                 smoke.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>within the smoke</sd>Titans! Go!</sp>
 
             <sd>Beast Boy drops into view, then Raven, and finally Cyborg. As Red X sprints across
-                the room, Beast Boy, now an octopus, yanks one robot away, and Raven levitates a
+                the room, Beast Boy, <transform class="fish">now an octopus</transform>, yanks one robot away, and Raven levitates a
                 second and forces it off. Cyborg hits the ground running and gets a hand on that
-                black cape; pan from him to Red X.</sd>
+                black cape; <directNote kind="pan">pan from him to Red X</directNote>.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Gotcha!</sp>
 
@@ -838,14 +838,14 @@
             <sp><spkr ref="#Robin">Robin</spkr>Slade's getting away! Come on!</sp>
 
             <sd>A huge leap carries him over the two robots flanking the door, but they just stare
-                after him. Now several commandos jump down from the balcony; pull back slowly, then
-                dissolve to a longer shot and keep pulling back to the wall. More of them land with
+                after him. Now several commandos jump down from the balcony; <directNote kind="pull">pull back slowly</directNote>, then
+                <directNote kind="dissolve">dissolve to a <stageDesc category="long-shot">longer shot</stageDesc></directNote> and <directNote kind="pull">keep pulling back to the wall</directNote>. More of them land with
                 their backs to the camera.</sd>
 
-            <sd>Cut to a pan across the rooftop of this building. A vent cap pops off, and out comes
+            <sd><directNote kind="cut">Cut to</directNote> a <directNote kind="pan">pan across the rooftop</directNote> of this building. A vent cap pops off, and out comes
                 Slade as if launched from a cannon; Robin comes out after him, having ditched the
                 Red X outfit in favor of his own. He chases Slade from one rooftop to the next, the
-                camera panning to follow, and matches the criminal on every leap across a space
+                <directNote kind="pan">camera panning to follow</directNote>, and matches the criminal on every leap across a space
                 between buildings. A birdarang is thrown ahead, but a quick backhand from Slade
                 shatters it. Robin stares down at the pieces as his nemesis runs to the edge and
                 takes an impossible flying leap toward a distant rooftop that has a framework of
@@ -853,8 +853,8 @@
                 area.</sd>
 
             <sd>Slade stops for a look back and sees Robin standing on the high, far plateau. The
-                Boy Wonder takes a few steps back and goes into a headlong rush; overhead view of
-                the street, panning across, as he vaults into the elevated emptiness and begins to
+                Boy Wonder takes a few steps back and goes into a headlong rush; <stageDesc category="overhead-shot">overhead view of
+                the street</stageDesc>, <directNote kind="pan">panning across</directNote>, as he vaults into the elevated emptiness and begins to
                 drop toward the pool of red light. He lands safely and tumbles a bit before coming
                 up in a crouch to face Slade.</sd>
 
@@ -863,7 +863,7 @@
             <sp><spkr ref="#Robin">Robin</spkr>I'm not the one who's going to get hurt. Now hand
                 them over!</sp>
 
-            <sd>Cut to a spot between them.</sd>
+            <sd><directNote kind="cut">Cut to a spot between them</directNote>.</sd>
 
             <sp><spkr ref="#Slade">Slade</spkr><sd>walking into view</sd>Robin. I thought we had a
                 deal.</sp>
@@ -876,7 +876,7 @@
             <sp><spkr ref="#Slade">Slade</spkr>How very noble of you. But stealing in order to trap
                 me? That wasn't so noble. Two wrongs don't make a--</sp>
 
-            <sd>Cut to Robin.</sd>
+            <sd><directNote kind="cut">Cut to Robin</directNote>.</sd>
 
             <sp><spkr ref="#Robin">Robin</spkr>Don't ever lecture me! Whatever you're planning,
                 Slade, it's over!</sp>
@@ -897,10 +897,10 @@
                 wind out of him, and he is flung toward the edge of the rooftop. He stumbles against
                 a couple of crates and falls out of sight with a short scream.</sd>
 
-            <sd>Close-up of his fingers, which are clinging to the ledge for dear life, and pull
-                back to frame Robin hanging hundreds of feet above the traffic. The masonry starts
-                to crumble, then gives way to drop him screaming toward the street. Another close-up
-                of his hand; Slade reaches into view and seizes the wrist. The masked face stares
+            <sd><stageDesc category="close-up">Close-up of his fingers</stageDesc>, which are clinging to the ledge for dear life, and <directNote kind="pull">pull
+                back to frame Robin</directNote> hanging hundreds of feet above the traffic. The masonry starts
+                to crumble, then gives way to drop him screaming toward the street. Another <stageDesc category="close-up">close-up
+                of his hand</stageDesc>; Slade reaches into view and seizes the wrist. The masked face stares
                 intently down at him.</sd>
 
             <sp><spkr ref="#Robin">Robin</spkr>You...saved me?</sp>
@@ -911,12 +911,12 @@
                 on one of the upper beams and hurls himself back downward to start the brawl all
                 over again. Back and forth they go once more; this time, it ends when Robin lands a
                 flying straight punch that sends Slade and the three microchips careening away. The
-                latter land in a pile, while the former slides to the edge. Cut to just behind him;
+                latter land in a pile, while the former slides to the edge. <directNote kind="cut">Cut to just behind him</directNote>;
                 Robin strides up.</sd>
 
             <sp><spkr ref="#Robin">Robin</spkr>This ends now!</sp>
 
-            <sd>He pulls the man's mask off. Cut to a close-up of the head-whose entire front half
+            <sd>He pulls the man's mask off. <directNote kind="cut">Cut to a <stageDesc category="close-up">close-up</stageDesc> of the head</directNote>-whose entire front half
                 has come away, just like that of the commando robot he tried to interrogate after
                 the first heist. This is not the real Slade, then, but merely a mechanical double.
                 Its head contains a monitor that shows the genuine evil mastermind, seen in full
@@ -928,25 +928,25 @@
 
             <sd>A large number 5 superimposes itself on the view and changes to 4, then 3. Realizing
                 what is about to happen, Robin puts his feet in overdrive. The counter is now at 2;
-                it drops to 1, and the camera pulls back to a long shot of the building as a long
+                it drops to 1, and the <directNote kind="pull">camera pulls back to a <stageDesc category="long-shot">long shot</stageDesc> of the building</directNote> as a long
                 beep marks zero. A massive explosion roars from the rooftop; the detonation of the
-                Slade robot. Cut to the blast site and pan to Robin, who is staring morosely at it,
+                Slade robot. <directNote kind="cut">Cut to the blast site</directNote> and <directNote kind="pan">pan to Robin</directNote>, who is staring morosely at it,
                 and the other Titans gathered at a distance.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Heh. At least he didn't get the chips.</sp>
 
-            <sd>Fade to black.</sd>
+            <sd><directNote kind="fade">Fade to black</directNote>.</sd>
 
-            <sd>Fade in to the exterior of the Tower. It is later that same night. Inside, cut to
-                the floor of Robin's room and tilt up slowly to frame him at the wall. The door is
+            <sd><directNote kind="fade">Fade in to the exterior of the Tower</directNote>. It is later that same night. Inside, <directNote kind="cut">cut to
+                the floor of Robin's room</directNote> and <directNote kind="tilt">tilt up slowly to frame him at the wall</directNote>. The door is
                 heard opening; side view of him, staring at the Slade robot's mask that he has hung
-                on the wall. Pan slightly to put Starfire in view as she enters. He does not
+                on the wall. <directNote kind="pan">Pan slightly to put Starfire in view</directNote> as she enters. He does not
                 turn.</sd>
 
-            <sp><spkr ref="#Robin">Robin</spkr>You want to yell at me, too?<sd>Close-up of the mask;
+            <sp><spkr ref="#Robin">Robin</spkr>You want to yell at me, too?<sd><stageDesc category="close-up">Close-up of the mask</stageDesc>;
                     he pulls it down and continues o.c.</sd>Everyone else has.</sp>
 
-            <sd>Pull back to frame him on the end of this line. He stares at the mask.</sd>
+            <sd><directNote kind="pull">Pull back to frame him</directNote> on the end of this line. He stares at the mask.</sd>
 
             <sp><spkr ref="#Robin">Robin</spkr><sd>turning around</sd>And I don't blame them.</sp>
 
@@ -956,20 +956,20 @@
                 Robin, why did you not tell us the truth?</sp>
 
             <sp><spkr ref="#Robin">Robin</spkr>I needed to fool Slade. If you guys knew it was me
-                under that mask, you would've held back.<sd>Zoom in slowly.</sd>Doesn't matter
+                under that mask, you would've held back.<sd><directNote kind="zoom">Zoom in slowly</directNote>.</sd>Doesn't matter
                 anyway. Slade figured it out, and I still haven't figured out anything about
                 him.</sp>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>That is not true. Whoever Slade is, you and he
-                are similar. Slade did not trust you,<sd>Close-up of him; zoom in as she continues
+                are similar. Slade did not trust you,<sd><stageDesc category="close-up">Close-up of him</stageDesc>; <directNote kind="zoom">zoom in as she continues</directNote>
                     o.c.</sd>and you did not trust us.</sp>
 
-            <sd>Pull back to frame both; she gives him one last reproachful look and heads for the
+            <sd><directNote kind="pull">Pull back to frame both</directNote>; she gives him one last reproachful look and heads for the
                 door, her footsteps echoing hollowly in the space. He gazes at the mask in his hand
                 for a long moment, lost in thoughts of how this undercover job could have unfolded
-                had Slade not bowled him out. Pull back to just inside the open door, the camera
+                had Slade not bowled him out. <directNote kind="pull">Pull back to just inside the open door</directNote>, the camera
                 pointing at the cluttered walls and floor and the now-cleared desk under that single
-                light. Starfire's shadow retreats in the shaft of light from the hall. Fade to black
+                light. Starfire's shadow retreats in the shaft of light from the hall. <directNote kind="fade">Fade to black</directNote>
                 as the door closes.</sd>
         </act>
     </body>
