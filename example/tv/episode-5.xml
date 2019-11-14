@@ -28,139 +28,139 @@
     <body>
         <act n="0">
             <title>Prologue</title>
-            <sd>Opening shot: a park filled with people enjoying a beautiful afternoon. Pan across
+            <sd><stageDesc category="open-shot">Opening shot: a park filled with people enjoying a beautiful afternoon.</stageDesc> <directNote kind="pan">Pan across
                 the area; there is Frisbee-throwing, kite-flying, a young man and woman picnicking,
-                the whole deal.</sd>
+                the whole deal.</directNote></sd>
 
             <sp><spkr ref="#MalePicnicker">Male Picnicker</spkr><sd>holds out a soda</sd>Soda?</sp>
 
             <sp><spkr ref="#FemalePicnicker">Female Picnicker</spkr>Why, I'd love one.</sp>
 
-            <sd>Cut to a close-up of Cyborg. He has bent over something just down o.c., but then
+            <sd><directNote kind="cut">Cut to <stageDesc category="close-up">a close-up of <char>Cyborg</char></stageDesc>.</directNote> He has bent over something just down o.c., but then
                 straightens up.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>Feels the fresh air.</sd>Mmm-mmm. Would you
                 look at that. A little sunshine, a little breeze. Only one thing could make this day
                 better.</sp>
 
-            <sd>Pull back a bit as he bends down again. The thing in front of him is a barbecue
+            <sd><directNote kind="pull">Pull back a bit as he bends down again.</directNote> The thing in front of him is a barbecue
                 grill, and he opens the lid to expose…</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Four and a half pounds of baby back ribs.</sp>
 
-            <sd>He lifts the rack away on a platter. Cut to a picnic table, where Robin is digging
-                into a burger and Starfire is heartily sucking something down through a straw.
-                Positioned just over her right shoulder, the camera does not allow us to see her
-                drink on the table. Cyborg sits down.</sd>
+            <sd>He lifts the rack away on a platter. <directNote kind="cut">Cut to a picnic table, where <char>Robin</char> is digging
+                into a burger and <char>Starfire</char> is heartily sucking something down through a straw.</directNote>
+                Positioned just over her right shoulder, <directNote>the camera does not allow us to see her
+                drink on the table</directNote>. <char>Cyborg</char> sits down.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Man, I love picnic food!</sp>
 
-            <sd>He buries his face in the ribs, chomping huge mouthfuls of pork, and Robin matches
-                that effort with the burger. Cut to Starfire; now the top of her glass can be
+            <sd>He buries his face in the ribs, chomping huge mouthfuls of pork, and <char>Robin</char> matches
+                that effort with the burger. <directNote kind="cut">Cut to <char>Starfire</char></directNote>; now the top of her glass can be
                 seen.</sd>
 
-            <sp><spkr ref="#Starfire">Starfire</spkr>Agreed, Cyborg.<sd>flushes happily</sd>This
+            <sp><spkr ref="#Starfire">Starfire</spkr>Agreed, <char>Cyborg</char>.<sd>flushes happily</sd>This
                 tangy yellow beverage is truly delightful.</sp>
 
             <sd>She swigs some more of it. Back to the two boys, who stop scarfing down their food
                 to stare in surprise.</sd>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>Uh, Starfire?</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Uh, <char>Starfire</char>?</sp>
 
             <sp><spkr ref="#Robin">Robin</spkr>That’s mustard.</sp>
 
-            <sd>Sight gag: she hugs the container; the mustard jar, with its screw cap removed,
-                giant size as smaller ones float past in the background.</sd>
+            <sd><directNote kind="gag">Sight gag: she hugs the container; the mustard jar, with its screw cap removed,
+                giant size as smaller ones float past in the background.</directNote></sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>Is there more?</sp>
 
-            <sd>The sight gag ends; Robin and Cyborg cannot tear their eyes away from the scene and
+            <sd>The sight gag ends; <char>Robin</char> and <char>Cyborg</char> cannot tear their eyes away from the scene and
                 their food sits forgotten in their hands. A shred of meat is clearly heard falling
-                from Cyborg’s face in the stillness. Pull back from the table and pan to the tree
-                where the grill is set up. Beast Boy, as a lemur, climbs around in the branches and
+                from <char>Cyborg</char>’s face in the stillness. <directNote kind="pull">Pull back from the table</directNote> and <directNote kind="pan">pan to the tree
+                where the grill is set up</directNote>. <char>Beast Boy</char>, as <transform class="mammal">a lemur</transform>, climbs around in the branches and
                 hangs down from the lowest one by his tail; by the time he gets within reach of the
-                grill, he is back in human form. He picks up two hot dogs.</sd>
+                grill, he is back in <transform class="human">human form</transform>. He picks up two hot dogs.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Sweet! My tofu dogs are cooked to perfection.
-                    <sd>Pull back; Raven sits in the shade of a nearby tree.</sd>Yo, Raven. Try one.
+                    <sd><directNote kind="pull">Pull back</directNote>; <char>Raven</char> sits in the shade of a nearby tree.</sd>Yo, <char>Raven</char>. Try one.
                 They’re loaded with soybeany goodness.</sp>
 
             <sp><spkr ref="#Raven">Raven</spkr>I respect that you don’t eat meat. Please respect
                 that I don’t eat fake meat.</sp>
 
-            <sd>The vegetarian Titan proceeds to wolf down both dogs at once. Cyborg runs past; cut
-                to him on the open grass, football in hand.</sd>
+            <sd><charDesc ref="Beast Boy">The vegetarian Titan</charDesc> proceeds to wolf down both dogs at once. <char>Cyborg</char> runs past; <directNote kind="cut">cut
+                to him on the open grass, football in hand</directNote>.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>All right, y’all. Who wants to play some
                 fool-ball?</sp>
 
-            <sd>Robin, Beast Boy, and Starfire run over, clamoring to get into the game. They cut
-                off abruptly and look in Raven’s direction; cut to her. She has not moved an
+            <sd><char>Robin</char>, <char>Beast Boy</char>, and <char>Starfire</char> run over, clamoring to get into the game. They cut
+                off abruptly and look in <char>Raven</char>’s direction; <directNote kind="cut">cut to her</directNote>. She has not moved an
                 inch.</sd>
 
             <sp><spkr ref="#Raven">Raven</spkr>I’ll be referee.</sp>
 
-            <sd>Close-up of the ball on the grass as Cyborg puts his hand on it. Pull back to show
-                him ready to hike to Robin, and Beast Boy and Starfire set to block.</sd>
+            <sd><stageDesc category="close-up">Close-up of the ball on the grass as <char>Cyborg</char> puts his hand on it.</stageDesc> <directNote kind="pull">Pull back to show
+                him ready to hike to <char>Robin</char>, and <char>Beast Boy</char> and <char>Starfire</char> set to block.</directNote></sd>
 
             <sp><spkr ref="#Robin">Robin</spkr>Red! Twenty-three! Hut! Hut! Hut!</sp>
 
-            <sd>Close-up of the ball again on the last “hut.” Cyborg hikes it back and then runs
-                past the defensive line, and Beast Boy stands in front of Robin while Starfire goes
-                after the running Titan.</sd>
+            <sd><stageDesc category="close-up">Close-up of the ball again on the last “hut.”</stageDesc> <char>Cyborg</char> hikes it back and then runs
+                past the defensive line, and <char>Beast Boy</char> stands in front of <char>Robin</char> while <char>Starfire</char> goes
+                after <charDesc ref="Cyborg">the running Titan</charDesc>.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>One Gotham City…</sp>
 
-            <sd>Cut to Cyborg in the open.</sd>
+            <sd><directNote kind="cut">Cut to Cyborg in the open.</directNote></sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>from o.c.</sd>…two Gotham City…three
                 Gotham City...</sp>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>over the previous line</sd>You can run, you can
-                fly, but you can’t catch Cy!</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>over the previous line</sd><oneLine>You can run, you can
+                fly, but you can’t catch <charDesc ref="Cyborg">Cy</charDesc>!</oneLine></sp>
             <sd>Starfire flies after him now.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>from o.c.</sd>…four Gotham City…
-                    <sd>Starfire speeds up; back to Beast Boy.</sd>…five Gotham City!</sp>
+                    <sd><char>Starfire</char> speeds up; back to <char>Beast Boy</char>.</sd>…five Gotham City!</sp>
 
-            <sd>Close-up of Robin, backing up to throw a pass. He yells in sudden fear as the ground
-                shakes; cut to the source; Beast Boy, now a charging triceratops. The Titans’ leader
-                skids backward, then jumps onto the green behemoth’s snout and runs straight down
-                his back. Jumping clear of the tail, Robin fires a pass downfield. Cut to Cyborg,
-                with no blockers anywhere in sight, and pan to follow his run. As he goes, the blue
+            <sd><stageDesc category="close-up">Close-up of <char>Robin</char>, backing up to throw a pass.</stageDesc> He yells in sudden fear as the ground
+                shakes; <directNote kind="cut">cut to the source</directNote>; <char>Beast Boy</char>, now <transform class="reptile">a charging triceratops</transform>. <charDesc ref="Robin">The Titans’ leader</charDesc>
+                skids backward, then jumps onto <charDesc ref="Beast Bot">the green behemoth</charDesc>’s snout and runs straight down
+                his back. Jumping clear of the tail, <char>Robin</char> fires a pass downfield. <directNote kind="cut">Cut to <char>Cyborg</char>,
+                with no blockers anywhere in sight</directNote>, and <directNote kind="pan">pan to follow his run</directNote>. As he goes, <charDesc ref="Cyborg">the blue
                 lights that shine through the transparent coverings of his cybernetic parts start to
-                fade. Cut to the ball, sailing through the air, then back to him. The lights have
-                come back on, but they soon fade again.</sd>
+                fade</charDesc>. <directNote kind="cut">Cut to the ball</directNote>, sailing through the air, <directNote kind="cut">then back to him</directNote>. <charDesc ref="Cyborg">The lights have
+                come back on, but they soon fade again.</charDesc></sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>I got it! I got it! I--</sp>
 
-            <sd>His face suddenly freezes, as does he, but the camera keeps panning ahead. It
-                finally stops and backs up quickly; Cyborg might as well be a statue for his total
-                lack of motion. Hands still outstretched, feet frozen in the middle of a running
-                stride. The football drops into view and bounces off the side of his head, and he
+            <sd>His face suddenly freezes, as does he, but <directNote kind="pan">the camera keeps panning ahead</directNote>. It
+                finally stops and backs up quickly; <char>Cyborg</char> might as well be a statue for his total
+                lack of motion. <charDesc ref="Cyborg">Hands still outstretched, feet frozen in the middle of a running
+                stride.</charDesc> The football drops into view and bounces off the side of his head, and he
                 slowly topples forward onto the grass.</sd>
 
             <sp><spkr ref="#Robin">Robin</spkr>Cyborg? Cyborg!</sp>
 
-            <sd>The big teenager’s mouth and normal eye close, and the red light of his eye implant
-                winks out. Four very worried and surprised Titans, including Beast Boy in human
-                form, gather around him in short order. Fade to black.</sd>
+            <sd><charDesc ref="Cyborg">The big teenager’s mouth and normal eye close, and the red light of his eye implant
+                winks out.</charDesc> Four very worried and surprised <char>Titans</char>, including <char>Beast Boy</char> in <transform class="human">human
+                form</transform>, gather around him in short order. <directNote kind="fade">Fade to black.</directNote></sd>
 
             <cue>OPENING THEME</cue>
 
         </act>
         <act n="1">
             <title>Act One</title>
-            <sd>The screen remains black at this point. Dialogue, when it starts, initially sounds
+            <sd><directNote kind="black-screen">The screen remains black at this point.</directNote> Dialogue, when it starts, initially sounds
                 as if it is being heard through a speaker.</sd>
 
-            <sp><spkr ref="#">Starfire</spkr><sd>voice over</sd>Cyborg?<sd>A flicker of
-                light.</sd>Cyborg!</sp>
+            <sp><spkr ref="#">Starfire</spkr><sd>voice over</sd><char>Cyborg</char>?<sd>A flicker of
+                light.</sd><char>Cyborg</char>!</sp>
 
-            <sd>The words "Reserve Battery Activated" appear as the background lightens into a blank
-                view that appears as if it could be on a badly tuned television set. The display
+            <sd><stageDesc category="fullscreen">The words "Reserve Battery Activated" appear as the background lightens into a blank
+                view that appears as if it could be on a badly tuned television set.</stageDesc> <stageDesc category="display">The display
                 changes to "Power Remaining 00: 30: 00," and the clock starts to count down. This is
-                Cyborg's perspective.</sd>
+                <char>Cyborg</char>'s perspective.</stageDesc></sd>
 
             <sp><spkr ref="#Raven">Raven</spkr><sd>voice over o.c.</sd>What's wrong with him?
                     <sd>Static.</sd></sp>
@@ -168,17 +168,17 @@
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>voice over o.c.</sd>Is he gonna be
                 okay?</sp>
 
-            <sd>The view blacks out again and then gives way, as of an eye opening, to the four
-                concerned teammates. The poorly tuned, grainy quality remains for the moment.</sd>
+            <sd><directNote kind="black-screen">The view blacks out again</directNote> and <directNote>then gives way, as of an eye opening, to the four
+                concerned teammates</directNote>. <stageDesc category="display">The poorly tuned, grainy quality remains for the moment.</stageDesc></sd>
 
             <sp><spkr ref="#Robin">Robin</spkr>Shh. I think he's coming to.</sp>
 
-            <sd>Now the image jumps a bit and gradually refines itself, and the audio returns to
+            <sd><stageDesc category="display">Now the image jumps a bit and gradually refines itself</stageDesc>, and the audio returns to
                 normal.</sd>
 
-            <sp><spkr ref="#Robin">Robin</spkr>Cyborg! Are you all right?</sp>
+            <sp><spkr ref="#Robin">Robin</spkr><char>Cyborg</char>! Are you all right?</sp>
 
-            <sd>Pull back; Starfire and Robin help him up. His lights are back on.</sd>
+            <sd><directNote kind="pull">Pull back</directNote>; <char>Starfire</char> and <char>Robin</char> help him up. <charDesc ref="Cyborg">His lights are back on.</charDesc></sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Yeah.<sd>grunts</sd>Thanks.</sp>
 
@@ -186,12 +186,12 @@
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Something musta gone wrong with my systems.</sp>
 
-            <sd>He raises his forearm, and the camera cuts to a close-up of it as he brings up a
-                display panel. It shows a nearly-drained bar graph and the "Power Remaining"
-                timer.</sd>
+            <sd>He raises his forearm, and <directNote kind="cut">the camera cuts to <stageDesc category="close-up">a close-up of it</stageDesc> as he brings up a
+                display panel</directNote>. <stageDesc category="display">It shows a nearly-drained bar graph and the "Power Remaining"
+                timer.</stageDesc></sd>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>from o.c.</sd>Oh, man!<sd>Pull back to frame
-                    him.</sd>My power cell's dying.</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>from o.c.</sd>Oh, man!<sd><directNote kind="pull">Pull back to frame
+                    him.</directNote></sd>My power cell's dying.</sp>
 
             <sp><spkr ref="#Starfire">Starfire</spkr><sd>panicked</sd>Dying?!?</sp>
 
@@ -200,7 +200,7 @@
 
             <sp><spkr ref="#Robin">Robin</spkr>So what do we do?</sp>
 
-            <sd>Cyborg picks up the football and hands it to Robin.</sd>
+            <sd><char>Cyborg</char> picks up the football and hands it to <char>Robin</char>.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>You keep playing. I go home and change
                 batteries.</sp>
@@ -212,29 +212,29 @@
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Just 'cause I can't have fun doesn't mean y'all
                 can't.</sp>
 
-            <sd>Dissolve to a patch of sunny sky, seen from slightly above ground level, and tilt
-                down to the battery-powered Titan on the way back to home base. The temporary
+            <sd><directNote kind="dissolve">Dissolve to a patch of sunny sky, seen from slightly above ground level</directNote>, and <directNote kind="tilt">tilt
+                down to <charDesc ref="Cyborg">the battery-powered Titan</charDesc> on the way back to home base</directNote>. The temporary
                 shutdown is now weighing heavy on his mind.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>sighs</sd>Sure was a nice day.</sp>
 
-            <sp><spkr ref="#Boy1">Boy 1</spkr><sd>from o.c.</sd>Cyborg!</sp>
+            <sp><spkr ref="#Boy1">Boy 1</spkr><sd>from o.c.</sd><char>Cyborg</char>!</sp>
 
-            <sd>Surprised, Cyborg turns around to see who has called his name. Pull back to show the
-                speaker as a young fellow, perhaps ten years old, seen from behind. On the next
-                line, the camera shifts to show him in a baseball jersey, cap, and mitt.</sd>
+            <sd>Surprised, <char>Cyborg</char> turns around to see who has called his name. <directNote kind="pull">Pull back to show the
+                speaker as <charDesc ref="Boy 1">a young fellow, perhaps ten years old</charDesc>, seen from behind.</directNote> On the next
+                line, <directNote kind="shift">the camera shifts to show him in <charDesc ref="Boy 1">a baseball jersey, cap, and mitt</charDesc></directNote>.</sd>
 
-            <sp><spkr ref="#Boy1">Boy 1</spkr>Whoa, Cyborg! It's really you! You're my favorite
+            <sp><spkr ref="#Boy1">Boy 1</spkr>Whoa, <char>Cyborg</char>! It's really you! You're my favorite
                 'cause, look!</sp>
 
-            <sd>He pulls off the mitt to expose a prosthetic hand.</sd>
+            <sd><charDesc ref="Boy 1">He pulls off the mitt to expose a prosthetic hand.</charDesc></sd>
 
             <sp><spkr ref="#Boy1">Boy 1</spkr>You're just like me!</sp>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Um...yeah, I...I guess I am.</sp>
 
             <sd>Something starts beeping; an alarm from his systems, and he looks at his forearm.
-                Opening the display panel, he finds the words "Titan Alert" flashing on it.</sd>
+                Opening the display panel, <stageDesc category="display">he finds the words "Titan Alert" flashing on it</stageDesc>.</sd>
 
             <sp><spkr ref="#Boy1">Boy 1</spkr>Cool!</sp>
 
@@ -244,25 +244,25 @@
 
             <sp><spkr ref="#Boy1">Boy 1</spkr>Cool!</sp>
 
-            <sd>The panel now shows the power bar and timer again, now with a bit over thirteen
-                minutes to go. Cyborg closes it and sprints resolutely across the park. Dissolve to
-                a close-up of a nervous, gagged man whose eyebrows twitch in puzzlement. He emits
-                muffled yells as the camera pulls back a bit and turns upside down. Pull back
-                farther; he is strapped into a straitjacket and hanging by his ankles from the
-                ceiling of this place, a jewelry store. In the fore, loading the display cases'
-                contents into a bag, is a magician in full formal attire: tuxedo, white gloves, long
-                red cape, top hat, flower in lapel. Two odd features stand out; his blue skin and
-                the black mask over his eyes. He turns from the case and bows to the captive. This
-                is the Amazing Mumbo.</sd>
+            <sd><stageDesc category="display">The panel now shows the power bar and timer again, now with a bit over thirteen
+                minutes to go.</stageDesc> <char>Cyborg</char> closes it and sprints resolutely across the park. <directNote kind="dissolve">Dissolve to
+                <stageDesc category="close-up">a close-up of <charDesc ref="unknown">a nervous, gagged man whose eyebrows twitch in puzzlement</charDesc></stageDesc>.</directNote> He emits
+                muffled yells as <directNote kind="pull">the camera pulls back a bit</directNote> and turns upside down. <directNote kind="pull">Pull back
+                farther</directNote>; <charDesc ref="unknown">he is strapped into a straitjacket and hanging by his ankles from the
+                ceiling of this place, a jewelry store</charDesc>. In the fore, loading the display cases'
+                contents into a bag, is <charDesc ref="Mumbo">a magician in full formal attire: tuxedo, white gloves, long
+                red cape, top hat, flower in lapel</charDesc>. <charDesc ref="Mumbo">Two odd features stand out; his blue skin and
+                the black mask over his eyes.</charDesc> He turns from the case and bows to the captive. This
+                is <char>the Amazing Mumbo</char>.</sd>
 
             <sp><spkr ref="#Mumbo">Mumbo</spkr>Thanks so much. You've been a wonderful audience. Now
-                watch as the Amazing Mumbo vanishes into thin air!<sd>He produces a wand and twirls
+                watch as <char>the Amazing Mumbo</char> vanishes into thin air!<sd>He produces a wand and twirls
                     it.</sd>Mumbo Jumbo!</sp>
 
             <sd>Pointing the wand at the ground, he conjures up a burst of light and smoke that
-                fills the screen; when it clears, he is gone. Cut to the entrance to Tito's
-                Junkyard, where he races into view. His legs are pistoning so fast that they look
-                something like those of the Road Runner in top gear. Mumbo races through the piles
+                fills the screen; when it clears, he is gone. <directNote kind="cut">Cut to the entrance to Tito's
+                Junkyard, where he races into view.</directNote> His legs are pistoning so fast that they look
+                something like those of the Road Runner in top gear. <char>Mumbo</char> races through the piles
                 of discarded items, then skids to a stop and snaps his fingers. A large diamond,
                 part of his haul from the robbery, appears between them.</sd>
 
