@@ -234,7 +234,7 @@
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Um...yeah, I...I guess I am.</sp>
 
             <sd>Something starts beeping; an alarm from his systems, and he looks at his forearm.
-                Opening the display panel, <stageDesc category="display">he finds the words "Titan Alert" flashing on it</stageDesc>.</sd>
+                Opening the display panel, <stageDesc category="display">he finds the words "<char>Titan</char> Alert" flashing on it</stageDesc>.</sd>
 
             <sp><spkr ref="#Boy1">Boy 1</spkr>Cool!</sp>
 
@@ -269,37 +269,37 @@
             <sp><spkr ref="#Mumbo">Mumbo</spkr><sd>inspecting it with a loupe</sd>Not bad for a
                 matinee.</sp>
 
-            <sp><spkr ref="#Robin">Robin</spkr><sd>from o.c.</sd>Show's over, Mumbo!</sp>
+            <sp><spkr ref="#Robin">Robin</spkr><sd>from o.c.</sd><oneLine>Show's over, <char>Mumbo</char>!</oneLine></sp>
 
-            <sd>The villainous legerdemain artist gasps and looks back over his shoulder; pan
-                quickly to a ledge overlooking the junkyard. All the Titans save Cyborg are
+            <sd><charDesc ref="Mumbo">The villainous legerdemain artist</charDesc> gasps and looks back over his shoulder; <directNote kind="pan">pan
+                quickly to a ledge overlooking the junkyard</directNote>. All the <char>Titans</char> save <char>Cyborg</char> are
                 there.</sd>
 
-            <sp><spkr ref="#Robin">Robin</spkr>Now hand over the jewels before the critics decide to
-                trash your performance.</sp>
+            <sp><spkr ref="#Robin">Robin</spkr><oneLine>Now hand over the jewels before the critics decide to
+                trash your performance.</oneLine></sp>
 
-            <sp><spkr ref="#Mumbo">Mumbo</spkr>Now, Robin, I'm sure there's a peaceful solution
-                    here...<sd>He produces a lit bomb in each hand.</sd>...but this isn't it!</sp>
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>Now, <char>Robin</char>, <oneLine>I'm sure there's a peaceful solution
+                    here...<sd>He produces a lit bomb in each hand.</sd>...but this isn't it</oneLine>!</sp>
 
             <sd>He flings them at the four, who dive for cover to avoid the explosions. Laughing,
-                Mumbo plucks a flower from his lapel and tosses it at Robin; it goes off at his feet
-                and just misses him. The Boy Wonder lands at the edge of a trash pit, ready to go
-                again, but Cyborg's hand reaches up and pulls him in before he can do anything. The
-                black mask hangs briefly in the air before falling after him. Cut to inside; the big
-                fellow has something strapped to his back.</sd>
+                <char>Mumbo</char> plucks a flower from his lapel and tosses it at <char>Robin</char>; it goes off at his feet
+                and just misses him. <charDesc ref="Robin">The Boy Wonder</charDesc> lands at the edge of a trash pit, ready to go
+                again, but <char>Cyborg</char>'s hand reaches up and pulls him in before he can do anything. The
+                black mask hangs briefly in the air before falling after him. <directNote kind="cut">Cut to inside</directNote>; <charDesc ref="Cyborg">the big
+                fellow</charDesc> has something strapped to his back.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Who said you could start the party without me?</sp>
 
-            <sp><spkr ref="#Robin">Robin</spkr>Cyborg?! What about your power cell?</sp>
+            <sp><spkr ref="#Robin">Robin</spkr><char>Cyborg</char>?! What about your power cell?</sp>
 
-            <sd>Something explodes very close to them; cut to the cackling Mumbo, who now has a
-                handful of cherry bombs and is letting them fly in all directions. Starfire and
-                Raven have taken cover behind neighboring junk piles, and they return fire;
+            <sd>Something explodes very close to them; <directNote kind="cut">cut to the cackling <char>Mumbo</char>, who now has a
+                handful of cherry bombs and is letting them fly in all directions</directNote>. <char>Starfire</char> and
+                <char>Raven</char> have taken cover behind neighboring junk piles, and they return fire;
                 starbolts from the former, a few strategically levitated and aimed pieces of waste
-                from the latter. Mumbo dodges both girls' counterattacks and then jumps very high to
-                avoid Beast Boy's charge as a velociraptor.</sd>
+                from the latter. <char>Mumbo</char> dodges both girls' counterattacks and then jumps very high to
+                avoid <char>Beast Boy</char>'s charge as <transform class="reptile">a velociraptor</transform>.</sd>
 
-            <sd>Back to Robin and Cyborg in the pit.</sd>
+            <sd><directNote kind="cut">Back to <char>Robin</char> and <char>Cyborg</char> in the pit.</directNote></sd>
 
             <sp><spkr ref="#Robin">Robin</spkr>Go home. Get fixed. We can handle this without
                 you.</sp>
@@ -314,13 +314,13 @@
                 together.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>External battery pack.<sd>He brings out his sonic
-                    cannon.</sd>Teen Titans! Go!</sp>
+                    cannon.</sd><char>Teen Titans</char>! Go!</sp>
 
-            <sd>One giant leap carries him out of the pit. Close-up of Mumbo, with his hat off.</sd>
+            <sd>One giant leap carries him out of the pit. <stageDesc category="close-up">Close-up of <char>Mumbo</char>, with his hat off.</stageDesc></sd>
 
             <sp><spkr ref="#Mumbo">Mumbo</spkr>Huh?</sp>
 
-            <sd>Pull back; he has the hat in hand and is about to pull something out of it. A blast
+            <sd><directNote kind="pull">Pull back</directNote>; he has the hat in hand and is about to pull something out of it. A blast
                 from the cannon hurls him to the other end of the junkyard; he groans as a tin can
                 bounces off his head and the hat rolls to a stop nearby. Putting it on and standing
                 up, he tugs at his shirt sleeve and starts to pull a long rope of knotted-together
@@ -329,121 +329,121 @@
             <sp><spkr ref="#Mumbo">Mumbo</spkr>Nothing up my sleeve...<sd>getting to the end, he
                     whips the rope forth</sd>...and, presto!</sp>
 
-            <sd>Cyborg is dashing in, but the silks wrap themselves tightly around his body to
+            <sd><char>Cyborg</char> is dashing in, but the silks wrap themselves tightly around his body to
                 immobilize him.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>No!</sp>
 
-            <sd>He is spilled to the ground in an instant. A sound from o.c. draws Mumbo's attention
-                elsewhere; cut to the source, Robin, angling himself for a flying kick. Mumbo stands
+            <sd>He is spilled to the ground in an instant. A sound from o.c. draws <char>Mumbo</char>'s attention
+                elsewhere; <directNote kind="cut">cut to the source, <char>Robin</char>, angling himself for a flying kick</directNote>. <char>Mumbo</char> stands
                 near one end of a pipe that juts from the trash piles.</sd>
 
             <sp><spkr ref="#Mumbo">Mumbo</spkr>Need a hand?</sp>
 
             <sd>He reaches into the pipe, and his hand comes out the other end; an impossibly long
-                reach for any mere mortal-and grabs Robin's cape. The young man flails his arms and
-                legs, trying hopelessly to escape. Mumbo's other hand shoots out from several other
+                reach for any mere mortal-and grabs <char>Robin</char>'s cape. <charDesc ref="Robin">The young man</charDesc> flails his arms and
+                legs, trying hopelessly to escape. <char>Mumbo</char>'s other hand shoots out from several other
                 pipes and gives him a high-speed beating.</sd>
 
             <sp><spkr ref="#Raven">Raven</spkr>Azarath Metrion Zinthos!</sp>
 
-            <sd>She heaves a few large appliances at the prestidigitator, who has stopped thrashing
-                Robin. He just stands there and dispels her magic with a gesture; the junk remains
+            <sd>She heaves a few large appliances at <charDesc ref="Mumbo">the prestidigitator</charDesc>, who has stopped thrashing
+                <char>Robin</char>. He just stands there and dispels her magic with a gesture; the junk remains
                 suspended in midair for a moment and becomes a shower of rose petals at another wave
                 of the hand.</sd>
 
             <sp><spkr ref="#Mumbo">Mumbo</spkr>You think that's good? Watch me pull a rabbit out of
                 my hat!<sd>sweeps it off</sd>Hocus-pocus!</sp>
 
-            <sd>Out comes a wave of stuffed rabbits that covers Raven from head to toe. Mumbo puts
-                the hat back on and adjusts his gloves; now Beast Boy, as a bighorn sheep, thunders
+            <sd>Out comes a wave of stuffed rabbits that covers <char>Raven</char> from head to toe. <char>Mumbo</char> puts
+                the hat back on and adjusts his gloves; now <char>Beast Boy</char>, <transform class="mammal">as a bighorn sheep</transform>, thunders
                 straight at him.</sd>
 
             <sp><spkr ref="#Mumbo">Mumbo</spkr><sd>producing and spreading a deck of cards</sd>Pick
                 a card, every card!</sp>
 
             <sd>Half the deck is now in each hand, and he throws the pasteboards straight ahead at
-                the superhero. When they reach him, they have grown to many times normal size, large
+                <charDesc ref="Beast Boy">the superhero</charDesc>. When they reach him, they have grown to many times normal size, large
                 enough to sweep him off his feet.</sd>
 
             <sp><spkr ref="#Mumbo">Mumbo</spkr>For my next trick, I'll require a lovely
                 assistant.</sp>
 
             <sd>He whips a cane out of his cape on the end of this line and promptly reaches into
-                the air with its hooked end. Cut to Starfire in flight; she is caught around the
+                the air with its hooked end. <directNote kind="cut">Cut to <char>Starfire</char> in flight</directNote>; she is caught around the
                 waist and yanked down with a cry of surprise. A few wooden slats assemble themselves
                 into a floating box that encloses her entire body except for head and feet, which
                 protrude from the ends. The next thing to be brought out of the mad magician's cape
-                is a long handsaw, which he brandishes over her. Obviously, he is about to attempt
-                the old sawing-a-woman-in-half trick.</sd>
+                is a long handsaw, which he brandishes over her. <annot>Obviously, he is about to attempt
+                the old sawing-a-woman-in-half trick.</annot></sd>
 
-            <sp><spkr ref="#Mumbo">Mumbo</spkr><sd>as a big sweat drop slides down behind Starfire's
-                    head</sd>It's only fair to warn you...<sd>Cut to her; he continues o.c.</sd>
+            <sp><spkr ref="#Mumbo">Mumbo</spkr><sd>as a big sweat drop slides down behind <char>Starfire</char>'s
+                    head</sd>It's only fair to warn you...<sd><directNote kind="cut">Cut to her</directNote>; he continues o.c.</sd>
                 ...I have no idea what I'm doing.</sp>
 
-            <sd>Pull back. Cyborg shoots across the screen and nails him with a huge flying tackle,
+            <sd><directNote kind="pull">Pull back.</directNote> <char>Cyborg</char> shoots across the screen and nails him with a huge flying tackle,
                 and the two slide among the trash heaps, throwing up thick clouds of dust. They
-                clear to leave the four-hundred-pound Titan pinning the villain to the ground.</sd>
+                clear to leave <charDesc ref="Cyborg">the four-hundred-pound Titan</charDesc> pinning <charDesc ref="Mumbo">the villain</charDesc> to the ground.</sd>
 
-            <sp><spkr ref="#Mumbo">Mumbo</spkr>I hate fighting dirty. Shall we clean you up?</sp>
+            <sp><spkr ref="#Mumbo">Mumbo</spkr><oneLine>I hate fighting dirty. Shall we clean you up?</oneLine></sp>
 
-            <sd>A jet of water squirts from the flower in his lapel, hitting Cyborg with the force
+            <sd>A jet of water squirts from the flower in his lapel, hitting <char>Cyborg</char> with the force
                 of a fire hose and throwing him over the garbage mountains. He lands in a nearby
-                dump truck; cut to inside. The water has shorted out his jury-rigged power supply
-                and knocked it off his back. A red light starts to flash on his forearm; close-up of
-                the display panel, counting down from five seconds. Pull back as he tries to climb
-                out, then cut to the panel again. The timer reaches zero, and his systems shut down
+                dump truck; <directNote kind="cut">cut to inside</directNote>. The water has shorted out his jury-rigged power supply
+                and knocked it off his back. <stageDesc category="display">A red light starts to flash on his forearm</stageDesc>; <stageDesc category="close-up">close-up of
+                the display panel, counting down from five seconds</stageDesc>. <directNote kind="pull">Pull back as he tries to climb
+                out</directNote>, then <directNote kind="cut">cut to the panel again</directNote>. The timer reaches zero, and his systems shut down
                 as they did in the prologue. Frozen in place, he offers no resistance as the dump
                 truck's hydraulics kick into gear. The load of garbage is dumped out the back,
-                taking Cyborg and the car batteries with it, and falls into a Dumpster whose floor
+                taking <char>Cyborg</char> and the car batteries with it, and falls into a Dumpster whose floor
                 has rusted away. Beneath it is the entrance to an underground cavern; the refuse
                 tumbles away in the blackness.</sd>
 
-            <sd>Robin runs to the truck.</sd>
+            <sd><char>Robin</char> runs to the truck.</sd>
 
-            <sp><spkr ref="#Robin">Robin</spkr>Cyborg? Cyborg!</sp>
+            <sp><spkr ref="#Robin">Robin</spkr><char>Cyborg</char>? <char>Cyborg</char>!</sp>
 
-            <sd>It kicks into gear; Mumbo is at the wheel.</sd>
+            <sd>It kicks into gear; <char>Mumbo</char> is at the wheel.</sd>
 
             <sp><spkr ref="#Mumbo">Mumbo</spkr>Exit stage left.</sp>
 
-            <sd>He floors the accelerator and peels out. The other three Titans gather behind Robin;
-                Beast Boy is back in human form.</sd>
+            <sd>He floors the accelerator and peels out. The other three <char>Titans</char> gather behind <char>Robin</char>;
+                <char>Beast Boy</char> is back in <transform class="human">human form</transform>.</sd>
 
-            <sp><spkr ref="#Robin">Robin</spkr>Titans! He's got Cyborg!</sp>
+            <sp><spkr ref="#Robin">Robin</spkr><char>Titans</char>! He's got <char>Cyborg</char>!</sp>
 
-            <sd>They spread out to start a search. Dissolve to an overhead view of the Dumpster and
-                zoom in slowly, then dissolve to just inside the cavern and tilt down from the
-                entrance. The missing Titan lies immobile among the rest of the trash; around him in
+            <sd>They spread out to start a search. <directNote kind="dissolve">Dissolve to <stageDesc category="overhead-shot">an overhead view of the Dumpster</stageDesc></directNote> and
+                <directNote kind="zoom">zoom in slowly</directNote>, then <directNote kind="dissolve">dissolve to just inside the cavern</directNote> and <directNote kind="tilt">tilt down from the
+                entrance</directNote>. <charDesc ref="Cyborg">The missing Titan</charDesc> lies immobile among the rest of the trash; around him in
                 the gloom, several round red eyes light up. He is dragged slowly toward them, after
-                which they wink out. Fade to black.</sd>
+                which they wink out. <directNote kind="fade">Fade to black.</directNote></sd>
 
         </act>
         <act n="2">
             <title>Act Two</title>
-            <sd>The word "Online" is typed onto the black screen, then disappears to make way for
-                "Charging" in the same manner.</sd>
+            <sd><directNote kind="black-screen">The word "Online" is typed onto the black screen, then disappears to make way for
+                "Charging" in the same manner.</directNote></sd>
 
             <sp><spkr ref="#Computer1">Computer 1</spkr><sd>in time with the above</sd>Online.
                 Charging.</sp>
 
             <sd>A horizontal band of white light crosses the middle of the screen and widens to fill
-                the entire view. The brightness yields to a shot of a large circular chamber with
-                strong overhead lights; the camera is pointing up at the ceiling. Cyborg's hand
+                the entire view. <stageDesc category="overhead-shot">The brightness yields to a shot of a large circular chamber with
+                strong overhead lights</stageDesc>; <directNote>the camera is pointing up at the ceiling</directNote>. <char>Cyborg</char>'s hand
                 reaches into view in time with his weary groans; this is his perspective. His
-                systems are working again. A male voice begins to speak; very level, measured,
-                almost monotonic.</sd>
+                systems are working again. <charDesc ref="Fixit">A male voice begins to speak; very level, measured,
+                almost monotonic.</charDesc></sd>
 
             <sp><spkr ref="#Voice">Voice</spkr>You are operational.</sp>
 
-            <sd>The speaker moves into view and looks down at Cyborg. It is a tall android figure
+            <sd>The speaker moves into view and looks down at <char>Cyborg</char>. <charDesc ref="Fixit">It is a tall android figure
                 swathed in a long robe; all we can see for the moment is the head, which sports a
                 flat, angular face marked by two glowing blue slits for eyes. Instead of hair,
-                circuit pathways cover the scalp. This is Fixit.</sd>
+                circuit pathways cover the scalp. This is Fixit.</charDesc></sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr>That is good.</sp>
 
-            <sd>Pull back. Lying on a large table, Cyborg has several wires plugged into his chest.
+            <sd><directNote kind="pull">Pull back.</directNote> Lying on a large table, <char>Cyborg</char> has several wires plugged into his chest.
                 He groans.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>What's going--?</sp>
@@ -451,75 +451,75 @@
             <sp><spkr ref="#Fixit">Fixit</spkr>Rest, friend.<sd>walks o.c.</sd>Your new power cell
                 is not fully charged.</sp>
 
-            <sd>The Titan reaches overhead and pulls down one of the lights to aim it across the
-                chamber. Cut to a motley group of robots in another area; their eyes glow red,
-                marking them as the ones that towed him in here.</sd>
+            <sd><stageDesc category="overhead-shot"><charDesc ref="Cyborg">The Titan</charDesc> reaches overhead and pulls down one of the lights to aim it across the
+                chamber.</stageDesc> <directNote kind="cut">Cut to a motley group of robots in another area</directNote>; <charDesc ref="Robots">their eyes glow red,
+                marking them as the ones that towed him in here</charDesc>.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>from o.c.</sd>Who are you?</sp>
 
-            <sd>The light pans across many others on elevated benches.</sd>
+            <sd><directNote kind="pan">The light pans across many others on elevated benches.</directNote></sd>
 
-            <sp><spkr ref="#Fixit">Fixit</spkr><sd>from o.c.</sd>I am called Fixit.</sp>
+            <sp><spkr ref="#Fixit">Fixit</spkr><sd>from o.c.</sd>I am called <char>Fixit</char>.</sp>
 
-            <sd>Back to Cyborg.</sd>
+            <sd><directNote kind="cut">Back to Cyborg.</directNote></sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Whoa.</sp>
 
-            <sd>Cut to a darkened patch and pan the light across the spectators again.</sd>
+            <sd><directNote kind="cut">Cut to a darkened patch</directNote> and <directNote kind="pan">pan the light across the spectators again</directNote>.</sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr><sd>from o.c.</sd>You were broken. I have brought you
                 here to be repaired.</sp>
 
-            <sd>On the end of this, the light reaches the ceiling and tilts down to illuminate him.
+            <sd>On the end of this, the light reaches the ceiling and <directNote kind="tilt">tilts down to illuminate him</directNote>.
                 He crosses the chamber.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Where's "here"?</sp>
 
-            <sd>Fixit moves into view near the camera; his robe blacks out the screen. From here,
-                dissolve to a group of buildings in Jump City, seem from ground level. A plume of
-                smoke wafts into view, and the camera pans/tilts down to the source; it is the dump
-                truck Cyborg landed in, which has crashed into a building. The other four Titans
-                have caught up to it. Mumbo is nowhere in sight.</sd>
+            <sd><directNote kind="black-screen"><char>Fixit</char> moves into view near the camera; his robe blacks out the screen</directNote>. From here,
+                <directNote kind="dissolve">dissolve to a group of buildings in Jump City, seem from ground level</directNote>. A plume of
+                smoke wafts into view, and <directNote kind="pan">the camera pans</directNote>/<directNote kind="tilt">tilts down to the source</directNote>; it is the dump
+                truck <char>Cyborg</char> landed in, which has crashed into a building. The other four <char>Titans</char>
+                have caught up to it. <char>Mumbo</char> is nowhere in sight.</sd>
 
-            <sp><spkr ref="#Starfire">Starfire</spkr>Cyborg is not inside!</sp>
+            <sp><spkr ref="#Starfire">Starfire</spkr><char>Cyborg</char> is not inside!</sp>
 
             <sp><spkr ref="#Robin">Robin</spkr><sd>checks his tracking device</sd>And his locator
-                signal is being jammed.<sd>puts it away</sd>This doesn't make sense.<sd>Beast Boy
-                    turns o.c.</sd>Why would Mumbo want to kidnap Cyborg?</sp>
+                signal is being jammed.<sd>puts it away</sd>This doesn't make sense.<sd><char>Beast Boy</char>
+                    turns o.c.</sd>Why would <char>Mumbo</char> want to kidnap <char>Cyborg</char>?</sp>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>from o.c.</sd>Guys!</sp>
 
-            <sd>Close-up of the illusionist's discarded top hat on the ground.</sd>
+            <sd><stageDesc category="close-up">Close-up of <charDesc ref="Mumbo">the illusionist</charDesc>'s discarded top hat on the ground.</stageDesc></sd>
 
-            <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>picks up Mumbo's top hat</sd>Over here! I
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>picks up <char>Mumbo</char>'s top hat</sd>Over here! I
                 found something!</sp>
 
             <sd>peeks in</sd>
 
             <sp><spkr ref="#Robin">Robin</spkr>I wouldn't--</sp>
 
-            <sd>A huge flock of doves flies out of the hat. When they have gone, the four Titans are
-                covered with feathers, Beast Boy most of all.</sd>
+            <sd>A huge flock of doves flies out of the hat. When they have gone, the four <char>Titans</char> are
+                covered with feathers, <char>Beast Boy</char> most of all.</sd>
 
             <sp><spkr ref="#Raven">Raven</spkr>Way to go.</sp>
 
-            <sd>Snap to black, then fade in to a close-up of Cyborg's forearm. He opens the display
-                panel and finds the power bar completely lit and the message "Full Power 100%."</sd>
+            <sd><directNote kind="snap">Snap to black</directNote>, then <directNote kind="fade">fade in to <stageDesc category="close-up">a close-up of <char>Cyborg</char>'s forearm</stageDesc></directNote>. <stageDesc category="display">He opens the display
+                panel and finds the power bar completely lit and the message "Full Power 100%."</stageDesc></sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr><sd>from o.c.</sd>Charging is complete. The new power
                 cell is functioning properly.</sp>
 
-            <sd>Pull back; Cyborg is unplugged and sitting up. A couple of hovering robots complete
+            <sd><directNote kind="pull">Pull back; <char>Cyborg</char> is unplugged and sitting up.</directNote> A couple of hovering robots complete
                 a repair scan and float away.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Yeah.<sd>stretches</sd>I'm feeling better. Lots
                 better.</sp>
 
             <sp><spkr ref="#Fixit">Fixit</spkr>Of course you are.<sd>walking o.c.</sd>I am
-                Fixit.</sp>
+                <char>Fixit</char>.</sp>
 
-            <sd>Cut to ceiling level; mechanical junk of all types tumbles into the chamber from an
-                overhead chute. Tilt down to ground level as Fixit goes over to the pile.</sd>
+            <sd><directNote kind="cut">Cut to ceiling level</directNote>; <stageDesc category="overhead-shot">mechanical junk of all types tumbles into the chamber from an
+                overhead chute</stageDesc>. <directNote kind="tilt">Tilt down to ground level as <char>Fixit</char> goes over to the pile.</directNote></sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr>Things come to me broken. I make repairs.<sd>He picks
                     up two small parts.</sd>Let me see.<sd>They float out of his hands; he studies
@@ -527,18 +527,18 @@
                 The damage is too extensive.<sd>It floats; he takes up a fourth.</sd> Perhaps if we
                 can find another processor.</sp>
 
-            <sd>During the previous line, Cyborg gets off the table and watches Fixit for some
+            <sd>During the previous line, <char>Cyborg</char> gets off the table and watches <char>Fixit</char> for some
                 seconds. Finally, he waves and starts to leave.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Well, thanks...for everything.</sp>
 
-            <sd>Several of the red-eyed robots turn suddenly in his direction. The components Fixit
+            <sd>Several of the red-eyed robots turn suddenly in his direction. The components <char>Fixit</char>
                 had suspended in midair hit the ground, and he advances across the chamber with a
                 new note of urgency in his voice.</sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr>You cannot leave.</sp>
 
-            <sd>Cyborg, at the exit, stops and turns back.</sd>
+            <sd><char>Cyborg</char>, at the exit, stops and turns back.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>I can't?</sp>
 
@@ -560,51 +560,51 @@
 
             <sp><spkr ref="#Fixit">Fixit</spkr>Quite. Will you remain? It is for the best.</sp>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>Well, yeah, I guess.<sd>works his forearm
-                    controls</sd>Let me just tell my friends where I am.</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Well, yeah, I guess.<sd><stageDesc category="display">works his forearm
+                    controls</stageDesc></sd>Let me just tell my <charDesc ref="Titans">friends</charDesc> where I am.</sp>
 
-            <sd>His back turned to Fixit, he does not notice that the android's eyes have gone red.
-                What he does notice is that when the display panel for his built-in communicator
-                opens, it shows a badly garbled signal; jammed by the proprietor of the place.</sd>
+            <sd>His back turned to <char>Fixit</char>, he does not notice that <charDesc ref="Fixit">the android's eyes have gone red</charDesc>.
+                <stageDesc category="display">What he does notice is that when the display panel for his built-in communicator
+                opens, it shows a badly garbled signal; jammed by the proprietor of the place.</stageDesc></sd>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>Whoa!<sd>Fixit's eyes go blue again.</sd> Something
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Whoa!<sd><charDesc ref="Fixit"><char>Fixit</char>'s eyes go blue again.</charDesc></sd> Something
                 really is wrong with me.</sp>
 
             <sd>He shuts it off.</sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr><sd>gestures to the table</sd>Rest now. You may
-                contact your friends later.<sd>Cyborg climbs up.</sd>I am sure they are not too
+                contact your <charDesc ref="Titans">friends</charDesc> later.<sd><char>Cyborg</char> climbs up.</sd>I am sure they are not too
                 concerned.</sp>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>lying down</sd>Maybe they should be.</sp>
 
-            <sd>Cut to the other four Titans racing through the streets, then to a building front
-                that has been garishly decorated with rainbow-colored clouds and stars. No points
-                for guessing who did this bit of graffiti. Pan to a parked bus, which disappears in
-                a puff of smoke, then to the location where it materializes; a block or so down the
+            <sd><directNote kind="cut">Cut to the other four Titans racing through the streets</directNote>, then <directNote kind="cut">to a building front
+                that has been garishly decorated with rainbow-colored clouds and stars</directNote>. <annot>No points
+                for guessing who did this bit of graffiti.</annot> <directNote kind="pan">Pan to a parked bus</directNote>, which disappears in
+                a puff of smoke, <directNote kind="pan">then to the location where it materializes</directNote>; a block or so down the
                 road. The camera moves on to another corner, where a mailbox jumps into view under
                 its own power, spits out a live rabbit, and bounces away a bit before doing this
-                again. Pan to follow a young woman as she floats out from around this corner; ten
+                again. <directNote kind="pan">Pan to follow a young woman as she floats out from around this corner</directNote>; ten
                 feet or so off the ground, horizontal, headfirst, with three large hoops encircling
-                her body. The old "levitating woman" trick has received a new twist thanks to
-                Mumbo.</sd>
+                her body. <annot>The old "levitating woman" trick has received a new twist thanks to
+                <char>Mumbo</char>.</annot></sd>
 
-            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>I'll say this much for Mumbo; he's an easy act
-                to follow.</sp>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>I'll say this much for <char>Mumbo</char>; <oneLine>he's an easy act
+                to follow</oneLine>.</sp>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>Oh, I would commit myself to a life of
-                muck-shoveling in the filth mines of Cornex if Cyborg could only be returned
+                muck-shoveling in the filth mines of Cornex if <char>Cyborg</char> could only be returned
                 safely.</sp>
 
             <sp><spkr ref="#Raven">Raven</spkr>He was malfunctioning. He shouldn't have been
                 helping.</sp>
 
-            <sp><spkr ref="#Robin">Robin</spkr>I tried to stop him, but he's Cyborg.</sp>
+            <sp><spkr ref="#Robin">Robin</spkr>I tried to stop him, but he's <char>Cyborg</char>.</sp>
 
-            <sp><spkr ref="#Mumbo">Mumbo</spkr><sd>from o.c., distant</sd>Mumbo-jumbo!</sp>
+            <sp><spkr ref="#Mumbo">Mumbo</spkr><sd>from o.c., distant</sd><char>Mumbo</char>-jumbo!</sp>
 
-            <sd>The sound of a spell being cast is heard, and all four Titans run toward it. Cut to
-                an ATM at a street corner; it is spewing a mountain of cash onto the sidewalk. As
+            <sd>The sound of a spell being cast is heard, and all four <char>Titans</char> run toward it. <directNote kind="cut">Cut to
+                an ATM at a street corner</directNote>; it is spewing a mountain of cash onto the sidewalk. As
                 the heroes run up, the camera pans away from them a bit to show two other machines
                 exhibiting the same green diarrhea. Mumbo is at the last one, hammering away at its
                 keypad. He laughs, then cocks an eyebrow at the new arrival and sweeps his hat off;
