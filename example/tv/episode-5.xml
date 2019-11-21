@@ -578,8 +578,8 @@
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>lying down</sd>Maybe they should be.</sp>
 
-            <sd><directNote kind="cut">Cut to the other four Titans racing through the streets</directNote>, then <directNote kind="cut">to a building front
-                that has been garishly decorated with rainbow-colored clouds and stars</directNote>. <annot>No points
+            <sd><directNote kind="cut">Cut to the other four <char>Titans</char> racing through the streets</directNote>, then <directNote kind="cut">to <stageDesc category="setting">a building front
+                that has been garishly decorated with rainbow-colored clouds and stars</stageDesc></directNote>. <annot>No points
                 for guessing who did this bit of graffiti.</annot> <directNote kind="pan">Pan to a parked bus</directNote>, which disappears in
                 a puff of smoke, <directNote kind="pan">then to the location where it materializes</directNote>; a block or so down the
                 road. The camera moves on to another corner, where a mailbox jumps into view under
@@ -605,8 +605,8 @@
 
             <sd>The sound of a spell being cast is heard, and all four <char>Titans</char> run toward it. <directNote kind="cut">Cut to
                 an ATM at a street corner</directNote>; it is spewing a mountain of cash onto the sidewalk. As
-                the heroes run up, the camera pans away from them a bit to show two other machines
-                exhibiting the same green diarrhea. Mumbo is at the last one, hammering away at its
+                the heroes run up, <directNote kind="pan">the camera pans away from them a bit to show two other machines
+                exhibiting the same green diarrhea</directNote>. <char>Mumbo</char> is at the last one, hammering away at its
                 keypad. He laughs, then cocks an eyebrow at the new arrival and sweeps his hat off;
                 a replacement for the one he lost.</sd>
 
@@ -619,77 +619,77 @@
 
             <sd>He runs o.c.</sd>
 
-            <sp><spkr ref="#Robin">Robin</spkr>Titans! Get him!</sp>
+            <sp><spkr ref="#Robin">Robin</spkr><char>Titans</char>! Get him!</sp>
 
-            <sd>Cut to inside an alley. The magician runs along its course as Raven flies after
+            <sd><directNote kind="cut">Cut to inside an alley.</directNote> <charDesc ref="Mumbo">The magician</charDesc> runs along its course as <char>Raven</char> flies after
                 him.</sd>
 
             <sp><spkr ref="#Mumbo">Mumbo</spkr>Open, says me!</sp>
 
-            <sd>Cut to the wall at the alley's dead end. Responding to his command, the bricks
+            <sd><directNote kind="cut">Cut to the wall at the alley's dead end.</directNote> Responding to his command, the bricks
                 disappear, several at a time, to make an opening big enough for him to pass through.
-                They pop back into place just in time to stop Raven from following. Cut to Mumbo,
-                still running along. A loud lowing causes him to hit the brakes and yell in fear;
-                pull back as the source steps into view, Beast Boy as a large bull. He snorts
-                angrily and charges, and the camera cuts to his perspective as Mumbo pulls his cape
-                off and holds it in front of him. The garment is jerked away to reveal that a brick
-                wall has suddenly appeared behind it. Beast Boy rams this head on, and the camera
-                pulls back from the impact to show him lying dazed next to its remains. Mumbo steps
+                They pop back into place just in time to stop <char>Raven</char> from following. <directNote kind="cut">Cut to <char>Mumbo</char>,
+                still running along.</directNote> A loud lowing causes him to hit the brakes and yell in fear;
+                <directNote kind="pull">pull back as the source steps into view</directNote>, <char>Beast Boy</char> as <transform class="mammal">a large bull</transform>. He snorts
+                angrily and charges, and <directNote kind="cut">the camera cuts to his perspective as <char>Mumbo</char> pulls his cape
+                off and holds it in front of him</directNote>. The garment is jerked away to reveal that a brick
+                wall has suddenly appeared behind it. <char>Beast Boy</char> rams this head on, and <directNote kind="pull">the camera
+                pulls back from the impact to show him lying dazed next to its remains</directNote>. <char>Mumbo</char> steps
                 out from behind the masonry, his cape back on, and turns his hat into a sombrero
                 with a flick of the wrist.</sd>
 
             <sp><spkr ref="#Mumbo">Mumbo</spkr>Olé!</sp>
 
             <sd>He turns the headgear back to normal and runs off down the alley. However, he is not
-                alone for long; Starfire flies over the roof of an adjacent building and throws a
-                starbolt at him as she takes over the pursuit. Overhead view of him, with her shots
-                peppering the ground on either side. She pulls into view, and the camera cuts to
-                him; he conjures a bouquet in one hand.</sd>
+                alone for long; <char>Starfire</char> flies over the roof of an adjacent building and throws a
+                starbolt at him as she takes over the pursuit. <stageDesc category="overhead-shot">Overhead view of him, with her shots
+                peppering the ground on either side.</stageDesc> She pulls into view, and <directNote kind="cut">the camera cuts to
+                him</directNote>; he conjures a bouquet in one hand.</sd>
 
             <sp><spkr ref="#Mumbo">Mumbo</spkr>Flowers for the lady.</sp>
 
             <sd>He tosses the bunch up over his shoulder and they explode in her face. A few more
-                steps bring him to another dead end, where Robin drops into view to square off. His
+                steps bring him to another dead end, where <char>Robin</char> drops into view to square off. His
                 handy-dandy fighting staff is out and fully extended for a twirl in no time
                 flat.</sd>
 
             <sp><spkr ref="#Mumbo">Mumbo</spkr>Abracadabra!</sp>
 
-            <sd>A flash of light, and the metal shaft has turned into a cobra. Robin yells in
-                surprise and drops the venomous creature. Close-up of it on the ground as Mumbo's
-                shadow passes by and his laughter is heard, then cut to him running up a flight of
-                stairs to make his escape. All four Titans charge after him, Beast Boy back in human
-                form.</sd>
+            <sd>A flash of light, and <transform class="reptile">the metal shaft has turned into a cobra</transform>. <char>Robin</char> yells in
+                surprise and drops the venomous creature. <stageDesc category="close-up">Close-up of it on the ground as <char>Mumbo</char>'s
+                shadow passes by and his laughter is heard</stageDesc>, then <directNote kind="cut">cut to him running up a flight of
+                stairs to make his escape</directNote>. All four <char>Titans</char> charge after him, <char>Beast Boy</char> back in <transform class="human">human
+                form</transform>.</sd>
 
-            <sd>Close-up of Cyborg's full power gauge; pull back slightly. This is his
+            <sd><stageDesc category="close-up">Close-up of <char>Cyborg</char>'s full power gauge</stageDesc>; <directNote kind="pull">pull back slightly</directNote>. This is his
                 perspective.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>I don't get it. All my sensors say I'm fine.</sp>
 
-            <sd>He lowers his arm; Fixit approaches.</sd>
+            <sd>He lowers his arm; <char>Fixit</char> approaches.</sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr>Your sensors are incomplete. Mine are more
                 precise.</sp>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>Guess I'm just...<sd>Pull back; he lies on the
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Guess I'm just...<sd><directNote kind="pull">Pull back</directNote>; he lies on the
                     table; fully wired up.</sd>...getting kinda nervous. How long am I gonna be down
                 here, anyway?</sp>
 
-            <sd>Cut to a gathering of robots on the chamber floor. A small droid floats past
+            <sd><directNote kind="cut">Cut to a gathering of robots on the chamber floor.</directNote> A small droid floats past
                 them.</sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr><sd>from o.c.</sd>Repairs could take some time.
-                    <sd>Cut to him.</sd>Besides, why would you want to leave?<sd>The droid reaches
+                    <sd><directNote kind="cut">Cut to him.</directNote></sd>Besides, why would you want to leave?<sd>The droid reaches
                     him; he grasps it.</sd>Look around you.</sp>
 
-            <sd>A cable extends itself down from the ceiling, plugs into a port on Fixit's forehead,
+            <sd>A cable extends itself down from the ceiling, plugs into a port on <char>Fixit</char>'s forehead,
                 and begins to glow red.</sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr>Look at yourself.<sd>Another droid floats over.</sd>
                 You belong with us.</sp>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>No, I don't. I mean, you've got a nice place here
-                and you've been really cool to me, but...<sd>Back to Fixit; he continues o.c.</sd>
+                and you've been really cool to me, but...<sd><directNote kind="cut">Back to <char>Fixit</char></directNote>; he continues o.c.</sd>
                 ...I couldn't live down here. I don't know how you can.</sp>
 
             <sp><spkr ref="#Fixit">Fixit</spkr>What do you mean? The power supply is adequate.
@@ -702,39 +702,39 @@
                     disconnects.</sd>And when repairs are complete...<sd>walking o.c.</sd>
                 ...neither will you.</sp>
 
-            <sd>Cyborg gets himself vertical and unplugs the lines hooked into his body.</sd>
+            <sd><char>Cyborg</char> gets himself vertical and unplugs the lines hooked into his body.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>You know what? I'm feeling all right now. So thanks
                 anyway, but I'm just gonna go.</sp>
 
-            <sd>He walks away. Fixit turns from his work and puts even more urgency and command into
-                his voice than when the patient first tried to clear out.</sd>
+            <sd>He walks away. <char>Fixit</char> turns from his work and puts even more urgency and command into
+                his voice than when <charDesc ref="Cyborg">the patient</charDesc> first tried to clear out.</sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr>Stay.</sp>
 
-            <sd>His eyes go red. Cyborg suddenly finds a number of spectator robots blocking his
+            <sd><charDesc ref="Fixit">His eyes go red.</charDesc> <char>Cyborg</char> suddenly finds a number of spectator robots blocking his
                 path. He takes a step back and is surprised by a few small ones that jump onto his
                 shoulders and chest and grip firmly.</sd>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>Yo, what are you--?<sd>A flexible arm reaches into
-                    view and grabs his wrist.</sd>Hey!</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Yo, what are you--?<sd><charDesc ref="Robot">A flexible arm reaches into
+                    view and grabs his wrist.</charDesc></sd>Hey!</sp>
 
-            <sd>Cut to the source, another robot. It reaches out with its other arm.</sd>
+            <sd><directNote kind="cut">Cut to the source, another robot.</directNote> It reaches out with its other arm.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>from o.c.</sd>Let me go!</sp>
 
-            <sd>Back to him; the second arm clamps onto his other wrist. He struggles against the
-                contraptions' hold on him, but cannot break free. Pull back a distance; several
-                other members of Fixit's legions extend cattle prods from their upper surfaces and
-                electrify them. The current races along the two extended arms toward the captive,
-                and as he starts to scream, the camera cuts to Fixit's emotionless countenance and
-                pans to follow his gaze back to the table. It tilts until it is nearly vertical, and
-                Cyborg is carried into view and placed on it. He has been securely bound.</sd>
+            <sd><directNote kind="cut">Back to him</directNote>; the second arm clamps onto his other wrist. He struggles against the
+                contraptions' hold on him, but cannot break free. <directNote kind="pull">Pull back a distance</directNote>; several
+                other members of <char>Fixit</char>'s legions extend cattle prods from their upper surfaces and
+                electrify them. The current races along the two extended arms toward <charDesc ref="Cyborg">the captive</charDesc>,
+                and as he starts to scream, <directNote kind="cut">the camera cuts to <char>Fixit</char>'s emotionless countenance</directNote> and
+                <directNote kind="pan">pans to follow his gaze back to the table</directNote>. It tilts until it is nearly vertical, and
+                <char>Cyborg</char> is carried into view and placed on it. He has been securely bound.</sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr>Repairs are not yet complete.</sp>
 
-            <sd>The table swivels a bit to give the Titan a direct view of a large closed door. Zoom
-                in slowly.</sd>
+            <sd>The table swivels a bit to give <charDesc ref="Cyborg">the Titan</charDesc> a direct view of a large closed door. <directNote kind="zoom">Zoom
+                in slowly.</directNote></sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr><sd>from o.c.</sd>Your biological components are
                 imperfect and must be replaced.</sp>
@@ -742,44 +742,44 @@
             <sd>The door hisses open, releasing a cloud of vapor. Behind it is only blackness, but
                 after a second or two this yields to show, hanging on a support framework, an array
                 of secondhand robotic parts; enough to replace every remaining natural portion of
-                Cyborg's body. The face is missing its left eye, since he already has an implant on
-                that side. A small gasp is heard from the o.c intended recipient of this overhaul.
-                Cut to an extreme close-up of him.</sd>
+                <char>Cyborg</char>'s body. <annot>The face is missing its left eye, since he already has an implant on
+                that side.</annot> A small gasp is heard from the o.c intended recipient of this overhaul.
+                <directNote kind="cut">Cut to <stageDesc category="close-up">an extreme close-up of him</stageDesc>.</directNote></sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>horrified</sd>No.</sp>
 
-            <sd>Dissolve to a close-up of the robotic face. Everything except the glowing red right
-                eye fades to black; it does the same a moment later.</sd>
+            <sd><directNote kind="dissolve">Dissolve to <stageDesc category="close-up">a close-up of the robotic face</stageDesc>.</directNote> <directNote kind="fade">Everything except the glowing red right
+                eye fades to black</directNote>; <directNote kind="fade">it does the same a moment later</directNote>.</sd>
 
         </act>
         <act n="3">
             <title>Act Three</title>
-            <sd>The screen remains black as the following line is spoken and the words are typed
-                up.</sd>
+            <sd><directNote kind="black-screen">The screen remains black as the following line is spoken and the words are typed
+                up.</directNote></sd>
 
-            <sp><spkr ref="#Computer2">Computer 2</spkr>Biological components removed. Repairs
-                complete.</sp>
+            <sp><spkr ref="#Computer2">Computer 2</spkr><stageDesc category="display">Biological components removed. Repairs
+                complete.</stageDesc></sp>
 
-            <sp><spkr ref="#Fixit">Fixit</spkr><sd>voice over</sd>Awaken, friend. Awaken and see
-                your new face.</sp>
+            <sp><spkr ref="#Fixit">Fixit</spkr><sd>voice over</sd>Awaken, <charDesc ref="Cyborg">friend</charDesc>. Awaken and <charDesc ref="Cyborg">see
+                your new face</charDesc>.</sp>
 
-            <sd>The view flickers and gives way to a shot of Cyborg, seen from behind and looking in
-                a mirror. Every last scrap of organic tissue has been switched out for the
-                artificial parts that had hung on the rack. He rubs a hand down the side of his
-                face, then raises it in a fist with a growl of rage. Close-up of the reflection; the
-                fist comes down and shatters the glass. Behind it is blackness, with a point of
+            <sd><directNote kind="fade">The view flickers and gives way to a shot of <char>Cyborg</char>, seen from behind and looking in
+                a mirror.</directNote> <charDesc ref="Cyborg">Every last scrap of organic tissue has been switched out for the
+                artificial parts that had hung on the rack.</charDesc> He rubs a hand down the side of his
+                face, then raises it in a fist with a growl of rage. <stageDesc category="close-up">Close-up of the reflection; the
+                fist comes down and shatters the glass.</stageDesc> <directNote kind="black-screen">Behind it is blackness, with a point of
                 light shining in the distance and shooting rays toward the camera. Cyborg is sucked
-                into view toward this; it starts to grow, filling the screen.</sd>
+                into view toward this; it starts to grow, filling the screen.</directNote></sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>NOOOOOOOOO!!</sp>
 
-            <sd>A flash of white, and we see him on Fixit's examining table; back to normal, wired
+            <sd>A flash of white, and we see him on <char>Fixit</char>'s examining table; back to normal, wired
                 up, and now held to the table with thick steel bands. He yells in pure fear as his
                 eyes snap open; the previous scene was a nightmare.</sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr><sd>from o.c.</sd>Do not be afraid.</sp>
 
-            <sd>Cut to him by the table. His eyes have assumed their normal blue color.</sd>
+            <sd><directNote kind="cut">Cut to him by the table.</directNote> <charDesc ref="Fixit">His eyes have assumed their normal blue color.</charDesc></sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr>You were dreaming.<sd>walking o.c.</sd>Sleep will not
                 be necessary once repairs are complete.</sp>
@@ -787,7 +787,7 @@
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>struggling</sd>What if I don't want to be
                 repaired? What if I like me this way?</sp>
 
-            <sd>Fixit goes to the rack of parts.</sd>
+            <sd><char>Fixit</char> goes to the rack of parts.</sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr>Such thoughts come from your imperfect biological
                 components.</sp>
@@ -799,40 +799,40 @@
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Not if I can help it.</sp>
 
-            <sd>Cut to a rooftop. Mumbo leaps into view and bounds from building to building.
-                Starfire flies after him, then Raven, and Beast Boy brings up the rear as a
-                kangaroo. The crazed magician makes one impossible jump after another as the three
-                Titans struggle to keep up. Pull back to an overhead view; Robin gets into the
-                action, hoofing it along the rooftops of higher buildings. After a few more blocks,
-                Mumbo stops dead and whirls to face them, bringing his wand to the ready.</sd>
+            <sd><directNote kind="cut">Cut to a rooftop.</directNote> <char>Mumbo</char> leaps into view and bounds from building to building.
+                <char>Starfire</char> flies after him, then <char>Raven</char>, and <char>Beast Boy</char> brings up the rear as <transform class="mammal">a
+                kangaroo</transform>. <charDesc ref="Mumbo">The crazed magician</charDesc> makes one impossible jump after another as the three
+                <char>Titans</char> struggle to keep up. <directNote kind="pull">Pull back to an overhead view</directNote>; <stageDesc category="overhead-shot"><char>Robin</char> gets into the
+                action, hoofing it along the rooftops of higher buildings</stageDesc>. After a few more blocks,
+                <char>Mumbo</char> stops dead and whirls to face them, bringing his wand to the ready.</sd>
 
             <sp><spkr ref="#Mumbo">Mumbo</spkr>Abracadabra!</sp>
 
-            <sd>He waves the wand; cut to the two flyers and the hopper as they scatter to avoid the
-                hexes.</sd>
+            <sd>He waves the wand; <directNote kind="cut">cut to <charDesc ref="Raven Starfire">the two flyers</charDesc> and <charDesc ref="Beast Boy">the hopper</charDesc> as they scatter to avoid the
+                hexes</directNote>.</sd>
 
             <sp><spkr ref="#Mumbo">Mumbo</spkr><sd>from o.c.</sd>Alakazam! Hocus-pocus!</sp>
 
-            <sd>Back to him. He laughs madly, the top of his head flapping clear of his neck after
-                the style of the Canadian characters on South Park.</sd>
+            <sd><directNote kind="cut">Back to him.</directNote> He laughs madly, <annot>the top of his head flapping clear of his neck after
+                the style of the Canadian characters on South Park</annot>.</sd>
 
-            <sp><spkr ref="#Mumbo">Mumbo</spkr>You'll never stop the Amazing Mumbo! Never! Ne--</sp>
+            <sp><spkr ref="#Mumbo">Mumbo</spkr>You'll never stop <char>the Amazing Mumbo</char>! Never! Ne--</sp>
 
-            <sd>Close-up of his wand hand on the end of this line. Something black and green whips
-                past and carries the prop with it. Pull back; Mumbo is caught completely off
-                guard.</sd>
+            <sd><stageDesc category="close-up">Close-up of his wand hand on the end of this line.</stageDesc> <charDesc ref="Robin">Something black and green</charDesc> whips
+                past and carries the prop with it. <directNote kind="pull">Pull back; <char>Mumbo</char> is caught completely off
+                guard.</directNote></sd>
 
             <sp><spkr ref="#Mumbo">Mumbo</spkr>Huh?</sp>
 
-            <sd>Cut to Robin, holding aloft the wand he swiped; he breaks it in half. Mumbo screams
+            <sd><directNote kind="cut">Cut to <char>Robin</char>, holding aloft the wand he swiped</directNote>; he breaks it in half. <char>Mumbo</char> screams
                 as bags of money, all the loot from his crime spree, go flying out of his pockets.
                 He then cries a waterfall while his top hat shrinks and disappears; finally, he
-                collapses o.c. Pull back to reveal that he is now an ordinary-looking old fellow, on
-                his knees among the vast amounts of cash. Starfire, Raven, and Beast Boy touch down
-                behind him, and Robin's shadow falls across him from the front. He is dragged up by
+                collapses o.c. <directNote>Pull back to reveal that <charDesc ref="Mumbo">he is now an ordinary-looking old fellow</charDesc>, on
+                his knees among the vast amounts of cash.</directNote> <char>Starfire</char>, <char>Raven</char>, and <char>Beast Boy</char> touch down
+                behind him, and <char>Robin</char>'s shadow falls across him from the front. He is dragged up by
                 his shirt front for a little face-to-face talk.</sd>
 
-            <sp><spkr ref="#Robin">Robin</spkr>No more tricks! Where, is, Cyborg?</sp>
+            <sp><spkr ref="#Robin">Robin</spkr>No more tricks! Where, is, <char>Cyborg</char>?</sp>
 
             <sp><spkr ref="#Mumbo">Mumbo</spkr>How should I know?</sp>
 
@@ -840,7 +840,7 @@
 
             <sp><spkr ref="#Raven">Raven</spkr>You took him from the junkyard!</sp>
 
-            <sd>Pull back to frame everyone; Beast Boy is in human form.</sd>
+            <sd><directNote kind="pull">Pull back to frame everyone</directNote>; <char>Beast Boy</char> is in <transform class="human">human form</transform>.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>What have you done with him?</sp>
 
@@ -848,9 +848,9 @@
                 all my spells. Even if I had done something, it'd be over now. Poof! He'd be
                 standing right here.</sp>
 
-            <sd>Robin drops him.</sd>
+            <sd><char>Robin</char> drops him.</sd>
 
-            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>If Cy's not with him, then he's still back
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>If <charDesc ref="Cyborg">Cy</charDesc>'s not with him, then he's still back
                 at--</sp>
 
             <sp><spkr ref="#Robin, Beast Boy, Raven and Starfire">Robin, Beast Boy, Raven and
@@ -859,13 +859,13 @@
             <sp><spkr ref="#Mumbo">Mumbo</spkr><sd>smiling nervously</sd>So, do I still have to go
                 to jail?</sp>
 
-            <sd>He gets a very nasty look from the four Titans and his face falls. A big drop of
+            <sd>He gets a very nasty look from the four <char>Titans</char> and his face falls. A big drop of
                 sweat slides down his temple.</sd>
 
             <sp><spkr ref="#Mumbo">Mumbo</spkr>I thought so.</sp>
 
-            <sd>Cut to Cyborg, now straining mightily against the steel bands that hold him to the
-                table. Zoom in past him to Fixit, who continues his spot repairs on the new parts.
+            <sd><directNote kind="cut">Cut to <char>Cyborg</char>, now straining mightily against the steel bands that hold him to the
+                table.</directNote> <directNote kind="zoom">Zoom in past him to <char>Fixit</char>, who continues his spot repairs on the new parts.</directNote>
                 He stops after a moment.</sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr>I am ready. We will begin now.</sp>
@@ -873,9 +873,9 @@
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Perfect timing.</sp>
 
             <sd>A mighty surge of muscle power breaks him loose. Unplugging himself, he slides off
-                the table and makes a run for it. Fixit's eyes go red as he beams a command; cut to
-                just outside the exit door, which closes in response. Cyborg gasps an instant before
-                it seals itself, blacking out the screen; snap to him inside.</sd>
+                the table and makes a run for it. <charDesc ref="Fixit"><char>Fixit</char>'s eyes go red as he beams a command</charDesc>; <directNote kind="cut">cut to
+                just outside the exit door, which closes in response</directNote>. <char>Cyborg</char> gasps an instant before
+                it seals itself, <directNote kind="black-screen">blacking out the screen</directNote>; <directNote kind="snap">snap to him inside</directNote>.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>I didn't want to have to do this, but...</sp>
 
@@ -884,166 +884,166 @@
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Huh?</sp>
 
-            <sd>Fixit's eyes are blue again.</sd>
+            <sd><charDesc ref="Fixit"><char>Fixit</char>'s eyes are blue again.</charDesc></sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr><sd>advances toward the camera</sd>Your defensive
                 systems have been disabled for the procedure. They will be reactivated when repairs
                 are complete.</sp>
 
-            <sd>Snarling, Cyborg runs at him, but a red-eye flash sends several metal tentacles
-                snaking down from the ceiling. They ensnare him just before he can tackle Fixit; he
-                hauls fiercely at them and is able to reach one hand forward. Close-up of it, within
-                inches of the hermit's robe. The fingers close on the fabric and pull it away, and
-                the camera backs up to ground level and tilts up to give a good view of what is
-                within. There is a jumble of internal organs heavily interwoven with cables and
-                switches, even a small, fully jointed robotic arm. Fixit, then, is not a true
+            <sd>Snarling, <char>Cyborg</char> runs at him, but <charDesc ref="Fixit">a red-eye flash sends several metal tentacles
+                snaking down from the ceiling</charDesc>. They ensnare him just before he can tackle <char>Fixit</char>; he
+                hauls fiercely at them and is able to reach one hand forward. <stageDesc category="close-up">Close-up of it, within
+                inches of the hermit's robe.</stageDesc> The fingers close on the fabric and pull it away, and
+                <directNote kind="tilt">the camera backs up to ground level and tilts up to give a good view of what is
+                within</directNote>. <charDesc ref="Fixit">There is a jumble of internal organs heavily interwoven with cables and
+                switches, even a small, fully jointed robotic arm. <char>Fixit</char>, then, is not a true
                 android, but rather a mix of mechanical and organic parts just like the Titan he is
-                trying to "repair."</sd>
+                trying to "repair."</charDesc></sd>
 
-            <sd>Cyborg sucks in a long, shocked gasp, but Fixit shows no trace of anger at having
+            <sd><char>Cyborg</char> sucks in a long, shocked gasp, but <char>Fixit</char> shows no trace of anger at having
                 had his innards exposed to full view.</sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr>The biological malfunctions are growing worse.
                     <sd>closes his robe</sd>We must begin at once.</sp>
 
-            <sd>He moves o.c. Cut to the floor of the underground cavern; a circle of it is
-                illuminated by the sunlight spilling in from above. The car batteries Cyborg had
-                wired up to power himself lie in a jumble here. Robin drops into view and looks them
-                over carefully; the other three Titans are gathered at the edge of the hole that
+            <sd>He moves o.c. <directNote kind="cut">Cut to the floor of the underground cavern</directNote>; a circle of it is
+                illuminated by the sunlight spilling in from above. The car batteries <char>Cyborg</char> had
+                wired up to power himself lie in a jumble here. <char>Robin</char> drops into view and looks them
+                over carefully; the other three <char>Titans</char> are gathered at the edge of the hole that
                 leads in.</sd>
 
             <sp><spkr ref="#Robin">Robin</spkr>His battery pack. He must have fallen down here.
-                    <sd>Beast Boy jumps down as well.</sd>Star! Can you give us some light?</sp>
+                    <sd><char>Beast Boy</char> jumps down as well.</sd><charDesc ref="Starfire">Star</charDesc>! Can you give us some light?</sp>
 
-            <sd>Pull back; now all four Titans are underground. One of Starfire's hands begins to
+            <sd><directNote kind="pull">Pull back</directNote>; now all four <char>Titans</char> are underground. One of <char>Starfire</char>'s hands begins to
                 glow, and she holds it up to substitute for a torch. They advance into the
                 gloom.</sd>
 
-            <sp><spkr ref="#Robin">Robin</spkr>Cyborg!</sp>
+            <sp><spkr ref="#Robin">Robin</spkr><char>Cyborg</char>!</sp>
 
-            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Cy!</sp>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr><charDesc ref="Cyborg">Cy</charDesc>!</sp>
 
-            <sp><spkr ref="#Starfire">Starfire</spkr>Cyborg?</sp>
+            <sp><spkr ref="#Starfire">Starfire</spkr><char>Cyborg</char>?</sp>
 
-            <sp><spkr ref="#Robin">Robin</spkr>Cyborg!</sp>
+            <sp><spkr ref="#Robin">Robin</spkr><char>Cyborg</char>!</sp>
 
-            <sd>After they have passed o.c., leaving the screen blacked out, snap to a long shot of
-                the chamber. Cyborg has again been secured to the table, and Fixit has bent to his
+            <sd>After they have passed o.c., <directNote kind="black-screen">leaving the screen blacked out</directNote>, <directNote kind="snap">snap to <stageDesc category="long-shot">a long shot of
+                the chamber</stageDesc></directNote>. <char>Cyborg</char> has again been secured to the table, and <char>Fixit</char> has bent to his
                 work. Sparks fly from the welding in progress, to the sound of weak moaning.
-                Close-up of one hand, which twitches convulsively, then of Fixit's expressionless
-                face. The sparks' glare plays over his flat features.</sd>
+                <stageDesc category="close-up">Close-up of one hand, which twitches convulsively, then of <char>Fixit</char>'s expressionless
+                face.</stageDesc> The sparks' glare plays over his flat features.</sd>
 
-            <sd>Snap to black, the lightless exterior part of the cavern. The other four teammates
-                advance into view, but stop at the sound of machinery moving o.c. Robin gasps in
-                surprise; pull back to frame the source, one after another of Fixit's robots,
-                blocking the forward path and cutting off retreat. Beast Boy cranes his neck for a
+            <sd><directNote kind="snap">Snap to black, the lightless exterior part of the cavern.</directNote> <charDesc ref="Titans">The other four teammates</charDesc>
+                advance into view, but stop at the sound of machinery moving o.c. <char>Robin</char> gasps in
+                surprise; <directNote kind="pull">pull back to frame the source, one after another of <char>Fixit</char>'s robots,
+                blocking the forward path and cutting off retreat</directNote>. <char>Beast Boy</char> cranes his neck for a
                 look at the biggest of the lot.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Wow...<sd>He chuckles nervously.</sd>Uh, any
-                of you guys seen a dude about this tall with one red eye and titanium body
-                armor?</sp>
+                of you guys seen <charDesc ref="Cyborg">a dude about this tall with one red eye and titanium body
+                armor</charDesc>?</sp>
 
-            <sd>He reaches up to indicate the height on "this tall," then turns his left eye red and
-                adopts an approximate likeness of Cyborg in time with the other two features he
-                names. The robots' only response is to step forward in readiness for battle. Robin
-                backs up a step of his own; Beast Boy has assumed his normal appearance.</sd>
+            <sd><stageDesc category="gag">He reaches up to indicate the height on "this tall," then turns his left eye red and
+                adopts an approximate likeness of <char>Cyborg</char> in time with the other two features he
+                names.</stageDesc> The robots' only response is to step forward in readiness for battle. <char>Robin</char>
+                backs up a step of his own; <char>Beast Boy</char> has assumed his normal appearance.</sd>
 
-            <sp><spkr ref="#Robin">Robin</spkr>Teen Titans! Go!</sp>
+            <sp><spkr ref="#Robin">Robin</spkr><char>Teen Titans</char>! Go!</sp>
 
-            <sd>Starfire stays put while the other three spread out. She throws a string of
+            <sd><char>Starfire</char> stays put while the other three spread out. She throws a string of
                 starbolts at the robot advancing toward her and blows it apart with the last one.
-                Robin punches another to send sparks flying, then smashes it to junk with a high
-                kick. A third is forcing Beast Boy back into the inky shadows, so that his eyes are
+                <char>Robin</char> punches another to send sparks flying, then smashes it to junk with a high
+                kick. A third is forcing <char>Beast Boy</char> back into the inky shadows, so that his eyes are
                 all that can be seen of him. We hear a low growl from that corner, and the lights
-                come up to show that he has transformed into a huge gorilla and caught the
+                come up to show that he has transformed into <transform class="mammal">a huge gorilla</transform> and caught the
                 mechanical aggressor in a crushing grip. He tears it apart and sets out to find
                 others.</sd>
 
-            <sd>Raven raises her arm to cast a spell as the lights go out entirely on her. Two black
-                slashes of energy cross the screen; fade in to show the biggest robot of the lot,
-                with two glowing incisions crossing its upper body. The thing shorts out, slides
-                apart along the fault lines Raven has opened, and explodes.</sd>
+            <sd><char>Raven</char> raises her arm to cast a spell as the lights go out entirely on her. Two black
+                slashes of energy cross the screen; <directNote kind="fade">fade in to show the biggest robot of the lot,
+                with two glowing incisions crossing its upper body</directNote>. The thing shorts out, slides
+                apart along the fault lines <char>Raven</char> has opened, and explodes.</sd>
 
-            <sd>Close-up of Fixit's tray of tools. One floats up, then another; pull back to frame
-                him, still hard at work. The two devices hover nearby within easy reach, and he
-                takes one of them in hand after a moment. A piece of Cyborg's armor plating clatters
-                to the floor. Now Fixit takes the robotic face off the rack; cut to a close-up of
-                the madly struggling Titan as the shadow of his single-minded repairman falls over
-                him, then to his perspective.</sd>
+            <sd><stageDesc category="close-up">Close-up of <char>Fixit</char>'s tray of tools.</stageDesc> One floats up, then another; <directNote kind="pull">pull back to frame
+                him, still hard at work</directNote>. The two devices hover nearby within easy reach, and he
+                takes one of them in hand after a moment. A piece of <char>Cyborg</char>'s armor plating clatters
+                to the floor. Now <char>Fixit</char> takes the robotic face off the rack; <directNote kind="cut">cut to <stageDesc category="close-up">a close-up of
+                <charDesc ref="Cyborg">the madly struggling Titan</charDesc></stageDesc> as the shadow of <charDesc ref="Fixit">his single-minded repairman</charDesc> falls over
+                him</directNote>, then to his perspective.</sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr>Do not resist. It is for the best.</sp>
 
-            <sd>He lowers the face toward the camera. Cut to Cyborg.</sd>
+            <sd><stageDesc category="lower">He lowers the face toward the camera.</stageDesc> <directNote kind="cut">Cut to <char>Cyborg</char>.</directNote></sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>No, it isn't! If you take out my biological
                 components...</sp>
 
             <sd>The face is set in place; his next three lines sound as if they are coming through a
-                speaker set in it. Extreme close-up of the right eye behind the red glass.</sd>
+                speaker set in it. <stageDesc category="close-up">Extreme close-up of the right eye behind the red glass.</stageDesc></sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>...you take out the best part of me! The part that
                 makes me who I am!</sp>
 
             <sp><spkr ref="#Fixit">Fixit</spkr>Your memories, your "self", will be preserved.
-                    <sd>His eyes go red; close-up of them.</sd>I will download them into your new
+                    <sd><stageDesc category="close-up">His eyes go red; close-up of them.</stageDesc></sd>I will download them into your new
                 brain.</sp>
 
-            <sd>The port on his forehead opens to allow a cable to extend outward. It plugs itself
-                into Cyborg's new face, right between the eyes.</sd>
+            <sd><charDesc ref="Fixit">The port on his forehead opens to allow a cable to extend outward.</charDesc> It plugs itself
+                into <char>Cyborg</char>'s new face, right between the eyes.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>No...you can't do this, please! You don't
                 understand!</sp>
 
-            <sd>Extreme close-up of the right eye, squeezed tightly shut. It opens as the camera
-                zooms in through the pupil.</sd>
+            <sd><stageDesc category="close-up">Extreme close-up of the right eye, squeezed tightly shut.</stageDesc> <directNote kind="zoom">It opens as the camera
+                zooms in through the pupil.</directNote></sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>NOOOOOOOOO!!</sp>
 
-            <sd>The screen flickers briefly and begins to show scenes from the prologue and Act One,
-                dissolving from one to the next; Fixit is copying memories to his own system. Pan
-                across the park...Cyborg, Robin, Starfire at the picnic table...Starfire hugging the
-                mustard jar...Cyborg and Robin staring at her in disbelief...gathering for the
-                football game...Raven asking what happened to him when he conked out (mirror image
-                from original scene)...the start of the game's first play...Robin backing up for a
-                pass...Beast Boy counting down to tackle...the ball sailing through the air...Cyborg
-                going long for the catch...the other four Titans, waiting to see if he will come
-                around from the shutdown...Starfire and Robin helping him up...the boy with the
-                artificial hand running up to say hello...the catcher's mitt being removed to expose
-                the prosthesis...then a flash of white, and we are back in the chamber. Fixit cries
-                out and stumbles away from Cyborg, the connecting cable retreating into his
+            <sd><directNote kind="dissolve">The screen flickers briefly and begins to show scenes from the prologue and Act One,
+                dissolving from one to the next</directNote>; <char>Fixit</char> is copying memories to his own system. <directNote kind="pan">Pan
+                across the park...<char>Cyborg</char>, <char>Robin</char>, <char>Starfire</char> at the picnic table...<char>Starfire</char> hugging the
+                mustard jar...<char>Cyborg</char> and <char>Robin</char> staring at her in disbelief...gathering for the
+                football game...<char>Raven</char> asking what happened to him when he conked out (mirror image
+                from original scene)...the start of the game's first play...<char>Robin</char> backing up for a
+                pass...<char>Beast Boy</char> counting down to tackle...the ball sailing through the air...<char>Cyborg</char>
+                going long for the catch...the other four <char>Titans</char>, waiting to see if he will come
+                around from the shutdown...<char>Starfire</char> and <char>Robin</char> helping him up...<charDesc ref="Boy 1">the boy with the
+                artificial hand</charDesc> running up to say hello...the catcher's mitt being removed to expose
+                the prosthesis...then a flash of white, and we are back in the chamber.</directNote> <char>Fixit</char> cries
+                out and stumbles away from <char>Cyborg</char>, the connecting cable retreating into his
                 forehead. He crashes to the ground.</sd>
 
-            <sd>In the outer portion of the cavern, the shots Starfire is holding in check light up
-                the area again. She, Raven, and Beast Boy, the last back in human form, have found
+            <sd>In the outer portion of the cavern, the shots <char>Starfire</char> is holding in check light up
+                the area again. She, <char>Raven</char>, and <char>Beast Boy</char>, the last back in <transform class="human">human form</transform>, have found
                 themselves staring at a great many robots who have been knocked out by their
-                combined efforts. Pan to Robin, who is trying to catch his breath; he starts in
-                surprise at the sound of o.c. machinery. Cut to the source, another squadron
-                struggling to move forward, then to him as he backs up into the other three. The
-                units totter toward them and then go dead-incapacitated by the shock to Fixit's
+                combined efforts. <directNote kind="pan">Pan to <char>Robin</char>, who is trying to catch his breath</directNote>; he starts in
+                surprise at the sound of o.c. machinery. <directNote kind="cut">Cut to the source, another squadron
+                struggling to move forward</directNote>, then <directNote kind="cut">to him as he backs up into the other three</directNote>. The
+                units totter toward them and then go dead-incapacitated by the shock to <char>Fixit</char>'s
                 system.</sd>
 
             <sp><spkr ref="#Robin">Robin</spkr>Huh?</sp>
 
-            <sd>The floor of the chamber. The face that was to have replaced Cyborg's drops next to
-                the table, whose steel restraints have all been broken, and the real McCoy climbs
-                off and kneels groaning next to it. Robin reaches into view and puts a hand on his
+            <sd>The floor of the chamber. The face that was to have replaced <char>Cyborg</char>'s drops next to
+                the table, whose steel restraints have all been broken, and <charDesc ref="Cyborg">the real McCoy</charDesc> climbs
+                off and kneels groaning next to it. <char>Robin</char> reaches into view and puts a hand on his
                 shoulder.</sd>
 
-            <sp><spkr ref="#Robin">Robin</spkr><sd>from o.c.</sd>Cyborg!<sd>Pull back to frame
-                    both.</sd>Are you okay?</sp>
+            <sp><spkr ref="#Robin">Robin</spkr><sd>from o.c.</sd><char>Cyborg</char>!<sd><directNote kind="pull">Pull back to frame
+                    both.</directNote></sd>Are you okay?</sp>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Yeah.</sp>
 
-            <sd>They straighten up. Pull back; the other three Titans are in the chamber as
-                well.</sd>
+            <sd>They straighten up. <directNote kind="pull">Pull back; the other three <char>Titans</char> are in the chamber as
+                well.</directNote></sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr><sd>from o.c., wistfully</sd>So...beautiful.</sp>
 
-            <sd>Cut to just behind Cyborg and zoom in slowly over his shoulder. Fixit is kneeling by
+            <sd><directNote kind="cut">Cut to just behind <char>Cyborg</char></directNote> and <directNote kind="zoom">zoom in slowly over his shoulder</directNote>. <char>Fixit</char> is kneeling by
                 the rack of parts.</sd>
 
             <sp><spkr ref="#Fixit">Fixit</spkr>I had forgotten how beautiful. The world...
-                    <sd>Cyborg walks up.</sd>...through your eyes.</sp>
+                    <sd><char>Cyborg</char> walks up.</sd>...through your eyes.</sp>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Through human eyes. The same kind you have.</sp>
 
@@ -1052,35 +1052,35 @@
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>And maybe I'm the guy who can help repair you.</sp>
 
-            <sd>He holds out a hand, and the fellow mechanical half-breed smiles and takes hold,
+            <sd>He holds out a hand, and <charDesc ref="Fixit">the fellow mechanical half-breed</charDesc> smiles and takes hold,
                 allowing himself to be helped to his feet.</sd>
 
-            <sd>Dissolve to a patch of clear sky and tilt down to the park. Once again, people are
-                enjoying the fine weather in their own way. Cut to a long shot of the Titans, save
-                Cyborg, gathered around a picnic basket set out on a blanket. The fifth member of
+            <sd><directNote kind="dissolve">Dissolve to a patch of clear sky</directNote> and <directNote kind="tilt">tilt down to the park</directNote>. Once again, people are
+                enjoying the fine weather in their own way. <directNote kind="cut">Cut to <stageDesc category="long-shot">a long shot of the <char>Titans</char></stageDesc>, save
+                <char>Cyborg</char>, gathered around a picnic basket set out on a blanket.</directNote> The fifth member of
                 the team walks into view, carrying the football, but is stopped by a familiar
                 voice.</sd>
 
-            <sp><spkr ref="#Boy1">Boy 1</spkr><sd>from o.c.</sd>Cyborg! Hey, Cyborg!</sp>
+            <sp><spkr ref="#Boy1">Boy 1</spkr><sd>from o.c.</sd><char>Cyborg</char>! Hey, <char>Cyborg</char>!</sp>
 
-            <sd>Cut to him; he runs up, with his mitten gone and prosthesis fully exposed, and he
+            <sd><directNote kind="cut">Cut to him</directNote>; he runs up, <charDesc ref="Boy 1">with his mitten gone and prosthesis fully exposed</charDesc>, and he
                 has a friend with him.</sd>
 
-            <sp><spkr ref="#Boy1">Boy 1</spkr><sd>to his friend</sd>See? It's Cyborg. He's just like
+            <sp><spkr ref="#Boy1">Boy 1</spkr><sd>to his friend</sd>See? It's <char>Cyborg</char>. He's just like
                 me!</sp>
 
             <sp><spkr ref="#Boy2">Boy 2</spkr>Whoa, cool!</sp>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>I am just like you. But it's not your arm that
-                makes us the same.<sd>Cut to the two; he points at the first boy's heart and
-                    continues o.c.</sd>It's the stuff connected to it.</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>I am just like you. <oneLine>But it's not your arm that
+                makes us the same.<sd><directNote kind="cut">Cut to the two; he points at the first boy's heart and
+                    continues o.c.</directNote></sd>It's the stuff connected to it.</oneLine></sp>
 
-            <sd>Both beam at this; pull back to frame him.</sd>
+            <sd>Both beam at this; <directNote kind="pull">pull back to frame him</directNote>.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Now, go deep!</sp>
 
-            <sd>They do so, laughing, and he lets the pigskin fly. Tilt up and pan to follow its
-                spiraling flight across the park, then fade to black.</sd>
+            <sd>They do so, laughing, and he lets the pigskin fly. <directNote kind="tilt">Tilt up</directNote> and <directNote kind="pan">pan to follow its
+                spiraling flight across the park</directNote>, then <directNote kind="fade">fade to black</directNote>.</sd>
         </act>
     </body>
 </root>
