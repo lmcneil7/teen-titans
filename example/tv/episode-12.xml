@@ -585,13 +585,13 @@
         </act>
         <act n="3">
             <title>Act Three</title>
-            <sd>Opening shot: the wake of the speedboat. It pulls away from the camera and races
-                down the sewer tunnel, unleashing a burst of laser shots at the other four Titans.
-                Cyborg returns fire with his cannon, then is whisked off by Starfire; one shot from
-                the boat sends Beast Boy tumbling for a moment. He rights himself and falls in
-                behind Raven. Now that cannon is blazing steadily away, and it puts both of the
+            <sd><stageDesc category="open-shot">Opening shot: the wake of the speedboat.</stageDesc> It pulls away from the camera and races
+                down the sewer tunnel, unleashing a burst of laser shots at the other four <char>Titans</char>.
+                <char>Cyborg</char> returns fire with his cannon, then is whisked off by <char>Starfire</char>; one shot from
+                the boat sends <char>Beast Boy</char> tumbling for a moment. He rights himself and falls in
+                behind <char>Raven</char>. Now that cannon is blazing steadily away, and it puts both of the
                 speedboat's guns out of action in short order. The commando at the helm opens up the
-                throttle and zooms ahead, but Starfire gradually pulls even to hold Cyborg over the
+                throttle and zooms ahead, but <char>Starfire</char> gradually pulls even to hold <char>Cyborg</char> over the
                 deck.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Thanks for the lift!</sp>
@@ -602,25 +602,25 @@
 
             <sp><spkr ref="#Computer">Computer</spkr>Auto pilot engaged.</sp>
 
-            <sd>These words appear. Cyborg's hand clamps onto the robot's shoulder; it looks that
-                way at he camera pans to the grinning Titan. Pull back; as the others fly after the
-                watercraft, a punch lands and the driver is flung over the stern. On the deck, the
-                wheel is turning itself under the control of the automatic pilot program; Cyborg
-                seizes it and tries to steer manually, but only succeeds in tearing it out. Starfire
+            <sd>These words appear. <char>Cyborg</char>'s hand clamps onto the robot's shoulder; <directNote kind="pan">it looks that
+                way at he camera pans to <charDesc ref="Cyborg">the grinning Titan</charDesc></directNote>. <directNote kind="pull">Pull back; as the others fly after the
+                watercraft, a punch lands and the driver is flung over the stern.</directNote> On the deck, the
+                wheel is turning itself under the control of the automatic pilot program; <char>Cyborg</char>
+                seizes it and tries to steer manually, but only succeeds in tearing it out. <char>Starfire</char>
                 lands on the deck as he stares popeyed at it. Now he hammers several buttons.</sd>
 
             <sp><spkr ref="#Computer">Computer</spkr>Invalid code.</sp>
 
-            <sd>The display changes to show these two words. The speedboat begins to swerve back and
-                forth, giving the two yelling Titans quite a ride.</sd>
+            <sd><stageDesc category="display">The display changes to show these two words.</stageDesc> The speedboat begins to swerve back and
+                forth, giving the two yelling <char>Titans</char> quite a ride.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>
-                <sd>under Cyborg's yells</sd>How does one halt this vehicle?</sp>
+                <sd>under <char>Cyborg</char>'s yells</sd>How does one halt this vehicle?</sp>
 
             <sd>His idea: by seizing the computer panel and ripping it out entirely. The speedboat
-                emerges into a large open chamber and comes to a stop. Starfire smiles placidly as
-                Cyborg regards the ruined hardware, and Raven and Beast Boy land on the deck. The
-                green falcon returns to human form.</sd>
+                emerges into a large open chamber and comes to a stop. <char>Starfire</char> smiles placidly as
+                <char>Cyborg</char> regards the ruined hardware, and <char>Raven</char> and <char>Beast Boy</char> land on the deck. <charDesc ref="Beast Boy">The
+                green falcon</charDesc> returns to <transform class="human">human form</transform>.</sd>
 
             <sp><spkr ref="#Raven">Raven</spkr>Please tell me that's not how you're planning to stop
                 the detonator.</sp>
@@ -635,44 +635,44 @@
 
             <sd>He throws the panel overboard and crosses the deck to the detonator. Kneeling next
                 it, he reaches toward the surface and is surprised when the housing telescopes
-                upward as it did in Slade's message. He falls backward with a grunt; pan to frame
-                the entire device, then cut to a close-up of its red lights and tilt down slowly to
-                the central area. Cyborg looks as if he has just realized how far he is in over his
+                upward as it did in <char>Slade</char>'s message. He falls backward with a grunt; <directNote kind="pan">pan to frame
+                the entire device</directNote>, then <directNote kind="cut">cut to <stageDesc category="close-up">a close-up of its red lights</stageDesc></directNote> and <directNote kind="tilt">tilt down slowly to
+                the central area</directNote>. <char>Cyborg</char> looks as if he has just realized how far he is in over his
                 head.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Ooh.</sp>
 
-            <sp><spkr ref="#Raven">Raven</spkr>Whatever we're gonna do, we should do it before Slade
+            <sp><spkr ref="#Raven">Raven</spkr>Whatever we're gonna do, we should do it before <char>Slade</char>
                 decides to trigger this thing.</sp>
 
-            <sd>Cut to a set of overhead gears in Slade's lair and tilt down to the ground. The
-                transmitter sits near the camera. Robin tumbles into view at a distance, gets
-                himself upright, and runs toward it. A huge leap carries him closer, but Slade hits
+            <sd><directNote kind="cut">Cut to <stageDesc category="overhead-shot">a set of overhead gears</stageDesc> in <char>Slade</char>'s lair</directNote> and <directNote kind="tilt">tilt down to the ground</directNote>. The
+                transmitter sits near the camera. <char>Robin</char> tumbles into view at a distance, gets
+                himself upright, and runs toward it. A huge leap carries him closer, but <char>Slade</char> hits
                 him broadside with a flying kick. The two land facing each other.</sd>
 
-            <sp><spkr ref="#Slade">Slade</spkr>Come now, Robin. You'll have to do better than that.
+            <sp><spkr ref="#Slade">Slade</spkr>Come now, <char>Robin</char>. You'll have to do better than that.
                 I haven't even broken a sweat.</sp>
 
             <sd>He rushes, leaps, and does a midair backflip leading into a roundhouse kick that
-                sends Robin reeling. The melee moves across the floor, with each landing blows in
-                turn, and Slade plants another steel boot across Robin's chest. Snarling in rage,
-                the Titan gets his head clear, and the two spar again until Slade catches Robin's
+                sends <char>Robin</char> reeling. The melee moves across the floor, with each landing blows in
+                turn, and <char>Slade</char> plants another steel boot across <char>Robin</char>'s chest. Snarling in rage,
+                <charDesc ref="Robin">the Titan</charDesc> gets his head clear, and the two spar again until <char>Slade</char> catches <char>Robin</char>'s
                 fist.</sd>
 
             <sp><spkr ref="#Slade">Slade</spkr>Good technique.</sp>
 
             <sd>He bends the arm sharply at the elbow; we hear bones grinding against each other as
-                Robin yells in pain. The hold turns into a throw that sends the hero skidding across
-                the floor to slam into a wall. As he gets woozily to his feet, seen from ground
-                level, Slade's foot steps into view near the camera.</sd>
+                <char>Robin</char> yells in pain. The hold turns into a throw that sends the hero skidding across
+                the floor to slam into a wall. As he gets woozily to his feet, <stageDesc category="lower">seen from ground
+                level, <char>Slade</char>'s foot steps into view near the camera</stageDesc>.</sd>
 
             <sp><spkr ref="#Slade">Slade</spkr>
-                <sd>from o.c.</sd>Good,<sd>Cut to him.</sd>but not perfect.</sp>
+                <sd>from o.c.</sd>Good,<sd><directNote kind="cut">Cut to him.</directNote></sd>but not perfect.</sp>
 
-            <sd>His head clear again, another yell of pure fury in his throat, Robin charges across
+            <sd>His head clear again, another yell of pure fury in his throat, <char>Robin</char> charges across
                 the floor. He launches himself into the air, but one of those steel-gloved fists
-                whistles out and hits home in the breadbasket. Close-up of Robin's stunned
-                countenance, then of Slade's quietly cruel one, then pull back to frame both. The
+                whistles out and hits home in the breadbasket. <stageDesc category="close-up">Close-up of <char>Robin</char>'s stunned
+                countenance</stageDesc>, then <stageDesc category="close-up">of <char>Slade</char>'s quietly cruel one</stageDesc>, then pull back to frame both. The
                 young man hangs in the air for a moment, supported by the fist that has just stopped
                 him cold, and then slowly collapses. Extreme close-up of Slade's eye; he chuckles to
                 himself.</sd>
