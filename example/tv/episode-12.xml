@@ -672,24 +672,24 @@
             <sd>His head clear again, another yell of pure fury in his throat, <char>Robin</char> charges across
                 the floor. He launches himself into the air, but one of those steel-gloved fists
                 whistles out and hits home in the breadbasket. <stageDesc category="close-up">Close-up of <char>Robin</char>'s stunned
-                countenance</stageDesc>, then <stageDesc category="close-up">of <char>Slade</char>'s quietly cruel one</stageDesc>, then pull back to frame both. The
+                countenance</stageDesc>, then <stageDesc category="close-up">of <char>Slade</char>'s quietly cruel one</stageDesc>, then <directNote kind="pull">pull back to frame both</directNote>. The
                 young man hangs in the air for a moment, supported by the fist that has just stopped
-                him cold, and then slowly collapses. Extreme close-up of Slade's eye; he chuckles to
-                himself.</sd>
+                him cold, and then slowly collapses. <stageDesc category="close-up">Extreme close-up of <char>Slade</char>'s eye; he chuckles to
+                himself.</stageDesc></sd>
 
-            <sd>Cut to a close-up of the detonator core. A small square panel is at the heart of it,
-                held in place by a screw at each corner. These are pulled out via Raven's
-                telekinesis, and Cyborg reaches into view to remove the panel; this is his
+            <sd><directNote kind="cut">Cut to <stageDesc category="close-up">a close-up of the detonator core</stageDesc>.</directNote> A small square panel is at the heart of it,
+                held in place by a screw at each corner. These are pulled out via <char>Raven</char>'s
+                telekinesis, and <char>Cyborg</char> reaches into view to remove the panel; this is his
                 perspective. Behind it is a rotating, glowing red sphere. The next three lines are
                 spoken in whispers.</sd>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>The chromium core.<sd>Cut to him and the
-                    others.</sd>Very unstable. No sudden moves.</sp>
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>The chromium core.<sd><directNote kind="cut">Cut to him and the
+                    others.</directNote></sd>Very unstable. No sudden moves.</sp>
 
-            <sd>He holds up the panel; Beast Boy quickly turns into an octopus, takes it from him,
-                and sets it aside gingerly. As Cyborg reaches toward the machinery, Starfire gets
+            <sd>He holds up the panel; <char>Beast Boy</char> quickly turns into <transform class="mollusca">an octopus</transform>, takes it from him,
+                and sets it aside gingerly. As <char>Cyborg</char> reaches toward the machinery, <char>Starfire</char> gets
                 ready to sneeze, her allergy exacerbated by being this close to that much chromium,
-                and throws everyone into a panic. Raven creates a shield around the Tamaranean's
+                and throws everyone into a panic. <char>Raven</char> creates a shield around <charDesc ref="Starfire">the Tamaranean</charDesc>'s
                 head to contain the force of the coming blast; it holds, but just barely, and her
                 hair is blown wildly out of place. She sniffles after the shield is taken down.</sd>
 
@@ -697,46 +697,46 @@
                 <sd>congested</sd>Please continue.</sp>
 
             <sd>She shakes her hair back into place and grins widely with an embarrassed little
-                giggle. Cut to Cyborg's perspective; he holds up his forearm, which now shows a
-                panel with a circuit diagram of the device. Three lights come on underneath it. Back
-                to the group; Beast Boy resumes human form.</sd>
+                giggle. <directNote kind="cut">Cut to <char>Cyborg</char>'s perspective</directNote>; he holds up his forearm, <stageDesc category="display">which now shows a
+                panel with a circuit diagram of the device</stageDesc>. Three lights come on underneath it. <directNote kind="cut">Back
+                to the group</directNote>; <char>Beast Boy</char> resumes <transform class="human">human form</transform>.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Okay.<sd>extends an acetylene torch from his
                     forefinger</sd>Now all we have to do is decouple the--</sp>
 
             <sd>His perspective on the end of this; he uses the torch to sever one of the cables
-                running to the core. It begins to beep and rotate very quickly. Back to the
-                group.</sd>
+                running to the core. It begins to beep and rotate very quickly. <directNote kind="cut">Back to the
+                group.</directNote></sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Well, that doesn't sound good.</sp>
 
-            <sd>A flash, and we are back in Slade's lair. Robin tumbles across the floor and stays
-                down for a few seconds, pounding his fist against the tiles with a loud groan. Slade
-                steps into view near him; tilt up from feet to head.</sd>
+            <sd>A flash, and we are back in <char>Slade</char>'s lair. <char>Robin</char> tumbles across the floor and stays
+                down for a few seconds, pounding his fist against the tiles with a loud groan. <char>Slade</char>
+                steps into view near him; <directNote kind="tilt">tilt up from feet to head</directNote>.</sd>
 
-            <sp><spkr ref="#Slade">Slade</spkr>I understand your frustration, Robin. You hate losing
-                as much as I do.<sd>Long shot, panning slowly across the place.</sd>One of the many
+            <sp><spkr ref="#Slade">Slade</spkr>I understand your frustration, <char>Robin</char>. You hate losing
+                as much as I do.<sd><stageDesc category="long-shot">Long shot, panning slowly across the place.</stageDesc></sd>One of the many
                 qualities we have in common.</sp>
 
-            <sd>Close-up of Robin. Once again, his sorest spot has been poked too hard, and he comes
-                up into an uppercut that lifts Slade clear off his feet. Two more punches send the
-                armored criminal genius to the floor, but he lands in a crouch and runs off. Giving
-                him no quarter, Robin lands a string of savage blows to drop him flat on his back.
-                Close-up of the transmitter; the Boy Wonder steps into view nearby and picks it
-                up.</sd>
+            <sd><stageDesc category="close-up">Close-up of <char>Robin</char>.</stageDesc> Once again, his sorest spot has been poked too hard, and he comes
+                up into an uppercut that lifts <char>Slade</char> clear off his feet. Two more punches send <charDesc ref="Slade">the
+                armored criminal genius</charDesc> to the floor, but he lands in a crouch and runs off. Giving
+                him no quarter, <char>Robin</char> lands a string of savage blows to drop him flat on his back.
+                <stageDesc category="close-up">Close-up of the transmitter; <charDesc ref="Robin">the Boy Wonder</charDesc> steps into view nearby and picks it
+                up.</stageDesc></sd>
 
-            <sp><spkr ref="#Robin">Robin</spkr>It's over, Slade!</sp>
+            <sp><spkr ref="#Robin">Robin</spkr>It's over, <char>Slade</char>!</sp>
 
             <sp><spkr ref="#Slade">Slade</spkr>
-                <sd>from o.c.</sd>On the contrary, Robin.</sp>
+                <sd>from o.c.</sd>On the contrary, <char>Robin</char>.</sp>
 
             <sd>The thing starts to spark.</sd>
 
             <sp><spkr ref="#Robin">Robin</spkr>Huh?</sp>
 
             <sd>It breaks apart in his hand with a small crackle of electricity. He stares down in
-                total confusion; cut to Slade, stepping out from a dark recess among the
-                machinery.</sd>
+                total confusion; <directNote kind="cut">cut to <char>Slade</char>, stepping out from a dark recess among the
+                machinery</directNote>.</sd>
 
             <sp><spkr ref="#Slade">Slade</spkr>This is only the beginning.</sp>
 
@@ -745,9 +745,9 @@
             <sp><spkr ref="#Slade">Slade</spkr>Trigger? There is no trigger, because there is no
                 detonator.</sp>
 
-            <sd>Robin's eyes widen even more. Cut to the detonator core, still beeping and spinning
-                like mad. Beast Boy's teeth are chattering a mile a minute as the two girls stare
-                over Cyborg's shoulders.</sd>
+            <sd><char>Robin</char>'s eyes widen even more. <directNote kind="cut">Cut to the detonator core, still beeping and spinning
+                like mad.</directNote> <char>Beast Boy</char>'s teeth are chattering a mile a minute as the two girls stare
+                over <char>Cyborg</char>'s shoulders.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
                 <sd>whispers</sd>Moment of truth, y'all.<sd>holds up his finger torch</sd> Everybody
@@ -756,21 +756,21 @@
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>I can't watch!</sp>
 
             <sd>He covers his eyes, but parts his fingers to give one of them a clear field of
-                vision. Cyborg rakes his flame across a couple of other cables to cut them, and the
+                vision. <char>Cyborg</char> rakes his flame across a couple of other cables to cut them, and the
                 core stops its activity entirely. The red glow fades to leave the sphere looking
-                like an ordinary metal ball. Beast Boy, Cyborg, and Raven sigh loudly and visibly
-                with relief as Starfire smiles; the moment is short-lived, though, as a loud, urgent
+                like an ordinary metal ball. <char>Beast Boy</char>, <char>Cyborg</char>, and <char>Raven</char> sigh loudly and visibly
+                with relief as <char>Starfire</char> smiles; the moment is short-lived, though, as a loud, urgent
                 alarm goes off and elicits gasps and wide-eyed stares from all four. The core starts
                 to spin and glow again, and red light spreads from it along the cables that have not
                 been broken. Now the alarm slows down a bit as the red lights on the detonator's
-                housing start to pulsate, and the topmost section retracts slightly. Beast Boy
+                housing start to pulsate, and the topmost section retracts slightly. <char>Beast Boy</char>
                 screams shrilly.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>We blew it! We'll be frozen in time
                 forever!</sp>
 
             <sd>The alarm gives way to a steady drone, and the whole device shorts out and crumbles
-                into a pile of junk. Beast Boy is ready to have a fit, but stops when the rig falls
+                into a pile of junk. <char>Beast Boy</char> is ready to have a fit, but stops when the rig falls
                 silent.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Um...why are we not frozen in time
@@ -780,14 +780,14 @@
                 fake!</sp>
 
             <sd>Behind them, at the prow, a weapon pops out and sweeps back and forth, strafing all
-                four Titans and knocking them overboard. One by one, their heads break the surface;
-                no apparent damage from the assault. Beast Boy shakes off the water with a cry of
+                four <char>Titans</char> and knocking them overboard. One by one, their heads break the surface;
+                no apparent damage from the assault. <char>Beast Boy</char> shakes off the water with a cry of
                 revulsion.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>So aside from the nasty taste of sewer water
                 in my mouth, I think I'm okay.</sp>
 
-            <sd>Cyborg checks his forearm panel.</sd>
+            <sd><char>Cyborg</char> checks his forearm panel.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Diagnostic sensors say I'm just fine.</sp>
 
@@ -798,15 +798,15 @@
 
             <sp><spkr ref="#Starfire">Starfire</spkr>Then...we are victorious?</sp>
 
-            <sd>Her image starts to rotate, zooms in, and then goes into a series of dissolves.
-                First, we see the tissues within her body, then a closer view of these, then
+            <sd><directNote>Her image starts to rotate</directNote>, <directNote kind="zoom">zooms in</directNote>, and <directNote kind="dissolve">then goes into a series of dissolves</directNote>.
+                First, we see the tissues within her body, <stageDesc category="close-up">then a closer view of these</stageDesc>, then
                 individual blood cells moving in an artery. The next transition shows tiny metal
-                spheres, marked with Slade's S, attaching themselves to these cells, deposited by
-                the beam that hit the Titans. One final dissolve shows a row of four monitors, each
-                marked with the name of one of these four Titans, showing a picture of the blood
-                vessels and a readout of vital signs. Every cell is carrying a device along with it.
-                Tilt down slightly as Slade steps into view; we are back in his lair, and these are
-                his monitors.</sd>
+                spheres, marked with <char>Slade</char>'s S, attaching themselves to these cells, deposited by
+                the beam that hit the <char>Titans</char>. <directNote kind="dissolve">One final dissolve shows a row of four monitors, each
+                marked with the name of one of these four <char>Titans</char>, showing a picture of the blood
+                vessels and a readout of vital signs.</directNote> Every cell is carrying a device along with it.
+                <directNote kind="tilt">Tilt down slightly as <char>Slade</char> steps into view; we are back in his lair, and these are
+                his monitors.</directNote></sd>
 
             <sp><spkr ref="#Slade">Slade</spkr>Nanoscopic probes. The Chronoton Detonator was merely
                 the bait for a much larger trap.</sp>
@@ -816,93 +816,93 @@
 
             <sp><spkr ref="#Slade">Slade</spkr>You see, with the push of a button...</sp>
 
-            <sd>Close-up of it, his thumb poised above, and pan slightly to show Robin glaring at
-                it.</sd>
+            <sd><stageDesc category="close-up">Close-up of it</stageDesc>, his thumb poised above, and <directNote kind="pan">pan slightly to show <char>Robin</char> glaring at
+                it</directNote>.</sd>
 
             <sp><spkr ref="#Slade">Slade</spkr>
-                <sd>from o.c.</sd>...my probes will destroy your friends from the inside out.</sp>
+                <sd>from o.c.</sd>...my probes will destroy <charDesc ref="Titans">your friends</charDesc> from the inside out.</sp>
 
             <sp><spkr ref="#Robin">Robin</spkr>You can't control them. No matter what you threaten,
                 they'll never obey you.</sp>
 
-            <sd>Back to Slade; he paces around Robin.</sd>
+            <sd>Back to <char>Slade</char>; he paces around <char>Robin</char>.</sd>
 
-            <sp><spkr ref="#Slade">Slade</spkr>This isn't about your friends, Robin. It's about you.
+            <sp><spkr ref="#Slade">Slade</spkr>This isn't about <charDesc ref="Titans">your friends</charDesc>, <char>Robin</char>. It's about you.
                 It's always been about you.</sp>
 
             <sp><spkr ref="#Robin">Robin</spkr>What?</sp>
 
             <sp><spkr ref="#Slade">Slade</spkr>Sending trouble your way. Leaving cryptic clues for
                 you to unravel. I was testing you. For some time now, I have been searching for an
-                apprentice. Someone to follow in my footsteps.<sd>leans into Robin's face</sd>And,
-                Robin, I've chosen you. Congratulations.</sp>
+                apprentice. Someone to follow in my footsteps.<sd>leans into <char>Robin</char>'s face</sd>And,
+                <char>Robin</char>, I've chosen you. Congratulations.</sp>
 
             <sp><spkr ref="#Robin">Robin</spkr>No way would I ever work for--</sp>
 
-            <sd>Slade holds up the button, thumb just barely clearing it, and he falls silent.</sd>
+            <sd><char>Slade</char> holds up the button, thumb just barely clearing it, and he falls silent.</sd>
 
-            <sp><spkr ref="#Slade">Slade</spkr>If you join me, if you swear to serve me,<sd>Close-up
-                    of his face.</sd>if you never speak to your friends again,<sd>Extreme close-up
-                    of his eye.</sd>I will allow them to live.</sp>
+            <sp><spkr ref="#Slade">Slade</spkr>If you join me, if you swear to serve me,<sd><stageDesc category="close-up">Close-up
+                    of his face.</stageDesc></sd>if you never speak to <charDesc ref="Titans">your friends</charDesc> again,<sd><stageDesc category="close-up">Extreme close-up
+                    of his eye</stageDesc>.</sd>I will allow them to live.</sp>
 
-            <sd>Cut to Robin, staring in mute fear, and zoom in slowly.</sd>
+            <sd><directNote kind="cut">Cut to <char>Robin</char></directNote>, staring in mute fear, and <directNote kind="zoom">zoom in slowly</directNote>.</sd>
 
             <sp><spkr ref="#Slade">Slade</spkr>
                 <sd>from o.c.</sd>But...<sd>The monitors; he steps into view.</sd>...if you disobey
-                even the smallest request, I will annihilate them, Robin. And I'll make you
-                    watch.<sd>Cut to Robin; he continues o.c.</sd>So, do we have a deal?</sp>
+                even the smallest request, I will annihilate them, <char>Robin</char>. And I'll make you
+                    watch.<sd><directNote kind="cut">Cut to <char>Robin</char>; he continues o.c.</directNote></sd>So, do we have a deal?</sp>
 
-            <sd>Long, tense silence from the Titan, after which the camera tilts up to the overhead
-                gears and into the blackness past them. This resolves into a street in Jump City. It
-                is now nighttime. The rest of the Titans are far down the block.</sd>
+            <sd>Long, tense silence from <charDesc ref="Robin">the Titan</charDesc>, after which <directNote kind="tilt">the camera tilts up to <stageDesc category="overhead-shot">the overhead
+                gears</stageDesc></directNote> and <directNote kind="black-screen">into the blackness past them</directNote>. <directNote kind="resolve">This resolves into a street in Jump City.</directNote> It
+                is now nighttime. The rest of the <char>Titans</char> are far down the block.</sd>
 
-            <sp><spkr ref="#Starfire">Starfire</spkr>Robin?</sp>
+            <sp><spkr ref="#Starfire">Starfire</spkr><char>Robin</char>?</sp>
 
-            <sd>Cut to them. Cyborg helps Beast Boy up from a manhole; Starfire has her communicator
+            <sd><directNote kind="cut">Cut to them.</directNote> <char>Cyborg</char> helps <char>Beast Boy</char> up from a manhole; <char>Starfire</char> has her communicator
                 out and is speaking into it.</sd>
 
-            <sp><spkr ref="#Starfire">Starfire</spkr>Robin? Robin, please respond!<sd>lowers it and
+            <sp><spkr ref="#Starfire">Starfire</spkr><char>Robin</char>? <char>Robin</char>, please respond!<sd>lowers it and
                     looks at the others</sd>Why does he not answer?</sp>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>His locator's been deactivated.<sd>Beast Boy
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>His locator's been deactivated.<sd><char>Beast Boy</char>
                     brushes himself off.</sd>We have no way to find him.</sp>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Not good.</sp>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>
-                <sd>into the communicator</sd>Robin, please. You must answer. Robin!</sp>
+                <sd>into the communicator</sd><char>Robin</char>, please. You must answer. <char>Robin</char>!</sp>
 
-            <sd>Fade to black.</sd>
+            <sd><directNote kind="fade">Fade to black.</directNote></sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>
                 <sd>over comm</sd>Please respond!</sp>
 
-            <sd>Fade in to a close-up of his outfit, draped over a pipe in Slade's lair, and pan to
-                a pool of light cast from above. A tiny red dot glows through the utility belt, an
+            <sd><directNote kind="fade">Fade in to <stageDesc category="close-up">a close-up of his outfit</stageDesc>, draped over a pipe in <char>Slade</char>'s lair</directNote>, and <directNote kind="pan">pan to
+                a pool of light cast from above</directNote>. A tiny red dot glows through the utility belt, an
                 incoming call signal from the communicator in its pouch. A hazy figure can be seen
                 in the harsh glare.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>
-                <sd>over comm</sd>Robin, where are you?</sp>
+                <sd>over comm</sd><char>Robin</char>, where are you?</sp>
 
-            <sd>Zoom in on the figure, then cut to close-ups of the following. A black glove being
+            <sd><directNote kind="zoom">Zoom in on the figure</directNote>, then <directNote kind="cut">cut to <stageDesc category="close-up">close-ups of the following</stageDesc></directNote>. A black glove being
                 pulled on; a steel wrist guard being snapped into place; a belt being buckled under
                 a chest that is yellow on the left side and black on the right; a neck piece
-                fastened under Robin's chin. He takes his hands away after this last action to
-                reveal a silver S emblazoned over his heart, and the camera tilts up to his sullen,
-                defeated face. Pull back to frame all of him; if the abandoned clothing did not show
-                his renunciation clearly enough, this shot gets the point across beyond all doubt.
-                Robin wears steel reinforcements just like those of Slade, who steps into the light
+                fastened under <char>Robin</char>'s chin. He takes his hands away after this last action to
+                reveal a silver S emblazoned over his heart, and <directNote kind="tilt">the camera tilts up to his sullen,
+                defeated face</directNote>. <directNote kind="pull">Pull back to frame all of him</directNote>; <annot>if the abandoned clothing did not show
+                his renunciation clearly enough, this shot gets the point across beyond all doubt</annot>.
+                <char>Robin</char> wears steel reinforcements just like those of <char>Slade</char>, who steps into the light
                 behind him.</sd>
 
             <sp><spkr ref="#Slade">Slade</spkr>I know it seems bad now. But trust me,<sd>He moves
-                    away; close-up.</sd>you'll learn to like it.</sp>
+                    away; <stageDesc category="close-up">close-up</stageDesc>.</sd>you'll learn to like it.</sp>
 
-            <sd>Head-on view of the former leader of the Titans, standing motionless in the white
-                light from overhead. His expression has not changed one bit, nor does it do so as
-                Slade passes in front of him. Pull back across the space; the new boss passes into
-                the darkness, leaving him alone, and the camera backs up slowly. The light is shut
-                off to black out the screen.</sd>
+            <sd><stageDesc category="overhead-shot">Head-on view of <charDesc ref="Robin">the former leader of the <char>Titans</char></charDesc>, standing motionless in the white
+                light from overhead.</stageDesc> His expression has not changed one bit, nor does it do so as
+                <char>Slade</char> passes in front of him. <directNote kind="pull">Pull back across the space</directNote>; <charDesc ref="Slade">the new boss</charDesc> passes into
+                the darkness, leaving him alone, and the camera backs up slowly. <directNote kind="black-screen">The light is shut
+                off to black out the screen.</directNote></sd>
 
             <cue>Continued in Part Two</cue>
         </act>
