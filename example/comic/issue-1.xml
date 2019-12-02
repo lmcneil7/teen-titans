@@ -57,7 +57,7 @@
             </charsPresent>
         </setting>
         <setting>
-            <title>Strrets of Gotham City</title>
+            <title>Streets of Gotham City</title>
             <p>Robin is riding his bike and following Raven, who is flying</p>
             <charsPresent>
                 <char ref="#robin">Robin</char>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="comic_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <head>
+        <title issue="3">The New Teen Titans</title>
+        <publisher>DC Comics</publisher>
+        <writer>Marv Wolfman</writer>
+        <layouts>George Perez</layouts>
+        <finisher>Frank Chiaramonte</finisher>
+        <letterer>Ben Oda</letterer>
+        <colorist>Adrienne Roy</colorist>
+        <editor>Len Wein</editor>
+        <date when="1981-01">January 1981</date>
+    </head>
+    <characterList>
+        <charList id="starfire">Koriand'r (Starfire)</charList>
+        <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
+        <charList id="raven">Raven</charList>
+        <charList id="kflash">Wally West (Kid Flash)</charList>
+        <charList id="bboy">Garfield Logan (Beast Boy (Changeling))</charList>
+        <charList id="cyborg">Victor Stone (Cyborg)</charList>
+        <charList id="wgirl">Donna Troy (Wonder Girl)</charList>
+        <charList id="shimmer">Selinda Flinders (Shimmer)</charList>
+        <charList id="mammoth">Baran Flinders (Mammoth)</charList>
+        <charList id="drlight">Doctor Light</charList>
+        <charList id="psimon">Psimon</charList>
+        <charList id="gizmo">Gizmo</charList>
+        <charList id="citadel">Citadel</charList>
+        <charList id="kingmya">King Myand'r</charList>
+        <charList id="gordanian">Gordanian(s)</charList>
+        <charList id="queenlua">Queen Luand'r</charList>
+        <charList id="rya">Ryand'r</charList>
+        <charList id="trigon">Trigon</charList>
+        <charList id="sstone">Silas Stone</charList>
+    </characterList>
+    <settingList>
+        <setting>
+            <title>New York City; Wonder Girl's Apartment</title>
+            <p>Some of the Teen Titans are hanging out. Wonder Girl and Koriand'r are now roomates.</p>
+            <charsPresent>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Fearsome Five Meeting</title>
+            <p>Doctor Light gathers the members of the Fearsome Five for a meeting after testing Shimmer and Mammoth.</p>
+            <charsPresent>
+                <char ref="#shimmer">Shimmer</char>
+                <char ref="#mammoth">Mammoth</char>
+                <char ref="#drlight">Doctor Light</char>
+                <char ref="#psimon">Psimon</char>
+                <char ref="#gizmo">Gizmo</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Back to Wonder Girl's Apartment</title>
+            <p>Koriand'r is telling the others about her past. Flashback of Tamaran. Flashback of the Citadel; their overloads sent the Gordanians to attack Tamaran, but King Myand'r offered a peace treaty. Raver appears.</p>
+            <charsPresent>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#citadel">Citadel</char>
+                <char ref="#kingmya">King Myand'r</char>
+                <char ref="#gordianian">Gordianian(s)</char>
+                <char ref="#queenlua">Queen Luand'r</char>
+                <char ref="#rya">Ryand'r</char>
+                <char ref="#raven">Raven</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Back to the Fearsome Five.</title>
+            <p>The Fearsome Five are talking when the Teen Titans appear due to Raven finding the Fearsome Five's location. A fight breaks out and the Fearsome Five escape after Shimmer puts the Teen Titans to sleep. Raven disappears when the Teen Titans are put to sleep.</p>
+            <charsPresent>
+                <char ref="#drlight">Doctor Light</char>
+                <char ref="#psimon">Psimon</char>
+                <char ref="#gizmo">Gizmo</char>
+                <char ref="#shimmer">Shimmer</char>
+                <char ref="#mammoth">Mammoth</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#wgirl">Wonder Girl</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Somewhere (location unknown)</title>
+            <p>Raven demands answers from Trigon. He's the reason for the Fearsome Five's creation. She disappears when Trigon tries to strike her.</p>
+            <charsPresent>
+                <char ref="#raven">Raven</char>
+                <char ref="#trigon">Trigon</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>New York City, 44th Street and Eleventh Avenue</title>
+            <p>Cyborg is in an apartment with his father, Silas Stone. They are having an argument. Cyborg finds a  mysterious letter.</p>
+            <charsPresent>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#sstone">Silas Stone</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>Beast Boy reveals some of his past. Each Titan received a letter that lead them to Titans' Tower on a small island off Manhattan in the East River. They don't know who sent the letter or who built the tower. Raven reappears. </p>
+            <charsPresent>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#raven">Raven</char>
+            </charsPresent>
+        </setting>
+    </settingList>
+</root>
