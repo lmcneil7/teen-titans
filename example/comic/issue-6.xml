@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="comic_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <head>
+        <title issue="6">The New Teen Titans</title>
+        <publisher>DC Comics</publisher>
+        <writer>Marv Wolfman</writer>
+        <penciller>George Perez</penciller>
+        <finisher>Pablo Marcos</finisher>
+        <letterer>John Costanza</letterer>
+        <colorist>Jerry Serpe</colorist>
+        <editor>Len Wein</editor>
+        <date when="1981-04">April 1981</date>
+    </head>
+    <characterList>
+        <charList id="raven">Raven</charList>
+        <charList id="trigon">Trigon The Terrible</charList>
+        <charList id="ruda">Ruda</charList>
+        <charList id="queenxyn">Queen of Xynthia</charList>
+        <charList id="darkhorde">Dark Horde(s)</charList>
+        <charList id="grool">Grool</charList>
+    </characterList>
+    <settingList>
+        <setting>
+            <title>Trigon's World</title>
+            <p>They walk the streets of Trigon's World where everyone lives in fear. A little girl calls Trigon a monster and he makes her an example by killing her in front of everyone.</p>
+            <charsPresent>
+                <char ref="#raven">Raven</char>
+                <char ref="#trigon">Trigon</char>
+                <char ref="#ruda">Ruda</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Trigon's Castle</title>
+            <p>Grool has a status report for Trigon; Xynthia is fighting against his forces and refuse to pay him any longer. To teach another lesson to his subjects, Trigon destroys Xynthia. His next move is to destroy Earth.</p>
+            <charsPresent>
+                <char ref="#raven">Raven</char>
+                <char ref="#trigon">Trigon</char>
+                <char ref="#queenxyn">Queen of Xynthia</char>
+                <char ref="#darkhorde">Dark Horde(s)</char>
+                <char ref="#grool">Grool</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Temple Azarath</title>
+            <p>Trigon has destroyed Azarath and the Titans are reflecting on the battle that they lost. Determined to save Raven, they seek for help, but Arella and Azarath refused to provide it.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#arella">Arella</char>
+            </charsPresent>
+        </setting>
+    </settingList>
+    <referenceList>
+        <reference type="place">Xynthia</reference>
+        <reference type="race">Citadel</reference>
+    </referenceList>
+</root>
