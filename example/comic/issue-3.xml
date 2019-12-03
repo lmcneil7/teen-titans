@@ -23,15 +23,22 @@
         <charList id="shimmer">Selinda Flinders (Shimmer)</charList>
         <charList id="mammoth">Baran Flinders (Mammoth)</charList>
         <charList id="drlight">Doctor Light</charList>
-        <charList id="psimon">Psimon</charList>
+        <charList id="psimon">Simon Jones (Psimon)</charList>
         <charList id="gizmo">Gizmo</charList>
         <charList id="citadel">Citadel</charList>
         <charList id="kingmya">King Myand'r</charList>
         <charList id="gordanian">Gordanian(s)</charList>
         <charList id="queenlua">Queen Luand'r</charList>
         <charList id="rya">Ryand'r</charList>
-        <charList id="trigon">Trigon</charList>
+        <charList id="trigon">Trigon The Terrible</charList>
         <charList id="sstone">Silas Stone</charList>
+        <charList id="goronn">Goronn</charList>
+        <charList id="hman">Hawkman</charList>
+        <charList id="batman">Bruce Wayne (Batman)</charList>
+        <charList id="wwoman">Diana Prince (Wonder Woman)</charList>
+        <charList id="glantern">Hal Jordan (Green Lantern)</charList>
+        <charList id="zatan">Zatanna</charList>
+        <charList id="atom">Ray Palmer (Atom)</charList>
     </characterList>
     <settingList>
         <setting>
@@ -108,7 +115,7 @@
         </setting>
         <setting>
             <title>Titans' Tower</title>
-            <p>Beast Boy reveals some of his past. Each Titan received a letter that lead them to Titans' Tower on a small island off Manhattan in the East River. They don't know who sent the letter or who built the tower. Raven reappears. </p>
+            <p>Beast Boy reveals some of his past. Each Titan received a letter that lead them to Titans' Tower on a small island off Manhattan in the East River. They don't know who sent the letter or who built the tower. Raven reappears. She tells the Titans about her visage; images of Trigon, Goronn and the Justice League. It changed from Trigon to the Fearsome Five which is how Raven knew of the warning.</p>
             <charsPresent>
                 <char ref="#bboy">Beast Boy</char>
                 <char ref="#cyborg">Victor Stone</char>
@@ -117,7 +124,88 @@
                 <char ref="#wgirl">Wonder Girl</char>
                 <char ref="#kflash">Kid Flash</char>
                 <char ref="#raven">Raven</char>
+                <char ref="#goronn">Goronn</char>
+                <char ref="#hman">Hawkman</char>
+                <char ref="#batman">Batman</char>
+                <char ref="#wwoman">Wonder Woman</char>
+                <char ref="#glantern">Green Lantern</char>
+                <char ref="#zatan">Zatanna</char>
+                <char ref="#atom">Atom</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>The New Jersey Palisades Overlooking Uptown Manhattan</title>
+            <p>Doctor Light tells the Fearsome Five his plan to kill the Justice League. Psimon shots Doctor Light revealing that he has a mission from Trigon to take down the Titans. He was the one who sent the message to Raven and he sends another to the Titans calling them to fight.</p>
+            <charsPresent>
+                <char ref="#drlight">Doctor Light</char>
+                <char ref="#psimon">Psimon</char>
+                <char ref="#shimmer">Shimmer</char>
+                <char ref="#mammoth">Mammoth</char>
+                <char ref="#gizmo">Gizmo</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>They receive Psimon and decide that they're going to go fight. Raven and Kid Flash stay behind because they think it's a bad idea.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>The New Jersey Palisades Overlooking Uptown Manhattan</title>
+            <p>The Titans go to fight but it turns into an ambush.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#drlight">Doctor Light</char>
+                <char ref="#psimon">Psimon</char>
+                <char ref="#shimmer">Shimmer</char>
+                <char ref="#mammoth">Mammoth</char>
+                <char ref="#gizmo">Gizmo</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>Raven sees that all the Titans except Beast Boy and Koriand'r are unconscious. Kid Flash and Raven decide to join the fight.</p>
+            <charsPresent>
+                <char ref="#raven"></char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>The New Jersey Palisades Overlooking Uptown Manhattan</title>
+            <p>Kid Flash joins the fight, but Mammoth knocks him out. The Titans have been defeated and Raven decides to go to the Justice League.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#drlight">Doctor Light</char>
+                <char ref="#psimon">Psimon</char>
+                <char ref="#shimmer">Shimmer</char>
+                <char ref="#mammoth">Mammoth</char>
+                <char ref="#gizmo">Gizmo</char>
             </charsPresent>
         </setting>
     </settingList>
+    <referenceList>
+        <reference type="place">Tamaran</reference>
+        <reference type="org">H.I.V.E.</reference>
+        <reference type="magazine">Underworld Star</reference>
+        <reference type="deity">X'hal</reference>
+        <reference type="weapon">Light Gun</reference>
+        <reference type="thing">Ether</reference>
+        <reference type="demon">Trigon</reference>
+        <reference type="place">S.T.A.R Labs</reference>
+        <reference type="place">Azarath</reference>
+    </referenceList>
 </root>

@@ -20,7 +20,7 @@
         <charList id="raven">Raven</charList>
         <charList id="kflash">Wally West (Kid Flash)</charList>
         <charList id="batman">Bruce Wayne (Batman)</charList>
-        <charList id="wgirl">(Wonder Girl)</charList>
+        <charList id="wgirl">Donna Troy (Wonder Girl)</charList>
         <charList id="wwoman">Diana Prince (Wonder Woman)</charList>
         <charList id="hippolyta">Hippolyta</charList>
         <charList id="bboy">Garfield Logan (Beast Boy (Changeling))</charList>
@@ -42,14 +42,14 @@
         </setting>
         <setting>
             <title>Small Pod Ship</title>
-            <p>Koriand'r uses it to escape the Gorganian</p>
+            <p>Koriand'r uses it to escape the Gorganian.</p>
             <charsPresent>
                 <char ref="#starfire">Koriand'r</char>
             </charsPresent>
         </setting>
         <setting>
             <title>The Wayne Foundation</title>
-            <p>Starting in Robin's bedroom; he is having a nightmare. Raven appears and convices him to start up the New Teen Titans. Robin is leaving the buiding and passes Bruce.</p>
+            <p>Starting in Robin's bedroom; he is having a nightmare. Raven appears and convinces him to start up the New Teen Titans. Robin is leaving the buiding and passes Bruce.</p>
             <charsPresent>
                 <char ref="#robin">Dick Grayson</char>
                 <char ref="#raven">Raven</char>
@@ -58,7 +58,7 @@
         </setting>
         <setting>
             <title>Streets of Gotham City</title>
-            <p>Robin is riding his bike and following Raven, who is flying</p>
+            <p>Robin is riding his bike and following Raven, who is flying.</p>
             <charsPresent>
                 <char ref="#robin">Robin</char>
                 <char ref="#raven">Raven</char>
