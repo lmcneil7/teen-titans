@@ -1,5 +1,5 @@
 window.addEventListener('DOMContentLoaded',init,false);
             
 function init() {
-    alert('The page loaded!');
+    alert ('The page loaded!');
 }
