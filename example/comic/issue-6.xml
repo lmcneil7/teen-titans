@@ -19,6 +19,16 @@
         <charList id="queenxyn">Queen of Xynthia</charList>
         <charList id="darkhorde">Dark Horde(s)</charList>
         <charList id="grool">Grool</charList>
+        <charList id="priestAza">Priests of Azarath</charList>
+        <charList id="arella">Angela Roth (Arella)</charList>
+        <charList id="kflash">Wally West (Kid Flash)</charList>
+        <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
+        <charList id="bboy">Garfield Logan (Beast Boy (Changeling))</charList>
+        <charList id="cyborg">Victor Stone (Cyborg)</charList>
+        <charList id="wgirl">Donna Troy (Wonder Girl)</charList>
+        <charList id="starfire">Koriand'r (Starfire)</charList>
+        <charList id="priestSat">Priests of Satan</charList>
+        <charList id="coman">Coman</charList>
     </characterList>
     <settingList>
         <setting>
@@ -43,7 +53,7 @@
         </setting>
         <setting>
             <title>Temple Azarath</title>
-            <p>Trigon has destroyed Azarath and the Titans are reflecting on the battle that they lost. Determined to save Raven, they seek for help, but Arella and Azarath refused to provide it.</p>
+            <p>Trigon has destroyed Azarath and the Titans are reflecting on the battle that they lost. Determined to save Raven, they seek for help, but Arella and Azarath refused to provide it. The Titans persist and Arella provides a look into her past of Trigon and Azarath through flashback. Afterwards Arella decides to help the Titans save Raven, giving up her home in the process.</p>
             <charsPresent>
                 <char ref="#robin">Robin</char>
                 <char ref="#cyborg">Victor Stone</char>
@@ -52,11 +62,43 @@
                 <char ref="#bboy">Beast Boy</char>
                 <char ref="#starfire">Koriand'r</char>
                 <char ref="#arella">Arella</char>
+                <char ref="#priestAza">Priests of Azarath</char>
+                <char ref="#priestSat">Priests of Satan</char>
+                <char ref="#coman">Coman</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Cosmic Stairway</title>
+            <p>The Titans and Arella use the Great Door for dimensional travel to go to the new world that Raven resides.</p>
+            <charsPresent>
+                <char ref="#arella">Arella</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#starfire">Koriand'r</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Trigon's Planet</title>
+            <p></p>
+            <charsPresent>
+                <char ref="#arella">Arella</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#starfire">Koriand'r</char>
             </charsPresent>
         </setting>
     </settingList>
     <referenceList>
         <reference type="place">Xynthia</reference>
         <reference type="race">Citadel</reference>
+        <reference type="demon">Trigon</reference>
+        <reference type="magic">Occult</reference>
+        <reference type="group">Satanic Cult (Arella was a member)</reference>
     </referenceList>
 </root>
