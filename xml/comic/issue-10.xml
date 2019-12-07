@@ -2,7 +2,7 @@
 <?xml-model href="comic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <head>
-        <title>The New Teen Titans</title>
+        <title issue="10">The New Teen Titans</title>
         <publisher>DC Comics</publisher>
         <writer>Marv Wolfman</writer>
         <artist>George Perez</artist>
