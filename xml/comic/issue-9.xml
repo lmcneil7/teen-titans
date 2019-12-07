@@ -5,8 +5,8 @@
         <title issue="9">The New Teen Titans</title>
         <publisher>DC Comics</publisher>
         <writer>Marv Wolfman</writer>
-        <penciller>George Perez</penciller>
-        <finisher>Romeo Tanghal</finisher>
+        <artist>George Perez</artist>
+        <inker>Romeo Tanghal</inker>
         <letterer>Ben Oda</letterer>
         <colorist>Adrienne Roy</colorist>
         <editor>Len Wein</editor>
@@ -16,7 +16,7 @@
         <!--lm: I made this characerList from who appears first in the issue. I will go back and change the others to do the same. -->
         <charList id="appleton">Harold Appleton</charList>
         <charList id="bboy">Garfield Logan (Beast Boy (Changeling))</charList>
-        <charList id="questor">Venon Questor</charList>
+        <charList id="questor">Vernon Questor</charList>
         <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
         <charList id="alvin">Alvin</charList>
         <charList id="thornton">Jeremy Thornton</charList>
@@ -169,7 +169,7 @@
         </setting>
         <setting>
             <title>Dayton's Industries Long Island Laboratory</title>
-            <p>A fire breaks out in Dayton's Laboratory. In the mist of the confusion, the Terminator steals Project: Promethium.</p>
+            <p>A fire breaks out in Dayton's Laboratory. In the mist of the confusion, the Terminator steals Project Promethium.</p>
             <charsPresent>
                 <char ref="slade">Terminator</char>
             </charsPresent>
