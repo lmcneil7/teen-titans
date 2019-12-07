@@ -98,10 +98,47 @@
         </setting>
         <setting>
             <title>Dark Alleyway</title>
-            <p>Arella is the one who helped Raven escape. Trigon sends demons to find her, destroying anything and anyone who stands in the way. Raven, who can't take the suffering, surrenders to Trigon. Trigon goes to strike Raven, but Arella protects her. Raven goes to look for the Titans, but Trigon stops her. Arella, who was lying in wait, was able to take him down as he focus was on Raven.</p>
+            <p>Arella is the one who helped Raven escape. Trigon sends demons to find her, destroying anything and anyone who stands in the way. Raven, who can't take the suffering, surrenders to Trigon. Arella strikes Trigon in an attempt to let Raven get away, but Trigon stops Raven. Arella supresses Trigon long enough for Raven to get away.</p>
             <charsPresent>
                 <char ref="#arella">Arella</char>
                 <char ref="#raven">Raven</char>
+                <char ref="#trigon">Trigon</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Dungeon</title>
+            <p>Raven rescues the Titans from Trigon's Dungeon. It's time to return to Earth.</p>
+            <charsPresent>
+                <char ref="#raven">Raven</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#cyborg">Victor Stone</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Elsewhere</title>
+            <p>Trigon is ready to attack Planet Earth for his plan of conquering a new dimension.</p>
+            <charsPresent>
+                <char ref="#trigon">Trigon</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>The Streets of Trigon's Planet</title>
+            <p>The Titans are urgently trying to escape when they run into his dog, Fang; they leave Beast Boy to deal with him. Their plan is to combine their powers in order to send Trigon to the Netherverse. It works, but at the last minute, Arella jumps in after Trigon before the portal explodes. Raven reveals that in order to keep Trigon from escaping, someone had to block his path and that person was Arella.</p>
+            <charsPresent>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#fang">Fang</char>
+                <char ref="#trigon">Trigon</char>
+                <char ref="#arella">Arella</char>
             </charsPresent>
         </setting>
     </settingList>
@@ -110,7 +147,9 @@
         <reference type="race">Citadel</reference>
         <reference type="demon">Trigon</reference>
         <reference type="magic">Occult</reference>
-        <reference type="group">Satanic Cult (Arella was a member)</reference>
+        <reference type="group">Satanic Cult</reference>
         <reference type="person">Azar</reference>
+        <reference type="deity">Hera</reference>
+        <reference type="place">Netherverse</reference>
     </referenceList>
 </root>
