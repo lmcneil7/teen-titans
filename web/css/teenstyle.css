@@ -30,7 +30,26 @@ div#header {
 p{
     color: white;
 }
-
+span.robin.on{
+    color: red;
+}
+span.cyborg.on{
+    color: blue;
+}
+span.beastBoy.on{
+    color: green;
+}
+span.starfire.on{
+    color: yellow;
+}
+span.raven.on{
+    color: purple;
+}
+div#fieldset {
+    text-align: left;
+    background-color: lightgrey;
+    padding: 3px 3px 3px 3px;
+}
 a:link {color: orange;}      /* unvisited link */
 a:visited {color:#1aa3ff
 ;}  /* visited link */
