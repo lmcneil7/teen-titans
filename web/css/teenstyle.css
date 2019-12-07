@@ -10,6 +10,15 @@ h1{
 h4{
     color: white;
 }
+h3{
+    color: white;
+}
+li{
+    color: white;
+}
+h2{
+    color: white;
+}
 
 .center{
   display: flex;
@@ -30,8 +39,10 @@ div#header {
 p{
     color: white;
 }
+i{
+    color: white;
+}
 spkr{
- font-family: "Trebuchet MS", Helvetica, sans-serif;
     color: white;
     font-size: 18px;
 }
@@ -41,6 +52,7 @@ span.robin.on{
 span.cyborg.on{
     color: blue;
 }
+
 span.beastBoy.on{
     color: green;
 }
