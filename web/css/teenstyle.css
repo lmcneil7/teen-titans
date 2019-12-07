@@ -30,6 +30,11 @@ div#header {
 p{
     color: white;
 }
+spkr{
+ font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: white;
+    font-size: 18px;
+}
 span.robin.on{
     color: red;
 }
