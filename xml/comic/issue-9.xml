@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="comic_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <head>
+        <title issue="9">The New Teen Titans</title>
+        <publisher>DC Comics</publisher>
+        <writer>Marv Wolfman</writer>
+        <penciller>George Perez</penciller>
+        <finisher>Romeo Tanghal</finisher>
+        <letterer>Ben Oda</letterer>
+        <colorist>Adrienne Roy</colorist>
+        <editor>Len Wein</editor>
+        <date when="1981-07">July 1981</date>
+    </head>
+    <characterList>
+        <!--lm: I made this characerList from who appears first in the issue. I will go back and change the others to do the same. -->
+        <charList id="appleton">Harold Appleton</charList>
+        <charList id="bboy">Garfield Logan (Beast Boy (Changeling))</charList>
+        <charList id="questor">Venon Questor</charList>
+        <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
+        <charList id="alvin">Alvin</charList>
+        <charList id="thornton">Jeremy Thornton</charList>
+        <charList id="weir">Jordan Weir (Puppet Master (Puppeteer))</charList>
+        <charList id="glantern">Hal Jordan (Green Lantern)</charList>
+        <charList id="hive">H.I.V.E.</charList>
+        <charList id="simms">Miss Sarah Simms</charList>
+        <charList id="ronald">Ronald</charList>
+        <charList id="cyborg">Victor Stone (Cyborg)</charList>
+        <charList id="raven">Raven</charList>
+        <charList id="puppet">Puppet B-13</charList>
+        <charList id="kidflash">Wally West (Kid Flash)</charList>
+        <charList id="susie">Susie</charList>
+        <charList id="starfire">Koriand'r (Starfire)</charList>
+        <charList id="long">Terrence (Terry) Long</charList>
+        <charList id="wgirl">Donna Troy (Wonder Girl)</charList>
+        <charList id="nine">Number Nine</charList>
+        <charList id="slade">Slade Wilson (Deathstroke the Terminator)</charList>
+    </characterList>
+    <settingList>
+        <setting>
+            <title>Dayton Industries</title>
+            <p>Harold Appleton is murdered. His murder is revealed to be a six-inch tall soldier with the help of other small minuscule dolls.</p>
+            <charsPresent>
+                <char ref="#appleton">Harold Appleton</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>East Hampton Mansion</title>
+            <p>Questor tells Beast Boy about the murder and that Steve Dayton, his step-father, has been missing as well. However, Beast Boy wants nothing to do with helping Dayton Industries and goes to his room. A different toy from the ones that we have seen tries to attack Beast Boy; he identifies it as a puppet. Unsure of the villain behind the puppets, Beast Boy decides to call in help.</p>
+            <charsPresent>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#questor">Questor</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Long Island Laboratory</title>
+            <p>They discuss the plans of Project Promethium; Questor believes the reason the board members are being murdered is because someone wants to steal the project and that the murderer is Jordan Weir.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#questor">Questor</char>
+                <char ref="#alvin">Alvin</char>
+                <char ref="#appleton">Harold Appleton</char>
+                <char ref="#thornton">Jeremy Thornton</char>
+                <char ref="#weir">Puppeteer</char>
+                <char ref="#glantern">Green Lantern</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Jordan Weir's Last Known Address</title>
+            <p>Beast Boy and Robin go through the balcony only to run into someone who looks like Jordan Weir. Robin is able to figure out that's only a puppet and they escape through the balcony before the puppet explodes.</p>
+            <charsPresent>
+                <char ref="#weir">Puppeteer</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Puppeteer's Laboratory</title>
+            <p>He's watching over the explosion. The H.I.V.E. appears to remind him that failure is not an option.</p>
+            <charsPresent>
+                <char ref="#weir">Puppeteer</char>
+                <char ref="#hive">H.I.V.E.</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>The West Seventies</title>
+            <p>Cyborg and Raven are helping out with children.</p>
+            <charsPresent>
+                <char ref="#simms">Miss Simms</char>
+                <char ref="#ronald">Ronald</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#puppet">Puppet B-13</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>East Coast New York</title>
+            <p>As Raven and Cyborg are walking, they are attacked by a new puppet. It attaches to Cyborg and he becomes a puppet. Raven uses the essence of her soul to track down the other Titans.</p>
+            <charsPresent>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#raven">Raven</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Midwestern City of Blue Valley</title>
+            <p>Raven's soul appears in front of Kid Flash, letting him know of the situation. She puts him in charge of finding Cyborg ad she goes to gather Koriand'r and Wonder Girl's help.</p>
+            <charsPresent>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#susie">Susie</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>New York Photo Studio</title>
+            <p>Koriand'r is getting her photos taken when Raven appears in front of her and Wonder Girl with news that the Teen Titans are in trouble. Koriand'r and Wonder Girl talk about Wonder Girl's relationship with Terry Long.</p>
+            <charsPresent>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#long">Terry Long</char>
+                <char ref="#wgirl">Wonder Girl</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Puppeteer's Laboratory</title>
+            <p>He watches as the Titans gather, seemingly a part of his plan.</p>
+            <charsPresent>
+                <char ref="#weir">Puppeteer</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>East Coast New York</title>
+            <p>Kid Flash has arrived at the park that Cyborg and Raven were attacked, with Cyborg nowhere in sight. Raven reconnects her soul to her body; she notices Cyborg behind Kid Flash, but she didn't tell him fast enoughas Kid Flash ends up getting shot by a weapon that turns him into a mind-control puppet. Starfire and Wonder Girl join soon after into the Titans who've been turned into puppets. Raven escapes.</p>
+            <charsPresent>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#starfire">Starfire</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#weir">Puppeteer</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Dayton Industries</title>
+            <p>Beast Boy and Robin are in a board meeting attempting to convince the other board members that Puppeteer is trying to destroy them when Raven appears. Not long after, Starfire-Puppet appears. The rest of the Titan-Puppets appear, but Kid Flash and Beast Boy find a solution to releasing the mind control: vibrational frequency. Soon, all the Titans are free from Puppeteer's control.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#wgirl">Wonder Girl</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Puppeteer's Laboratory</title>
+            <p>The Teen Titans find the Puppeteer's Laboratory; in order to avoid the attack, he sends his puppet weapons to find them. While the Titans are fighting, the Puppeteer escapes. He doesn't get far though as he's shot in the sky by the H.I.V.E.</p>
+            <charsPresent>
+                <char ref="#weir">Puppeteer</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#cyborg">Cyborg</char>
+                <char ref="#starfire">Starfire</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#nine">Number Nine</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Dayton's Industries Long Island Laboratory</title>
+            <p>A fire breaks out in Dayton's Laboratory. In the mist of the confusion, the Terminator steals Project: Promethium.</p>
+            <charsPresent>
+                <char ref="slade">Terminator</char>
+            </charsPresent>
+        </setting>
+    </settingList>
+    <referenceList>
+        <reference type="company">Dayton Industries</reference>
+        <reference type="project">Project Promethium</reference>
+        <reference type="team">Doom Patrol</reference>
+        <reference type="villain">The Terminator</reference>
+        <reference type="villain">The Fearsome Five</reference>
+        <reference type="person">Steve Dayton</reference>
+        <reference type="element">Promethium</reference>
+        <reference type="titan">Prometheus</reference>
+        <reference type="person">Arthur Korda</reference>
+        <reference type="person">Soren Winslow</reference>
+        <reference type="group">The Promethium Council</reference>
+        <reference type="person">Batman</reference>
+        <reference type="org">H.I.V.E.</reference>
+    </referenceList>
+</root>
