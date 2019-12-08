@@ -2,27 +2,121 @@
 <?xml-model href="comic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <head>
-        <issueTitle issue=""></issueTitle>
-        <publisher></publisher>
-        <writer></writer>
-        <letterer></letterer>
-        <colorist></colorist>
-        <editor></editor>
-        <date when=""></date>
+        <issueTitle issue="36">The New Teen Titans</issueTitle>
+        <publisher>DC Comics</publisher>
+        <writer>Marv Wolfman</writer>
+        <layouts>Keith Pollard</layouts>
+        <embellisher>Romeo Tanghal</embellisher>
+        <letterer>Constanza&amp;Klein</letterer>
+        <colorist>Adrienne Roy</colorist>
+        <editor>Len Wein</editor>
+        <date when="1983-11">November 1983</date>
     </head>
     <characterList>
-        <charList id=""></charList>
+        <charList id="thun">Gan (Thunder)</charList>
+        <charList id="light">Tavis (Lightning)</charList>
+        <charList id="doc">Dr. Klyburn</charList>
+        <charList id="raven">Raven</charList>
+        <charList id="cyborg">Victor Stone (Cyborg)</charList>
+        <charList id="terra">Tara Markov (Terra)</charList>
+        <charList id="kflash">Wally West (Kid Flash)</charList>
+        <charList id="wgirl">Donna Troy (Wonder Girl)</charList>
+        <charList id="bboy">Garfield Logan (Beast Boy (Changeling))</charList>
+        <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
+        <charList id="hive">H.I.V.E.</charList>
+        <charList id="williams">Walter Williams</charList>
     </characterList>
     <settingList>
         <setting>
-            <title></title>
-            <p></p>
+            <title>The fate of the Storm Twins, Thunder and Lightning, is looking grim. Dr. Klyburn isn't sure on how to heal them. Dr. Klyburn senses a power power surge and realizes that the brothers are draining the Laser Banks. The problem is they can't handle that much energy; Starfire and Cyborg focus on removing them. However, an explosion occurs and they fail to remove them. The twins are awake, but they're having internal conflict as seen from before. Regardless, they fight the Titans and cause a lot of damage. Both sides are trying to avoid fighting and Raven decides to use her powers to find a solution.</title>
+            <p>S.T.A.R. Labs</p>
             <charsPresent>
-                <char ref=""></char>
+                <char ref="#thun">Thunder</char>
+                <char ref="#light">Lightning</char>
+                <char ref="#doc">Dr. Klyburn</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#wgrl">Wonder Girl</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#robin">Robin</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Base Four</title>
+            <p>Base Four connects to Central H.I.V.E. Council; someone wants out, but his departure would be detrimental to the H.I.V.E. They have Thunder and Lightning's father, Walter Willams.</p>
+            <charsPresent>
+                <char ref="#hive">H.I.V.E.</char>
+                <char ref="#williams">Walter Williams</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>S.T.A.R. Labs</title>
+            <p>Raven was using her powers to try to heal Thunder and Lightning, but she loses control over her soul-self. Reluctantly, the Titans start to attack Raven in order to save the Storm Twins. They are able to retrieve the twins and they reveal that their father was the one was attacking Raven. They leave Raven in Kid Flash's care to find the twins' father.</p>
+            <charsPresent>
+                <char ref="#thun">Thunder</char>
+                <char ref="#light">Lightning</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#kflash">Kid Flash</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>T-Jet</title>
+            <p>The twins reveal their father's backstory in a flashback. It's uncovered that their father was an alien.</p>
+            <charsPresent>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#thun">Thunder</char>
+                <char ref="#light">Lightning</char>
+                <char ref="#williams">Walter Williams</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Base Four</title>
+            <p>They have Williams under control when the Titans and the Storm Twins show up. They force Williams to fight them leading to a battle. The Titans are defeated, so the Storm Twins decide it's time to fight. They freed their father by killing him</p>
+            <charsPresent>
+                <char ref="hive">H.I.V.E.</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#thun">Thunder</char>
+                <char ref="#light">Lightning</char>
+                <char ref="#williams">Walter Williams</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>S.T.A.R. Labs</title>
+            <p>WIth the help of their father's blood, the twins' disease is in remission. They are going back to Hsuan to see their mother.</p>
+            <charsPresent>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#thun">Thunder</char>
+                <char ref="#light">Lightning</char>
+                <char ref="#doc">Dr. Klyburn</char>
             </charsPresent>
         </setting>
     </settingList>
     <referenceList>
-        <reference type=""></reference>
+        <reference type="deity">X'hal</reference>
+        <reference type="place">Okaara</reference>
+        <reference type="person">Azar</reference>
+        <reference type="place">Hsuan</reference>
+        <reference type="demon">Trigon</reference>
+        <reference type="person">Sarah Simms</reference>
     </referenceList>
 </root>
