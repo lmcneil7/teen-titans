@@ -16,11 +16,27 @@
         <charList id="zarek">Zarek</charList>
         <charList id="gordanian">Gordanian(s)</charList>
         <charList id="blackfire">Komand'r (Blackfire)</charList>
+        <charList id="sarge">Sarge</charList>
+        <charList id="heyback">Heyback</charList>
+        <charList id="fitzsimmons">Frank Fitzsimmons</charList>
+        <charList id="starfire">Koriand'r (Starfire)</charList>
+        <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
+        <charList id="kflash">Wally West (Kid Flash)</charList>
+        <charList id="cyborg">Victor Stone (Cyborg)</charList>
+        <charList id="wgirl">Donna Troy (Wonder Girl)</charList>
+        <charList id="bboy">Garfield Logan (Beast Boy (Changeling))</charList>
+        <charList id="raven">Raven</charList>
+        <charList id="bethsnow">Bethany Snow</charList>
+        <charList id="chase">Adrien Chase</charList>
+        <charList id="salkas">Salkas</charList>
+        <charList id="alad">Aqualad</charList>
+        <charList id="jumbo">Jumbo</charList>
+        <charList id="sman">Superman</charList>
     </characterList>
     <settingList>
         <setting>
             <title>Slave Ship Trak'r</title>
-            <p>The ship is approaching Earth. Komand'r plans to take down her sister, Koriand'r</p>
+            <p>The ship is approaching Earth. Komand'r plans to take down her sister, Koriand'r.</p>
             <charsPresent>
                 <char ref="#zarek">Zarek</char>
                 <char ref="#gordanian">Gordanian(s)</char>
@@ -28,14 +44,174 @@
             </charsPresent>
         </setting>
         <setting>
-            <title></title>
-            <p></p>
+            <title>New York Skies</title>
+            <p>They are flying the Teen Titans to their inquiry.</p>
             <charsPresent>
-                <char ref=""></char>
+                <char ref="#sarge">Sarge</char>
+                <char ref="#heyback">Heyback</char>
+                <char ref="#fitzsimmons">Frank Fitzsimmons</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#raven">Raven</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Outside the Office of District Attorney Adrian Chase</title>
+            <p>The official inquiry begins. </p>
+            <charsPresent>
+                <char ref="#bethsnow">Bethany Snow</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#starfire">Starfire</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Inside the Office of Adrian Chase</title>
+            <p>Chase breaks it down to the Titans how the justice system works. While Brother Blood did multiple crimes, there's no way to prove it and the press is against the Titans. They also attacked him on his private property. Brother Blood dropped the charges against the Titans.</p>
+            <charsPresent>
+                <char ref="#chase">Adrian Chase</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#starfire">Starfire</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>New York Skies</title>
+            <p>The Gordanians search for Starfire. They find her. </p>
+            <charsPresent>
+                <char ref="#salkas">Salkas</char>
+                <char ref="#gordanian">Gordanian(s)</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Inside the Office of Adrian Chase</title>
+            <p>The Titans are looking around for information on Brother Blood when Koriand'r screams out in pain.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#starfire">Starfire</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Outside the Office Adrian Chase</title>
+            <p>Adrian Chase is answering questions on the behalf of the Titans. The wall collapses and the cause is Starfire going berserk. She can't control her body or her powers. As Bethany Snow tries to spin this against the Titans, the Titans look for a way to stop Koriand'r. Hoowever, the Gordanians beat them to it by capturing Koriand'r. A  fight breaks out to retrieve Koriand'r, but in the midst, one of the Gordanian ships gets away. Any of the Gordanians remaining turned into dust, but Cyborg was able to steal one of the ships.</p>
+            <charsPresent>
+                <char ref="#chase">Adrian Chase</char>
+                <char ref="#bethsnow">Bethany Snow</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#starfire">Starfire</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#salkas">Salkas</char>
+                <char ref="#gordanian">Gordanian(s)</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>The Titans are in need of another ship and with Aqualad's help, they're able to retrieve one from the ocean. Cyborg gets the one who took to work and teaches Wonder Girl how to fly it.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#alad">Aqualad</char>
+                <char ref="#jumbo">Jumbo</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#kflash">Kid Flash</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Space</title>
+            <p>The Titans go into space to save Koriand'r where the find where the Trak'r resides. They need to find a way in.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#starfire">Starfire</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Trak'r</title>
+            <p>Blackfire is pleased that the Titans came for Koriand'r; it means more people for her to kill. She goes to where Koriand'r is being held captive to reveal herself, but the Gordanians told Koriand'r on Komand'r already. Since they told Koriand'r, Komand'r kills the Gordanians. Komand'r's plan to torture Koriand'r and tells her about the Titans coming to rescue her.</p>
+            <charsPresent>
+                <char ref="#blackfire">Komand'r</char>
+                <char ref="#gordanian">Gordanian(s)</char>
+                <char ref="#starfire">Koriand'r</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Space</title>
+            <p>The Titans are brought in by a tractor beam.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#starfire">Starfire</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Trak'r</title>
+            <p>Komand'r tells the Gordanian to get into position to ambush the Titans. The Titans arrive and their main objective is to find Koriand'r. As planned, they are ampushed by drones designed to adapt to their powers. Once all the Titans are defeated, Komand'r sends them into airless space in front of Koriand'r. The Citadel demand council with Komand'r, so she leaves Earth behind with Citadel being the destination. Once the ship is gone, it's revealed that Raven was able to protect the Titans from space with her soul-self. Before she loses ability, someone draws them into the Justice League Satellite.</p>
+            <charsPresent>
+                <char ref="#blackfire">Komand'r</char>
+                <char ref="#gordanian">Gordanian(s)</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#starfire">Starfire</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Justice League Satellite</title>
+            <p>Superman is the one who saved the Titans. However, Superman can offer no help as he's missing half his powers. The Titans feel helpless and don't know what to do next.</p>
+            <charsPresent>
+                <char ref="#sman">Superman</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#starfire">Starfire</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#bboy">Beast Boy</char>
             </charsPresent>
         </setting>
     </settingList>
     <referenceList>
         <reference type="race">Citadel</reference>
+        <reference type="org">Brother Blood</reference>
+        <reference type="place">Tamaran</reference>
+        <reference type="race">Psion</reference>
+        <reference type="place">Zandia</reference>
+        <reference type="deity">X'hal</reference>
+        <reference type="person">Azar</reference>
+        <reference type="device">Klaxons</reference>
     </referenceList>
 </root>
