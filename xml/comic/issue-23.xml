@@ -2,18 +2,31 @@
 <?xml-model href="comic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <head>
-        <issueTitle issue=""></issueTitle>
-        <publisher></publisher>
-        <writer></writer>
-        <letterer></letterer>
-        <colorist></colorist>
-        <editor></editor>
-        <date when=""></date>
+        <issueTitle issue="23">The New Teen Titans</issueTitle>
+        <publisher>DC Comics</publisher>
+        <writer>Marv Wolfman</writer>
+        <artist>George Perez</artist>
+        <embellisher>Romeo Tanghal</embellisher>
+        <letterer>Ben Oda</letterer>
+        <colorist>Carl Gafford</colorist>
+        <editor>Len Wein</editor>
+        <date when="1982-09">September 1982</date>
     </head>
     <characterList>
-        <charList id=""></charList>
+        <charList id="zarek">Zarek</charList>
+        <charList id="gordanian">Gordanian(s)</charList>
+        <charList id="blackfire">Komand'r (Blackfire)</charList>
     </characterList>
     <settingList>
+        <setting>
+            <title>Slave Ship Trak'r</title>
+            <p>The ship is approaching Earth. Komand'r plans to take down her sister, Koriand'r</p>
+            <charsPresent>
+                <char ref="#zarek">Zarek</char>
+                <char ref="#gordanian">Gordanian(s)</char>
+                <char ref="#blackfire">Komand'r</char>
+            </charsPresent>
+        </setting>
         <setting>
             <title></title>
             <p></p>
@@ -23,6 +36,6 @@
         </setting>
     </settingList>
     <referenceList>
-        <reference type=""></reference>
+        <reference type="race">Citadel</reference>
     </referenceList>
 </root>
