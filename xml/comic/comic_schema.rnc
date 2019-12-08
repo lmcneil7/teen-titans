@@ -1,7 +1,8 @@
 start = root
 root = element root {head, characterList, settingList, referenceList}
-head = element head {title, publisher, writer, artist?, penciller?, layouts?, finisher?, embellisher?, inker?, letterer, colorist, editor, date}
-title = element title {issue?, text}
+head = element head {issueTitle, publisher, writer, artist?, penciller?, layouts?, finisher?, embellisher?, inker?, letterer, colorist, editor, date}
+issueTitle = element issueTitle {issue, text}
+title = element title {text}
 issue = attribute issue {xsd:int}
 publisher = element publisher {text}
 writer = element writer {text}
