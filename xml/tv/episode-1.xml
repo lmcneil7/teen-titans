@@ -8,6 +8,9 @@
         <storyboard>Kalvin Lee, Rafael Rosado, Alan Wan</storyboard>
         <animation>Dong Woo Animation Company, Ltd.</animation>
         <source>https://teentitans.fandom.com/wiki/Divide_and_Conquer_(Transcript)</source>
+        <issueList>
+            <issueInfo none="y"/>
+        </issueList>
     </head>
     <characterList>
         <charList type="nonrecurring" id="Guard1">Guard 1</charList>
