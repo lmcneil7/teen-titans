@@ -30,11 +30,11 @@ h2{
   padding-top: 5%;
 }
 div#header {
-    position: fixed;     
+    position: fixed;
        text-align: center;    
-       top: 5px; 
        width: 100%;
        background-color: black;
+       
 }
 p{
     color: white;
@@ -67,6 +67,26 @@ div#fieldset {
     text-align: left;
     background-color: lightgrey;
     padding: 3px 3px 3px 3px;
+}
+section.container{
+    display:flex;
+    position: absolute;
+    max-width: 100%;
+    margin-top: 40px;
+}
+div#episode{
+    flex: 1;
+    border: 1px solid #00e600;
+    flex-direction: column;
+    margin: 2px;
+    padding: 10px;
+}
+div#issue{
+    flex:1;
+    border: 1px solid #00e600;
+    flex-direction: column;
+    margin: 2px;
+    padding: 10px;
 }
 a:link {color: orange;}      /* unvisited link */
 a:visited {color:#1aa3ff
