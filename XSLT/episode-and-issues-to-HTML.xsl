@@ -170,8 +170,11 @@
         </h2>
     </xsl:template>
     
-    <xsl:template match="descendant::char">
+    <xsl:template match="setting//char">
         <li><xsl:apply-templates/></li>
+    </xsl:template>
+    <xsl:template match="act//char">
+        <span class="char"><xsl:apply-templates/></span>
     </xsl:template>
     <xsl:template match="reference">
         <li><xsl:apply-templates/></li>
