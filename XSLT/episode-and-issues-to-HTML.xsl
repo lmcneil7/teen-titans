@@ -28,7 +28,13 @@
                 <script src="../charToggle.js">/**/</script>
             </head>
             <body>
-                <h2><xsl:apply-templates select="descendant::episode"/></h2>
+            <!--ebb: Here's your server side include line -->    
+                <xsl:comment>#include virtual="header.html" </xsl:comment>
+              
+                <section class="container">  
+                  
+                <div id="episode">  
+                    <h2><xsl:apply-templates select="descendant::episode"/></h2>
                 <h3>Writer: <xsl:apply-templates select="descendant::writer"/><br/>
                 Director: <xsl:apply-templates select="descendant::director"/><br/>
                 Storyboard: <xsl:apply-templates select="descendant::storyboard"/></h3>
@@ -59,6 +65,30 @@
                     </fieldset>
                 </div>
                   <xsl:apply-templates select="descendant::body"/>
+             </div>
+             <div id="issue">
+             <xsl:choose> 
+                 <xsl:when test="descendant::issueInfo"> 
+                  <xsl:for-each select="descendant::issueInfo"> 
+                   <xsl:choose>
+                    <xsl:when test="@link">
+                        <xsl:apply-templates select="$comicColl//root[base-uri() ! tokenize(., '/')[last()] = tokenize(current()/@link/string(), '/')[last()]]" mode="comic"/>
+  
+                    </xsl:when>
+                   
+                    <xsl:otherwise>
+                        <h2>There are no corresponding comic issues.</h2>
+                    </xsl:otherwise>
+                </xsl:choose>
+                 </xsl:for-each>
+              </xsl:when>
+             <xsl:otherwise>
+                 <h2>No information was marked about related comic issues!</h2>
+             </xsl:otherwise>
+             </xsl:choose>
+             </div>    
+                  
+              </section>
                 
             </body>
         </html></xsl:result-document></xsl:for-each>
@@ -102,7 +132,49 @@
     <xsl:template match="spkr[@ref='#Robin']">
         <span class="robin"><xsl:apply-templates/><xsl:text>: </xsl:text></span>
     </xsl:template>
+ <!--ebb: comics issue template rules follow: -->   
+   <xsl:template match="root" mode="comic">
+       <h1><xsl:apply-templates select="descendant::issueTitle | descendant::title[@issue]"/></h1>
+       <h3>Publisher: <xsl:apply-templates select="descendant::publisher"/><br/>
+           Writer: <xsl:apply-templates select="descendant::writer"/><br/>
+           Penciller: <xsl:apply-templates select="descendant::penciller"/><br/>
+           Finisher: <xsl:apply-templates select="descendant::finisher"/><br/>
+           Letterer: <xsl:apply-templates select="descendant::letterer"/> <br/>
+           Colorist: <xsl:apply-templates select="descendant::colorist"/> <br/>
+           Editor: <xsl:apply-templates select="descendant::editor"/> <br/>
+       </h3>
+       <h3>Character List:</h3>
+       <ul><xsl:apply-templates select="descendant::charList"/></ul>
+       <h3>Settings</h3>
+       <ul><xsl:apply-templates select="descendant::title" mode="comic-TOC"/></ul>
+       <hr/>
+       <xsl:apply-templates select="descendant::setting" mode="comic"/>
+       <h3>Place References:</h3>
+       <ul><xsl:apply-templates select="descendant::reference"/></ul>
+   </xsl:template>
     
+    <xsl:template match="setting" mode="comic-TOC">
+        <xsl:apply-templates select="title" mode="comic-TOC"/>
+        <p><xsl:apply-templates select="p"/></p>
+        <h3>Characters Present:</h3>
+       <ul> <xsl:apply-templates select="descendant::char"/></ul>
+    </xsl:template>
+    <xsl:template match="title" mode="comic-TOC">
+        <li><a href="#s{count(preceding::title)}"><xsl:apply-templates/></a></li>
+    </xsl:template>
+    <xsl:template match="title" mode="comic">
+        <h2 id="s{count(preceding::title)}">
+            <span class="setting">
+                <xsl:apply-templates/>
+            </span>
+        </h2>
+    </xsl:template>
     
+    <xsl:template match="descendant::char">
+        <li><xsl:apply-templates/></li>
+    </xsl:template>
+    <xsl:template match="reference">
+        <li><xsl:apply-templates/></li>
+    </xsl:template>
   
 </xsl:stylesheet>
