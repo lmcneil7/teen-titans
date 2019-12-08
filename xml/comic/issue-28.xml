@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="comic_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <head>
+        <issueTitle issue=""></issueTitle>
+        <publisher></publisher>
+        <writer></writer>
+        <letterer></letterer>
+        <colorist></colorist>
+        <editor></editor>
+        <date when=""></date>
+    </head>
+    <characterList>
+        <charList id=""></charList>
+    </characterList>
+    <settingList>
+        <setting>
+            <title></title>
+            <p></p>
+            <charsPresent>
+                <char ref=""></char>
+            </charsPresent>
+        </setting>
+    </settingList>
+    <referenceList>
+        <reference type=""></reference>
+    </referenceList>
+</root>
