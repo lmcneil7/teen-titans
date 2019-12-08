@@ -2,7 +2,7 @@
 <?xml-model href="comic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <head>
-        <issueTitle issue=""></issueTitle>
+        <issueTitle issue="28">The New Teen Titans</issueTitle>
         <publisher></publisher>
         <writer></writer>
         <letterer></letterer>
