@@ -2,27 +2,135 @@
 <?xml-model href="comic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <head>
-        <issueTitle issue=""></issueTitle>
-        <publisher></publisher>
-        <writer></writer>
-        <letterer></letterer>
-        <colorist></colorist>
-        <editor></editor>
-        <date when=""></date>
+        <issueTitle issue="33">The New Teen Titans</issueTitle>
+        <publisher>DC Comics</publisher>
+        <writer>Marv Wolfman</writer>
+        <penciller>George Perez</penciller>
+        <inker>Romeo Tanghal</inker>
+        <letterer>Ben Oda</letterer>
+        <colorist>Adrienne Roy</colorist>
+        <editor>Len Wein</editor>
+        <date when="1983-07">July 1983</date>
     </head>
     <characterList>
-        <charList id=""></charList>
+        <charList id="wgirl">Donna Troy (Wonder Girl)</charList>
+        <charList id="alad">Aqualad</charList>
+        <charList id="trident">Trident</charList>
+        <charList id="terra">Tara Markov (Terra)</charList>
+        <charList id="bboy">Garfield Logan (Beast Boy (Changeling))</charList>
+        <charList id="starfire">Koriand'r (Starfire)</charList>
+        <charList id="cyborg">Victor Stone (Cyborg)</charList>
+        <charList id="raven">Raven</charList>
+        <charList id="kflash">Wally West (Kid Flash)</charList>
+        <charList id="trident1">Sammy Jaye (Trident 1)</charList>
+        <charList id="jason">Jason Todd</charList>
+        <charList id="alfred">Alfred</charList>
+        <charList id="trident2">Prof (Trident 2)</charList>
+        <charList id="chase">Adrien Chase</charList>
+        <charList id="trident3">(Trident 3)</charList>
     </characterList>
     <settingList>
         <setting>
-            <title></title>
-            <p></p>
+            <title>Dark and Stormy Night - East River</title>
+            <p>They find the body of Trigent which opens the investigation in his murder.</p>
             <charsPresent>
-                <char ref=""></char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#alad">Aqualad</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>The Titans except for Starfire are resting in a hologram beach. Beast Boy tells the story of Trident thorugh a flashback of when Beast Boy and Cyborg fought him.</p>
+            <charsPresent>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#trident1">Trident 1</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Wayne Manor</title>
+            <p>Starfire goes looking for Robin and what's been bothering him. She checks his address to find out he moved out because Batman took on a new ward, Jason Todd.</p>
+            <charsPresent>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#jason">Jason Todd</char>
+                <char ref="#alfred">Alfred</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>The continue on telling stories about Trident; similarly to Beast Boy and Cyborg, the other Titans ran and fought Trident. Flashback of Raven and Wonder Girl's encounter of Trident. It seems like they fought two different people.</p>
+            <charsPresent>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#trident2">Trident 2</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>The Eastern Tip of Long Island</title>
+            <p>For some reason, Anthony Scarapelli was freed. Refusing to accept that, Adrien Case and Robin track him. Chase has information that can be used to arrest Scarapelli.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#chase">Adrien Chase</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>Before Kid Flash can tell his interaction with Trident, Beast Boy answers a call from the police identifying Trident as Sammy Jaye. Flashback to Kid Flash and Terra's encounter with Trident. Koriand'r mentions that they all fought different people.</p>
+            <charsPresent>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#trident3">Trident 3</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Dilapidated Highrise in New York's West Eighties</title>
+            <p>Th remaining Tridents are talking about why they killed Sammy Jaye aka Trident 1. Cyborg was able to track them, so the Teen Titnas arrive at their hideout. A fight breaks out and the Titans are victorious.</p>
+            <charsPresent>
+                <char ref="#trident2"></char>
+                <char ref="#trident3"></char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#raven">Raven</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>The Eastern Tip of Long Island</title>
+            <p>Prologue: Robin and Chase crept up to the side of the house and on the count of tbree, they jump through the window.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#chase">Adrien Chase</char>
             </charsPresent>
         </setting>
     </settingList>
     <referenceList>
-        <reference type=""></reference>
+        <reference type="place">Atlantis</reference>
+        <reference type="demon">Trigon</reference>
+        <reference type="emperor">Nero</reference>
+        <reference type="hero">Batman</reference>
+        <reference type="org">H.I.V.E.</reference>
+        <reference type="deity">Hera</reference>
+        <reference type="person">Anthony Scarapelli</reference>
     </referenceList>
 </root>
