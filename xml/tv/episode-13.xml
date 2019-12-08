@@ -8,6 +8,10 @@
         <storyboard>Kalvin Lee, Rafael Rosado, Alan Wan</storyboard>
         <animation>Dong Woo Animation Company, Ltd.</animation>
         <source>https://teentitans.fandom.com/wiki/Apprentice_-_Part_2_(Transcript)</source>
+        <issueList>
+            <issueInfo link="../comic/issue-10.xml"/>
+            <issueInfo link="../comic/issue-34.xml"/>
+        </issueList>
     </head>
     <characterList>
         <charList type="recurring" id="Starfire" subtype="titan">Starfire</charList>
