@@ -2,27 +2,160 @@
 <?xml-model href="comic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <head>
-        <issueTitle issue=""></issueTitle>
-        <publisher></publisher>
-        <writer></writer>
+        <issueTitle issue="34">The New Teen Titans</issueTitle>
+        <publisher>DC Comics</publisher>
+        <writer>Marv Wolfman</writer>
         <letterer></letterer>
         <colorist></colorist>
         <editor></editor>
-        <date when=""></date>
+        <date when="1983-08">August 1983</date>
     </head>
     <characterList>
-        <charList id=""></charList>
+        <charList id="wintergreen">Wintergreen</charList>
+        <charList id="slade">Slade Wilson (Deathstroke the Terminator))</charList>
+        <charList id="terra">Tara Markov (Terra)</charList>
+        <charList id="wgirl">Donna Troy (Wonder Girl)</charList>
+        <charList id="bboy">Garfield Logan (Beast Boy (Changeling))</charList>
+        <charList id="starfire">Koriand'r (Starfire)</charList>
+        <charList id="#cyborg">Victor Stone (Cyborg)</charList>
+        <charList id="#kflash">Wally West (Kid Flash)</charList>
+        <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
+        <charList id="goon">Goon(s)</charList>
+        <charList id="chase">Adrien Chase</charList>
+        <charList id="scarap">Anthony Scarapelli</charList>
+        <charList id="long">Terrence (Terry) Long</charList>
+        <charList id="sally">Sally</charList>
+        <charList id="simms">Miss Sarah Simms</charList>
     </characterList>
     <settingList>
         <setting>
-            <title></title>
-            <p></p>
+            <title>Somewhere in the East Sixties</title>
+            <p>Slade Wilson is planning his next move called Plan 'T'.</p>
             <charsPresent>
-                <char ref=""></char>
+                <char ref="#wintergreen">Wintergreen</char>
+                <char ref="#slade">Terminator</char>
+                <char ref="#adeline">Adeline</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower - Control Center</title>
+            <p>Terra is still upset that the Titans won't reveal their secrets to her. The Titans throw a surprise birthday party for Terra.</p>
+            <charsPresent>
+                <char ref="terra">Terra</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#raven">Raven</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>The Eastern Tip of Long Island</title>
+            <p>A fight breaks out while Robin contemplates if this is legal to do. Chase goes after Scarapelli in order to make him pull out a gun. He's using Robin in order to make an arrest for an illegal firearm.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="goon">Goon(s)</char>
+                <char ref="#chase">Adrien Chase</char>
+                <char ref="#scarap">Anthony Scarapelli</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>Terra is stil upset about not knowing, but the Titans insist that it has nothing to do with her. Wonder Girl makes a decision about marriage and provides Kid Flash advice on whether or not he should quit being Kid Flash or not.</p>
+            <charsPresent>
+                <char ref="#terra">Terra</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#kflash">Kid Flash</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Wall Street</title>
+            <p>Terminator has a new target.</p>
+            <charsPresent>
+                <char ref="slade">Terminator</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>City Community College</title>
+            <p>Professor Long dismisses his class; Wonder Girl walks in wearing the engagement ring, confirming their plans for marriage.</p>
+            <charsPresent>
+                <char ref="#long">Terry Long</char>
+                <char ref="#sally">Sally</char>
+                <char ref="#wgirl">Wonder Girl</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Central Park</title>
+            <p>They discuss the date of the wedding; Wonder Girl wants to wait until she finds her real parents.</p>
+            <charsPresent>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#long">Terry Long</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>The situation has escalated and Terra is giving the Titans an ultimatum: tell her everything or she walks. Sarah Simms calls for Cyborg, but he refuses to talk to her.</p>
+            <charsPresent>
+                <char ref="#terra">Terra</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#simms">Miss Simms</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>West-Side Apartment of Sarah Simms</title>
+            <p>Their engagement has been called off long before she met Victor Stone. Mark, her ex-fiance, has been desperate to get her back, but she has had enough and throws him out.</p>
+            <charsPresent>
+                <char ref="#simms">Miss Simms</char>
+                <char ref="#mark">Mark</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>Finally, Terra decides to let it go. Then, Terminator calls with his own ultimatum: the Titans for a stockbroker he kidnapped. He reveals that he has another contract with the H.I.V.E. to kill the Titans. Wanting to prove herself, Terra knocks Beast Boy out and goes alone to fight Terminator.</p>
+            <charsPresent>
+                <char ref="#terra">Terra</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#slade">Terminator</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Wall Street</title>
+            <p>Terra arrives and starts fighting the Terminator; he's impressed by her powers. She handles him by herself long enough for the Teen Titans to show up. They are fighting better than he remembers, but he's able to grab Kid Flash in a moment of weakness. Terra strikes him one last time and the Titans decide that she's finally proven herself.</p>
+            <charsPresent>
+                <char ref="#slade">Terminator</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Brooklyn, NY</title>
+            <p>It was all a set-up; Terra is working for Terminator and their fight was a ploy to get the Titans to trust her.</p>
+            <charsPresent>
+                <char ref="#terra">Terra</char>
+                <char ref="#slade">Terminator</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Uptown in Manhattan</title>
+            <p>Robin is rightfully upset about being used and decides to cut ties with Chase. Robin leaves and a bomb goes off in Chase's apartment.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#chase">Adrien Chase</char>
+                <char ref="#doris">Doris</char>
             </charsPresent>
         </setting>
     </settingList>
     <referenceList>
-        <reference type=""></reference>
+        <reference type="org">H.I.V.E.</reference>
+        <reference type="team">Justice League</reference>
     </referenceList>
 </root>
