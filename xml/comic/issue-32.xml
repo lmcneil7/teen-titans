@@ -2,27 +2,167 @@
 <?xml-model href="comic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <head>
-        <issueTitle issue=""></issueTitle>
+        <issueTitle issue="32">The New Teen Titans</issueTitle>
         <publisher></publisher>
         <writer></writer>
         <letterer></letterer>
         <colorist></colorist>
         <editor></editor>
-        <date when=""></date>
+        <date when="1983-06">June 1983</date>
     </head>
     <characterList>
-        <charList id=""></charList>
+        <charList id="thun">Gan (Thunder)</charList>
+        <charList id="light">Tavis (Lightning)</charList>
+        <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
+        <charList id="wgirl">Donna Troy (Wonder Girl)</charList>
+        <charList id="starfire">Koriand'r (Starfire)</charList>
+        <charList id="raven">Raven</charList>
+        <charList id="terra">Tara Markov (Terra)</charList>
+        <charList id="kflash">Kid Flash</charList>
+        <charList id="fran">Frances (Fran) Kane</charList>
+        <charList id="cyborg">Victor Stone (Cyborg)</charList>
+        <charList id="bboy">Garfied Logan (Beast Boy (Changeling))</charList>
+        <charList id="flash">Barry Allen (Flash)</charList>
+        <charList id="speedy">Speedy</charList>
+        <charList id="general">General</charList>
+        <charList id="usarmy">United States (U.S.) Army</charList>
     </characterList>
     <settingList>
         <setting>
-            <title></title>
-            <p></p>
+            <title>Saint Louis</title>
+            <p>Thunder and Lightning are looking for someone, but no one gave them any information. They are not in control of their powers and destroy the apartment house.</p>
             <charsPresent>
-                <char ref=""></char>
+                <char ref="#thun">Thunder</char>
+                <char ref="#light">Lightning</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Hiding in the Darkness</title>
+            <p>Terrified by their own powers, Thunder and Lightning hide. Their powers and the want to hurt others is getting strong; they need to find him, the person they're looking for is unknown.</p>
+            <charsPresent>
+                <char ref="#thun">Thunder</char>
+                <char ref="#light">Lightning</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>T-Jet</title>
+            <p>The Titans are coming back from a mission. Wonder Girl wants Robin to open up while Robin is considering taking a hiatus from the Titans. Kid Flash is considering going back to Blue Valley. Cyborg and Beast Boy ask Kid Flash why and he explains it through a flashback on how he got his powers. Speedy is leaving and Terra voices complaints about not getting information from the Titans as a new member.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#fran">Fran Kane</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#flash">Flash</char>
+                <char ref="#speedy">Speedy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>The Titans make it back to the Tower and they start spliting off; Robin is the first walking past even when Koriand'r asks to speak. Fran is leaving. Speedy announces his departure by kissing Koriand'r and getting thrown at a wall. Being the last straw, Robin demands everyone to stop so that he can leave the Tower.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#starfire">Starfire</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#fran">Fran Kane</char>
+                <char ref="#speedy">Speedy</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#terra">Terra</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Saint Louis</title>
+            <p>Another instance occurs where Thunder and Lightning cannot control their powers; this time they strike down over 100 soldiers of the U.S. Army.</p>
+            <charsPresent>
+                <char ref="#thun">Thunder</char>
+                <char ref="#light">Lightning</char>
+                <char ref="#general">General</char>
+                <char ref="#usarmy">U.S. Army</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans Tower</title>
+            <p>Beast Boy and Terra are going to see a movie and ask if Cyborg wants to join them; he declines. Koriand'r, Wonder Girl and Raven are talking about Koriand'r moving on from Robin when the emergency alarm signals. Speedy lets them know of the issues arising in Saint Louis.</p>
+            <charsPresent>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#cyborg">Cyborg</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#raven">Raven</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>T-Jet</title>
+            <p>The Titans minus Robin head to Saint Louis.</p>
+            <charsPresent>
+                <char ref="#terra">Terra</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#cyborg">Victor Stone</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Saint Louis</title>
+            <p>The scene starts where we left off: Thunder and Lightning attacking the U.S. Army. The T-Jet lands and the Titans rush out to see what's going on. Koriand'r goes to apprehend Thunder and Lightning, but Lightning attacks. They reveal that they're looking for Second Lieutenant Walter Williams. Wonder Girl feels like they don't want to fight; however, the Titans have no choice but to attack. The Titans win the battle and decide to ask the brothers questions. They reveal why they're looking for Lieutenant Williams through flashback. They find out his last location was Maige and take off before anyone could stop them.</p>
+            <charsPresent>
+                <char ref="#thun">Thunder</char>
+                <char ref="#light">Lightning</char>
+                <char ref="#general">General</char>
+                <char ref="#usarmy">U.S. Army</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#starfire">Starfire</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#cyborg">Cyborg</char>
+                <char ref="#chanti">Chan Ti</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Maine</title>
+            <p>There's a violent storm and Raven tries to convince the brothers to stop. They don't listen to her which leads to Koriand'r attacking them; the other Titans join the fight soon after. They defeat the brothers again and Wonder Girl relays information about their father. He's a lost cause and to get treatment, the brothers decide to go to S.T.A.R. Labs.</p>
+            <charsPresent>
+                <char ref="#raven">Raven</char>
+                <char ref="#thun">Thunder</char>
+                <char ref="#light">Lightning</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#terra">Terra</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>S.T.A.R. Labs</title>
+            <p>Wonder Girl tells the Titans the truth; their father is alive, but he's declared as TOP SECRET by the government. She feels something is very wrong here.</p>
+            <charsPresent>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#raven">Raven</char>
             </charsPresent>
         </setting>
     </settingList>
     <referenceList>
-        <reference type=""></reference>
+        <reference type="place">Zandia</reference>
+        <reference type="hometown">Blue Valley</reference>
+        <reference type="person">Sarah Simms</reference>
+        <reference type="person">Terry Long</reference>
+        <reference type="team">Justice League</reference>
+        <reference type="deity">X'hal</reference>
+        <reference type="place">Hsuan</reference>
     </referenceList>
 </root>
