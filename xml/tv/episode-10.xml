@@ -8,6 +8,9 @@
        <storyboard>Kalvin Lee, Rafael Rosado, Alan Wan</storyboard>
        <animation>Dong Woo Animation Company, Ltd.</animation>
        <source>https://teentitans.fandom.com/wiki/Mad_Mod_Transcript</source>
+       <issueList>
+            <issueInfo none="y"/>
+       </issueList>
    </head>
    <characterList>
        <charList type="recurring" id="Robin" subtype="titan">Robin</charList>

@@ -8,6 +8,10 @@
         <storyboard>Kalvin Lee, Rafael Rosado, Alan Wan</storyboard>
         <animation>Dong Woo Animation Company, Ltd.</animation>
         <source>https://teentitans.fandom.com/wiki/Masks_(Transcript)</source>
+        <issueList>
+            <issueInfo link="../comic/issue-10.xml"/>
+            <issueInfo link="../comic/issue-34.xml"/>
+        </issueList>
     </head>
     <characterList>
         <charList type="recurring" id="Robin" subtype="titan">Robin</charList>

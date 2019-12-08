@@ -8,6 +8,10 @@
           <storyboard>Kalvin Lee, Rafael Rosado, Alan Wan</storyboard>
           <animation>Dong Woo Animation Company, Ltd.</animation>
           <source>https://teentitans.fandom.com/wiki/Nevermore_(Transcript)</source>
+          <issueList>
+               <issueInfo link="../comic/issue-3.xml"/>
+               <issueInfo link="../comic/issue-6.xml"/>
+          </issueList>
      </head>
      <characterList>
           <charList type="nonrecurring" id="DoctorLight" subtype="villain">Doctor Light</charList>

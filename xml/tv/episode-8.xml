@@ -8,6 +8,9 @@
         <storyboard>Kalvin Lee, Rafael Rosado, Alan Wan</storyboard>
         <animation>Dong Woo Animation Company, Ltd.</animation>
         <source>https://teentitans.fandom.com/wiki/Deep_Six_(Transcript)</source>
+        <issueList>
+            <issueInfo link="../comic/issue-33.xml"/>
+        </issueList>
     </head>
     <characterList>
         <charList type="nonrecurring" id="Captain">Captain</charList>

@@ -8,6 +8,9 @@
         <storyboard>Kalvin Lee, Rafael Rosado, Alan Wan</storyboard>
         <animation>Dong Woo Animation Company, Ltd.</animation>
         <source>https://teentitans.fandom.com/wiki/Car_Trouble_(Transcript)</source>
+        <issueList>
+            <issueInfo none="y"/>
+        </issueList>
     </head>
     <characterList>
         <charList type="recurring" id="Cyborg" subtype="titan">Cyborg</charList>
