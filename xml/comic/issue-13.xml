@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="comic_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <head>
+        <title issue="13">The New Teen Titans</title>
+        <publisher>DC Comics</publisher>
+        <writer>Marv Wolfman</writer>
+        <artist>George Perez</artist>
+        <embellisher>Romeo Tanghal</embellisher>
+        <letterer>Ben Oda</letterer>
+        <colorist>Adrienne Roy</colorist>
+        <editor>Len Wein</editor>
+        <date when="1981-11">November 1981</date>
+    </head>
+    <characterList>
+        <charList id="wgirl">Donna Troy (Wonder Girl)</charList>
+        <charList id="leroy">Leroy</charList>
+        <charList id="louie">Louie</charList>
+        <charList id="officer">Officer</charList>
+        <charList id="long">Terrence (Terry) Long</charList>
+        <charList id="starfire">Koriand'r (Starfire)</charList>
+        <charList id="raven">Raven</charList>
+        <charList id="hippo">Hippolyta (Queen of the Amazons)</charList>
+        <charList id="tibya">Tibya</charList>
+        <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
+        <charList id="cyborg">Victor Stone (Cyborg)</charList>
+        <charList id="kflash">Wally West (Kid Flash)</charList>
+        <charList id="rman">Cliffe Steele (Robotman)</charList>
+        <charList id="hestia">Hestia</charList>
+        <charList id="bboy">Garfield Logan (Beast Boy (Changeling))</charList>
+        <charList id="rouge">Madame Rouge</charList>
+        <charList id="dayton">Steve Dayton</charList>
+        <charList id="zahl">General Zahl</charList>
+    </characterList>
+    <settingList>
+        <setting>
+            <title>A Crime in Wonder Girl's Neighborhood</title>
+            <p>Wonder Girl is looking for a place to chanel her rage and finds criminals in the middle of a job to beat up. However, she realizes it goes against what she believes in and calls the police.</p>
+            <charsPresent>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#leroy">Leroy</char>
+                <char ref="#louie">Louie</char>
+                <char ref="#officer">Officer</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Somewhere in New York</title>
+            <p>Wonder Girl visits Terry Long to help ease her worries before going back to Paradise Island to check on Beast Boy.</p>
+            <charsPresent>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#long">Terry Long</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Amazon Tournament</title>
+            <p>Starfire fights in the Amazon Tournament. Using her training by the Okaaran Warloads, she wins the tournament. As they are leaving Paula's Laboratory Island, where Beast Boy is healing, explodes.</p>
+            <charsPresent>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#hippo">Hippolyta</char>
+                <char ref="#tibya">Tibya</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Uganda</title>
+            <p>Robin, Kid Flash and Cyborg are looking for Robotman. They find Robotman bounded and mangled but still alive. With the help of Cyborg, Robotman awakes, but he has no recollection of what happened.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#rman">Robotman</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Outside of Paula's Laboratory</title>
+            <p>Raven, Koriand'r and Hippolyta go to Paula's Laboratory Island to investigate. Hestia reveals the blast was caused by the power of the Purple Healing Ray. The Ray has driven Beast Boy mad. He attacks the Amazons and Koriand'r and they don't know how to defeat him. Raven is an empath and she's able to change Beast Boy back to human form.</p>
+            <charsPresent>
+                <char ref="#hestia">Hestia</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#hippo">Hippolyta</char>
+                <char ref="#bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Inside of Paula's Laboratory</title>
+            <p>Beast Boy awakens but cannot step foot off the table due to the fact that if any man steps foot on Paradise Island, the Amazons lose their powers. Wonder Girl arrives on Paradise Island.</p>
+            <charsPresent>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#staarfire">Koriand'r</char>
+                <char ref="#hippo">Hippolyta</char>
+                <char ref="#wgirl">Wonder Girl</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Uganda</title>
+            <p>They find a cave that's rumored to be where Madame Rouge has been hiding. Kid Flash decides to go ahead with his speed to make sure it's safe for the Titans. He finds a headquarters. The others join him; their mission is to find Steve Dayton.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#rman">Robotman</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#rouge">Madame Rouge</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Madame Rouge's Headquarters</title>
+            <p>They are able to track down Steve Dayton thanks to Kid Flash knowing his location and Robin picking the lock to the cell. They are stopped by Guards as they are freeing Dayton, but they finish them off with ease. On their way out, Kid Flash grabs the Mento suit.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#rman">Robotman</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#dayton">Steve Dayton</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Back Outside - Uganda</title>
+            <p>There was no guars blocking their way, so they made it to the Jet with little effort. Robotman has a feeling that Madame Rouge planned it from the start and it's proven in the next panel with Madame Rouge and General Zahl watching them on a monitor. Madame Rouge has an inside man with the Titans. Steve Dayton is actually on their side and not the Titans' side; the heroes are unaware.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#rman">Robotman</char>
+                <char ref="#dayton">Steve Dayton</char>
+                <char ref="#rouge">Madame Rouge</char>
+                <char ref="#zahl">General Zahl</char>
+            </charsPresent>
+        </setting>
+    </settingList>
+    <referenceList>
+        <reference type="titan">Hyperion</reference>
+        <reference type="item">Purple Healing Ray</reference>
+        <reference type="animal">Kanga</reference>
+        <reference type="weapon">Lance</reference>
+        <reference type="weapon">Battle-Staff</reference>
+        <reference type="deity">Athena</reference>
+        <reference type="people">Okaaran Warloads</reference>
+        <reference type="place">Tamaran</reference>
+        <reference type="deity">X'hal</reference>
+        <reference type="race">Citadel</reference>
+        <reference type="place">Azarath</reference>
+        <reference type="person">Sarah Simms</reference>
+        <reference type="team">Doom Patrol</reference>
+    </referenceList>
+</root>
