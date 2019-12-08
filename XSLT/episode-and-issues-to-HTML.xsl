@@ -34,7 +34,15 @@
                 <section class="container">  
                   
                 <div id="episode">  
+                    
+                    <xsl:variable name="episodeNumber" as="xs:double" select="tokenize(current()/base-uri(), '/')[last()] ! substring-before(., '.xml') ! substring-after(., '-') ! number()"/>
                     <h2><xsl:apply-templates select="descendant::episode"/></h2>
+                    <h3>Episode number: <xsl:value-of select="$episodeNumber"/></h3>
+                    <ul id="episodeNav">
+                        <xsl:if test="$episodeNumber gt 1"><li><a href="episode-{$episodeNumber - 1}.html">⇦  Previous episode</a></li></xsl:if>
+                        <xsl:if test="$episodeNumber lt 13"> 
+                         <li><a href="episode-{$episodeNumber + 1}.html">Next episode ⇨</a></li></xsl:if>
+                    </ul>
                 <h3>Writer: <xsl:apply-templates select="descendant::writer"/><br/>
                 Director: <xsl:apply-templates select="descendant::director"/><br/>
                 Storyboard: <xsl:apply-templates select="descendant::storyboard"/></h3>
