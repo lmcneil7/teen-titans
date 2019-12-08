@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="comic_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <head>
+        <title issue="14">The New Teen Titans</title>
+        <publisher>DC Comics</publisher>
+        <writer>Marv Wolfman</writer>
+        <artist>George Perez</artist>
+        <embellisher>Romeo Tanghal</embellisher>
+        <letterer>Ben Oda</letterer>
+        <colorist>Adrienne Roy</colorist>
+        <editor>Len Wein</editor>
+        <date when="1981-12">December 1981</date>
+    </head>
+    <characterList>
+        <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
+        <charList id="kflash">Wally West (Kid Flash)</charList>
+        <charList id="cyborg">Victor Stone (Cyborg)</charList>
+        <charList id="rman">Robotman</charList>
+        <charList id="dayton">Steve Dayton</charList>
+    </characterList>
+    <settingList>
+        <setting>
+            <title>Uganda</title>
+            <p></p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#rman">Robotman</char>
+                <char ref="#dayton">Steve Dayton</char>
+            </charsPresent>
+        </setting>
+    </settingList>
+    <referenceList>
+        <reference type=""></reference>
+    </referenceList>
+</root>
