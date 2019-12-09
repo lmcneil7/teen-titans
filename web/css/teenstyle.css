@@ -82,13 +82,15 @@ section.aboutContain{
 }
 div#aboutProj{
     flex: 3;
-    position: relative;
-    margin: 2px;
+    position: absolute;
+    margin: 10px;
+    color: white;
 }
 div#aboutTeam{
     flex: 1;
     position: relative;
-    margin: 2px
+    margin: 2px;
+    color: white;
 }
 div#episode{
     flex: 1;
