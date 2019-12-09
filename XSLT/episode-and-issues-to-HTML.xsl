@@ -172,7 +172,7 @@
        <ul> <xsl:apply-templates select="descendant::char" mode="comic"/></ul>
     </xsl:template>
     <xsl:template match="title" mode="comic-TOC">
-        <li><a href="#s{count(preceding::title)}"><xsl:apply-templates select="descendant::title"/></a></li>
+        <li><a href="#s{count(preceding::title)}"><xsl:apply-templates select="descendant::title" mode="comic"/></a></li>
     </xsl:template>
     <xsl:template match="title" mode="comic">
         <h2 id="s{count(preceding::title)}">
