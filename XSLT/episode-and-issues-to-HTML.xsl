@@ -28,10 +28,7 @@
                 <script src="../charToggle.js">/**/</script>
             </head>
             <body>
-            <!--ebb: Here's your server side include line -->    
-                <xsl:comment>#include virtual="headerTexts.html" </xsl:comment>
-              
-                <section class="container">  
+                <section class="container"> 
                   
                 <div id="episode">  
                     
@@ -97,7 +94,7 @@
              </div>    
                   
               </section>
-                
+                <p><a href="../index.html">Back To Home</a></p>
             </body>
         </html></xsl:result-document></xsl:for-each>
     </xsl:template>
