@@ -29,7 +29,7 @@
             </head>
             <body>
             <!--ebb: Here's your server side include line -->    
-                <xsl:comment>#include virtual="../header.html" </xsl:comment>
+                <xsl:comment>#include virtual="headerTexts.html" </xsl:comment>
               
                 <section class="container">  
                   

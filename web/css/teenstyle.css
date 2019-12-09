@@ -75,6 +75,21 @@ section.container{
     max-width: 100%;
     margin-top: 40px;
 }
+section.aboutContain{
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+}
+div#aboutProj{
+    flex: 3;
+    position: relative;
+    margin: 2px;
+}
+div#aboutTeam{
+    flex: 1;
+    position: relative;
+    margin: 2px
+}
 div#episode{
     flex: 1;
     border: 1px solid #00e600;
