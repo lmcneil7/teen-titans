@@ -24,7 +24,7 @@
         <html>
             <head>
                 <title><xsl:apply-templates select="descendant::episode"/></title>
-                <link rel="stylesheet" type="text/css" href="../../css/teenstyle.css"/>
+                <link rel="stylesheet" type="text/css" href="../teenstyle.css"/>
                 <script src="../charToggle.js">/**/</script>
             </head>
             <body>
