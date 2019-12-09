@@ -16,23 +16,89 @@
         <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
         <charList id="kflash">Wally West (Kid Flash)</charList>
         <charList id="cyborg">Victor Stone (Cyborg)</charList>
-        <charList id="rman">Robotman</charList>
+        <charList id="rman">Cliffe Steele (Robotman)</charList>
         <charList id="dayton">Steve Dayton</charList>
+        <charList id="wgirl">Donna Troy (Wonder Girl)</charList>
+        <charList id="bboy">Garfield Logan (Beast Boy (Changeling))</charList>
+        <charList id="raven">Raven</charList>
+        <charList id="starfire">Koriand'r (Starfire)</charList>
+        <charList id="rouge">Madame Rouge</charList>
+        <charList id="zahl">General Zahl</charList>
+        <charList id="duchamp">Henri Duchamp</charList>
+        <charList id="caulder">Niles Caulder (Chief)</charList>
+        <charList id="nman">Larry Trainor (Negative Man)</charList>
+        <charList id="egirl">Rita Farr (Elastic Girl)</charList>
+        <charList id="sman">Superman</charList>
+        <charList id="flash">Barry Allen (Flash)</charList>
     </characterList>
     <settingList>
         <setting>
             <title>Uganda</title>
-            <p></p>
+            <p>The other Titans join Robin, Victor and Kid Flash on Africa. Steve Dayton is still is distress, so in order to help him, they put on the Mento costume that he's been asking for. It turns out to be a mistake because he wipes out everyone except Kid Flash. They are to recover and try to figure out what's making Dayton react like that as they fight. Raven uses her powers to release him from the mind control.</p>
             <charsPresent>
                 <char ref="#robin">Robin</char>
                 <char ref="#cyborg">Victor Stone</char>
                 <char ref="#kflash">Kid Flash</char>
                 <char ref="#rman">Robotman</char>
                 <char ref="#dayton">Steve Dayton</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#starfire">Koriand'r</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Madame Rouge's Headquarters</title>
+            <p>Losing control of Dayton puts a hold on their plans, but Zahl promises that nothing will stop them. Madame Rouge is questioning herself and Zahl.</p>
+            <charsPresent>
+                <char ref="#rouge">Madame Rouge</char>
+                <char ref="#zahl">General Zahl</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Zandia</title>
+            <p>Duchamp's letting Madame Rouge know that the coup is scheduled and will be successful. Some kills him.</p>
+            <charsPresent>
+                <char ref="duchamp">Henri Duchamp</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Uganda</title>
+            <p>Dayton is back to normal, yet, he doesn't remember anything from the year he might missing. Flashback of the creation of the Doom Patrol. Beast Boy gets emotional and leaves to pursue Madame Rouge and General Zahl by himself. The Titans follow him.</p>
+            <charsPresent>
+                <char ref="#dayton">Steve Dayton</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#rman">Robotman</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#caulder">Chief</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#nman">Negative Man</char>
+                <char ref="#egirl">Elastic Girl</char>
+                <char ref="#sman">Superman</char>
+                <char ref="#flash">Flash</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Blue Skies</title>
+            <p>Beast Boy is flying, feeling bad for yelling at the Titans. A earthquake occurs.</p>
+            <charsPresent>
+                <char ref="bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title></title>
+            <p></p>
+            <charsPresent>
+                <char ref=""></char>
             </charsPresent>
         </setting>
     </settingList>
     <referenceList>
-        <reference type=""></reference>
+        <reference type="place">Azarath</reference>
+        <reference type="place">Zandia</reference>
     </referenceList>
 </root>
