@@ -163,6 +163,9 @@
     
     <xsl:template match="setting" mode="comic-TOC">
         <xsl:apply-templates select="title" mode="comic-TOC"/>
+    </xsl:template>
+    <xsl:template match="setting" mode="comic">
+        <xsl:apply-templates select="title" mode="comic"/>
         <p><xsl:apply-templates select="p"/></p>
         <h3>Characters Present:</h3>
        <ul> <xsl:apply-templates select="descendant::char"/></ul>
