@@ -79,11 +79,14 @@ section.aboutContain{
     display: flex;
     flex-direction: column;
     max-width: 100%;
+    margin-top: 20px;
+   font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 18px;
 }
 div#aboutProj{
     flex: 3;
-    position: absolute;
-    margin: 10px;
+    position: relative;
+    margin-top: 20px;
     color: white;
 }
 div#aboutTeam{
@@ -106,7 +109,7 @@ div#issue{
     margin: 2px;
     padding: 10px;
 }
-a:link {color: orange;}      /* unvisited link */
+a:link {color: orange;} /* unvisited link */
 a:visited {color:#1aa3ff
 ;}  /* visited link */
 a:hover {color:#00e600
