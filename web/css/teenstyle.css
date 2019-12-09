@@ -93,6 +93,11 @@ div#aboutTeam{
     margin: 2px;
     color: white;
 }
+div#aboutTeam2{
+   position: relative;
+   margin: 2px;
+   color: white; 
+}
 div#episode{
     flex: 1;
     border: 1px solid #00e600;
