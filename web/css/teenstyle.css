@@ -84,13 +84,11 @@ section.aboutContain{
     font-size: 18px;
 }
 div#aboutProj{
-    flex: 3;
     position: relative;
     margin-top: 20px;
     color: white;
 }
 div#aboutTeam{
-    flex: 1;
     position: relative;
     margin: 2px;
     color: white;
