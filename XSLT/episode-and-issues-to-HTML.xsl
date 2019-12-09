@@ -154,7 +154,7 @@
        <h3>Character List:</h3>
        <ul><xsl:apply-templates select="descendant::charList"/></ul>
        <h3>Settings</h3>
-       <ul><xsl:apply-templates select="setting" mode="comic-TOC"/></ul>
+       <ul><xsl:apply-templates select="descendant::title" mode="comic-TOC"/></ul>
        <hr/>
        <xsl:apply-templates select="descendant::setting" mode="comic"/>
        <h3>References:</h3>
@@ -169,7 +169,7 @@
         <xsl:apply-templates select="title" mode="comic"/>
         <p><xsl:apply-templates select="p"/></p>
         <h3>Characters Present:</h3>
-       <ul> <xsl:apply-templates select="descendant::char"/></ul>
+       <ul> <xsl:apply-templates select="descendant::char" mode="comic"/></ul>
     </xsl:template>
     <xsl:template match="title" mode="comic-TOC">
         <li><a href="#s{count(preceding::title)}"><xsl:apply-templates/></a></li>
@@ -180,6 +180,9 @@
                 <xsl:apply-templates/>
             </span>
         </h2>
+    </xsl:template>
+    <xsl:template match="descendant::char" mode="comic">
+        <li><xsl:apply-templates/></li>
     </xsl:template>
     
     <xsl:template match="setting//char">
