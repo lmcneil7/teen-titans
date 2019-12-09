@@ -159,6 +159,7 @@
        <xsl:apply-templates select="descendant::setting" mode="comic"/>
        <h3>References:</h3>
        <ul><xsl:apply-templates select="descendant::reference"/></ul>
+       <hr/>
    </xsl:template>
     
     
