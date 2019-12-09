@@ -155,10 +155,10 @@
        <ul><xsl:apply-templates select="descendant::charList"/></ul>
        <h3>Settings</h3>
        <ul><xsl:apply-templates select="descendant::title" mode="comic-TOC"/></ul>
-       <hr/>
        <xsl:apply-templates select="descendant::setting" mode="comic"/>
        <h3>References:</h3>
        <ul><xsl:apply-templates select="descendant::reference"/></ul>
+       <hr/>
    </xsl:template>
     
     
