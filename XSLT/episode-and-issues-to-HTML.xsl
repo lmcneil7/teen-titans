@@ -157,9 +157,10 @@
        <ul><xsl:apply-templates select="descendant::title" mode="comic-TOC"/></ul>
        <hr/>
        <xsl:apply-templates select="descendant::setting" mode="comic"/>
-       <h3>Place References:</h3>
+       <h3>References:</h3>
        <ul><xsl:apply-templates select="descendant::reference"/></ul>
    </xsl:template>
+    
     
     <xsl:template match="setting" mode="comic-TOC">
         <xsl:apply-templates select="title" mode="comic-TOC"/>
