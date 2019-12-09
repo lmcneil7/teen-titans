@@ -165,14 +165,14 @@
     <xsl:template match="setting" mode="comic-TOC">
         <xsl:apply-templates select="title" mode="comic-TOC"/>
     </xsl:template>
-    <xsl:template match="setting" mode="comic">
+    <xsl:template match="descendant::setting" mode="comic">
         <xsl:apply-templates select="title" mode="comic"/>
         <p><xsl:apply-templates select="p"/></p>
         <h3>Characters Present:</h3>
        <ul> <xsl:apply-templates select="descendant::char" mode="comic"/></ul>
     </xsl:template>
     <xsl:template match="title" mode="comic-TOC">
-        <li><a href="#s{count(preceding::title)}"><xsl:apply-templates select="descendant::title" mode="comic"/></a></li>
+        <li><a href="#s{count(preceding::title)}"><xsl:apply-templates/></a></li>
     </xsl:template>
     <xsl:template match="title" mode="comic">
         <h2 id="s{count(preceding::title)}">
