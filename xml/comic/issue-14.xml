@@ -62,7 +62,7 @@
             <title>Zandia</title>
             <p>Duchamp's letting Madame Rouge know that the coup is scheduled and will be successful. Some kills him.</p>
             <charsPresent>
-                <char ref="duchamp">Henri Duchamp</char>
+                <char ref="#duchamp">Henri Duchamp</char>
             </charsPresent>
         </setting>
         <setting>
@@ -89,7 +89,7 @@
             <title>Blue Skies</title>
             <p>Beast Boy is flying, feeling bad for yelling at the Titans. A earthquake occurs.</p>
             <charsPresent>
-                <char ref="bboy">Beast Boy</char>
+                <char ref="#bboy">Beast Boy</char>
             </charsPresent>
         </setting>
         <setting>
@@ -99,7 +99,7 @@
                 <char ref="#robin">Robin</char>
                 <char ref="#kflash">Kid Flash</char>
                 <char ref="#cyborg">Victor Stone</char>
-                <char ref="wgirl">Wonder Girl</char>
+                <char ref="#wgirl">Wonder Girl</char>
                 <char ref="#starfire">Koriand'r</char>
                 <char ref="#rman">Robotman</char>
                 <char ref="#raven">Raven</char>
@@ -136,8 +136,8 @@
             <title>Zandia</title>
             <p>The floating city attacks Zandia and kills the president and citizens. Once the damage is done, it continues its journey. The Titans intersect it and start to fight back the forces attacking Zandia; Raven, Wonder Girl and Koriand'r start the initial attack as Robin continues to fly the jet. They attack for as long as they can, but the forces are too large and they get defeated. Meanwhile, Robin, Cyborg and Robotman look for a way into the floating city when they spot Beast Boy. It turns out to be Madame Rouge disguised as Beast Boy; catching them off guard, she shoots the jet down. General Zahl has captured the other Titans while Madame captures the ones in the jet.</p>
             <charsPresent>
-                <char ref="graves">Frederick Graves</char>
-                <char ref="zahl">General Zahl</char>
+                <char ref="#graves">Frederick Graves</char>
+                <char ref="#zahl">General Zahl</char>
                 <char ref="#robin">Robin</char>
                 <char ref="#wgirl">Wonder Girl</char>
                 <char ref="#starfire">Koriand'r</char>
@@ -153,8 +153,8 @@
             <title>Unknown</title>
             <p>Beast Boy has been captured by the Brotherhood of Evil.</p>
             <charsPresent>
-                <char ref="bboy">Beast Boy</char>
-                <char ref="mallah">Mallah</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#mallah">Mallah</char>
             </charsPresent>
         </setting>
     </settingList>
