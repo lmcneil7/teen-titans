@@ -30,6 +30,9 @@
         <charList id="egirl">Rita Farr (Elastic Girl)</charList>
         <charList id="sman">Superman</charList>
         <charList id="flash">Barry Allen (Flash)</charList>
+        <charList id="graves">President Frederick Graves</charList>
+        <charList id="sold4x">Soldier 4-X</charList>
+        <charList id="mallah">Mallah</charList>
     </characterList>
     <settingList>
         <setting>
@@ -90,15 +93,76 @@
             </charsPresent>
         </setting>
         <setting>
-            <title></title>
-            <p></p>
+            <title>Uganda - At the Same Time</title>
+            <p>The other Titans feel the earthquake as well on the ground. However, Wonder Girl points out the the 'earthquake' wasn't natural and Koriand'r and her fly off to invesitgate. Kid Flash and Raven decide to go to check on the epicenter.</p>
             <charsPresent>
-                <char ref=""></char>
+                <char ref="#robin">Robin</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="wgirl">Wonder Girl</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#rman">Robotman</char>
+                <char ref="#raven">Raven</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Epicenter</title>
+            <p>Kid Flash and Raven discover that Madame Rouge's underground fortress is gone. The fortress became a floating city.</p>
+            <charsPresent>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Floating City</title>
+            <p>Beast Boy realizes that the floating city is the result of Madame Rouge's doing and decides to grab ahold and see where it goes.</p>
+            <charsPresent>
+                <char ref="#bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>T-Jet</title>
+            <p>The Titans including Robotman follow the floating city inside the T-Jet. Because Cyborg is able to figure out the city's trajectory, they are able to figure out that Madame Rouge's destination is Zandia.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#rman">Robotman</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#wgirl">Wonder Girl</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Zandia</title>
+            <p>The floating city attacks Zandia and kills the president and citizens. Once the damage is done, it continues its journey. The Titans intersect it and start to fight back the forces attacking Zandia; Raven, Wonder Girl and Koriand'r start the initial attack as Robin continues to fly the jet. They attack for as long as they can, but the forces are too large and they get defeated. Meanwhile, Robin, Cyborg and Robotman look for a way into the floating city when they spot Beast Boy. It turns out to be Madame Rouge disguised as Beast Boy; catching them off guard, she shoots the jet down. General Zahl has captured the other Titans while Madame captures the ones in the jet.</p>
+            <charsPresent>
+                <char ref="graves">Frederick Graves</char>
+                <char ref="zahl">General Zahl</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#sold4x">Soldier 4-X</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#cyborg">Cyborg</char>
+                <char ref="#rman">Robotman</char>
+                <char ref="#bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Unknown</title>
+            <p>Beast Boy has been captured by the Brotherhood of Evil.</p>
+            <charsPresent>
+                <char ref="bboy">Beast Boy</char>
+                <char ref="mallah">Mallah</char>
             </charsPresent>
         </setting>
     </settingList>
     <referenceList>
         <reference type="place">Azarath</reference>
         <reference type="place">Zandia</reference>
+        <reference type="person">Azar</reference>
+        <reference type="deity">Hera</reference>
+        <reference type="villain">The Brotherhood of Evil</reference>
     </referenceList>
 </root>
