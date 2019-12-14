@@ -2,7 +2,7 @@
 <?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <head>
-        <episode>DIVIDE AND CONQUER</episode>
+        <episode>FINAL EXAM</episode>
         <writer>David Slack</writer>
         <director>Ciro Nieli</director>
         <storyboard>Kalvin Lee, Rafael Rosado, Alan Wan</storyboard>
