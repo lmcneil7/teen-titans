@@ -26,6 +26,7 @@
                 <title><xsl:apply-templates select="descendant::episode"/></title>
                 <link rel="stylesheet" type="text/css" href="../teenstyle.css"/>
                 <script src="../charToggle.js">/**/</script>
+                <link rel="icon" href="../teenTitans-favicon.png"/>
             </head>
             <body>
                 <section class="container"> 
