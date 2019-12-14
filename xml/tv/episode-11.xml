@@ -14,7 +14,7 @@
     </head>
     <characterList>
         <charList type="recurring" id="Cyborg" subtype="titan">Cyborg</charList>
-        <charList type="recurring" id="Beast Boy" subtype="titan">Beast Boy</charList>
+        <charList type="recurring" id="BeastBoy" subtype="titan">Beast Boy</charList>
         <charList type="recurring" id="Raven" subtype="titan">Raven</charList>
         <charList type="recurring" id="Robin" subtype="titan">Robin</charList>
         <charList type="recurring" id="Starfire" subtype="titan">Starfire</charList>

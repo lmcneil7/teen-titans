@@ -23,7 +23,6 @@
         <charList type="nonrecurring" id="Guard1">Guard 1</charList>
         <charList type="nonrecurring" id="Guard2">Guard 2</charList>
         <charList type="nonrecurring" id="RedX" subtype="villain">Red X</charList>
-        <charList type="nonrecurring" id="HologramX">Hologram X</charList>
     </characterList>
     <body>
         <act n="0">
@@ -750,14 +749,14 @@
                 appears; caught up in the net as during the Titans' first pursuit of <char>Red X</char> He
                 flickers a bit.</sd>
 
-            <sp><spkr ref="#HologramRobin">Hologram Robin</spkr>I'm fine! Get X! Go!</sp>
+            <sp><spkr ref="#Robin">Hologram Robin</spkr>I'm fine! Get X! Go!</sp>
 
             <sd><char>Starfire's</char> foot steps into view near it.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr><sd>from o.c.</sd>Huh?<sd><directNote kind="cut">Cut to
                 her</directNote>.</sd><char>Robin</char></sp>
 
-            <sp><spkr ref="#HologramRobin">Hologram Robin</spkr>I'm fine! Get X! Go!<sd>as<char>Starfire</char>
+            <sp><spkr ref="#Robin">Hologram Robin</spkr>I'm fine! Get X! Go!<sd>as<char>Starfire</char>
                     reaches through him</sd>I'm fine! Get X! Go!</sp>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>If you were not really there, then where

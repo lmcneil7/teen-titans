@@ -19,7 +19,7 @@
         <charList type="recurring" id="Robin" subtype="titan">Robin</charList>
         <charList type="recurring" id="Starfire" subtype="titan">Starfire</charList>
         <charList type="recurring" id="Raven" subtype="titan">Raven</charList>
-        <charList type="recurring" id="Cybrg" subtype="titan">Cyborg</charList>
+        <charList type="recurring" id="Cyborg" subtype="titan">Cyborg</charList>
         <charList type="recurring" id="BeastBoy" subtype="titan">Beast Boy</charList>
         <charList type="recurring" id="Aqualad" subtype="titan">Aqualad</charList>
         <charList type="nonrecurring" id="Tridents" subtype="villain">Tridents</charList>
@@ -31,7 +31,7 @@
         <charList type="nonrecurring" id="Trident6" subtype="villain">Trident 6</charList>
         <charList type="nonrecurring" id="Trident7" subtype="villain">Trident 7</charList>
         <charList type="nonrecurring" id="Trident8" subtype="villain">Trident 8</charList>
-        <charList type="nonrecurring" id="Trident8" subtype="villain">Trident 9</charList>
+        <charList type="nonrecurring" id="Trident9" subtype="villain">Trident 9</charList>
     </characterList>
     <body>
         <act n="0">

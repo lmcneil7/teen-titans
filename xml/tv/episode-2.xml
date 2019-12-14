@@ -108,14 +108,14 @@
                     Boy</char>’s laughter. He and <char>Cyborg</char> have been playing.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Boo-yah!</sp>
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Sweet!</sp>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Sweet!</sp>
             <sd>They trade a high five. <directNote kind="cut">Cut to outside the booth as
                         <char>Beast Boy</char> is handed his prize, a huge stuffed
                     chicken.</directNote>
                 <char>Raven</char> leans against a post, her arms crossed and her expression showing
                 her low opinion of the whole exercise.</sd>
 
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Told you we’d win you a prize.</sp>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Told you we’d win you a prize.</sp>
             <sd>He gives her the toy.</sd>
             <sp><spkr ref="#Raven">Raven</spkr>A giant chicken. I must be the luckiest girl in the
                 world.</sp>
@@ -139,7 +139,7 @@
                 the pier and flies neatly through the other four <char>Titans</char>; <charDesc
                     ref="Centauri">the pursuer</charDesc> does likewise.</sd>
 
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Who’s her new best friend?</sp>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Who’s her new best friend?</sp>
             <sp><spkr ref="#Robin">Robin</spkr>Don’t know-<sd>socking fist against palm</sd>-but I
                 can’t wait to meet him.</sp>
             <sd>The chase loops around the Ferris wheel and back to the pier, where
@@ -164,7 +164,7 @@
                     form</transform>, looks down after it; a loud splash is heard from down
                 o.c.</sd>
 
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
                 <sd>bewildered</sd>So, did we just win?</sp>
             <sd><charDesc ref="Centauri">The thing</charDesc> crashes up through the planks at the
                     <char>Titans</char>’ feet <annot>to answer that one with a big fat no</annot>.
@@ -262,10 +262,10 @@
                 <sd>impressed</sd>You…know about chakras?</sp>
             <sp><spkr ref="#Blackfire">Blackfire</spkr>I got way into meditation on Altara Prime.
                     <sd>She moves on to…</sd><char>Beast Boy</char>! What’s up?</sp>
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Nothing but the ceiling, baby.</sp>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Nothing but the ceiling, baby.</sp>
             <sp><spkr ref="#Blackfire">Blackfire</spkr>
                 <sd>laughing</sd>Good one!</sp>
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
                 <sd>to <char>Raven</char></sd>See? She thinks I’m funny.</sp>
             <sp><spkr ref="#Raven">Raven</spkr>Statistically, I suppose someone has to.</sp>
             <sd>This deflates him a bit. Finally <char>Blackfire</char> makes her way to <charDesc
@@ -297,7 +297,7 @@
                 herself at the kitchen counter.</sd>
             <sp><spkr ref="#Robin">Robin</spkr>Black hole?</sp>
             <sp><spkr ref="#Cyborg">Cyborg</spkr>No way!</sp>
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Cool!</sp>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Cool!</sp>
             <sp><spkr ref="#Blackfire">Blackfire</spkr>Okay. I’m cruising through the Draconis
                 Nebula, and-</sp>
             <sp><spkr ref="#Starfire">Starfire</spkr>Sister! That nebula is full of black holes! You
@@ -325,17 +325,17 @@
                     into place within them and stop.</directNote> A light on each occupied tube goes
                 green, but that on the empty fourth one flashes red. <directNote kind="cut">Cut to
                     an alien crewman in a shadowy nook.</directNote></sd>
-            <sp><spkr ref="#Crewman 1">Crewman 1</spkr>Our target was not located. The drones have
+            <sp><spkr ref="#Crewman1">Crewman 1</spkr>Our target was not located. The drones have
                 failed.</sp>
             <sd><directNote kind="pan">Pan slightly</directNote>; <charDesc ref="Crewman 2">a second
                     crewman</charDesc> is next to him.</sd>
-            <sp><spkr ref="#Crewman 2">Crewman 2</spkr>Have they?</sp>
+            <sp><spkr ref="#Crewman2">Crewman 2</spkr>Have they?</sp>
             <sd>He looks down; <directNote kind="cut">cut to a control panel that shows outlines of
                         <charDesc ref="Centauri">the four craft, or drones</charDesc>.</directNote>
                 <charDesc ref="Centauri">Three glow green, while the last one is red, matching the
                     status lights on the docking tubes.</charDesc> One clawed hand reaches into view
                 and presses the red outline, and the four give way to a view of Earth.</sd>
-            <sp><spkr ref="#Crewman 2">Crewman 2</spkr>
+            <sp><spkr ref="#Crewman2">Crewman 2</spkr>
                 <sd>from o.c.</sd>The one that probed Earth did not return.<sd><directNote
                         kind="pull">Pull back; both look at Earth on the main
                     viewer.</directNote></sd>That is where we will find the girl.</sp>
@@ -357,13 +357,13 @@
                 is winning.</sd>
             <sp><spkr ref="#Cyborg">Cyborg</spkr>You want to pass me, but you can’t pass me. You
                 can’t pa-<sd>surprised; <char>Beast Boy</char> grins</sd>You passed me!</sp>
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Tighten the turn…jets…and nitro!</sp>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Tighten the turn…jets…and nitro!</sp>
             <sd>He jumps up and does a laughing victory dance as <char>Cyborg</char> slumps over; a
                 moment later, he is back on the couch. <char>Starfire</char> walks up behind
                 them.</sd>
             <sp><spkr ref="#Starfire">Starfire</spkr>Tell me, have either of you seen
                     <char>Blackfire</char>?</sp>
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr><charDesc ref="Blackfire">Blazin’
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr><charDesc ref="Blackfire">Blazin’
                     B</charDesc>? She was here just a second ago.</sp>
             <sd>His face goes slack as <char>Cyborg</char> grins; back to the screen. The white
                 vehicle hugs the guardrail, then knocks the green one aside and zooms on.</sd>
@@ -372,7 +372,7 @@
             <sd>Back to the couch; he laughs heartily.</sd>
             <sp><spkr ref="#Starfire">Starfire</spkr>What fun! May I join your game?</sp>
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Winner plays <char>Blackfire</char>.</sp>
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
                 <sd>as hearts float up from him</sd>Yeah. She rules at this game.</sp>
             <sp><spkr ref="#Starfire">Starfire</spkr>
                 <sd>deflated</sd>I see.</sp>
@@ -433,7 +433,7 @@
                 a stay-home movie night. I bring you popcorn and non-cotton candies. Tell me, what
                 sort of movie shall we view?</sp>
             <sp><spkr ref="#Robin">Robin</spkr>Action.</sp>
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Comedy.</sp>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Comedy.</sp>
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Sci-fi.</sp>
             <sp><spkr ref="#Raven">Raven</spkr>Horror.</sp>
             <sd>Caught off guard, Starfire drops her load of goodies.</sd>
@@ -453,7 +453,7 @@
             <sp><spkr ref="#Blackfire">Blackfire</spkr>
                 <sd>to the other <char>Titans</char></sd>Heard about a party downtown. Cool crowd,
                 hot music.</sp>
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Yeah!</sp>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Yeah!</sp>
             <sp><spkr ref="#Cyborg">Cyborg</spkr>I’m in.</sp>
             <sp><spkr ref="#Robin">Robin</spkr>Why not?</sp>
             <sd><stageDesc category="close-up">Close-up of <char>Raven</char>, nose still in her
@@ -462,7 +462,7 @@
                 <sd>from o.c.</sd>And it’s in a creepy run-down warehouse.</sp>
             <sd>This gets her attention. One by one, <char>Starfire</char>’s comrades file out.</sd>
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Whoo!</sp>
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>I am a party animal.</sp>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>I am a party animal.</sp>
             <sd>He turns into a gorilla.</sd>
             <sd><char>Robin</char> and <char>Raven</char> pass <char>Starfire</char> without saying
                 anything; <char>Blackfire</char> is the last one out.</sd>
@@ -508,7 +508,7 @@
                 <sd>laughing</sd>Now don’t tell me you big tough superheroes are afraid of a little
                 dancing.</sp>
             <sd><directNote kind="cut">Cut to Beast Boy and Cyborg.</directNote></sd>
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Betcha <char>Cyborg</char> can do the
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Betcha <char>Cyborg</char> can do the
                 Robot.</sp>
 
             <sd>He does a little bit of that old dance and gets a very unappreciative glare from the
@@ -542,7 +542,7 @@
                 The ship that launched those four probes drifts slowly into view; inside, the two
                 crewmen are still watching the planet on the main viewer.</sd>
 
-            <sp><spkr ref="#Crewman 2">Crewman 2</spkr>The girl may have defeated one probe-
+            <sp><spkr ref="#Crewman2">Crewman 2</spkr>The girl may have defeated one probe-
                         <sd><directNote>Cut to the three docked drone, or probes</directNote>; he
                     continues o.c.</sd>-but she will not fare so well against three.</sp>
 
@@ -615,14 +615,14 @@
                     ref="Centauri">the alien craft</charDesc>. Losing sight of it near the wall, he
                 turns back to call in a little help.</sd>
 
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr><char>Cy</char>! <char>Star</char>’s in
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr><char>Cy</char>! <char>Star</char>’s in
                 trouble!</sp>
 
             <sd><char>Cyborg</char> stops dancing and turns to look, just as <char>Beast Boy</char>
                 is grabbed by <charDesc ref="Centauri">the tentacles of a second probe</charDesc>
                 and dragged toward the door.</sd>
 
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Whoa! Help!</sp>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Whoa! Help!</sp>
 
             <sd><char>Cyborg</char> runs after him, but is broadsided by <charDesc ref="Centauri"
                     >the third probe</charDesc>; he fetches up against the wall, and <charDesc
@@ -709,7 +709,7 @@
             <sp><spkr ref="#Cyborg">Cyborg</spkr>
                 <sd>from o.c.</sd>Aw, yeah!<sd><directNote kind="pan">Pan slightly</directNote>, the
                     four <char>Titans</char> run/fly to her.</sd> Good times!</sp>
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Nice shooting, <charDesc ref="Blackfire"
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Nice shooting, <charDesc ref="Blackfire"
                     >Tex</charDesc>.</sp>
             <sp><spkr ref="#Raven">Raven</spkr>Very nice.</sp>
             <sp><spkr ref="#Robin">Robin</spkr>How did you know where to hit them?</sp>
@@ -777,9 +777,9 @@
                 <directNote kind="pull">Pull back as the button is pressed</directNote>; a force
                 field appears around the still-bound girl.</sd>
 
-            <sp><spkr ref="#Crewman 1">Crewman 1</spkr>Prepare to leave Earth orbit. We have
+            <sp><spkr ref="#Crewman1">Crewman 1</spkr>Prepare to leave Earth orbit. We have
                     <charDesc ref="Starfire">the Tamaranean girl</charDesc>.</sp>
-            <sp><spkr ref="#Crewman 2">Crewman 2</spkr>
+            <sp><spkr ref="#Crewman2">Crewman 2</spkr>
                 <sd>to Starfire</sd>Once we return to Centauri, you will pay for what you have
                 done.</sp>
 
@@ -812,13 +812,13 @@
                 hits the edge of his cape and deflects into the engine, causing it to flame
                 out.</sd>
 
-            <sp><spkr ref="#Centauri 1">Centauri 1</spkr>No!</sp>
+            <sp><spkr ref="#Centauri1">Centauri 1</spkr>No!</sp>
 
             <sd>The craft begins to lose altitude, throwing <charDesc ref="Centauri 2">his
                     colleague</charDesc> off balance and putting the brawl on hold for the time
                 being. It plunges through the clouds and just barely skims a riverbank.</sd>
 
-            <sp><spkr ref="#Centauri 1">Centauri 1</spkr>I cannot control it!</sp>
+            <sp><spkr ref="#Centauri1">Centauri 1</spkr>I cannot control it!</sp>
 
             <sd><char>Robin</char> scrambles across the deck to the control button and deactivates
                 the force field. The ship descends ever closer to the river as he peels the
@@ -835,7 +835,7 @@
                 forward to land on its top deck. <char>Starfire</char> lowers <char>Robin</char>
                 safely to the ground and lands beside him.</sd>
 
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>
                 <sd>from o.c.</sd>Star! Robin!</sp>
             <sd>He, Cyborg, and Raven run up.</sd>
             <sp><spkr ref="#Cyborg">Cyborg</spkr>You guys okay?</sp>
@@ -845,18 +845,18 @@
 
             <sp><spkr ref="#Robin">Robin</spkr>Titans! Get ready!</sp>
             <sd>The <char>Centauri</char> approach.</sd>
-            <sp><spkr ref="#Centauri 2">Centauri 2</spkr>In the name of the Grand Centauri Empire,
+            <sp><spkr ref="#Centauri2">Centauri 2</spkr>In the name of the Grand Centauri Empire,
                 you are all under arrest.</sp>
 
             <sd>He shows a badge, the sight of which leaves the entire team momentarily
                 stunned.</sd>
 
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Uh…you can’t be the good guys. We’re the good
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Uh…you can’t be the good guys. We’re the good
                 guys.</sp>
             <sd><stageDesc category="close-up">Close-up of the two.</stageDesc></sd>
-            <sp><spkr ref="#Centauri 2">Centauri 2</spkr>And we are <char>Centauri</char>
+            <sp><spkr ref="#Centauri2">Centauri 2</spkr>And we are <char>Centauri</char>
                 police.</sp>
-            <sp><spkr ref="#Centauri 1">Centauri 1</spkr><charDesc ref="Blackfire">The Tamaranean
+            <sp><spkr ref="#Centauri1">Centauri 1</spkr><charDesc ref="Blackfire">The Tamaranean
                     girl is a liar and a thief.</charDesc>
                 <sd>pointing</sd><charDesc ref="Blackfire">She’s committed high crimes throughout
                     the entire Centauri system.</charDesc></sp>
@@ -882,7 +882,7 @@
             <sd><char>Beast Boy</char> is the first to provide an answer, pointing up at a tiny
                 black shape zooming among the clouds and away from the area.</sd>
 
-            <sp><spkr ref="#Beast Boy">Beast Boy</spkr>Uh…</sp>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Uh…</sp>
             <sp><spkr ref="#Robin">Robin</spkr>Don’t worry, <char>Star</char>. She won’t get away
                 with this.</sp>
             <sp><spkr ref="#Starfire">Starfire</spkr>
@@ -930,7 +930,7 @@
             <sd>Animation goof: The armor on <char>Blackfire</char>’s legs disappears briefly during
                 this sequence.</sd>
 
-            <sp><spkr ref="#Centauri 2">Centauri 2</spkr><char>Blackfire</char> of Tamaran, you are
+            <sp><spkr ref="#Centauri2">Centauri 2</spkr><char>Blackfire</char> of Tamaran, you are
                 under arrest.</sp>
             <sd><directNote kind="cut">Back to the two girls; she is slowly reeled
                 in.</directNote></sd>

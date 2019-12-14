@@ -21,8 +21,6 @@
        <charList type="recurring" id="Starfire" subtype="titan">Starfire</charList>
        <charList type="recurring" id="Raven" subtype="titan">Raven</charList>
        <charList type="nonrecurring" id="Blackboard" subtype="villain">Blackboard</charList>
-       <charList type="nonrecurring" id="HologramMadMod" subtype="villain">Hologram Mad
-            Mod</charList>
    </characterList>
    <body>
        <act n="0">
@@ -940,7 +938,7 @@
                 the fourth keeps slobbering all over the floor. The hypnotic pattern starts to
                 waver, and the<char>Mad Mod</char> image steps into view.</sd>
 
-           <sp><spkr ref="#HologramMadMod">Hologram Mad Mod</spkr>Uh...minor technical hitch, my
+           <sp><spkr ref="#MadMod">Hologram Mad Mod</spkr>Uh...minor technical hitch, my
                     duckies.<sd>tugs his collar</sd>Pay no mind, I'll have it fixed in a--</sp>
 
            <sd>Before he can finish the sentence, he de-resolves and disappears. As the pattern

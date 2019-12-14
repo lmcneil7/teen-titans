@@ -13,8 +13,8 @@
         </issueList>
     </head>
     <characterList>
-        <charList type="nonrecurring" id="MalePanicker">Male Panicker</charList>
-        <charList type="nonrecurring" id="Female Panicker">Female Panicker</charList>
+        <charList type="nonrecurring" id="MalePicnicker">Male Picnicker</charList>
+        <charList type="nonrecurring" id="FemalePicnicker">Female Picnicker</charList>
         <charList type="recurring" id="Cyborg" subtype="titan">Cyborg</charList>
         <charList type="recurring" id="Starfire" subtype="titan">Starfire</charList>
         <charList type="recurring" id="Robin" subtype="titan">Robin</charList>
@@ -26,7 +26,7 @@
         <charList type="nonrecurring" id="Voice">Voice</charList>
         <charList type="nonrecurring" id="Fixit" subtype="both">Fixit</charList>
         <charList type="nonrecurring" id="Computer2">Computer 2</charList>
-        <charList type="nonrecurring" id="Boy 2">Boy 2</charList>
+        <charList type="nonrecurring" id="Boy2">Boy 2</charList>
     </characterList>
     <body>
         <act n="0">
