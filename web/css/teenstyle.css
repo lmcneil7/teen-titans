@@ -30,12 +30,11 @@ h2{
   height: auto;
   padding-top: 5%;
 }
-div#header {
+#header {
     position: fixed;
        text-align: center;    
        width: 100%;
        background-color: black;
-       
 }
 p{
     color: white;
@@ -69,13 +68,8 @@ div#fieldset {
     background-color: lightgrey;
     padding: 3px 3px 3px 3px;
 }
-section.container{
-    display:flex;
-    position: absolute;
-    max-width: 100%;
-    margin-top: 40px;
-}
-section.aboutContain{
+
+aboutContain{
     display: flex;
     flex-direction: column;
     max-width: 100%;
@@ -83,35 +77,88 @@ section.aboutContain{
    font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-size: 18px;
 }
+section.projContain{
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+    margin-top: 20px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 20px;
+}
 div#aboutProj{
     position: relative;
     margin-top: 20px;
     color: white;
 }
-div#aboutTeam{
-    position: relative;
-    margin: 2px;
+.imageContainer{
+    width: 20%;
+    justify-content: space-around;
+    float: left;
+    font-size: 15px;
     color: white;
+    text-align: center;
+    
 }
-div#aboutTeam2{
-   position: relative;
-   margin: 2px;
-   color: white; 
+.charsContain{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 20px;
 }
-div#episode{
+.aboutTeam{
+    display:flex;
+    flex-direction: row;
+    position: relative;
+    max-width:100%;
+    padding-top:20px;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    justify-content: space-around;
+}
+#aboutShan{
+    flex:1;
+    justify-content: space-around;
+    flex-direction: column;
+    padding:20px;
+    font-size:18px;
+    margin:20px;
+    margin-top:30px;
+}
+#aboutShan img{
+    width: 450px;
+    height: 300px;
+    float: inherit;
+}
+
+#aboutLauren{
+    flex:1;
+    padding:20px;
+    margin:20px;
+    margin-top: 30px;
+    font-size:18px;
+}
+.container{
+    display:flex;
+    position: absolute;
+    max-width: 100%;
+    margin-top: 40px;
+}
+#episode{
     flex: 1;
     border: 1px solid #00e600;
     flex-direction: column;
     margin: 2px;
     padding: 10px;
 }
-div#issue{
+#issue{
     flex:1;
     border: 1px solid #00e600;
     flex-direction: column;
     margin: 2px;
     padding: 10px;
 }
+
 a:link {color: orange;} /* unvisited link */
 a:visited {color:#1aa3ff
 ;}  /* visited link */
