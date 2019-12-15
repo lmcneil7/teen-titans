@@ -2,27 +2,68 @@
 <?xml-model href="comic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <head>
-        <issueTitle issue=""></issueTitle>
-        <publisher></publisher>
-        <writer></writer>
-        <letterer></letterer>
-        <colorist></colorist>
-        <editor></editor>
-        <date when=""></date>
+        <issueTitle issue="15">The New Teen Titans</issueTitle>
+        <publisher>DC Comics</publisher>
+        <writer>Marv Wolfman</writer>
+        <artist>George Perez</artist>
+        <embellisher>Romeo Tanghal</embellisher>
+        <letterer>John Costanza</letterer>
+        <colorist>Adrienne Roy</colorist>
+        <editor>Len Wein</editor>
+        <date when="1983-01">January 1983</date>
     </head>
     <characterList>
-        <charList id=""></charList>
+        <charList id="zahl">General Zahl</charList>
+        <charList id="rouge">Madame Rouge</charList>
+        <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
+        <charList id="cyborg">Victor Stone (Cyborg)</charList>
+        <charList id="starfire">Koriand'r (Starfire)</charList>
+        <charList id="rman">Cliff Steele (Robotman)</charList>
+        <charList id="raven">Raven</charList>
+        <charList id="wgirl">Donna Troy (Wonder Girl)</charList>
+        <charList id="kflash">Wallace (Wally) West (Kid Flash)</charList>
     </characterList>
     <settingList>
         <setting>
-            <title></title>
-            <p></p>
+            <title>Floating City aka Madame Rouge's Fortress</title>
+            <p>The Titans except for Beast Boy and Robotman are in the Devolving Pit. Madame Rouge watches as her soldiers destroy Zandia. She takes pride knowing no country will come save Zandia as its a country where all its citizens are criminals.</p>
+            <charsPresent>
+                <char ref="#zahl">General Zahl</char>
+                <char ref="#rouge">Madame Rouge</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#rman">Robotman</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#kflash">Kid Flash</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>The New Brotherhood of Evil</title>
+            <p>The team is insistent on Beast Boy joining them, but he refuses. Instead, Beast Boy starts to attack. He realizes soonafter that he is very outnumbered and overpowered. Flashback of the destruction of the original Brotherhood of Evil and how the Brain and Mallah survived. Beast Boy decides that it would be beneficial to join the Brotherhood of Evil to stop Madame Rouge and General Zahl.</p>
+            <charsPresent>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#mallah">Mallah</char>
+                <char ref="#brain">Brain</char>
+                <char ref="#plasmus">Plasmus</char>
+                <char ref="#warp">Warp</char>
+                <char ref="#phobia">Phobia</char>
+                <char ref="#houng">Houngan</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Floating City</title>
+            <p>Zandia has fallen. The Titans have all reverted to a primitive state; Robotman is the only one who it didn't work on. Before Madame Rouge can make her next move, Beast Boy and the Brotherhood of Evil show up.</p>
             <charsPresent>
                 <char ref=""></char>
             </charsPresent>
         </setting>
     </settingList>
     <referenceList>
-        <reference type=""></reference>
+        <reference type="place">Zandia</reference>
+        <reference type="thing">protoplasm</reference>
+        <reference type="race">Neanderthal</reference>
+        <reference type="team">Doom Patrol</reference>
     </referenceList>
 </root>
