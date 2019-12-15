@@ -113,7 +113,12 @@ padding-top: 20px;
     margin:20px;
     margin-top:30px;
 }
-
+#svg{
+    text-align: center;
+     font-family: "Trebuchet MS", Helvetica, sans-serif;
+     font-size: 18px;
+     color: white;
+}
 #Shan img{
     width: 450px;
     height: 300px;
@@ -139,7 +144,18 @@ padding-top: 20px;
     margin: 2px;
     padding: 10px;
 }
-
+.license{
+    display: flex;
+    width: 70%;
+    height: 5vh;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+}
+.license a{
+    text-decoration: none;
+}
 a:link {color: orange;} /* unvisited link */
 a:visited {color:#1aa3ff
 ;}  /* visited link */
