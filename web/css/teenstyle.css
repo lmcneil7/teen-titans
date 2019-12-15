@@ -94,7 +94,6 @@ padding-top: 20px;
     font-size: 15px;
     color: white;
     text-align: center;
-    
 }
 .charsContain{
     display: flex;
@@ -104,6 +103,7 @@ padding-top: 20px;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-size: 20px;
 }
+
 .textContain{
      flex:1;
     justify-content: space-around;
