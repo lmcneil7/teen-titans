@@ -32,9 +32,9 @@ h2{
 }
 #header {
     position: fixed;
-       text-align: center;    
-       width: 100%;
-       background-color: black;
+    text-align: center;    
+    width: 100%;
+    background-color: black;
 }
 p{
     color: white;
