@@ -72,7 +72,6 @@ span.raven.on{
 .aboutContain{
     display: flex;
     flex-direction: row;
-    position: relative;
     max-width: 100%;
     margin-top: 20px;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
@@ -81,7 +80,6 @@ span.raven.on{
     color: white;
 }
 #project{
-position: relative;
 max-width: 100%;
 color: white;
 padding-top: 20px;
