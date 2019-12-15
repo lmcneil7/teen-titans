@@ -63,32 +63,29 @@ span.starfire.on{
 span.raven.on{
     color: purple;
 }
-div#fieldset {
+#fieldset {
     text-align: left;
-    background-color: lightgrey;
+    background-color: grey;
     padding: 3px 3px 3px 3px;
 }
 
-aboutContain{
-    display: flex;
-    flex-direction: column;
-    max-width: 100%;
-    margin-top: 20px;
-   font-family: "Trebuchet MS", Helvetica, sans-serif;
-    font-size: 18px;
-}
-section.projContain{
+.aboutContain{
     display: flex;
     flex-direction: row;
+    position: relative;
     max-width: 100%;
     margin-top: 20px;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-size: 20px;
-}
-div#aboutProj{
-    position: relative;
-    margin-top: 20px;
+    justify-content: space-around;
     color: white;
+}
+#project{
+position: relative;
+max-width: 100%;
+color: white;
+padding-top: 20px;
+
 }
 .imageContainer{
     width: 20%;
@@ -107,17 +104,8 @@ div#aboutProj{
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-size: 20px;
 }
-.aboutTeam{
-    display:flex;
-    flex-direction: row;
-    position: relative;
-    max-width:100%;
-    padding-top:20px;
-    font-family:"Trebuchet MS", Helvetica, sans-serif;
-    justify-content: space-around;
-}
-#aboutShan{
-    flex:1;
+.textContain{
+     flex:1;
     justify-content: space-around;
     flex-direction: column;
     padding:20px;
@@ -125,18 +113,11 @@ div#aboutProj{
     margin:20px;
     margin-top:30px;
 }
-#aboutShan img{
+
+#Shan img{
     width: 450px;
     height: 300px;
     float: inherit;
-}
-
-#aboutLauren{
-    flex:1;
-    padding:20px;
-    margin:20px;
-    margin-top: 30px;
-    font-size:18px;
 }
 .container{
     display:flex;

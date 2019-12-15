@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+   <g transform="translate(200, 680)">
+      <text x="480"
+            y="-630"
+            text-anchor="middle"
+            fill="DodgerBlue"
+            font-size="30">DEEP SIX</text>
+      <line x1="50"
+            y1="0"
+            x2="900"
+            y2="0"
+            stroke="BlueViolet"
+            stroke-width="3"/>
+      <line x1="50"
+            y1="0"
+            x2="50"
+            y2="-600"
+            stroke="BlueViolet"
+            stroke-width="3"/>
+      <g id="BeastBoy">
+         <text x="100 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Beast Boy</text>
+         <rect x="100" y="-570" width="50" height="570" fill="lightgrey"/>
+      </g>
+      <!--Count of Beast Boy speeches is: 57-->
+      <g id="Aqualad">
+         <text x="200 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Aqualad</text>
+         <rect x="200" y="-440" width="50" height="440" fill="lightgrey"/>
+      </g>
+      <!--Count of Aqualad speeches is: 44-->
+      <g id="Robin">
+         <text x="300 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Robin</text>
+         <rect x="300" y="-200" width="50" height="200" fill="lightgrey"/>
+      </g>
+      <!--Count of Robin speeches is: 20-->
+      <g id="Cyborg">
+         <text x="400 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Cyborg</text>
+         <rect x="400" y="-180" width="50" height="180" fill="lightgrey"/>
+      </g>
+      <!--Count of Cyborg speeches is: 18-->
+      <g id="Raven">
+         <text x="500 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Raven</text>
+         <rect x="500" y="-130" width="50" height="130" fill="lightgrey"/>
+      </g>
+      <!--Count of Raven speeches is: 13-->
+      <g id="Starfire">
+         <text x="600 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Starfire</text>
+         <rect x="600" y="-80" width="50" height="80" fill="lightgrey"/>
+      </g>
+      <!--Count of Starfire speeches is: 8-->
+      <text x="35" y="-100" fill="#ff4dc4" text-anchor="middle">10</text>
+      <line x1="50"
+            y1="-100"
+            x2="900"
+            y2="-100"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+      <text x="35" y="-200" fill="#ff4dc4" text-anchor="middle">20</text>
+      <line x1="50"
+            y1="-200"
+            x2="900"
+            y2="-200"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+      <text x="35" y="-300" fill="#ff4dc4" text-anchor="middle">30</text>
+      <line x1="50"
+            y1="-300"
+            x2="900"
+            y2="-300"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+      <text x="35" y="-400" fill="#ff4dc4" text-anchor="middle">40</text>
+      <line x1="50"
+            y1="-400"
+            x2="900"
+            y2="-400"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+      <text x="35" y="-500" fill="#ff4dc4" text-anchor="middle">50</text>
+      <line x1="50"
+            y1="-500"
+            x2="900"
+            y2="-500"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+      <text x="35" y="-600" fill="#ff4dc4" text-anchor="middle">60</text>
+      <line x1="50"
+            y1="-600"
+            x2="900"
+            y2="-600"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+   </g>
+</svg>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+   <g transform="translate(40, 680)">
+      <text x="600"
+            y="-630"
+            text-anchor="middle"
+            fill="DodgerBlue"
+            font-size="30">How Many Times Each Character Speaks in Teen Titans Episode: FINAL EXAM</text>
+      <line x1="50"
+            y1="0"
+            x2="1200"
+            y2="0"
+            stroke="BlueViolet"
+            stroke-width="3"/>
+      <line x1="50"
+            y1="0"
+            x2="50"
+            y2="-600"
+            stroke="BlueViolet"
+            stroke-width="3"/>
+      <g id="Robin">
+         <text x="100 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Robin</text>
+         <rect x="100" y="-360" width="50" height="360" fill="lightgrey"/>
+      </g>
+      <!--Count of Robin speeches is: 36-->
+      <g id="Cyborg">
+         <text x="200 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Cyborg</text>
+         <rect x="200" y="-200" width="50" height="200" fill="lightgrey"/>
+      </g>
+      <!--Count of Cyborg speeches is: 20-->
+      <g id="BeastBoy">
+         <text x="300 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Beast Boy</text>
+         <rect x="300" y="-190" width="50" height="190" fill="lightgrey"/>
+      </g>
+      <!--Count of Beast Boy speeches is: 19-->
+      <g id="Starfire">
+         <text x="400 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Starfire</text>
+         <rect x="400" y="-120" width="50" height="120" fill="lightgrey"/>
+      </g>
+      <!--Count of Starfire speeches is: 12-->
+      <g id="Raven">
+         <text x="500 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Raven</text>
+         <rect x="500" y="-90" width="50" height="90" fill="lightgrey"/>
+      </g>
+      <!--Count of Raven speeches is: 9-->
+      <g id="Slade">
+         <text x="600 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Slade</text>
+         <rect x="600" y="-60" width="50" height="60" fill="lightgrey"/>
+      </g>
+      <!--Count of Slade speeches is: 6-->
+      <g id="Guard1">
+         <text x="700 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Guard 1</text>
+         <rect x="700" y="-30" width="50" height="30" fill="lightgrey"/>
+      </g>
+      <!--Count of Guard 1 speeches is: 3-->
+      <g id="Prisoner1">
+         <text x="800 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Prisoner 1</text>
+         <rect x="800" y="-20" width="50" height="20" fill="lightgrey"/>
+      </g>
+      <!--Count of Prisoner 1 speeches is: 2-->
+      <g id="Guard3">
+         <text x="900 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Guard 3</text>
+         <rect x="900" y="-10" width="50" height="10" fill="lightgrey"/>
+      </g>
+      <!--Count of Guard 3 speeches is: 1-->
+      <g id="Guard8">
+         <text x="1000 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Guard 8</text>
+         <rect x="1000" y="-10" width="50" height="10" fill="lightgrey"/>
+      </g>
+      <!--Count of Guard 8 speeches is: 1-->
+      <g id="385901">
+         <text x="1100 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">385901</text>
+         <rect x="1100" y="-10" width="50" height="10" fill="lightgrey"/>
+      </g>
+      <!--Count of 385901 speeches is: 1-->
+      <g id="Prisoner2">
+         <text x="1200 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Prisoner 2</text>
+         <rect x="1200" y="-10" width="50" height="10" fill="lightgrey"/>
+      </g>
+      <!--Count of Prisoner 2 speeches is: 1-->
+      <g id="Cinderblock">
+         <text x="1300 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Cinderblock</text>
+         <rect x="1300" y="-0" width="50" height="0" fill="lightgrey"/>
+      </g>
+      <!--Count of Cinderblock speeches is: 0-->
+      <g id="Prisoners">
+         <text x="1400 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Prisoners</text>
+         <rect x="1400" y="-0" width="50" height="0" fill="lightgrey"/>
+      </g>
+      <!--Count of Prisoners speeches is: 0-->
+      <g id="Guards">
+         <text x="1500 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Guards</text>
+         <rect x="1500" y="-0" width="50" height="0" fill="lightgrey"/>
+      </g>
+      <!--Count of Guards speeches is: 0-->
+      <g id="Plasmus">
+         <text x="1600 "
+               y="30"
+               text-anchor="start"
+               font-size="18"
+               fill="blue">Plasmus</text>
+         <rect x="1600" y="-0" width="50" height="0" fill="lightgrey"/>
+      </g>
+      <!--Count of Plasmus speeches is: 0-->
+      <text x="35" y="-100" fill="#ff4dc4" text-anchor="middle">10</text>
+      <line x1="50"
+            y1="-100"
+            x2="1100"
+            y2="-100"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+      <text x="35" y="-200" fill="#ff4dc4" text-anchor="middle">20</text>
+      <line x1="50"
+            y1="-200"
+            x2="1100"
+            y2="-200"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+      <text x="35" y="-300" fill="#ff4dc4" text-anchor="middle">30</text>
+      <line x1="50"
+            y1="-300"
+            x2="1100"
+            y2="-300"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+      <text x="35" y="-400" fill="#ff4dc4" text-anchor="middle">40</text>
+      <line x1="50"
+            y1="-400"
+            x2="1100"
+            y2="-400"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+      <text x="35" y="-500" fill="#ff4dc4" text-anchor="middle">50</text>
+      <line x1="50"
+            y1="-500"
+            x2="1100"
+            y2="-500"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+      <text x="35" y="-600" fill="#ff4dc4" text-anchor="middle">60</text>
+      <line x1="50"
+            y1="-600"
+            x2="1100"
+            y2="-600"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+   </g>
+</svg>

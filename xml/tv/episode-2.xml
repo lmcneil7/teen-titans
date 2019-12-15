@@ -18,7 +18,7 @@
         <charList type="recurring" id="Cyborg">Cyborg</charList>
         <charList type="recurring" id="BeastBoy">Beast Boy</charList>
         <charList type="recurring" id="Raven">Raven</charList>
-        <charList type="nonrecurring" id="Blackfire">Voice</charList>
+        <charList type="nonrecurring" id="Voice">Voice</charList>
         <charList type="nonrecurring" id="Blackfire">Blackfire</charList>
         <charList type="nonrecurring" id="Crewman1">Crewman 1</charList>
         <charList type="nonrecurring" id="Crewman2">Crewman 2</charList>
