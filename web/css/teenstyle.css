@@ -51,7 +51,7 @@ span.robin.on{
     color: #ff3333;
 }
 span.cyborg.on{
-    color: #66ccff;
+    color: #3399ff;
 }
 
 span.beastBoy.on{
@@ -65,7 +65,7 @@ span.raven.on{
 }
 #fieldset {
     text-align: left;
-    background-color: grey;
+    background-color: #333333;
     padding: 3px 3px 3px 3px;
 }
 
