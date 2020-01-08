@@ -48,20 +48,20 @@ spkr{
     font-size: 18px;
 }
 span.robin.on{
-    color: red;
+    color: #ff3333;
 }
 span.cyborg.on{
-    color: blue;
+    color: #99ffff;
 }
 
 span.beastBoy.on{
-    color: green;
+    color: #1aff1a;
 }
 span.starfire.on{
-    color: yellow;
+    color: #ffff4d;
 }
 span.raven.on{
-    color: purple;
+    color: #cc99ff;
 }
 #fieldset {
     text-align: left;
