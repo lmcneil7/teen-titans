@@ -16,7 +16,7 @@ Amber Peddicord (Personal GitHub: @amberpeddicord) https://github.com/amberpeddi
 
 **Fall 2019**
 
-This is a repository to create an interactive comic of the 2003 cartoon network tv series *Teen Titans* with a comparison between the tv series and the comics that *Teen Titans* is based off.
+Resaerch question: This is a repository to create an interactive comic of the 2003 cartoon network tv series *Teen Titans* with a comparison between the tv series and the comics that *Teen Titans* is based off.
 
 **XML:**
 For our XML markup, we're doing transcripts of the episodes of *Teen Titans*, the 2003 tv show created by Cartoon Network. For this semester, we decided to stick with Season 1 that includes thirteen episodes in total. You'll find the XML documents in the XML file in the "season-1" folder.
@@ -37,6 +37,10 @@ Link: http://teentitans.newtfire.org/about.html
 **Spring 2020**
 
 We gained a new member. **Welcome Amber!**
+
+We're also assigned a project advisor! **Welcome Fiona and your wisdom!** 
+
+**Project Advisor:** Fiona (Personal GitHub: frabbitry) https://github.com/frabbitry
 
 We're continuing this project for the next DH course! While it's still a repository to compare the television show and the comics, the focus will be different to fit the purpose of the spring course. 
 
