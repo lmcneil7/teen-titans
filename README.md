@@ -38,7 +38,7 @@ Link: http://teentitans.newtfire.org/about.html
 
 We gained a new member. **Welcome Amber!**
 
-We're also assigned a project advisor! **Welcome Fiona and your wisdom!** 
+We're also assigned a project advisor! **Welcome Fiona and her wisdom!** 
 
 **Project Advisor:** Fiona (Personal GitHub: frabbitry) https://github.com/frabbitry
 
