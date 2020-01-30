@@ -31,7 +31,7 @@ We did metadata for the comics; we limited to the issues that had anything to do
 
 *SVG:* Courtesy of Shannon, we created graphs to compare how many times each Teen Titan (Robin, Starfire, Raven, Cyborg, Beastboy) spoke in each episode.
 
-*Methodology:* Suggested to do us by our instructor, the methodology is a way to show how we created our website through each of the different steps along the way. It's in the ___work of process___ phrase at the moment to accommodate for the fandom aspect of our project! Will constantly be udpating since we're doing another semester of work.
+*Methodology:* Suggested to do us by our instructor, the methodology is a way to show how we created our website through each of the different steps along the way. It's in the ___work of process___ phase at the moment to accommodate for the fandom aspect of our project! Will constantly be udpating since we're doing another semester of work.
 Link: http://teentitans.newtfire.org/about.html
 
 **Spring 2020**
