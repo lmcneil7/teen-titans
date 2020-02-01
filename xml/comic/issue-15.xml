@@ -22,6 +22,14 @@
         <charList id="raven">Raven</charList>
         <charList id="wgirl">Donna Troy (Wonder Girl)</charList>
         <charList id="kflash">Wallace (Wally) West (Kid Flash)</charList>
+        <charList id="bboy">Garfield Logan (Beast Boy (Changeling))</charList>
+        <charList id="mallah">Mallah</charList>
+        <charList id="brain">Brain</charList>
+        <charList id="plasmus">Plasmus</charList>
+        <charList id="warp">Warp</charList>
+        <charList id="phobia">Phobia</charList>
+        <charList id="houng">Houngan</charList>
+        <charList id="dayton">Steve Dayton</charList>
     </characterList>
     <settingList>
         <setting>
@@ -54,9 +62,95 @@
         </setting>
         <setting>
             <title>Floating City</title>
-            <p>Zandia has fallen. The Titans have all reverted to a primitive state; Robotman is the only one who it didn't work on. Before Madame Rouge can make her next move, Beast Boy and the Brotherhood of Evil show up.</p>
+            <p>Zandia has fallen. The Titans have all reverted to a primitive state; Robotman is the only one who it didn't work on. Before Madame Rouge can make her next move, Beast Boy and the Brotherhood of Evil show up. Zahl and Zahl's armies show up to be backup for Madame Rouge; a fight breaks out. While the Brotherhood of Evil and Zahl's armies are fighting, Madame Rouge makes a run for it. Beast Boy stops her before she can get far.</p>
             <charsPresent>
-                <char ref=""></char>
+                <char ref="#rouge">Madame Rouge</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#mallah">Mallah</char>
+                <char ref="#brain">Brain</char>
+                <char ref="#plasmus">Plasmus</char>
+                <char ref="#warp">Warp</char>
+                <char ref="#phobia">Phobia</char>
+                <char ref="#houng">Houngan</char>
+                <char ref="#zahl">General Zahl</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Devolving Pit</title>
+            <p>Robotman is trying to defend himself against the devolved Teen Titans.</p>
+            <charsPresent>
+                <char ref="#rman">Robotman</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#raven">Raven</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Fortress</title>
+            <p>While Robotman is trying to survive, the fighting continues elsewhere. Houngan is fighting an enemy when Robotman uses Victor's blasters to break open the pit. The Titans return to themselves and Zahl feels a sense of doom. Mallah is hurt and Raven spends time healing him. Victor gets distracted and falls off the edge of Zandia. He holds onto the ledge and pulls himself up. Because Mallah won't stop killing soldiers, Raven takes her leave. Warp has overexert his powers. Zahl makes a run for it, but stops long enough for Robotman to catch up to him.</p>
+            <charsPresent>
+                <char ref="#houng">Houngan</char>
+                <char ref="#robotman">Robotman</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#warp">Warp</char>
+                <char ref="#zahl">General Zahl</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Somewhere in the Fortress</title>
+            <p>Robotman vs Zahl is occuring at the same time as Madame Rouge vs Beast Boy. Zahl pulls a gun on Robotman, but the bullets ricochet off Robotman and kill Zahl. Madame Rouge is running away from Beast Boy. He throws her into a machine and it kills her. She thanks him for freeing her and warns that they're all going to die. He runs to warn the others.</p>
+            <charsPresent>
+                <char ref="#rman">Robotman</char>
+                <char ref="#zahl">General Zahl</char>
+                <char ref="#rouge">Madame Rouge</char>
+                <char ref="#boy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Fortress</title>
+            <p>The fighting is still going on. Sensing Beast Boy's distress, Raven alerts the others of the deaths of Zahl and Madame Rouge.</p>
+            <charsPresent>
+                <char ref="#houng">Houngan</char>
+                <char ref="#robotman">Robotman</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#warp">Warp</char>
+                <char ref="#mallah">Mallah</char>
+                <char ref="#plasmus">Plasmus</char>
+                <char ref="#phobia">Phobia</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Somewhere else in the Fortress</title>
+            <p>Beast Boy runs into the Brain; they warn their allies. They use Warp's powers to escape. Zandia is destroyed. Apart of their deal, Beast Boy lets the Brotherhood of Evil escape. Steve Dayton appears and he griefs the Doom Patrol alongside Beast Boy.</p>
+            <charsPresent>
+                <char ref="#brain">Brain</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#houng">Houngan</char>
+                <char ref="#robotman">Robotman</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#warp">Warp</char>
+                <char ref="#mallah">Mallah</char>
+                <char ref="#plasmus">Plasmus</char>
+                <char ref="#phobia">Phobia</char>
+                <char ref="#dayton">Steve Dayton</char>
             </charsPresent>
         </setting>
     </settingList>
