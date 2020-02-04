@@ -1,0 +1,33 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = root
+root = element root {head, characterList, body}
+head = element head {episode, writer, director, storyboard, animation, source}
+episode = element episode {text}
+writer = element writer {text}
+director = element director {text}
+storyboard = element storyboard {text}
+animation = element animation {text}
+source = element source {xsd:anyURI}
+issueList = element issueList {issueInfo+}
+issueInfo = element issueInfo {none?, link?, empty}
+none = attribute none {"y"}
+link = attribute link {xsd:anyURI}
+characterList = element characterList {charList+}
+charList = element charList {type, subtype?, id, text}
+type = attribute type {"recurring"|"nonrecurring"}
+subtype = attribute subtype {"villain"|"titan"}
+id = attribute id {xsd:ID}
+body = element body {act+}
+act = element act {n,mixed{(title|sp|cue|char|charDesc|setNote)*}}
+n = attribute n {xsd:int}
+title = element title {text}
+sp = element sp {spkr, mixed{char*}}
+spkr = element spkr {ref, text}
+ref = attribute ref {xsd:IDREF}
+cue = element cue {text}
+char = element char {ref?, text}
+charDesc = element charDesc {ref, text}
+# lm: I know we agreed on not doing this tag, but I came across a character who appears in both the comics and the tv series. It's a way to give us more data to use for analysis on appearance. It's strictly for descriptions about a character's appearance, also avoid recurring characters. For instance, if there's another description of Robin or Starfire in this season, don't tag it again.
+setNote = element setNote {shot, text}
+shot = attribute shot {"yes"|"no"}
