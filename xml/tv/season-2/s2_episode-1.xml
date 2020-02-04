@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../../../../OneDrive/Documents/schema_v2.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schema_v2.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <head>
        <episode> HOW LONG IS FOREVER?</episode>
