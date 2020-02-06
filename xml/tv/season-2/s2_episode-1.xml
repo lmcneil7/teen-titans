@@ -29,7 +29,7 @@
     <act n="0">
        <title>PROLOGUE</title>
 
-(<setNote shot="yes">Opening shot: the exterior of Titans Tower at night.</setNote> As an alarm clock's ticking is heard, the sky pivots about the center of the horizon; the dark panorama rotates out of view and is replaced by the morning sun against wild blue yonder. The alarm begins to ring, and the camera cuts to an extreme close-up of the sleeping <char>Starfire</char>'s closed eyes. She opens them with a gasp, then squeezes them shut excitedly on the next line.)
+(<setNote shot="yes">Opening shot: the exterior of <location>Titans Tower</location> at night.</setNote> As an alarm clock's ticking is heard, the sky pivots about the center of the horizon; the dark panorama rotates out of view and is replaced by the morning sun against wild blue yonder. The alarm begins to ring, and the camera cuts to an extreme close-up of the sleeping <char>Starfire</char>'s closed eyes. She opens them with a gasp, then squeezes them shut excitedly on the next line.)
 
 <sp><spkr ref="Starfire">Starfire</spkr> The day has arrived!</sp>
 
@@ -143,7 +143,7 @@
 
 <sp><spkr ref="Robin">Robin</spkr> Titans! Trouble!</sp>
 
-(All but <char>Starfire</char> follow him out of the operations center. Close-up of her; after a long moment, she flies out after them, and the camera tilts down to ground level, where the broken bells lie near a string she has dropped. Fade to black.)
+(All but <char>Starfire</char> follow him out of <location>the operations center</location>. Close-up of her; after a long moment, she flies out after them, and the camera tilts down to ground level, where the broken bells lie near a string she has dropped. Fade to black.)
 
 
 
@@ -152,7 +152,7 @@
 <act n="1">
    <title>Act One</title>
 
-(Opening shot: the exterior of a museum in Jump City. The sun has just barely begun to rise here. Inside, the camera pans across a gallery filled with ticking clocks from many historical periods, and it stops on a particular display case by the far wall to zoom in a bit. Next to this, a portal of white light opens up and turns black after a moment as if a second hand had just swept across it. <charDesc ref="Warp">Out steps a goateed man in black armor, with gold reinforcements at wrists and ankles; he also wears a gold breastplate and helmet that leaves his face exposed.</charDesc> This is <char>Warp</char>.)
+(<setNote shot="yes">Opening shot: the exterior of <location>a museum in Jump City</location>.</setNote> The sun has just barely begun to rise here. Inside, the camera pans across a gallery filled with ticking clocks from many historical periods, and it stops on a particular display case by the far wall to zoom in a bit. Next to this, a portal of white light opens up and turns black after a moment as if a second hand had just swept across it. <charDesc ref="Warp">Out steps a goateed man in black armor, with gold reinforcements at wrists and ankles; he also wears a gold breastplate and helmet that leaves his face exposed.</charDesc> This is <char>Warp</char>.)
 
 (Close-up of the item in the case-a small clock in a cylindrical gold housing, with a glass hemisphere on top. Inside is an assembly of parts that could be a model of a galaxy. <char>Warp</char>'s footsteps approach as his shadow falls over the case; pull back to frame him in front of it.)
 
@@ -220,11 +220,11 @@
    
 <sp><spkr ref="Warp">Warp</spkr> Stop! If you damage the suit before we reach my future- (She gets hold of the chest lens.) No!</sp>
 
-(She rips it away; there is a great flash of white, which clears to leave her floating alone. She gasps and covers her eyes as he drops screaming o.c. Cut to just above her; he falls away from the camera, the background blacking out as he goes. When he has receded from view entirely, a second white flash emanates from the immeasurable depths and washes out the screen. This clears to leave a black field and <char>Starfire</char> falling toward the camera from above. Fade to black, then immediately snap to a deep snowdrift, where she lands very hard and stands up after a moment. It is nighttime, and a bitter winter wind whistles over the landscape.)
+(She rips it away; there is a great flash of white, which clears to leave her floating alone. She gasps and covers her eyes as he drops screaming o.c. Cut to just above her; he falls away from the camera, the background blacking out as he goes. When he has receded from view entirely, a second white flash emanates from the immeasurable depths and washes out the screen. This clears to leave a black field and <char>Starfire</char> falling toward the camera from above. <setNote shot="no">Fade to black, then immediately snap to a deep snowdrift, where she lands very hard and stands up after a moment. It is nighttime, and a bitter winter wind whistles over the landscape.</setNote>)
 
 <sp><spkr ref="Starfire">Starfire</spkr> Huh? (shivering) What has happened? Why is it cold? And where are my...</sp>
 
-(She turns her eyes upward on the end of this line. Cut to her perspective-looking straight at the base of the Tower, whose windows are all dark and drifted deep with snow at the sills. She gasps softly; tilt up to follow her gaze to the top floor, where the main window is broken. The entire impression is one of a building that has fallen into advanced disrepair.)
+(She turns her eyes upward on the end of this line. Cut to her perspective-looking straight at the base of <location>the Tower</location>, whose windows are all dark and drifted deep with snow at the sills. She gasps softly; tilt up to follow her gaze to the top floor, where the main window is broken. The entire impression is one of a building that has fallen into advanced disrepair.)
 
 <sp><spkr ref="Starfire">Starfire</spkr> ...friends?</sp>
 
@@ -232,7 +232,7 @@
 
 <sp><spkr ref="Starfire">Starfire</spkr> Friends? Hello? Friends? Hello!</sp>
 
-(Finding a set of closed doors in her path, she strains to push them open. Cut to the other side; one door is forced away, then the other, revealing her silhouette in the meager light from outside. She gasps in shock and advances slowly; pull back to reveal that she has entered the remains of the operations center. Walking through the kitchen, she looks left and right, not believing a bit of what she sees, and the camera cuts to floor level. Her boots pass the GameStation controller that sparked such a furor between <char>Cyborg</char> and <char>Beast Boy</char>, and nudge one of the bells she dropped-now badly rusted.)
+(Finding a set of closed doors in her path, she strains to push them open. Cut to the other side; one door is forced away, then the other, revealing her silhouette in the meager light from outside. She gasps in shock and advances slowly; pull back to reveal that she has entered the remains of <location>the operations center</location>. Walking through <location>the kitchen</location>, she looks left and right, not believing a bit of what she sees, and the camera cuts to floor level. Her boots pass the GameStation controller that sparked such a furor between <char>Cyborg</char> and <char>Beast Boy</char>, and nudge one of the bells she dropped-now badly rusted.)
 
 (Her level again; the jingling causes her to stop and recoil in fear for a moment, and she stops and picks up a loose bell. She fixes it with a wide-eyed look of stunned sadness for a long second and watches it crumble on her palm. In the darkness off to one side, a spot of red light begins to glow as some machinery is heard; she gasps and looks toward this.)
 
@@ -325,13 +325,13 @@
 <act n="2">
    <title>Act Two</title>
 
-(Opening shot: the interior of a stable or similar enclosure. As a circus calliope plays outside, a green seal pops up into view and barks-it can only be <char>Beast Boy</char>. He jumps onto a nearby crate and balances a ball on his nose. It bounces up, the camera following, and when we see him again, he becomes a frog and balances it again. Cut to two young boys outside, watching the exhibition; they are mostly bald except for small spikes of hair, and they wear pink visor/sunglasses that hide their eyes completely. One holds an ice cream cone, and neither is too impressed by the whole spectacle.)
+(<setNote shot="yes">Opening shot: the interior of a stable or similar enclosure.</setNote> As a circus calliope plays outside, a green seal pops up into view and barks-it can only be <char>Beast Boy</char>. He jumps onto a nearby crate and balances a ball on his nose. It bounces up, the camera following, and when we see him again, he becomes a frog and balances it again. Cut to two young boys outside, watching the exhibition; they are mostly bald except for small spikes of hair, and they wear pink visor/sunglasses that hide their eyes completely. One holds an ice cream cone, and neither is too impressed by the whole spectacle.)
 
 (The sound of another transformation is heard; cut to behind the two. <char>Beast Boy</char>'s enclosure is now revealed as a large cage. He has assumed panda form to keep that ball poised just so. Close-up of him, changing into a pig-but a snowball flung in knocks him over and sends the ball flying.)
 
 <sp><spkr ref="Kid">Kid</spkr> You stink, pig!</sp>
 
-(Laughing and jeering, both of them start throwing now; <char>Beast Boy</char> pokes his head out from behind the crate, but is quickly driven to the floor. Pull back to a long shot, revealing the cage to be a circus wagon. After one last salvo, the ice cream cone is thrown in and the two kids leave. The green porker sits dejectedly as the cone melts on his head; it slides off, and he looks down and sighs.)
+(Laughing and jeering, both of them start throwing now; <char>Beast Boy</char> pokes his head out from behind the crate, but is quickly driven to the floor. Pull back to a long shot, revealing the cage to be <location>a circus wagon</location>. After one last salvo, the ice cream cone is thrown in and the two kids leave. The green porker sits dejectedly as the cone melts on his head; it slides off, and he looks down and sighs.)
 
 (<char>Starfire</char> lands on the other side of the bars to peer in. <char>Beast Boy</char> returns to human form-bald on top, having gained a great deal of weight, and not wearing his belt. Defeat permeates every syllable of his voice.)
 
@@ -351,7 +351,7 @@
 
 (Her eyes tell just how false this excuse rings with her. Cut to a long shot of the wagon and pan to a banner on lighted poles nearby: "The Amazing One Man Zoo-Freakish Wonder," showing a creature with the heads and body parts of many different animals. This is what passes for <char>Beast Boy</char>'s life now.)
 
-(Dissolve to <char>Starfire</char>'s perspective, walking along a balcony in a broken-down building. At the far end, a single fluorescent tube flickers and throws its inadequate light onto a steel door. Close-up; she gets a hand to the knob and turns. The room inside is pure white, with no features of any kind visible. In the far corner, wearing a white cloak with the hood up, a short figure stands with its back to the camera and its head bowed. This is still <char>Starfire</char>'s point of view.)
+(Dissolve to <char>Starfire</char>'s perspective, <setNote shot="no">walking along a balcony in a broken-down building</setNote>. At the far end, a single fluorescent tube flickers and throws its inadequate light onto a steel door. Close-up; she gets a hand to the knob and turns. <location>The room</location> inside is pure white, with no features of any kind visible. In the far corner, wearing a white cloak with the hood up, a short figure stands with its back to the camera and its head bowed. This is still <char>Starfire</char>'s point of view.)
 
 <sp><spkr ref="Starfire">Starfire</spkr> <char>Raven</char>? (Close-up.) <char>Raven</char>, it is <char>Starfire</char>, your friend.</sp>
 
@@ -377,7 +377,7 @@
 
 (As she is about to touch her former teammate's back, a shield pops up to block her and she gasps. Dropping her head, resignedly, she exits and closes the door behind her. <char>Raven</char> keeps her face to the wall and that black barrier up.)
 
-(Cut to a patch of sky, seen from between several rooftops, and tilt down to ground level. <char>Starfire</char> plods through the snow that thickly covers the street, but a laser blast from o.c. knocks her backward. Cut to a long shot of a ledge, where <char>Warp</char> stands with his shoulder-mounted weapons deployed. Circuitry is visible through the hole where she pulled that lens away, and his voice reveals that he too has aged.)
+(<setNote shot="no">Cut to a patch of sky, seen from between several rooftops, and tilt down to ground level. <char>Starfire</char> plods through the snow that thickly covers the street, but a laser blast from o.c. knocks her backward.</setNote> Cut to a long shot of <location>a ledge</location>, where <char>Warp</char> stands with his shoulder-mounted weapons deployed. Circuitry is visible through the hole where she pulled that lens away, and his voice reveals that he too has aged.)
 
 <sp><spkr ref="FWarp">*Warp</spkr> What's the matter, dear? Have I come at a bad time?</sp> 
 
@@ -397,11 +397,11 @@
 
 <sp><spkr ref="FWarp">*Warp</spkr> And nothing you do can ever change it.</sp> 
 
-(He raises one arm and extends a blaster from his wrist, ready to fire-but something hurtles into view and knocks him into an alley. Standing up, it is a black silhouette with long hair, and it throws <char>Warp</char> even farther down the way to bounce off a dead-end wall. The figure produces a couple of discs between its fingers and throws, revealing a gray utility belt and wrist guards; they explode in a fireball that engulfs the time traveler, and the thrower runs straight toward the blast zone for a jump. Flame and smoke clear to show that <char>Warp</char> has once again shielded himself with a force field. He lets it down and looks skyward to see this new figure dropping straight toward him.)
+(He raises one arm and extends a blaster from his wrist, ready to fire-but something hurtles into view and <setNote shot="no">knocks him into <location>an alley</location></setNote>. Standing up, it is a black silhouette with long hair, and it throws <char>Warp</char> <setNote shot="no">even farther down the way to bounce off a dead-end wall</setNote>. The figure produces a couple of discs between its fingers and throws, revealing a gray utility belt and wrist guards; they explode in a fireball that engulfs the time traveler, and the thrower runs straight toward the blast zone for a jump. Flame and smoke clear to show that <char>Warp</char> has once again shielded himself with a force field. He lets it down and looks skyward to see this new figure dropping straight toward him.)
 
 <sp><spkr ref="FWarp">*Warp</spkr> Another time, perhaps.</sp> 
 
-(He drops into the ground an instant before the leaping shadow lands there. <char>Starfire</char> moves cautiously into the alley as this person straightens up. No features can be seen, but the voice is unmistakable.)
+(He drops into the ground an instant before the leaping shadow lands there. <char>Starfire</char> moves cautiously into <location>the alley</location> as this person straightens up. No features can be seen, but the voice is unmistakable.)
 
 <sp><spkr ref="FRobin">*Robin</spkr> It's good to see you again.</sp> 
    
@@ -420,9 +420,9 @@
 <act n="3">
    <title>Act Three</title>
 
-(Opening shot: a slow pan across the Jump City skyline. Machinery makes itself heard, and the view dissolves to a group of turning gears in a machine room. These part to reveal blackness beyond; zoom in through them, then fade in to an overhead shot of a large room. A bank of computers and control panels is on one side, with a chair in front, and two cylindrical storage containers are across from them. A walkway bisects the area.)
+(<setNote shot="yes">Opening shot: a slow pan across the Jump City skyline.</setNote> Machinery makes itself heard, and <setNote shot="no">the view dissolves to a group of turning gears in a machine room</setNote>. These part to reveal blackness beyond; zoom in through them, then fade in to an overhead shot of a large room. A bank of computers and control panels is on one side, with a chair in front, and two cylindrical storage containers are across from them. A walkway bisects the area.)
 
-(Cut to just behind one of the containers. It is glass, and a part of <char>Robin</char>'s old outfit is visible at the edge of the screen. <char>Starfire</char> walks into view and stops to look, wrapping her arms around her body for warmth; cut to a head-on shot. The costume, mask and all, has been placed on a faceless store-window dummy for display purposes. She sighs quietly and gets a blanket wrapped around her shoulders by <char>Nightwing</char>-this is his new base of operations.)
+(Cut to just behind one of the containers. It is glass, and a part of <char>Robin</char>'s old outfit is visible at the edge of the screen. <char>Starfire</char> walks into view and stops to look, wrapping her arms around her body for warmth; cut to a head-on shot. The costume, mask and all, has been placed on a faceless store-window dummy for display purposes. She sighs quietly and gets a blanket wrapped around her shoulders by <char>Nightwing</char>-this is <location>his new base of operations</location>.)
 
 <sp><spkr ref="Nightwing">Nightwing</spkr> I heard you've been looking for help. </sp>
 
