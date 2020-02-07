@@ -19,13 +19,14 @@ type = attribute type {"recurring"|"nonrecurring"}
 subtype = attribute subtype {"villain"|"titan"}
 id = attribute id {xsd:ID}
 body = element body {act+}
-act = element act {n,mixed{(title|sp|cue|char|charDesc|setNote|location)*}}
+act = element act {n,mixed{(title|sp|cue|sd)*}}
 n = attribute n {xsd:int}
 title = element title {text}
-sp = element sp {spkr, mixed{char*}}
+sp = element sp {spkr, mixed{(char|sd)*}}
 spkr = element spkr {ref, text}
 ref = attribute ref {xsd:IDREF}
 cue = element cue {text}
+sd = element sd {mixed{(location|char|charDesc|setNote)*}}
 char = element char {ref?, text}
 charDesc = element charDesc {ref, text}
 # lm: I know we agreed on not doing this tag, but I came across a character who appears in both the comics and the tv series. It's a way to give us more data to use for analysis on appearance. It's strictly for descriptions about a character's appearance, also avoid recurring characters. For instance, if there's another description of Robin or Starfire in this season, don't tag it again.
