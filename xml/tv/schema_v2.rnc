@@ -24,12 +24,12 @@ n = attribute n {xsd:int}
 title = element title {text}
 sp = element sp {spkr, mixed{(char|sd)*}}
 spkr = element spkr {ref, text}
-ref = attribute ref {xsd:IDREF}
+ref = attribute ref {xsd:IDREFS}
 cue = element cue {text}
 sd = element sd {mixed{(location|char|charDesc|setNote)*}}
 char = element char {ref?, text}
 charDesc = element charDesc {ref, text}
-# lm: I know we agreed on not doing this tag, but I came across a character who appears in both the comics and the tv series. It's a way to give us more data to use for analysis on appearance. It's strictly for descriptions about a character's appearance, also avoid recurring characters. For instance, if there's another description of Robin or Starfire in this season, don't tag it again.
+#lm: shd said she was going to ask me about when to use this, so amp feel free to also ask!
 setNote = element setNote {shot, mixed{(location|char)?}}
 shot = attribute shot {"yes"|"no"}
 location = element location {text}
