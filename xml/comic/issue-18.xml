@@ -2,27 +2,103 @@
 <?xml-model href="comic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <head>
-        <issueTitle issue=""></issueTitle>
-        <publisher></publisher>
-        <writer></writer>
-        <letterer></letterer>
-        <colorist></colorist>
-        <editor></editor>
-        <date when=""></date>
+        <issueTitle issue="18">The New Teen Titans</issueTitle>
+        <publisher>DC Comics</publisher>
+        <writer>Marv Wolfman</writer>
+        <artist>George Perez</artist>
+        <embellisher>Romeo Tanghal</embellisher>
+        <letterer>Ben Constanza</letterer>
+        <colorist>Adrienne Roy</colorist>
+        <editor>Len Wein</editor>
+        <date when="1982-04">April 1982</date>
     </head>
     <characterList>
-        <charList id=""></charList>
+        <charList id="slavik">Marek Slavik</charList>
+        <charList id="maladi">Maladi Malanova</charList>
+        <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
+        <charList id="wgirl">Wonder Girl</charList>
+        <charList id="king">King Faraday</charList>
+        <charList id="kovar">Leonid Kovar (Starfire)</charList>
+        <charList id="blanc">Andre Le Blanc</charList>
+        <charList id="kflash">Wallace (Wally) West (Kid Flash)</charList>
+        <charList id="aqua">Aqualad</charList>
+        <charList id="#cyborg">Victor Stone (Cyborg)</charList>
+        <charList id="raven">Raven</charList>
+        <charList id="bboy">Beast Boy</charList>
+        <charList id="moe">Moe Shreivnitz</charList>
+        <charList id="mccarthy">Doorman "Cap'n" Jack McCarthy</charList>
     </characterList>
     <settingList>
         <setting>
-            <title></title>
-            <p></p>
+            <title>Bureau of Scientific Records</title>
+            <p>Marek Slavik's backstory; he wants revenge on the Americans. He takes a classifed case file.</p>
+            <charsPresent>
+                <char ref="#slavik">Marek Slavik</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Four Days Later: Bureau of Scientific Records</title>
+            <p>He sends his secretary, Maladi Malanova, to fetch files for him. He sends her to New York to deliver them to an operative there.</p>
+            <charsPresent>
+                <char ref="#maladi">Maladi Malanova</char>
+                <char ref="#slavik">Marek Slavik</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Docks of New York's Westside</title>
+            <p>King gives them information about a Russian Superhero coming to New York and wants to Titans to trail him. A flashback of when they first met Leonid Kovar.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#king">King Faraday</char>
+                <char ref="#kovar">Leonid Kovar</char>
+                <char ref="#blanc">Andre Le Blanc</char>
+                <char ref="#aqua">Aqualad</char>
+                <char ref="#kflash">Kid Flash</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>Robin and Wonder Girl replay the information to the other Teen Titans.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>J.F.K. International Airport</title>
+            <p>Maladi has arrived in New York.</p>
+            <charsPresent>
+                <char ref="#maladi">Maladi Malanova</char>
+                <char ref="#moe">Moe Shreivnitz</char>
+                <char ref="#mccarthy">Jack McCarthy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>A week later: J.F.K. International Airport</title>
+            <p>A week later, Kovar has arrived in New York. At the airport, a man falls over. It's implied that Maladi is the plague carrier and it's already spreading.</p>
+            <charsPresent>
+                <char ref="#kovar">Leonid Kovar</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Docks of New York's Westside</title>
+            <p>Beast Boy, following Kovar, reports to the Titans what he sees. Lacking the information that the reader has, Robin thinks that Kovar is the carrier.</p>
             <charsPresent>
                 <char ref=""></char>
             </charsPresent>
         </setting>
     </settingList>
     <referenceList>
-        <reference type=""></reference>
+        <reference type="person">Tomas</reference>
+        <reference type="person">Pavel</reference>
+        <reference type="person">Sonya</reference>
+        <reference type="place">Hanoi</reference>
+        <reference type="org">Kremlin</reference>
     </referenceList>
 </root>
