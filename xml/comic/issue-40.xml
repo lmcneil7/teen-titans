@@ -2,27 +2,158 @@
 <?xml-model href="comic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <head>
-        <issueTitle issue=""></issueTitle>
-        <publisher></publisher>
-        <writer></writer>
-        <letterer></letterer>
-        <colorist></colorist>
-        <editor></editor>
-        <date when=""></date>
+        <issueTitle issue="40">The New Teen Titans</issueTitle>
+        <publisher>DC Comics</publisher>
+        <writer>Marv Wolfman</writer>
+        <penciller>George Perez</penciller>
+        <inker>Romeo Tanghal</inker>
+        <letterer>Bob Lappan</letterer>
+        <colorist>Adrienne Roy</colorist>
+        <editor>Len Wein</editor>
+        <date when="1984-03">March 1984</date>
     </head>
     <characterList>
-        <charList id=""></charList>
+        <charList id="mayhem">Mother Mayhem</charList>
+        <charList id="seren">Sister Serenity</charList>
+        <charList id="blood">Brother Blood</charList>
+        <charList id="bboy">Garfield Logan (Beast Boy (Changeling))</charList>
+        <charList id="terra">Tara Markov (Terra)</charList>
+        <charList id="isabel">Miss Isabel Wyatt</charList>
+        <charList id="dayton">Steve Dayton</charList>
+        <charList id="questor">Vernon Questor</charList>
+        <charList id="andrews">John Andrews</charList>
+        <charList id="emory">Brad Emory</charList>
+        <charList id="silfeet">Stu "Silverfeet" Cummings</charList>
+        <charList id="wgirl">Donna Troy (Wonder Girl)</charList>
+        <charList id="raven">Raven</charList>
+        <charList id="starfire">Koriand'r (Starfire)</charList>
+        <charList id="cyborg">Victor Stone (Cyborg)</charList>
+        <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
+        <charList id="charles">Senator John Charles</charList>
+        <charList id="hitch">Congressman Carl Hitchcock</charList>
+        <charList id="jones">Congresswoman Jones</charList>
+        <charList id="annie">Annie Charles</charList>
+        <charList id="marko">President Rafael Marko</charList>
+        <charList id="john">Brother John</charList>
+        <charList id="cicily">Sister Cicily</charList>
+        <charList id="hank">Hank</charList>
     </characterList>
     <settingList>
         <setting>
-            <title></title>
-            <p></p>
+            <title>Zandia</title>
+            <p>The initiation of new acolytes into the cult of Brother Blood. Brother Blood is reborn.</p>
             <charsPresent>
-                <char ref=""></char>
+                <char ref="#mayhem">Mother Mayhem</char>
+                <char ref="#seren">Sister Serenity</char>
+                <char ref="#blood">Brother Blood</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Dayton Estates</title>
+            <p>Beast Boy and Terra are taking school lessons because it's required by law if you're younger than 18.Their teacher quits on the spot.Dayton threatens to send Beast Boy to public school.</p>
+            <charsPresent>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#isabel">Miss Wyatt</char>
+                <char ref="#dayton">Steve Dayton</char>
+                <char ref="#questor">Questor</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Cable Studio</title>
+            <p>Beast Boy calls Terra out on some of her lies, but she doesn't give him any answers. They go to the cable studio to participate in Bethany Snow's broadcast with the rest of the Titans. They're having a debate; their subject is the possible arms shipment to Zandia. Due to a speech made by Brother Blood, the Titans lose the debate and the public is starting to believe in Brother Blood.</p>
+            <charsPresent>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#bethsnow">Bethany Snow</char>
+                <char ref="#andrews">John Andrews</char>
+                <char ref="#emory">Brad Emory</char>
+                <char ref="#silfeet">Silverfeet</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#blood">Brother Blood</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#robin">Robin</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>New Jersey City</title>
+            <p>In a disguise, Robin visits Senator Charles. He along with Congressman Hitchcock and Congresswoman Jones were fired for supposedly working for Brother Blood. They agree to go to Zandia to clear their names.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#charles">John Charles</char>
+                <char ref="#hitch">Hitchcock</char>
+                <char ref="#jones">Jones</char>
+                <char ref="#annie">Annie Charles</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Zandia</title>
+            <p>They confront the President; he argues he has nothing to hide and allows the Zandian Jucket to visit Brother Blood.</p>
+            <charsPresent>
+                <char ref="#bethsnow">Bethany Snow</char>
+                <char ref="#charles">John Charles</char>
+                <char ref="#hitch">Hitchcock</char>
+                <char ref="#jones">Jones</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#marko">Rafael Marko</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Church of Blood</title>
+            <p>They enter the Church and are guided by Brother John and Sister Cicily. Their scaners see through Robin's disguise, but haven't figured it out it's him.</p>
+            <charsPresent>
+                <char ref="#john">Brother John</char>
+                <char ref="#cicily">Sister Cicily</char>
+                <char ref="#mayhem">Mother Mayhem</char>
+                <char ref="#bethsnow">Bethany Snow</char>
+                <char ref="#charles">John Charles</char>
+                <char ref="#hitch">Hitchcock</char>
+                <char ref="#jones">Jones</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#hank">Hank</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>Koriand'r and Wonder Girl are discussing Wonder Girl's wedding when Robin's emergency signal goes off. They summon the rest of the Titans to go help him.</p>
+            <charsPresent>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#wgirl">Wonder Girl</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>T-Sub</title>
+            <p>They use the T-Sub to go to Zandia; it was their plan if something went wrong.</p>
+            <charsPresent>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#raven">Raven</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Church of Blood</title>
+            <p>Raven senses that the enemy is already aware of them being there. It's proven when a gas starts pouring out the walls making the Titans' unconsicous. They awaken in front of Brother Blood; he explains that they're the final ingredient to unlocking his powers. Robin, under Brother Blood's will, gave away the plan of the Titans.</p>
+            <charsPresent>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#blood">Brother Blood</char>
+                <char ref="#robin">Robin</char>
             </charsPresent>
         </setting>
     </settingList>
     <referenceList>
-        <reference type=""></reference>
+        <reference type="person">Marcy Reynolds</reference>
+        <reference type="person">Terrence (Terry) Long</reference>
+        <reference type="deity">Azar</reference>
+        <reference type="deity">X'Hal</reference>
     </referenceList>
 </root>
