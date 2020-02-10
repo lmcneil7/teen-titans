@@ -4,25 +4,117 @@
     <head>
         <issueTitle issue="28">The New Teen Titans</issueTitle>
         <publisher></publisher>
-        <writer></writer>
-        <letterer></letterer>
-        <colorist></colorist>
-        <editor></editor>
-        <date when=""></date>
+        <writer>Marv Wolfman</writer>
+        <penciller>George Perez</penciller>
+        <inker>Romeo Tanghal</inker>
+        <letterer>John Constanza</letterer>
+        <colorist>Adrienne Roy</colorist>
+        <editor>Len Wein</editor>
+        <date when="1983-02">February 1983</date>
     </head>
     <characterList>
-        <charList id=""></charList>
+        <charList id="bboy">Garfield Logan (Beast Boy (Changeling))</charList>
+        <charList id="terra">Tara Markov (Terra)</charList>
+        <charList id="sade">Sister Sade (Helen Geary)</charList>
+        <charList id="soul">Sister Soul</charList>
+        <charList id="fear">Brother Fear</charList>
+        <charList id="warp">Warp</charList>
+        <charList id="plasmus">Plasmus</charList>
+        <charList id="phobia">Phobia</charList>
+        <charList id="houng">Houngan</charList>
+        <charList id="starfire">Koriand'r (Starfire)</charList>
+        <charList id="wgirl">Donna Troy (Wonder Girl)</charList>
+        <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
+        <charList id="raven">Raven</charList>
+        <charList id="kflash">Wallace (Wally) West (Kid Flash)</charList>
+        <charList id="cyborg">Victor Stone (Cyborg)</charList>
+        <charList id="long">Terrence (Terry) Long</charList>
+        <charList id="marcia">Marcia Long</charList>
+        <charList id="jenny">Jennifer (Jenny) Long</charList>
     </characterList>
     <settingList>
         <setting>
-            <title></title>
-            <p></p>
+            <title>Bank of Greater New York</title>
+            <p>Beast Boy is tracking down Terra to capture her. Terra's robbing a bank. As Beast Boy chases her, Terra reveals that she's doing a mission to keep her parents safe. While dazed by the information, Terra punches Beast Boy and escapes.</p>
             <charsPresent>
-                <char ref=""></char>
+                <char ref="#terra">Terra</char>
+                <char ref="#bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Zandia: Church of Blood</title>
+            <p>This is where Brother Blood resides along with his followers. Slowly, each of his followers fall victim to their fears, but only they can see them. It's revealed that the Brotherhood of Evil are the ones to blame for the deaths.</p>
+            <charsPresent>
+                <char ref="#sade">Sister Sade</char>
+                <char ref="#soul">Sister Soul</char>
+                <char ref="#fear">Brother Fear</char>
+                <char ref="#warp">Warp</char>
+                <char ref="#plasmus">Plasmus</char>
+                <char ref="#phobia">Phobia</char>
+                <char ref="#houng">Houngan</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>New York City: Donna Troy and Kory Anders' Penthouse Apartment</title>
+            <p>Wonder Girl and Koriand'r are discusiing Koriand'r's relationship with Robin.</p>
+            <charsPresent>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#robin">Robin</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Central Park Zoo</title>
+            <p>Terra is attacking again, but Beast Boy, observing from the shadows, thinks it's because she's scared. While he's the middle of contemplating what to do, animals start to escape. Terra uses this confusion to escape, but Beast Boy stops her by knocking her out.</p>
+            <charsPresent>
+                <char ref="#terra">Terra</char>
+                <char ref="#bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Donna Troy and Kory Anders' Penthouse Apartment</title>
+            <p>They're having a fight because Koriand'r wants to talk about their relationship while Robin is in a bad mood.</p>
+            <charsPresent>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#robin">Robin</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>Raven is mediating. Kid Flash is stressed on what to do about school and being Kid Flash at the same time. Beast Boy arrives with Terra. Terra wakes up and tries to escape when Victor enters because of the ruckus. When she realizes that she's no match for the Titans, she breaks down and tell them about the terrorists who kidnapped her parents to manipulate her.</p>
+            <charsPresent>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#cyborg">Victor Stone</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Terry Long's Apartment</title>
+            <p>Wonder Girl goes to visit Terry, but interrupts his meeting with his ex-wife and daughter. Feeling awkward, Wonder Girl leaves.</p>
+            <charsPresent>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#long">Terry Long</char>
+                <char ref="#marcia">Marcia Long</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Long Island City</title>
+            <p>The Titans take down Terra's tormentors.They find out her parents have been dead this entire time. Other than Beast Boy, the Titans are suspicious of Terra.</p>
+            <charsPresent>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#terra">Terra</char>
             </charsPresent>
         </setting>
     </settingList>
     <referenceList>
-        <reference type=""></reference>
+        <reference type="person">Brother Blood</reference>
+        <reference type="person">Bethany Snow</reference>
+        <reference type="person">Adrian Chase</reference>
+        <reference type="person">Brion Markov</reference>
     </referenceList>
 </root>
