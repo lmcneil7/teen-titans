@@ -6,8 +6,8 @@
         <!-- 1-29-2020 shd: gotta find these bees-->
         <writer>Amy Wolfran</writer> 
         <director>Alex Soto</director> 
-        <storyboard></storyboard>
-        <animation></animation>
+        <storyboard>Irineo Maramba, Samuel Montes, Scooter Tidwell, Chap Yaep</storyboard>
+        <animation>Dongwoo Animation Co. Ltd.</animation>
         <source>https://teentitans.fandom.com/wiki/Betrayal_(Transcript)</source>
     </head>
     <characterList>
@@ -21,11 +21,11 @@
     </characterList>
     <body>
         <act n="0">
-         PROLOGUE
+         <title>PROLOGUE</title>
 
-<sd><setNote shot="yes">Opening shot: a complex of buildings overlooking a rocky ridge.</setNote> It is early evening. Zoom in slowly, then cut to a room inside; a guard falls unconscious to the floor, and several of Slade's commando robots, one carrying a large canister, walk past him. Overhead view: many other guards lie knocked out as well. Outside, a section of the wall is blown out and the screen fills with dust, which clears to show the robots making their exit. Robin's birdarang flashes across the screen and smashes away part of the leader's head; cut to a close-up of it in flight and follow it back to the thrower's hand. Pull back to show the original five Titans on the scene.</sd>
+<sd><setNote shot="yes">Opening shot: a complex of buildings overlooking a rocky ridge.</setNote> It is early evening. Zoom in slowly, then cut to a room inside; a guard falls unconscious to the floor, and several of<char>Slade</char>'s commando robots, one carrying a large canister, walk past him. Overhead view: many other guards lie knocked out as well. Outside, a section of the wall is blown out and the screen fills with dust, which clears to show the robots making their exit.<char>Robin</char>'s birdarang flashes across the screen and smashes away part of the leader's head; cut to a close-up of it in flight and follow it back to the thrower's hand. Pull back to show the original five Titans on the scene.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> Tell Slade the Titans have a message for him. <sd>Tilt up; Terra stands on one of several floating boulders.</sd></sp>
+<sp><spkr ref="Robin">Robin</spkr> Tell<char>Slade</char> the Titans have a message for him. <sd>Tilt up;<char>Terra</char> stands on one of several floating boulders.</sd></sp>
 
 <sp><spkr ref="Terra">Terra</spkr> Eat dirt!</sp>
 
@@ -33,37 +33,37 @@
 
 <sp><spkr ref="Robin">Robin</spkr> Titans! Go!</sp>
 
-<sd>All six move in, Terra bringing a few more rocks along. She changes positions and lowers the one she was standing on so that Robin can hop aboard. Laser blasts from the surviving robots slash the air, but he swerves expertly around them. Finally, he leaps off; the stone crashes into one shooter, and he delivers a flying kick to another. More shots emerge from farther back, zeroing in on the approaching Starfire. She returns fire with her eye beams, tracing a blazing path through three other robots; it explodes after a moment and throws them in all directions.</sd>
+<sd>All six move in,<char>Terra</char> bringing a few more rocks along. She changes positions and lowers the one she was standing on so that<char>Robin</char> can hop aboard. Laser blasts from the surviving robots slash the air, but he swerves expertly around them. Finally, he leaps off; the stone crashes into one shooter, and he delivers a flying kick to another. More shots emerge from farther back, zeroing in on the approaching<char>Starfire</char>. She returns fire with her eye beams, tracing a blazing path through three other robots; it explodes after a moment and throws them in all directions.</sd>
 
-<sd>Raven's turn. She levitates an enormous slab of rock.</sd>
+<sd><char>Raven</char>'s turn. She levitates an enormous slab of rock.</sd>
 
-<sp><spkr ref="Raven">Raven</spkr> Terra! Catch!</sp>
+<sp><spkr ref="Raven">Raven</spkr><char>Terra</char>! Catch!</sp>
 
-<sd>She propels the mass at the blonde, who puts her hands up and gets it under control as Raven lets go. Down it comes like a few dozen loads of bricks to crush a knot of robots to pancakes.</sd>
+<sd>She propels the mass at the blonde, who puts her hands up and gets it under control as<char>Raven</char> lets go. Down it comes like a few dozen loads of bricks to crush a knot of robots to pancakes.</sd>
 
 <sp><spkr ref="Terra">Terra</spkr> Thanks a ton.</sp>
 
 <sp><spkr ref="Raven">Raven</spkr> Closer to two tons, actually.</sp>
 
-<sd>She creates a shield in front of herself; a laser shot immediately blasts it apart and throws her backward. The robot that fired it flies up behind her, using its boot-mounted rockets to stay aloft, and cuts loose with another blast that shatters Terra's stone platform. She tumbles to the ground and very soon finds herself staring up at a couple of the burglars, but Beast Boy, as a large gorilla, jumps down behind her and roars, pounding his chest in fury. Cut to one robot, which gets a huge green smack across the face, then pan to the other just in time for it to receive the same. A third runs toward Beast Boy and is swatted away; a fourth jumps on his back, but he picks it off, slams it to the ground, and throws it against a charging fifth. Finally, he roars, scoops Terra up, and returns to human form.</sd>
+<sd>She creates a shield in front of herself; a laser shot immediately blasts it apart and throws her backward. The robot that fired it flies up behind her, using its boot-mounted rockets to stay aloft, and cuts loose with another blast that shatters<char>Terra</char>'s stone platform. She tumbles to the ground and very soon finds herself staring up at a couple of the burglars, but<char>Beast Boy</char>, as a large gorilla, jumps down behind her and roars, pounding his chest in fury. Cut to one robot, which gets a huge green smack across the face, then pan to the other just in time for it to receive the same. A third runs toward<char>Beast Boy</char> and is swatted away; a fourth jumps on his back, but he picks it off, slams it to the ground, and throws it against a charging fifth. Finally, he roars, scoops<char>Terra</char> up, and returns to human form.</sd>
 
 <sp><spkr ref="Terra">Terra</spkr> You saved me.</sp>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>blushing, hearts in eyes</sd> Yeah. That was cool.</sp>
 
-<sp><spkr ref="Terra">Terra</spkr> Uh, Beast Boy? You can put me down now. <sd>He comes to his senses with a little yelp and does so, then backs up.</sd></sp>
+<sp><spkr ref="Terra">Terra</spkr> Uh,<char>Beast Boy</char>? You can put me down now. <sd>He comes to his senses with a little yelp and does so, then backs up.</sd></sp>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Right. I was just, uh...</sp>
 
-<sd>A robot being thrown past them cuts him off; he gives her a big sheepish grin and runs in the direction it came from. Brief close-up of Terra's suddenly worried face, then cut to another part of the plain, where Robin and a commando charge at each other. His fighting staff out and at full length, he nails the enemy with a backward flip kick to the chin and swings the weapon to knock away another one when it rushes in. A roar and jump carry him in range to bash a third upside the head, the camera panning to follow. As he lands the blow, there is a brief flicker and click as of a camera shutter snapping. After this, we see him in freeze frame; his name appears on the screen along with a few computer graph readouts.</sd>
+<sd>A robot being thrown past them cuts him off; he gives her a big sheepish grin and runs in the direction it came from. Brief close-up of<char>Terra</char>'s suddenly worried face, then cut to another part of the plain, where<char>Robin</char> and a commando charge at each other. His fighting staff out and at full length, he nails the enemy with a backward flip kick to the chin and swings the weapon to knock away another one when it rushes in. A roar and jump carry him in range to bash a third upside the head, the camera panning to follow. As he lands the blow, there is a brief flicker and click as of a camera shutter snapping. After this, we see him in freeze frame; his name appears on the screen along with a few computer graph readouts.</sd>
 
-<sd>Cut to Raven, rising higher in the air with a black aura surrounding her body. She forms this into a group of energy streams and hurls them downward; freeze frame just like Robin's. From here, cut to Cyborg running at a commando. He drills it with a killer uppercut, then brings out his sonic cannon and fires in a different direction, and he too is seen in freeze frame. Cut to a group of robots, fleeing from a hail of starbolts, and as smoke pours up from the points of impact, Starfire flies out of it and hurls another one. Freeze frame. Cut to Beast Boy and pan to follow him as he becomes a bighorn sheep and rams another of the thieves. Freeze frame.</sd>
+<sd>Cut to<char>Raven</char>, rising higher in the air with a black aura surrounding her body. She forms this into a group of energy streams and hurls them downward; freeze frame just like<char>Robin</char>'s. From here, cut to<char>Cyborg</char> running at a commando. He drills it with a killer uppercut, then brings out his sonic cannon and fires in a different direction, and he too is seen in freeze frame. Cut to a group of robots, fleeing from a hail of starbolts, and as smoke pours up from the points of impact,<char>Starfire</char> flies out of it and hurls another one. Freeze frame. Cut to<char>Beast Boy</char> and pan to follow him as he becomes a bighorn sheep and rams another of the thieves. Freeze frame.</sd>
 
 <sd>Smoke billows up to cover the entire screen. It clears to show a silhouetted figure watching a wall of small monitors; each of the preceding five shots appears several times on them. This person's back is to us, but the voice is a dead giveaway.</sd>
 
 <sp><spkr ref="Slade">Slade</spkr> Excellent.</sp>
 
-<sd>Close-up of a desk, panning across the surface. It is littered with notes, books, maps, and Titan equipment; some of Robin's discs, dismantled communicator, grappling hook, fighting staff.</sd>
+<sd>Close-up of a desk, panning across the surface. It is littered with notes, books, maps, and Titan equipment; some of<char>Robin</char>'s discs, dismantled communicator, grappling hook, fighting staff.</sd>
 
 <sp><spkr ref="Slade">Slade</spkr> <sd>from o.c.</sd> You've done well. Very well. All your hard work is about to pay off. <sd>Cut to behind him.</sd> Tonight we strike.</sp>
 
@@ -80,7 +80,7 @@ OPENING THEME
 <act n="1">
 <title>ACT ONE</title>
 
-<sd>Opening shot: the exterior of Titans Tower. It is now later that night. Zoom in slowly, then cut to a litter of dirty dishes and open pizza boxes and zoom in again. A single piece lies in one of the boxes, among a litter of half-eaten fragments. Cut to a blue background, against which panels showing all six Titans' heads are arranged in a circle; Terra is drinking a soda, and Beast Boy is back in human form. The slice drops into view, away from the camera, and lands at the center of the screen.</sd>
+<sd>Opening shot: the exterior of <location>Titans Tower</location>. It is now later that night. Zoom in slowly, then cut to a litter of dirty dishes and open pizza boxes and zoom in again. A single piece lies in one of the boxes, among a litter of half-eaten fragments. Cut to a blue background, against which panels showing all six Titans' heads are arranged in a circle;<char>Terra</char> is drinking a soda, and<char>Beast Boy</char> is back in human form. The slice drops into view, away from the camera, and lands at the center of the screen.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> <sd>reaching to it</sd> And the last slice of pizza goes to...</sp>
 
@@ -98,9 +98,9 @@ OPENING THEME
 
 <sp><spkr ref="Raven">Raven</spkr> Congratulations.</sp>
 
-<sd>Sight gag: the view changes to the sidelines of a stadium packed with cheering fans. Cyborg, dressed as a sportscaster with microphone in hand, is interviewing the football-uniformed pizza champ, whose jersey sports a large blue T. She holds a trophy topped by a gold slice. Beneath both, an assortment of sports equipment rolls by on a ticker; the occasional T is interspersed with them.</sd>
+<sd>Sight gag: the view changes to the sidelines of a stadium packed with cheering fans.<char>Cyborg</char>, dressed as a sportscaster with microphone in hand, is interviewing the football-uniformed pizza champ, whose jersey sports a large blue T. She holds a trophy topped by a gold slice. Beneath both, an assortment of sports equipment rolls by on a ticker; the occasional T is interspersed with them.</sd>
 
-<sp><spkr ref="Cyborg">Cyborg</spkr> Just a rookie, and already you're an MVP holding the coveted Four-Cheese Trophy. Terra...</sp>
+<sp><spkr ref="Cyborg">Cyborg</spkr> Just a rookie, and already you're an MVP holding the coveted Four-Cheese Trophy.<char>Terra</char>...</sp>
 
 <sd>He points to his right, and the upper-screen view pans away to show an outer-space view of Earth, with a nervously eager face and a complete body attached. A rather disgruntled moon floats in orbit.</sd>
 
@@ -108,17 +108,17 @@ OPENING THEME
 
 <sp><spkr ref="Terra">Terra</spkr> Um...good...and kinda greasy.</sp>
 
-<sd>The world applauds, as does the crowd. Pull back a bit as Robin and Starfire, both suited up as Terra's teammates, hoist her onto their shoulders. Farther back, Raven appears as a reluctant cheerleader and someone in the stands holds up a sign with Terra's name on it. From the side of Cyborg's head, a tiny microphone extends on a jointed boom and shifts to each speaker in turn.</sd>
+<sd>The world applauds, as does the crowd. Pull back a bit as<char>Robin</char> and<char>Starfire</char>, both suited up as<char>Terra</char>'s teammates, hoist her onto their shoulders. Farther back,<char>Raven</char> appears as a reluctant cheerleader and someone in the stands holds up a sign with<char>Terra</char>'s name on it. From the side of<char>Cyborg</char>'s head, a tiny microphone extends on a jointed boom and shifts to each speaker in turn.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> Seriously, Terra, great job tonight. We're glad to have you on the team.</sp>
+<sp><spkr ref="Robin">Robin</spkr> Seriously,<char>Terra</char>, great job tonight. We're glad to have you on the team.</sp>
 
 <sp><spkr ref="Starfire">Starfire</spkr> And we are most mirthful to claim you as our friend.</sp>
 
 <sp><spkr ref="Raven">Raven</spkr> Yeah. What they say.</sp>
 
-<sd>She gives her pompoms a lackluster shake. Beast Boy, as a puppy, bounds happily into view and jumps onto Starfire's head to lick Terra's face.</sd>
+<sd>She gives her pompoms a lackluster shake.<char>Beast Boy</char>, as a puppy, bounds happily into view and jumps onto<char>Starfire</char>'s head to lick<char>Terra</char>'s face.</sd>
 
-<sp><spkr ref="Terra">Terra</spkr> <sd>laughing</sd> Beast Boy...</sp>
+<sp><spkr ref="Terra">Terra</spkr> <sd>laughing</sd><char>Beast Boy</char>...</sp>
 
 <sd>The sight gag ends when the entire view slides up and off the screen to reveal the two of them in the kitchen. He is in human form, seeming a bit embarrassed, and she pushes the scene as if raising a windowpane.</sd>
 
@@ -126,27 +126,27 @@ OPENING THEME
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Well, it's a big deal to us. Good friends don't come along every day, you know?</sp>
 
-<sd>She smiles at this. Cut to Cyborg, approaching the door. A small panel opens up on the wall to reveal a handprint reader pad; he puts a palm to it and brings up a screen that shows schematics of the Tower and assorted systems. Pull back to an overhead shot of the operations center, showing the pizza boxes on the coffee table, as the lights go out. Back to him; he yawns widely.</sd>
+<sd>She smiles at this. Cut to<char>Cyborg</char>, approaching the door. A small panel opens up on the wall to reveal a handprint reader pad; he puts a palm to it and brings up a screen that shows schematics of <location>the Tower</location> and assorted systems. Pull back to an overhead shot of the operations center, showing the pizza boxes on the coffee table, as the lights go out. Back to him; he yawns widely.</sd>
 
-<sp><spkr ref="Cyborg">Cyborg</spkr> All right, y'all. Titans Tower's locked up and Cyborg's shutting down.</sp>
+<sp><spkr ref="Cyborg">Cyborg</spkr> All right, y'all. <location>Titans Tower</location>'s locked up and<char>Cyborg</char>'s shutting down.</sp>
 
-<sd>He walks out. Cut to Terra and Beast Boy; the palm reader and panel close behind them.</sd>
+<sd>He walks out. Cut to<char>Terra</char> and<char>Beast Boy</char>; the palm reader and panel close behind them.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> We should all get some sleep. <sd>Pull back to frame him, Starfire and Raven by the couch.</sd> We may have stopped Slade tonight, but we need to figure out what he's planning tomorrow.</sp>
+<sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> We should all get some sleep. <sd>Pull back to frame him,<char>Starfire</char> and<char>Raven</char> by the couch.</sd> We may have stopped<char>Slade</char> tonight, but we need to figure out what he's planning tomorrow.</sp>
 
-<sd>He and the other two girls head for their rooms. Close-up of Terra, suddenly worried.</sd>
+<sd>He and the other two girls head for their rooms. Close-up of<char>Terra</char>, suddenly worried.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> <sd>from o.c.</sd> 'Night.</sp>
 
 <sp><spkr ref="Starfire">Starfire</spkr> <sd>from o.c.</sd> Pleasant shlorvaks!</sp>
 
-<sd>The newest Titan wheels away from the camera. Pull back to show her looking at Beast Boy, who waves to her.</sd>
+<sd>The newest Titan wheels away from the camera. Pull back to show her looking at<char>Beast Boy</char>, who waves to her.</sd>
 
-<sp><spkr ref="BeastBoy">Beast Boy</spkr> Nighty-night, Terra. <sd>He, too, heads for the hall.</sd></sp>
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> Nighty-night,<char>Terra</char>. <sd>He, too, heads for the hall.</sd></sp>
 
 <sp><spkr ref="Terra">Terra</spkr> <sd>preoccupied</sd> Yeah. See you tomorrow.</sp>
 
-<sd>Dissolve to the exterior of the Tower, zooming in slowly, then cut to Terra's room. The camera is positioned by the coffee table in front of her couch. A laptop computer sits open on this, next to a lava lamp, and after a moment, she steps into view and sits down at the keyboard. Zoom in slightly as she looks warily over each shoulder to make sure she is alone. She then lets out a huge breath and starts typing; close-up of her gloved fingers on the keys, then of an e-mail SEND button on the screen. The mouse pointer moves to this and clicks it; immediately, there is a loud thumping at the door. Terra gasps and closes the lid of her laptop. When she gets to the door, it opens to reveal Beast Boy in the hall. He smiles broadly.</sd>
+<sd>Dissolve to the exterior of the <location>Tower</location>, zooming in slowly, then cut to<char>Terra</char>'s room. The camera is positioned by the coffee table in front of her couch. A laptop computer sits open on this, next to a lava lamp, and after a moment, she steps into view and sits down at the keyboard. Zoom in slightly as she looks warily over each shoulder to make sure she is alone. She then lets out a huge breath and starts typing; close-up of her gloved fingers on the keys, then of an e-mail SEND button on the screen. The mouse pointer moves to this and clicks it; immediately, there is a loud thumping at the door.<char>Terra</char> gasps and closes the lid of her laptop. When she gets to the door, it opens to reveal<char>Beast Boy</char> in the hall. He smiles broadly.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Hi.</sp>
 
@@ -156,7 +156,7 @@ OPENING THEME
 
 <sp><spkr ref="Terra">Terra</spkr> Okay, well... <sd>waves goodbye</sd> ...nice talking to you.</sp>
 
-<sd>She turns back toward her room. Cut to Beast Boy, still mute against those hearts, but after a second he yells in surprise and his eyes pop so wide that they could be used for bowling balls. With one hand, he whips out a large, lumpy, badly wrapped package that shimmers in the light.</sd>
+<sd>She turns back toward her room. Cut to<char>Beast Boy</char>, still mute against those hearts, but after a second he yells in surprise and his eyes pop so wide that they could be used for bowling balls. With one hand, he whips out a large, lumpy, badly wrapped package that shimmers in the light.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> I kinda...made you something. <sd>She leans out.</sd></sp>
 
@@ -170,7 +170,7 @@ OPENING THEME
 
 <sd>He tries to shake it loose, but with no luck, and a vein pops out on his forehead as he thrashes angrily about. Close-up of the package, which she unwraps to reveal a heart-shaped box. She flips the lid open, finding it to be hinged along the heart's upper lobes, and the camera tilts up a bit to show her reflection in a mirror set on its inner surface. A small gasp is followed by a warm smile across her face.</sd>
 
-<sp><spkr ref="Terra">Terra</spkr> Beast Boy...it's...I don't know what to say. <sd>He leans into view.</sd></sp>
+<sp><spkr ref="Terra">Terra</spkr><char>Beast Boy</char>...it's...I don't know what to say. <sd>He leans into view.</sd></sp>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> You could say yes, 'cause I'm about to ask you out on a date.</sp>
 
@@ -178,7 +178,7 @@ OPENING THEME
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> So... <sd>She closes the box.</sd> ...want to do something tomorrow night?</sp>
 
-<sp><spkr ref="Terra">Terra</spkr> Tomorrow...I...I'm sorry, Beast Boy, I can't.</sp>
+<sp><spkr ref="Terra">Terra</spkr> Tomorrow...I...I'm sorry,<char>Beast Boy</char>, I can't.</sp>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> But--</sp>
 
@@ -196,19 +196,19 @@ OPENING THEME
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> How could you mess that up? All you had to do was knock on the door and say...</sp>
 
-<sd>The view changes to the five-second countdown before the start of a movie. It blinks out at 2, and at the proper time the view snaps to a shot of a clapper board: the device used to indicate when actors are to begin a scene. It shows production number 257-330, the actual number for this episode, scene A67, take 1, and the director is listed as Soto. The board snaps and falls away to reveal Beast Boy, who does a quick twirl and transforms into a bodybuilder like Arnold Schwarzenegger.</sd>
+<sd>The view changes to the five-second countdown before the start of a movie. It blinks out at 2, and at the proper time the view snaps to a shot of a clapper board: the device used to indicate when actors are to begin a scene. It shows production number 257-330, the actual number for this episode, scene A67, take 1, and the director is listed as Soto. The board snaps and falls away to reveal<char>Beast Boy</char>, who does a quick twirl and transforms into a bodybuilder like Arnold Schwarzenegger.</sd>
 
-<sp><spkr ref="BeastBoy">Beast Boy</spkr> Yo, Terra. You, me, movies, Friday?</sp>
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> Yo,<char>Terra</char>. You, me, movies, Friday?</sp>
 
 <sd>Flash to the clapper: scene A69, take 2. Snap, fall away, and the view has shifted to a moonlit stretch of ocean. The lovestruck Titan, now a debonair Frenchman complete with beret and rose, zips in; he sniffs the flower a moment and then leans to the camera.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>French accent</sd> You are the most beautiful woman I have ever seen.</sp>
 
-<sd>He clamps the stem in his teeth and pops his eyebrows up and down. Flash to the clapper: scene A70, scene 3: snap, fall away to a black screen. Beast Boy walks into view away from the camera. Now he is dressed as a 1950s teenage gang member, with a winged skull on the back of his leather jacket and a ducktail haircut, and he twirls a set of keys as he looks over his shoulder.</sd>
+<sd>He clamps the stem in his teeth and pops his eyebrows up and down. Flash to the clapper: scene A70, scene 3: snap, fall away to a black screen.<char>Beast Boy</char> walks into view away from the camera. Now he is dressed as a 1950s teenage gang member, with a winged skull on the back of his leather jacket and a ducktail haircut, and he twirls a set of keys as he looks over his shoulder.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> You want to go for a ride on my moped?</sp>
 
-<sd>On the end of this, pan slightly to one side and bring up a spotlight to show this vehicle nearby. He presses a button on the keychain, activating the alarm, and we flash to the clapper once more: scene A71, take 4. Snap, fall away, and Beast Boy sits in puppy form against a backdrop of flowers. He wags, barks, and pants happily. Flash to the clapper: scene A72, take 5: snap, fall away, and the rain is now pouring down. He slides into view on his knees, hands clasped pleadingly, eyes wide and full of tears.</sd>
+<sd>On the end of this, pan slightly to one side and bring up a spotlight to show this vehicle nearby. He presses a button on the keychain, activating the alarm, and we flash to the clapper once more: scene A71, take 4. Snap, fall away, and<char>Beast Boy</char> sits in puppy form against a backdrop of flowers. He wags, barks, and pants happily. Flash to the clapper: scene A72, take 5: snap, fall away, and the rain is now pouring down. He slides into view on his knees, hands clasped pleadingly, eyes wide and full of tears.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Pleeeeeeeeeease?</sp>
 
@@ -234,7 +234,7 @@ OPENING THEME
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>from the stone, fading out</sd> So, you want to catch a late movie?</sp>
 
-<sd>A light comes on in an upper-story window. Cut to the hall, outside a closed door; it opens to reveal Cyborg, the light is in his room, and the camera cuts to a close-up of his midsection. Loud rumbling from his gut, which he covers with one hand, then tilt up to his unsettled face.</sd>
+<sd>A light comes on in an upper-story window. Cut to the hall, outside a closed door; it opens to reveal<char>Cyborg</char>, the light is in his room, and the camera cuts to a close-up of his midsection. Loud rumbling from his gut, which he covers with one hand, then tilt up to his unsettled face.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Oh, man.</sp>
 
@@ -246,7 +246,7 @@ OPENING THEME
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Oh, well. <sd>stands and brings out a large hoagie</sd> Nothing a foot-long ham and beef jerky sandwich won't--</sp>
 
-<sd>His face goes slack as he trails off. The reason for this surprise is revealed when the camera cuts to behind him: many of Slade's commando robots stand on the kitchen counter and glare down at him, having somehow penetrated the Tower's security measures. He turns around; pull back across the floor as still more of the mechanical intruders move to hem him in. Close-up.</sd>
+<sd>His face goes slack as he trails off. The reason for this surprise is revealed when the camera cuts to behind him: many of<char>Slade</char>'s commando robots stand on the kitchen counter and glare down at him, having somehow penetrated the Tower's security measures. He turns around; pull back across the floor as still more of the mechanical intruders move to hem him in. Close-up.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> <sd>horrified</sd> No.</sp>
 
@@ -254,7 +254,7 @@ OPENING THEME
 
 <act n="2">
 <title>ACT TWO</title>
-<sd>Opening shot: a pan across the city skyline, quiet under a full moon. Cut to Beast Boy and Terra on an outcropping of stone, well outside the urban center.</sd>
+<sd>Opening shot: a pan across the city skyline, quiet under a full moon. Cut to<char>Beast Boy</char> and<char>Terra</char> on an outcropping of stone, well outside the urban center.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> When you asked me out, I didn't realize you meant "out of town."</sp>
 
@@ -266,13 +266,13 @@ OPENING THEME
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Always.</sp>
 
-<sd>Dissolve to the exterior of Ben's, a diner in the city. A big rig rolls past in front; behind its rear end, the view changes to inside the front door. The camera is trained on its upper edge, where a bell is attached to mark entrances and exits. As the door swings open, tilt down to show Terra leading Beast Boy in. He stops at the threshold, eyes widening in mild shock; cut to his perspective; men around a pool table, staring right back at him before resuming their game, and pan to the counter, where his date has already parked herself on a stool.</sd>
+<sd>Dissolve to the exterior of Ben's, a diner in the city. A big rig rolls past in front; behind its rear end, the view changes to inside the front door. The camera is trained on its upper edge, where a bell is attached to mark entrances and exits. As the door swings open, tilt down to show<char>Terra</char> leading<char>Beast Boy</char> in. He stops at the threshold, eyes widening in mild shock; cut to his perspective; men around a pool table, staring right back at him before resuming their game, and pan to the counter, where his date has already parked herself on a stool.</sd>
 
-<sd>Back to him. After a nervous look around, he walks in and sits by Terra, who is reading the menu. He picks up a copy for himself; cut to his perspective of it, there are pictures of the various platters, all of which contain liberal portions of meat. In between them is the face of a thick-browed man, presumably Ben himself, licking his chops, with a word balloon showing a heart. Needless to say, this is not the sort of cuisine he would prefer. Lowering the menu, he finds both Terra and a waitress looking at him.</sd>
+<sd>Back to him. After a nervous look around, he walks in and sits by<char>Terra</char>, who is reading the menu. He picks up a copy for himself; cut to his perspective of it, there are pictures of the various platters, all of which contain liberal portions of meat. In between them is the face of a thick-browed man, presumably Ben himself, licking his chops, with a word balloon showing a heart. Needless to say, this is not the sort of cuisine he would prefer. Lowering the menu, he finds both<char>Terra</char> and a waitress looking at him.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Um... <sd>Pull back to frame him.</sd> ...don't suppose you guys have a veggie burger?</sp>
 
-<sd>The waitress gives him a long, funny look as if he had just addressed her in Tagalog. Terra takes the menu from him.</sd>
+<sd>The waitress gives him a long, funny look as if he had just addressed her in Tagalog.<char>Terra</char> takes the menu from him.</sd>
 
 <sp><spkr ref="Terra">Terra</spkr> We'll just get the usual, Pam.</sp>
 
@@ -282,9 +282,9 @@ OPENING THEME
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Okay. What's the coolest place you've ever been? <sd>She thinks hard and gazes at the spoon.</sd></sp>
 
-<sp><spkr ref="Terra">Terra</spkr> Don't know. <sd>Close-up of her reflection.</sd> Probably Titans Tower. <sd>Pull back; she brightens and lowers the utensil.</sd> But there's plenty of cool stuff out here. Who knows? If you're really nice to me, maybe I'll give you the tour.</sp>
+<sp><spkr ref="Terra">Terra</spkr> Don't know. <sd>Close-up of her reflection.</sd> Probably <location>Titans Tower</location>. <sd>Pull back; she brightens and lowers the utensil.</sd> But there's plenty of cool stuff out here. Who knows? If you're really nice to me, maybe I'll give you the tour.</sp>
 
-<sd>Pam, the waitress, brings two plates of food. Close-up as she sets them down: pie a la mode. Terra hands Beast Boy a spoon.</sd>
+<sd>Pam, the waitress, brings two plates of food. Close-up as she sets them down: pie a la mode.<char>Terra</char> hands<char>Beast Boy</char> a spoon.</sd>
 
 <sp><spkr ref="Terra">Terra</spkr> Dig in.</sp>
 
@@ -294,11 +294,11 @@ OPENING THEME
 
 <sp><spkr ref="Terra">Terra</spkr> There's a place about two hundred miles outside of Gotham that bakes a mean cherry.</sp>
 
-<sd>She swivels on her stool to face the mirror behind the counter, and the camera pans slightly to show Slade's image in the glass. However, she does not notice him straight away.</sd>
+<sd>She swivels on her stool to face the mirror behind the counter, and the camera pans slightly to show<char>Slade</char>'s image in the glass. However, she does not notice him straight away.</sd>
 
 <sp><spkr ref="Terra">Terra</spkr> But for apple, this is the best there--</sp>
 
-<sd>Now she sees the masked figure, and her eyes pop as she gasps. Extreme close-up of that left eye, then pull back; she whirls to face the camera. Cut to the men at their pool game and pan to a small counter in the back corner. A couple of other customers sit here, drinking coffee and reading the paper, and there is no sign of Slade anywhere around here. Back to the two teens; Terra is still turned around and staring wide-eyed at nothing, Beast Boy's full attention remains on the pie he is wolfing down, and Slade's image is gone. She darts a few quick glances here and there, puts some coins on the counter to cover the tab, and climbs off her stool to pass Beast Boy.</sd>
+<sd>Now she sees the masked figure, and her eyes pop as she gasps. Extreme close-up of that left eye, then pull back; she whirls to face the camera. Cut to the men at their pool game and pan to a small counter in the back corner. A couple of other customers sit here, drinking coffee and reading the paper, and there is no sign of<char>Slade</char> anywhere around here. Back to the two teens;<char>Terra</char> is still turned around and staring wide-eyed at nothing,<char>Beast Boy</char>'s full attention remains on the pie he is wolfing down, and<char>Slade</char>'s image is gone. She darts a few quick glances here and there, puts some coins on the counter to cover the tab, and climbs off her stool to pass<char>Beast Boy</char>.</sd>
 
 <sp><spkr ref="Terra">Terra</spkr> Let's get outta here. Night's still young.</sp>
 
@@ -306,35 +306,35 @@ OPENING THEME
 
 <sd>She reaches back into view and seizes his arm; he is whisked out with a surprised yell, dropping his communicator. The camera shifts to point out the door after the pair, the bell jingling as they sail away on a rock, and tilts down to the item on the floor. It comes to life after a moment.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> <sd>over comm</sd> Beast Boy! Come in!</sp>
+<sp><spkr ref="Robin">Robin</spkr> <sd>over comm</sd><char>Beast Boy</char>! Come in!</sp>
 
-<sd>Cut to the exterior of the Tower. All is quiet here, but the mood is soon shattered when the operations center window explodes. Inside, Slade's android troops advance down the hall with lasers blazing. Pan from them to a piece of rubble, behind which Robin hunches down to use his communicator.</sd>
+<sd>Cut to the exterior of the Tower. All is quiet here, but the mood is soon shattered when the operations center window explodes. Inside,<char>Slade</char>'s android troops advance down the hall with lasers blazing. Pan from them to a piece of rubble, behind which<char>Robin</char> hunches down to use his communicator.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> Beast Boy, where are you? Answer me!</sp>
+<sp><spkr ref="Robin">Robin</spkr><char>Beast Boy</char>, where are you? Answer me!</sp>
 
 <sd>A shot strikes the edge of his makeshift bunker and cuts him off. He makes a break for it, dodging a fusillade of blasts, and hurls himself with a yell through a hole blown in the floor. On the story below are more shooters, which he easily dispatches, but a squad of reinforcements soon moves in. Off he goes again.</sd>
 
-<sd>Cut to Cyborg and Starfire, taking cover around the edge of a doorway. When the right moment comes, they lean out of the room and unleash a double-barreled assault with cannon and starbolts. Pull back as Robin dives through the portal and lands at its opposite edge.</sd>
+<sd>Cut to<char>Cyborg</char> and<char>Starfire</char>, taking cover around the edge of a doorway. When the right moment comes, they lean out of the room and unleash a double-barreled assault with cannon and starbolts. Pull back as<char>Robin</char> dives through the portal and lands at its opposite edge.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> He's not responding.</sp>
 
-<sd>He looks out and catches sight of Raven rising up through the floor.</sd>
+<sd>He looks out and catches sight of<char>Raven</char> rising up through the floor.</sd>
 
-<sp><spkr ref="Raven">Raven</spkr> And Terra's not in her room. <sd>Close-up of Robin, one eyebrow cocked; pan to Cyborg and Starfire.</sd></sp>
+<sp><spkr ref="Raven">Raven</spkr> And<char>Terra</char>'s not in her room. <sd>Close-up of<char>Robin</char>, one eyebrow cocked; pan to<char>Cyborg</char> and<char>Starfire</char>.</sd></sp>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Somebody want to explain how two hundred armed robots got past my security?</sp>
 
-<sd>On the end of this line, cut to a contingent of said robots; they advance at a leisurely pace and train a steady stream of fire along the hall. Snap to black, which resolves into a patch of light as Cyborg opens a small hatch and peers toward the camera. Cut to his side of it; inside is a circuit board with a large button. He presses this and is rewarded with a jolt of electricity that makes him yell in pain. The firefight continues unabated.</sd>
+<sd>On the end of this line, cut to a contingent of said robots; they advance at a leisurely pace and train a steady stream of fire along the hall. Snap to black, which resolves into a patch of light as<char>Cyborg</char> opens a small hatch and peers toward the camera. Cut to his side of it; inside is a circuit board with a large button. He presses this and is rewarded with a jolt of electricity that makes him yell in pain. The firefight continues unabated.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Can't even access the computer! We're locked out!</sp>
 
-<sp><spkr ref="Starfire">Starfire</spkr> They are too numerous to fight! <sd>Long shot of the doorway; she continues from out of sight.</sd> What shall we do? <sd>Cut to Robin and zoom in.</sd></sp>
+<sp><spkr ref="Starfire">Starfire</spkr> They are too numerous to fight! <sd>Long shot of the doorway; she continues from out of sight.</sd> What shall we do? <sd>Cut to<char>Robin</char> and zoom in.</sd></sp>
 
 <sp><spkr ref="Robin">Robin</spkr> Fight anyway. Titans! Go!</sp>
 
-<sd>All four rush into the hall. Robin catches one robot with a flying kick and decapitates another with a birdarang throw. This buys him only a moment, though; a third aims a punch at him, but he ducks and comes back with an uppercut that nearly lifts the metal soldier clear off its feet. A crushing kick puts it down, after which the camera pans to another group. Cyborg charges at them and punches away one after another, followed by Starfire, who fares well with both shots and strength. Once she has cleared a bit of room, she takes flight down the hall and strafes the next rank of invaders.</sd>
+<sd>All four rush into the hall.<char>Robin</char> catches one robot with a flying kick and decapitates another with a birdarang throw. This buys him only a moment, though; a third aims a punch at him, but he ducks and comes back with an uppercut that nearly lifts the metal soldier clear off its feet. A crushing kick puts it down, after which the camera pans to another group.<char>Cyborg</char> charges at them and punches away one after another, followed by<char>Starfire</char>, who fares well with both shots and strength. Once she has cleared a bit of room, she takes flight down the hall and strafes the next rank of invaders.</sd>
 
-<sd>In her wake, one is flung across under Raven's control and crashes into the wall. Cut to the telekinetic Titan, floating above one bunch and slinging them every which way while blocking a shot or two.</sd>
+<sd>In her wake, one is flung across under<char>Raven</char>'s control and crashes into the wall. Cut to the telekinetic Titan, floating above one bunch and slinging them every which way while blocking a shot or two.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> Azarath Metrion Zinthos!</sp>
 
@@ -346,17 +346,17 @@ OPENING THEME
 
 <sp><spkr ref="Raven">Raven</spkr> Nobody goes in my room.</sp>
 
-<sd>A swing of her arms caves in a long stretch of the floor and sends the survivors down to the story below. Zoom in on one robot as it falls, then continue on to Cyborg, who is in the path of the collapse. He goes down yelling, and a few thousand pounds of rubble crash down on the bunch. The dust clears to show all of them lying prone in the gym below. Cyborg is first to start to his feet with a groan, only to meet a commando rushing at him and swinging a piece of the junk. This blow connects against the big man's head and knocks him into a wall.</sd>
+<sd>A swing of her arms caves in a long stretch of the floor and sends the survivors down to the story below. Zoom in on one robot as it falls, then continue on to<char>Cyborg</char>, who is in the path of the collapse. He goes down yelling, and a few thousand pounds of rubble crash down on the bunch. The dust clears to show all of them lying prone in the gym below.<char>Cyborg</char> is first to start to his feet with a groan, only to meet a commando rushing at him and swinging a piece of the junk. This blow connects against the big man's head and knocks him into a wall.</sd>
 
 <sd>Cyborg ducks a punch, deals back several more that drive his attacker across the room, and hurls it bodily against the spot he hit a moment ago. In a flash, two more have landed on his back to get him in a headlock; he picks them free and slings them away, only to be jumped by several others. He slams into the wall again.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Don't know how you guys got in, <sd>He dodges a punch.</sd> but I know how you're getting out!</sp>
 
-<sd>Close-up of his right fist, cocked back, and pan to follow it across the short distance to the sound of his yell. It crashes through a robot's solar plexus and drops the thing sparking to the floor. When a different one tries to punch, he clamps a hand on the face and puts all his weight into a throw. Cut to the hall; the robot plows out through this wall and tumbles senseless. Pan to Starfire, farther down the way, as she throws one member of a group and lets others have it in spades. Fists and starbolts fly everywhere before several reinforcements arrive and dogpile on her. She struggles within the mass of metallic encroachers; cut to an extreme close-up of her blazing eyes and pull back. One beam after another slices through the bunch, followed by a small explosion that hurls them all backward. When the glare subsides, we see her in the clear, still jacked up on fury and adrenaline, but it soon wears off and she passes out from this Herculean exertion.</sd>
+<sd>Close-up of his right fist, cocked back, and pan to follow it across the short distance to the sound of his yell. It crashes through a robot's solar plexus and drops the thing sparking to the floor. When a different one tries to punch, he clamps a hand on the face and puts all his weight into a throw. Cut to the hall; the robot plows out through this wall and tumbles senseless. Pan to<char>Starfire</char>, farther down the way, as she throws one member of a group and lets others have it in spades. Fists and starbolts fly everywhere before several reinforcements arrive and dogpile on her. She struggles within the mass of metallic encroachers; cut to an extreme close-up of her blazing eyes and pull back. One beam after another slices through the bunch, followed by a small explosion that hurls them all backward. When the glare subsides, we see her in the clear, still jacked up on fury and adrenaline, but it soon wears off and she passes out from this Herculean exertion.</sd>
 
-<sd>The light in the hall begins to flicker. Cut to a group of survivors, gathered around the canister they stole in the prologue. It is clamped to the wall, and one of them is operating a control panel set in the side. One of Robin's discs whistles into view and glances off the canister, detonating and throwing the robot backward. Cut to the Titan, staff in one hand, as the invader crashes down before him. Another rushes, but he extends the staff and knocks it down with ease. Its buddy moves in as well and gets the same treatment; for the next one, Robin leaps to the ceiling and brings the staff's end down onto the crown of its head, wrecking it in one blow. Still more troops start after him, and he growls and charges straight at the camera.</sd>
+<sd>The light in the hall begins to flicker. Cut to a group of survivors, gathered around the canister they stole in the prologue. It is clamped to the wall, and one of them is operating a control panel set in the side. One of<char>Robin</char>'s discs whistles into view and glances off the canister, detonating and throwing the robot backward. Cut to the Titan, staff in one hand, as the invader crashes down before him. Another rushes, but he extends the staff and knocks it down with ease. Its buddy moves in as well and gets the same treatment; for the next one,<char>Robin</char> leaps to the ceiling and brings the staff's end down onto the crown of its head, wrecking it in one blow. Still more troops start after him, and he growls and charges straight at the camera.</sd>
 
-<sd>When he is just about to collide with it, cut to an overhead view of a roller coaster at an amusement park. A sign identifies this as the Megacoaster, and it is in operation. When the focus shifts to one section of track, the string of cars comes around a bend and thunders past the camera. Cut to a close-up, revealing Beast Boy and Terra n the front seat and coming down a steep incline. He has his arms up, but she is positively petrified with fright.</sd>
+<sd>When he is just about to collide with it, cut to an overhead view of a roller coaster at an amusement park. A sign identifies this as the Megacoaster, and it is in operation. When the focus shifts to one section of track, the string of cars comes around a bend and thunders past the camera. Cut to a close-up, revealing<char>Beast Boy</char> and<char>Terra</char> n the front seat and coming down a steep incline. He has his arms up, but she is positively petrified with fright.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Ya-HOOOOO!!</sp>
 
@@ -366,27 +366,27 @@ OPENING THEME
 
 <sp><spkr ref="Terra">Terra</spkr> Spent a lotta time here when I was on the road. It's the closest thing I've ever had to a home.</sp>
 
-<sp><spkr ref="BeastBoy">Beast Boy</spkr> You mean, besides Titans Tower.</sp>
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> You mean, besides <location>Titans Tower</location>.</sp>
 
 <sp><spkr ref="Terra">Terra</spkr> Yeah. So you want to ride the bumper cars, or--? <sd>He sits next to her.</sd></sp>
 
-<sp><spkr ref="BeastBoy">Beast Boy</spkr> Terra, is everything okay?</sp>
+<sp><spkr ref="BeastBoy">Beast Boy</spkr><char>Terra</char>, is everything okay?</sp>
 
 <sp><spkr ref="Terra">Terra</spkr> <sd>smiling hugely</sd> Totally! What makes you--?</sp>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> 'Cause I'm having fun. A-And I really want you to have fun. But if you're not, you know, with me--</sp>
 
-<sp><spkr ref="Terra">Terra</spkr> <sd>thumping his arm</sd> Beast Boy, you're my definition of fun. <sd>He smiles; she takes his hand and leads him away.</sd> Come on, let's ride some rides.</sp>
+<sp><spkr ref="Terra">Terra</spkr> <sd>thumping his arm</sd><char>Beast Boy</char>, you're my definition of fun. <sd>He smiles; she takes his hand and leads him away.</sd> Come on, let's ride some rides.</sp>
 
-<sd>Cut to the bumper car arena. The two Titans zip past each other, after which he doubles back and stops, perplexed. A moment later, she speeds in and knocks him hard enough to send him into the distance, and she raises her fists in triumph. Wipe to a close-up of them spinning past the camera and pull back to show them riding the Tilt-a-Whirl, or Centrifuge, at a speed that would probably be unsafe for any normal person. Inside, Terra raises her fists again, while Beast Boy's eyes show just how woozy he has gotten. A surprise turnaround comes when Terra, not he, is the first to go green and clap hands to mouth in order to keep from vomiting. They are swept o.c.</sd>
+<sd>Cut to the bumper car arena. The two Titans zip past each other, after which he doubles back and stops, perplexed. A moment later, she speeds in and knocks him hard enough to send him into the distance, and she raises her fists in triumph. Wipe to a close-up of them spinning past the camera and pull back to show them riding the Tilt-a-Whirl, or Centrifuge, at a speed that would probably be unsafe for any normal person. Inside,<char>Terra</char> raises her fists again, while<char>Beast Boy</char>'s eyes show just how woozy he has gotten. A surprise turnaround comes when<char>Terra</char>, not he, is the first to go green and clap hands to mouth in order to keep from vomiting. They are swept o.c.</sd>
 
 <sd>A flash, and the view has changed to become a photograph of the two; he stands surprised near the camera, she much farther back. The same transition carries us through the following shots, taken at a photo booth. Second: both flex their muscles, he with forehead vein popping. Third: she laughs as he hangs upside down, tongue hanging out and eyes rolling crazily. Fourth: they have traded positions, and he is now picking his nose. Fifth: he has become a puppy for her to hug. Sixth: she screams and cowers before his Frankenstein's-monster advance. Seventh, she lands an uppercut that launches him upward and out of frame. Eighth: he has come down, face badly bashed up from the punch, and she is distressed at the sight. Ninth: she winks at the camera, while he has a thermometer in his mouth, a big lump on his forehead, and a bandage on his cheek. Tenth: both yell dementedly at the camera, mouths open wide.</sd>
 
-<sd>Flash to a slow pan through the Chamber of Horrors; a graveyard scenario at night, with red eyes flashing in the darkness. Beast Boy and Terra ride through it; she is quite at ease, he much less so. They pass a dark patch, after which the camera cuts to a close-up. On his side, a group of ghosts pops up, followed by a few spiders and a skull on hers, then a collection of monsters all around. Each display causes him to freak out, but she just smiles and laughs at his overreaction. After the third, he seems utterly spent; a bit of drool oozes out of his mouth and he leans against her shoulder. Zoom in as she blushes a bit.</sd>
+<sd>Flash to a slow pan through the Chamber of Horrors; a graveyard scenario at night, with red eyes flashing in the darkness.<char>Beast Boy</char> and<char>Terra</char> ride through it; she is quite at ease, he much less so. They pass a dark patch, after which the camera cuts to a close-up. On his side, a group of ghosts pops up, followed by a few spiders and a skull on hers, then a collection of monsters all around. Each display causes him to freak out, but she just smiles and laughs at his overreaction. After the third, he seems utterly spent; a bit of drool oozes out of his mouth and he leans against her shoulder. Zoom in as she blushes a bit.</sd>
 
-<sd>Dissolve to them running in place on a small, spinning planet, then tilt down slightly as it becomes a thrown baseball. A flash, and it has knocked over a stack of cans in a game booth. Beast Boy has made the throw, eliciting cheers from Terra; next, she grabs a ball and lets fly at a second stack. Her throw is a bit weak, though, it just dribbles out of her hand, and he gives her a condescending smile. Another flash marks his next throw, which plows into those cans and gets her cheering again. She gives him a hug with enough force to squeeze a tear from his eye, complete with a tiny copy of his face. It retracts as she loosens her grip, and both laugh.</sd>
+<sd>Dissolve to them running in place on a small, spinning planet, then tilt down slightly as it becomes a thrown baseball. A flash, and it has knocked over a stack of cans in a game booth.<char>Beast Boy</char> has made the throw, eliciting cheers from<char>Terra</char>; next, she grabs a ball and lets fly at a second stack. Her throw is a bit weak, though, it just dribbles out of her hand, and he gives her a condescending smile. Another flash marks his next throw, which plows into those cans and gets her cheering again. She gives him a hug with enough force to squeeze a tear from his eye, complete with a tiny copy of his face. It retracts as she loosens her grip, and both laugh.</sd>
 
-<sd>Tilt up from them to the night sky. A bottle rocket blasts into view and explodes, followed by additional bursts of fireworks. From here, dissolve to Beast Boy and Terra taking a stroll. As they look up, she links her arm through his; the move catches him off guard, but he quickly smiles again. Long shot of the area, pulling back slowly; fireworks, games, tents, the Big Wheel. This is a Ferris wheel, toward which they are heading.</sd>
+<sd>Tilt up from them to the night sky. A bottle rocket blasts into view and explodes, followed by additional bursts of fireworks. From here, dissolve to<char>Beast Boy</char> and<char>Terra</char> taking a stroll. As they look up, she links her arm through his; the move catches him off guard, but he quickly smiles again. Long shot of the area, pulling back slowly; fireworks, games, tents, the Big Wheel. This is a Ferris wheel, toward which they are heading.</sd>
 
 [Note: Except for the background music, there is no audio for the preceding five paragraphs.]
 
@@ -402,7 +402,7 @@ OPENING THEME
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Lucky for me, you didn't have other plans.</sp>
 
-<sp><spkr ref="Terra">Terra</spkr> Beast Boy, if you knew something bad about me, would you still be my friend?</sp>
+<sp><spkr ref="Terra">Terra</spkr><char>Beast Boy</char>, if you knew something bad about me, would you still be my friend?</sp>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>now a bit wary</sd> Of course.</sp>
 
@@ -410,32 +410,32 @@ OPENING THEME
 
 <sd>Close-up of him. In the far corner behind him, a silhouetted figure is partially visible: it was not there when this sequence began.</sd>
 
-<sp><spkr ref="BeastBoy">Beast Boy</spkr> Yes. I promise, Terra. <sd>Moves toward her.</sd> No matter what.</sp>
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> Yes. I promise,<char>Terra</char>. <sd>Moves toward her.</sd> No matter what.</sp>
 
-<sd>When he shifts position, the third individual is revealed to have only one eye, the left; it can only be Slade, but he does not notice. Cut to the two teens; Beast Boy concentrates on getting close enough to Terra to kiss her, but the next words end the romance in a very big hurry.</sd>
+<sd>When he shifts position, the third individual is revealed to have only one eye, the left; it can only be<char>Slade</char>, but he does not notice. Cut to the two teens;<char>Beast Boy</char> concentrates on getting close enough to<char>Terra</char> to kiss her, but the next words end the romance in a very big hurry.</sd>
 
-<sp><spkr ref="Slade">Slade</spkr> <sd>from o.c.</sd> Hello, Terra. <sd>She gasps softly; cut to him.</sd> Remember me?</sp>
+<sp><spkr ref="Slade">Slade</spkr> <sd>from o.c.</sd> Hello,<char>Terra</char>. <sd>She gasps softly; cut to him.</sd> Remember me?</sp>
 
 <sd>He stands up into the light. Fade to black.</sd></act>
 
 <act n="3">
 <title>ACT THREE</title>
 
-<sd>Opening shot: Beast Boy and Terra, backed as far across the seat as they can get. Slade steps into view and heaves him aside like a pile of dirty laundry; the young man bangs into the car door, and the camera cuts to outside as it falls away. He is left hanging by his fingertips while the Big Wheel slowly rotates.</sd>
+<sd>Opening shot:<char>Beast Boy</char> and<char>Terra</char>, backed as far across the seat as they can get.<char>Slade</char> steps into view and heaves him aside like a pile of dirty laundry; the young man bangs into the car door, and the camera cuts to outside as it falls away. He is left hanging by his fingertips while the Big Wheel slowly rotates.</sd>
 
-<sp><spkr ref="Slade">Slade</spkr> <sd>looking toward Beast Boy</sd> I have plans for you, Terra. <sd>He turns to her.</sd> Did you think you and your little boyfriend could just run away?</sp>
+<sp><spkr ref="Slade">Slade</spkr> <sd>looking toward<char>Beast Boy</char></sd> I have plans for you,<char>Terra</char>. <sd>He turns to her.</sd> Did you think you and your little boyfriend could just run away?</sp>
 
 <sd>Pan to frame said boyfriend, now back inside.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Let her go!</sp>
 
-<sd>He becomes a velociraptor, eyes Slade for a moment, and lunges with a screeching roar. Both tumble o.c.</sd>
+<sd>He becomes a velociraptor, eyes<char>Slade</char> for a moment, and lunges with a screeching roar. Both tumble o.c.</sd>
 
-<sp><spkr ref="Terra">Terra</spkr> Beast Boy!</sp>
+<sp><spkr ref="Terra">Terra</spkr><char>Beast Boy</char>!</sp>
 
-<sd>He is back in human form and has knocked Slade onto the top of the next car.</sd>
+<sd>He is back in human form and has knocked<char>Slade</char> onto the top of the next car.</sd>
 
-<sp><spkr ref="BeastBoy">Beast Boy</spkr> Terra! Run!</sp>
+<sp><spkr ref="BeastBoy">Beast Boy</spkr><char>Terra</char>! Run!</sp>
 
 <sp><spkr ref="Slade">Slade</spkr> Stay where you are, child.</sp>
 
@@ -443,33 +443,33 @@ OPENING THEME
 
 <sp><spkr ref="Slade">Slade</spkr> You mean she didn't tell you? I thought you two were friends</sp>
 
-<sd>He flips the shape-changer over the edge, then gets himself upright and looks down. The cry of a falcon interrupts him, pull back to show a big green one rising. It becomes a tiger and lands next to Slade, who brings out his fighting staff. The adversaries circle carefully in the tight space; finally, Beast Boy leaps, but Slade blocks the attack and, after some seconds of struggle, thrusts him into empty space. Looking down, he finds one Titan in the first car and the other, back in human form, hanging off its roof.</sd>
+<sd>He flips the shape-changer over the edge, then gets himself upright and looks down. The cry of a falcon interrupts him, pull back to show a big green one rising. It becomes a tiger and lands next to<char>Slade</char>, who brings out his fighting staff. The adversaries circle carefully in the tight space; finally,<char>Beast Boy</char> leaps, but<char>Slade</char> blocks the attack and, after some seconds of struggle, thrusts him into empty space. Looking down, he finds one Titan in the first car and the other, back in human form, hanging off its roof.</sd>
 
-<sd>Terra gasps sharply as both look up; here comes Slade, leaping down at Beast Boy. The latter dodges a roundhouse staff swing and jumps backward to end up clinging to the rear exterior. His teeth grind in a silent snarl; cut to Slade, stepping toward that edge, only to find a gorilla climbing up to face him. A bellowing roar escapes Beast Boy's lips as he advances on the enemy, who backs up until he drops over the edge.</sd>
+<sd>Terra gasps sharply as both look up; here comes<char>Slade</char>, leaping down at<char>Beast Boy</char>. The latter dodges a roundhouse staff swing and jumps backward to end up clinging to the rear exterior. His teeth grind in a silent snarl; cut to<char>Slade</char>, stepping toward that edge, only to find a gorilla climbing up to face him. A bellowing roar escapes<char>Beast Boy</char>'s lips as he advances on the enemy, who backs up until he drops over the edge.</sd>
 
-<sd>The big green ape follows suit and begins to chase him all over the Big Wheel, roof to roof, up the framework and sign, back onto an upper car. Here, Slade puts Beast Boy in a headlock.</sd>
+<sd>The big green ape follows suit and begins to chase him all over the Big Wheel, roof to roof, up the framework and sign, back onto an upper car. Here,<char>Slade</char> puts<char>Beast Boy</char> in a headlock.</sd>
 
 <sp><spkr ref="Slade">Slade</spkr> You think you know her. You know nothing. She never even liked you.</sp>
 
-<sd>Zoom in on Beast Boy's eyes as they go wide with surprise. He then plucks Slade off, slams him onto the metal surface, and throws him overboard. Behind him, Terra rises into view on a rock; her expression reveals just how much of a strain this night has turned into for her.</sd>
+<sd>Zoom in on<char>Beast Boy</char>'s eyes as they go wide with surprise. He then plucks<char>Slade</char> off, slams him onto the metal surface, and throws him overboard. Behind him,<char>Terra</char> rises into view on a rock; her expression reveals just how much of a strain this night has turned into for her.</sd>
 
-<sp><spkr ref="Terra">Terra</spkr> Beast Boy, come on!</sp>
+<sp><spkr ref="Terra">Terra</spkr><char>Beast Boy</char>, come on!</sp>
 
-<sd>He does not move or speak. As the ride turns, another car is carried down on the far side, and Slade is standing atop it. Her eyes widen as Beast Boy turns into a screeching baboon and leaps across the space. The impact throws Slade off to land on a different car, but he quickly recovers and bounds to the framework with the green primate in hot pursuit. Terra watches, horrified, as the two struggle and Slade gets the upper hand. Back in human form, Beast Boy is pinned down.</sd>
+<sd>He does not move or speak. As the ride turns, another car is carried down on the far side, and<char>Slade</char> is standing atop it. Her eyes widen as<char>Beast Boy</char> turns into a screeching baboon and leaps across the space. The impact throws<char>Slade</char> off to land on a different car, but he quickly recovers and bounds to the framework with the green primate in hot pursuit.<char>Terra</char> watches, horrified, as the two struggle and<char>Slade</char> gets the upper hand. Back in human form,<char>Beast Boy</char> is pinned down.</sd>
 
-<sp><spkr ref="BeastBoy">Beast Boy</spkr> Terra!</sp>
+<sp><spkr ref="BeastBoy">Beast Boy</spkr><char>Terra</char>!</sp>
 
 <sd>Yelling, she backs higher into the air and spreads her arms wide. Cut to ground level, where a large fissure opens, and tilt up slightly to show it racing toward the Big Wheel. The supports start to buckle.</sd>
 
-<sp><spkr ref="Terra">Terra</spkr> Beast Boy! Fly!</sp>
+<sp><spkr ref="Terra">Terra</spkr><char>Beast Boy</char>! Fly!</sp>
 
-<sd>Close-up of his face, then cut to Slade as a little green bird flutters up and out of his grasp.</sd>
+<sd>Close-up of his face, then cut to<char>Slade</char> as a little green bird flutters up and out of his grasp.</sd>
 
-<sp><spkr ref="Slade">Slade</spkr> Terra! No!</sp>
+<sp><spkr ref="Slade">Slade</spkr><char>Terra</char>! No!</sp>
 
-<sd>Those two words throw a bit of fear into her, but she does not alter her stance or stop her seismic assault on the Big Wheel. The entire structure collapses in a roiling dust cloud that quickly envelops her. Cut to ground level; she and Beast Boy, in human form, run from the destruction and stop at the entrance to the House of Mirrors for a second before entering.</sd>
+<sd>Those two words throw a bit of fear into her, but she does not alter her stance or stop her seismic assault on the Big Wheel. The entire structure collapses in a roiling dust cloud that quickly envelops her. Cut to ground level; she and<char>Beast Boy</char>, in human form, run from the destruction and stop at the entrance to the House of Mirrors for a second before entering.</sd>
 
-<sd>Inside, they advance into the darkness and o.c.; after they are gone, Slade steps to the entrance. Cut to another area, where many reflections of each Titan cross the screen, followed by the two real McCoys after a moment. The same thing happens around a bend, after which they stop in a large chamber. He reaches into his belt for something but does not find it.</sd>
+<sd>Inside, they advance into the darkness and o.c.; after they are gone,<char>Slade</char> steps to the entrance. Cut to another area, where many reflections of each Titan cross the screen, followed by the two real McCoys after a moment. The same thing happens around a bend, after which they stop in a large chamber. He reaches into his belt for something but does not find it.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> I lost my communicator! Gimme yours!</sp>
 
@@ -477,7 +477,7 @@ OPENING THEME
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Then we've gotta get back to the Tower and...</sp>
 
-<sp><spkr ref="Terra">Terra</spkr> Beast Boy, I'm not going back. I can't.</sp>
+<sp><spkr ref="Terra">Terra</spkr><char>Beast Boy</char>, I'm not going back. I can't.</sp>
 
 <sd>The patch of hair above her right ear, formerly held back by her butterfly clip, slides forward to cover that side of her face on the end of this. She dips her head and closes her eyes.</sd>
 
@@ -485,9 +485,9 @@ OPENING THEME
 
 <sp><spkr ref="Slade">Slade</spkr> <sd>from o.c., echoing</sd> Because she's not your friend. <sd>His image appears in the mirrors.</sd> She's my apprentice.</sp>
 
-<sd>Those last three words explain the early events of this episode. She collected the data on the other five Titans for Slade to analyze; the equipment on his desk was purloined by her; the dismantled communicator was hers, as was the blue eye seen in shadow; the e-mail she sent was to Slade. Beast Boy instantly gets his dander up at seeing that masked visage all around him. He steps here and there, inspecting the reflections; Terra has gone. All of Slade's following lines echo as did the previous one.</sd>
+<sd>Those last three words explain the early events of this episode. She collected the data on the other five Titans for<char>Slade</char> to analyze; the equipment on his desk was purloined by her; the dismantled communicator was hers, as was the blue eye seen in shadow; the e-mail she sent was to<char>Slade</char>.<char>Beast Boy</char> instantly gets his dander up at seeing that masked visage all around him. He steps here and there, inspecting the reflections;<char>Terra</char> has gone. All of<char>Slade</char>'s following lines echo as did the previous one.</sd>
 
-<sp><spkr ref="BeastBoy">Beast Boy</spkr> Terra? Terra!</sp>
+<sp><spkr ref="BeastBoy">Beast Boy</spkr><char>Terra</char>?<char>Terra</char>!</sp>
 
 <sp><spkr ref="Slade">Slade</spkr> The girl you knew was merely an illusion. A fantasy. In reality, she's been working for me.</sp>
 
@@ -497,37 +497,37 @@ OPENING THEME
 
 <sp><spkr ref="Slade">Slade</spkr> I found her. <sd>Smash.</sd> I trained her to control her impressive powers. <sd>Smash.</sd> And then I sent her to destroy your little T... <sd>Smash; extreme close-up of his eye.</sd> ...from the inside out.</sp>
 
-<sd>This image, too, is shattered. Now Beast Boy backs away; all the mirrors we can see behind him have been broken and gone blank.</sd>
+<sd>This image, too, is shattered. Now<char>Beast Boy</char> backs away; all the mirrors we can see behind him have been broken and gone blank.</sd>
 
-<sp><spkr ref="BeastBoy">Beast Boy</spkr> No! Terra would never--</sp>
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> No!<char>Terra</char> would never--</sp>
 
-<sd>Cut to behind him. A single pane is intact and still showing Slade's figure.</sd>
+<sd>Cut to behind him. A single pane is intact and still showing<char>Slade</char>'s figure.</sd>
 
-<sp><spkr ref="Slade">Slade</spkr> Tonight, her orders were to strike. But I guess she took pity on you. <sd>Close-up; zoom in on his eye and pan a bit.</sd> Perhaps she wanted to keep you as a pet. However, despite this minor error in judgment... <sd>Cut to Beast Boy; he continues o.c.</sd> ...she was kind enough to deactivate the security at Titans Tower. Your friends are being annihilated as we speak.</sp>
+<sp><spkr ref="Slade">Slade</spkr> Tonight, her orders were to strike. But I guess she took pity on you. <sd>Close-up; zoom in on his eye and pan a bit.</sd> Perhaps she wanted to keep you as a pet. However, despite this minor error in judgment... <sd>Cut to<char>Beast Boy</char>; he continues o.c.</sd> ...she was kind enough to deactivate the security at <location>Titans Tower</location>. Your friends are being annihilated as we speak.</sp>
 
 <sd>That next-to-last sentence explains how all those robots got in; the last one works the Titan's last good nerve.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Liar!</sp>
 
-<sp><spkr ref="Terra">Terra</spkr> <sd>from o.c.</sd> Beast Boy...it's the truth.</sp>
+<sp><spkr ref="Terra">Terra</spkr> <sd>from o.c.</sd><char>Beast Boy</char>...it's the truth.</sp>
 
-<sd>Cut to the master and apprentice. The one unbroken mirror has slid away, and they are standing in its place. Beast Boy takes a fumbling step toward them, his whole face going slack and his eyes staring in disbelief.</sd>
+<sd>Cut to the master and apprentice. The one unbroken mirror has slid away, and they are standing in its place.<char>Beast Boy</char> takes a fumbling step toward them, his whole face going slack and his eyes staring in disbelief.</sd>
 
-<sp><spkr ref="BeastBoy">Beast Boy</spkr> Terra...why?</sp>
+<sp><spkr ref="BeastBoy">Beast Boy</spkr><char>Terra</char>...why?</sp>
 
 <sp><spkr ref="Slade">Slade</spkr> Because you could never give her what she needs.</sp>
 
-<sd>With a primal scream, the changeling becomes a tiger and charges at the pair. Terra ducks out of the way as Slade grabs him out of the air and throws him past the mirrors. In this dark space, a roar from Beast Boy is answered with the leveled muzzle of Slade's blaster; he carries one just like those of his robots. The shot drops the Titan to the floor, unconscious and back in human form, and Slade steps close to deliver a point-blank kill shot. Behind him, Terra moves up and gasps in surprise; Beast Boy moans weakly and she gets her hands ready.</sd>
+<sd>With a primal scream, the changeling becomes a tiger and charges at the pair.<char>Terra</char> ducks out of the way as<char>Slade</char> grabs him out of the air and throws him past the mirrors. In this dark space, a roar from<char>Beast Boy</char> is answered with the leveled muzzle of<char>Slade</char>'s blaster; he carries one just like those of his robots. The shot drops the Titan to the floor, unconscious and back in human form, and<char>Slade</char> steps close to deliver a point-blank kill shot. Behind him,<char>Terra</char> moves up and gasps in surprise;<char>Beast Boy</char> moans weakly and she gets her hands ready.</sd>
 
-<sp><spkr ref="Terra">Terra</spkr> No! I won't let you hurt my friend! <sd>Close-up of Slade.</sd></sp>
+<sp><spkr ref="Terra">Terra</spkr> No! I won't let you hurt my friend! <sd>Close-up of<char>Slade</char>.</sd></sp>
 
 <sp><spkr ref="Slade">Slade</spkr> Dear child, you don't have any friends.</sp>
 
-<sd>A very large shadow falls over him; pull back to frame Beast Boy, on his feet as a bear with one paw raised to strike. The claws send Slade to the floor and knock his blaster away, and the ursine Titan goes after him as Terra backs off. When the masked villain stands up again, fresh gouges are visible on his armor and mask. Beast Boy pins him, at which point the focus shifts to Terra in the background; she turns and runs through the opening in the mirror wall.</sd>
+<sd>A very large shadow falls over him; pull back to frame<char>Beast Boy</char>, on his feet as a bear with one paw raised to strike. The claws send<char>Slade</char> to the floor and knock his blaster away, and the ursine Titan goes after him as<char>Terra</char> backs off. When the masked villain stands up again, fresh gouges are visible on his armor and mask.<char>Beast Boy</char> pins him, at which point the focus shifts to<char>Terra</char> in the background; she turns and runs through the opening in the mirror wall.</sd>
 
-<sd>Cut to her, sprinting as she did when that giant scorpion tried to capture her in "Terra". She stops at another reflective wall, catches full sight of herself with a gasp, and backs away slowly. More images of the slim blonde appear in the glass sheets: a multiplicity of shocked, speechless, hopelessly confused Terras staring every which way. Cut to just in front of her and rotate to show all the mirrors; her reflections are now huge and distorted, and they collapse as she does.</sd>
+<sd>Cut to her, sprinting as she did when that giant scorpion tried to capture her in "Terra". She stops at another reflective wall, catches full sight of herself with a gasp, and backs away slowly. More images of the slim blonde appear in the glass sheets: a multiplicity of shocked, speechless, hopelessly confused<char>Terra</char>s staring every which way. Cut to just in front of her and rotate to show all the mirrors; her reflections are now huge and distorted, and they collapse as she does.</sd>
 
-<sp><spkr ref="Terra">Terra</spkr> <sd>sobbing</sd> Beast Boy, I'm sorry. I'm so sorry. I never meant for any of this to happen. <sd>He moves partially into view near the camera.</sd></sp>
+<sp><spkr ref="Terra">Terra</spkr> <sd>sobbing</sd><char>Beast Boy</char>, I'm sorry. I'm so sorry. I never meant for any of this to happen. <sd>He moves partially into view near the camera.</sd></sp>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>from o.c.</sd> Then why did you let it? <sd>She stands up.</sd></sp>
 
@@ -535,7 +535,7 @@ OPENING THEME
 
 <sd>As she continues, the view shifts to frame her in a spotlight against a totally dark room. A second spot it halfway in view to her right.</sd>
 
-<sp><spkr ref="Terra">Terra</spkr> Slade...he helped me, saved me from myself. <sd>Pan to frame Beast Boy in the other spot; she continues o.c.</sd> He said I owed him, but--</sp>
+<sp><spkr ref="Terra">Terra</spkr><char>Slade</char>...he helped me, saved me from myself. <sd>Pan to frame<char>Beast Boy</char> in the other spot; she continues o.c.</sd> He said I owed him, but--</sp>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> So it was all a game? You were just pretending? <sd>Cut to frame both.</sd></sp>
 
@@ -543,7 +543,7 @@ OPENING THEME
 
 <sd>She reaches out to touch his shoulder, but he gives her the hardest glare he can and turns away.</sd>
 
-<sp><spkr ref="BeastBoy">Beast Boy</spkr> Slade was right. You don't have any friends.</sp>
+<sp><spkr ref="BeastBoy">Beast Boy</spkr><char>Slade</char> was right. You don't have any friends.</sp>
 
 <sd>That jab hits her like a two-by-four upside the head.</sd>
 
@@ -553,9 +553,9 @@ OPENING THEME
 
 <sp><spkr ref="Slade">Slade</spkr> We've had a change of plans.</sp>
 
-<sd>Her eyes open as her whole face rearranges itself into an expression of sullen hatred. She and her new master slowly retreat into a shadowy niche; cut to Beast Boy, his back to us, and pull back slowly.</sd>
+<sd>Her eyes open as her whole face rearranges itself into an expression of sullen hatred. She and her new master slowly retreat into a shadowy niche; cut to<char>Beast Boy</char>, his back to us, and pull back slowly.</sd>
 
-<sd>Dissolve to the exterior of the Tower. It is now the next day, and the place looks like a hundred miles of bad road thanks to the onslaught of Slade's robots. Cut to a slow pan across the ravaged entrance hall; metal body parts lie among the smashed armchairs and smoking debris.</sd>
+<sd>Dissolve to the exterior of the Tower. It is now the next day, and the place looks like a hundred miles of bad road thanks to the onslaught of<char>Slade</char>'s robots. Cut to a slow pan across the ravaged entrance hall; metal body parts lie among the smashed armchairs and smoking debris.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> <sd>voice over</sd> Well...looks like we won.</sp>
 
@@ -571,23 +571,23 @@ OPENING THEME
 
 <sp><spkr ref="Robin">Robin</spkr> <sd>voice over</sd> But we did. We all did.</sp>
 
-<sd>Overhead view of the operations center, zooming in on these four Titans. They are gathered where the couch and coffee table used to be; Cyborg works a few controls on his forearm.</sd>
+<sd>Overhead view of the operations center, zooming in on these four Titans. They are gathered where the couch and coffee table used to be;<char>Cyborg</char> works a few controls on his forearm.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> I've regained access to the computer. Security codes and encryption strings have all been reset.</sp>
 
 <sp><spkr ref="Starfire">Starfire</spkr> And all enemy surveillance technology has been located and destroyed.</sp>
 
-<sp><spkr ref="Raven">Raven</spkr> Problem is, Terra gave Slade more than secret codes and hidden cameras. She gave him us. Our flaws, our weaknesses, everything he'd ever need to know.</sp>
+<sp><spkr ref="Raven">Raven</spkr> Problem is,<char>Terra</char> gave<char>Slade</char> more than secret codes and hidden cameras. She gave him us. Our flaws, our weaknesses, everything he'd ever need to know.</sp>
 
-<sp><spkr ref="Robin">Robin</spkr> It doesn't matter. When Slade makes his next move, we'll be ready.</sp>
+<sp><spkr ref="Robin">Robin</spkr> It doesn't matter. When<char>Slade</char> makes his next move, we'll be ready.</sp>
 
-<sd>Dissolve to a slow pan across Terra's trashed room. Something is on her bed.</sd>
+<sd>Dissolve to a slow pan across<char>Terra</char>'s trashed room. Something is on her bed.</sd>
 
-<sp><spkr ref="Cyborg">Cyborg</spkr> <sd>voice over</sd> And Beast Boy?</sp>
+<sp><spkr ref="Cyborg">Cyborg</spkr> <sd>voice over</sd> And<char>Beast Boy</char>?</sp>
 
 <sp><spkr ref="Starfire">Starfire</spkr> <sd>voice over</sd> He will be all right?</sp>
 
-<sd>On these last two words, dissolve to a close-up of the bed and pull back slowly. The heartbroken Titan is curled up on the blankets as a large, melancholy dog, and the box he gave Terra lies next to him.</sd>
+<sd>On these last two words, dissolve to a close-up of the bed and pull back slowly. The heartbroken Titan is curled up on the blankets as a large, melancholy dog, and the box he gave<char>Terra</char> lies next to him.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> <sd>voice over</sd> He just needs a little time.</sp>
 
