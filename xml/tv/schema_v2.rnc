@@ -1,7 +1,7 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = root
-root = element root {head, characterList, body}
+root = element root {head, characterList, locationList, body}
 head = element head {episode, writer, director, storyboard, animation, source}
 episode = element episode {text}
 writer = element writer {text}
@@ -18,6 +18,8 @@ charList = element charList {type, subtype?, id, text}
 type = attribute type {"recurring"|"nonrecurring"}
 subtype = attribute subtype {"villain"|"titan"|"both"}
 id = attribute id {xsd:ID}
+locationList = element locationList {locList+}
+locList = element locList {id, text}
 body = element body {act+}
 act = element act {n,mixed{(title|sp|cue|sd)*}}
 n = attribute n {xsd:int}
@@ -32,7 +34,8 @@ charDesc = element charDesc {ref, text}
 setNote = element setNote {shot, mixed{(location+|char)?}}
 shot = attribute shot {"yes"|"no"}
 location = element location {text}
-action = element action {mrkr, with, move, empty}
+action = element action {mrkr, with, move, place, empty}
 mrkr = attribute mrkr {xsd:IDREF}
 with = attribute with {"S"|"RB"|"C"|"R"|"BB"|"none"|"all"}
 move = attribute move {xsd:int}
+place = attribute place {xsd:IDREF}
