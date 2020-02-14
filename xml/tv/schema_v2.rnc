@@ -28,25 +28,11 @@ ref = attribute ref {xsd:IDREFS}
 cue = element cue {mixed{location?}}
 sd = element sd {mixed{(location|char|charDesc|setNote|action)*}}
 char = element char {ref?, text}
-#lm: do you put the word "Titans" in char?
 charDesc = element charDesc {ref, text}
-#lm: shd said she was going to ask me about when to use this, so amp feel free to also ask!
 setNote = element setNote {shot, mixed{(location+|char)?}}
-#lm: It's for anything that can help with the creation of the map. The shot `attribute` is if it's a shot or just text like the old `annot` element.
 shot = attribute shot {"yes"|"no"}
 location = element location {text}
-#lm: should we leave the article in? for example, <location>the kitchen</location> or the <location>kitchen</location>
 action = element action {mrkr, with, move, empty}
 mrkr = attribute mrkr {xsd:IDREF}
 with = attribute with {"S"|"RB"|"C"|"R"|"BB"|"none"|"all"}
 move = attribute move {xsd:int}
-#lm: This is the system that I came up with to track movement. `mrkr` stands for marker, and is who is doing the action. `with` is an attribute to track who they are with in that location and `move` is to number their action. `move` is a numbering system and is to track their actions throughout the episode.
-# TO EXPLAIN IT BETTER:
-# *Each character needs an `action` element for each location they appear at. They only need another action element if they leave the location. 
-# *In some episodes, certain characters will have more actions. In episode 1, Starfire has five actions while the others only have three actions. This is so we know what we need to plot down for their routes. Since it was an alternate universe, I didn't track her movements with the future titans. I only indicated that she goes there and comes back.
-# *`with` is going to be update constantly. At the moment, I have a basic tagging system, but it will need to be added to; for example, when three titans are traveling together instead of all. To add to it: Starfire is S, Robin is RB, Cyborg is C, Beast Boy is BB, and Raven is R. If they are traveling in a smaller group, then this is how you would do it: <action mrkr="Starfire" with="BB,R" move="1"/> implying that Starfire is with Beast Boy and Raven. As I mentioned, just add when you need it, so we don't have to do all possible combinations for no reason. It also offers information for analysis.
-# You don't need to track their movement in large numbers. Meaning if they're in a over-arching location, don't record it multiple times. For example, in the Tower, we don't need to indicate when they're in their room or move into the living room unless there's another reason. I have an example in the first episode like that where Starfire only had one action in the Tower even though she started off in her room.
-# *Any ideas to indicate the location in the action tag? I have one, but I want to see if anyone else has any ideas.
-# *I also waited until their name showed up in a sd tag before putting the action tag down.
-# *Some locations are referred by two different names, so I'm thinking we can add a ref tag to location to avoid confusion or another attribute with a similar purpose.
-#lm: question for fiona! i used a self closing tag for action, is that allowed?
