@@ -346,9 +346,9 @@
 
 <sp><spkr ref="Larry">Larry</spkr> Big oops.</sp>
 
-<sd><setNote shot="yes">Long shot of <location>the Tower</location>, seen from the bayshore opposite<location> Jump City</location></setNote>. Flashes of light pop here and there on the top floor; these are followed by a wide, pulsating beam that shoots skyward from the roof. Dissolve to an even longer shot, revealing that the radiation is pouring into the tempestuous clouds, which soon set off of their own free will and drift toward the urban city. Shimmering shafts pour down through rents in the lower surfaces.</sd>
+<sd><setNote shot="yes">Long shot of <location>the Tower</location>, seen from the bayshore opposite <location>Jump City</location></setNote>. Flashes of light pop here and there on the top floor; these are followed by a wide, pulsating beam that shoots skyward from the roof. Dissolve to an even longer shot, revealing that the radiation is pouring into the tempestuous clouds, which soon set off of their own free will and drift toward the urban city. Shimmering shafts pour down through rents in the lower surfaces.</sd>
 
-<sd>Cut to an extreme close-up of <char>Rancid</char>'s motorcycle tire and pull back. He is racing through the city, but a few starbolts from overhead force him into a bit of a course change. <action mrkr="Starfire" with="BB R C" move="2" place="JumpCity"/><char>Starfire</char>, <action mrkr="Raven" with="BB C S" move="2" place="JumpCity"/><char>Raven</char>, and <char>Beast Boy</char>, as a pterodactyl ridden by <action mrkr="Cyborg" with="BB R S" move="2" place="JumpCity"/><char>Cyborg</char>, are flying after him; he simply guns the engine and roars ahead, and they do likewise. After <char>Rancid</char> has rounded a corner, <char>Cyborg</char> leads the charge and stops <char>Beast Boy</char> near the street.</sd>
+<sd>Cut to an extreme close-up of <char>Rancid</char>'s motorcycle tire and pull back. He is racing through the city, but a few starbolts from overhead force him into a bit of a course change. <action mrkr="Starfire" with="BB R C" move="2" place="JumpCity"/><char>Starfire</char>, <action mrkr="Raven" with="BB C S" move="2" place="JumpCity"/><char>Raven</char>, and <action mrkr="BeastBoy" with="R S C" move="" place=""/><char>Beast Boy</char>, as a pterodactyl ridden by <action mrkr="Cyborg" with="BB R S" move="2" place="JumpCity"/><char>Cyborg</char>, are flying after him; he simply guns the engine and roars ahead, and they do likewise. After <char>Rancid</char> has rounded a corner, <char>Cyborg</char> leads the charge and stops <char>Beast Boy</char> near the street.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Titans! <sd>Close-up; all four eyes bug out.</sd> Wha--?</sp>
 
@@ -356,19 +356,19 @@
 
 <sp><spkr ref="Raven">Raven</spkr> That can't be good.</sp>
 
-<sd>They are enveloped in the beams and dumped to the ground, one after another. After all have slid o.c., dissolve to a close-up of the big man's face. He is tumbled on the pavement, but soon opens his eyes with a groan and raises his head. Cut to his perspective, the blurry view focusing as he gets his eyes back in sync; the city has become the sort of brightly colored crayon drawing that might be done by a kindergartner.</sd>
+<sd>They are enveloped in the beams and dumped to the ground, one after another. After all have slid o.c., dissolve to a close-up of the big man's face. He is tumbled on the pavement, but soon opens his eyes with a groan and raises his head. <setNote shot="yes">Cut to his perspective, the blurry view focusing as he gets his eyes back in sync; the city has become the sort of brightly colored crayon drawing that might be done by a kindergartner.</setNote></sd>
 
 <sd>Back to him; he looks in another direction, and we see another group of buildings in this style. A bird flies along, chirping happily, and a smiling flower stands near a fire hydrant. Pan to <char>Starfire</char>, who looks around the new architecture with complete befuddlement; a butterfly flits past, and <char>Cyborg</char> stands up.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Uh, why does the entire world look like it belongs on my grandma's fridge?</sp>
 
-<sd>As he says this, the camera pulls back slightly to show something protruding into view, then dissolve to longer shot and keep pulling back. The things are magnetic letters that hold the entire panorama, drawn on a sheet of paper, to the door of a refrigerator, along with other preschool-age works of art. Grandma <char>Cyborg</char> stands near the appliance in her kitchen; she wears an apron, a white sleeveless blouse, and reading glasses, and her gray hair is held back by large pins filled with circuitry. She is just as tall and broad as her grandson.</sd>
+<sd>As he says this, the camera pulls back slightly to show something protruding into view, then dissolve to longer shot and keep pulling back. The things are magnetic letters that hold the entire panorama, drawn on a sheet of paper, to the door of a refrigerator, along with other preschool-age works of art. <char>Grandma Cyborg</char> stands near the appliance in her kitchen; she wears an apron, a white sleeveless blouse, and reading glasses, and her gray hair is held back by large pins filled with circuitry. She is just as tall and broad as her grandson.</sd>
 
 <sd>Back to the newly renovated city. A line of flowers marches past <char>Raven</char>.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> This is bad.</sp>
 
-<sd>Beast Boy rushes back and forth, letting off a string of muffled cries and yells. The cause is revealed when he stops next to <char>Raven</char>: his mouth is missing.</sd>
+<sd><char>Beast Boy</char> rushes back and forth, letting off a string of muffled cries and yells. The cause is revealed when he stops next to <char>Raven</char>: his mouth is missing.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> Okay, so it's not all bad.</sp>
 
