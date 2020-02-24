@@ -23,6 +23,8 @@
     </characterList>
     <locationList>
         <locList id="tower">Titans Tower</locList>
+        <locList id="JumpCity">Jump City</locList>
+        <locList id="bay">Jump City Bay</locList>
     </locationList>
     <body>
         <act n="0">
@@ -348,7 +350,7 @@
 
 <sd><setNote shot="yes">Long shot of <location>the Tower</location>, seen from the bayshore opposite <location>Jump City</location></setNote>. Flashes of light pop here and there on the top floor; these are followed by a wide, pulsating beam that shoots skyward from the roof. Dissolve to an even longer shot, revealing that the radiation is pouring into the tempestuous clouds, which soon set off of their own free will and drift toward the urban city. Shimmering shafts pour down through rents in the lower surfaces.</sd>
 
-<sd>Cut to an extreme close-up of <char>Rancid</char>'s motorcycle tire and pull back. He is racing through the city, but a few starbolts from overhead force him into a bit of a course change. <action mrkr="Starfire" with="BB R C" move="2" place="JumpCity"/><char>Starfire</char>, <action mrkr="Raven" with="BB C S" move="2" place="JumpCity"/><char>Raven</char>, and <action mrkr="BeastBoy" with="R S C" move="" place=""/><char>Beast Boy</char>, as a pterodactyl ridden by <action mrkr="Cyborg" with="BB R S" move="2" place="JumpCity"/><char>Cyborg</char>, are flying after him; he simply guns the engine and roars ahead, and they do likewise. After <char>Rancid</char> has rounded a corner, <char>Cyborg</char> leads the charge and stops <char>Beast Boy</char> near the street.</sd>
+<sd>Cut to an extreme close-up of <char>Rancid</char>'s motorcycle tire and pull back. He is racing through the city, but a few starbolts from overhead force him into a bit of a course change. <action mrkr="Starfire" with="BB R C" move="2" place="JumpCity"/><char>Starfire</char>, <action mrkr="Raven" with="BB C S" move="2" place="JumpCity"/><char>Raven</char>, and <action mrkr="BeastBoy" with="R S C" move="" place="JumpCity"/><char>Beast Boy</char>, as a pterodactyl ridden by <action mrkr="Cyborg" with="BB R S" move="2" place="JumpCity"/><char>Cyborg</char>, are flying after him; he simply guns the engine and roars ahead, and they do likewise. After <char>Rancid</char> has rounded a corner, <char>Cyborg</char> leads the charge and stops <char>Beast Boy</char> near the street.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Titans! <sd>Close-up; all four eyes bug out.</sd> Wha--?</sp>
 
@@ -364,7 +366,7 @@
 
 <sd>As he says this, the camera pulls back slightly to show something protruding into view, then dissolve to longer shot and keep pulling back. The things are magnetic letters that hold the entire panorama, drawn on a sheet of paper, to the door of a refrigerator, along with other preschool-age works of art. <char>Grandma Cyborg</char> stands near the appliance in her kitchen; she wears an apron, a white sleeveless blouse, and reading glasses, and her gray hair is held back by large pins filled with circuitry. She is just as tall and broad as her grandson.</sd>
 
-<sd>Back to the newly renovated city. A line of flowers marches past <char>Raven</char>.</sd>
+    <sd>Back to the newly renovated city. A line of flowers marches past <char>Raven</char>.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> This is bad.</sp>
 
@@ -376,7 +378,7 @@
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr><sd>with <char>Raven</char>'s mouth</sd> Will somebody please tell me what's going on?</sp>
 
-<sd>Raven mutely taps him on the shoulder and points upward as the sound of something falling toward them is heard. <char>Beast Boy</char> follows her gesture; cut to ground level, the camera pointing straight up. <char>Robin</char> and<char>Larry</char> scream and drop straight toward us, and the view cuts back to <char>Beast Boy</char> and <char>Raven</char>. She takes an impossibly long step off to one side, but he is a bit slow on the draw. Finally, he yells, still with <char>Raven</char>'s voice, and tries to run, but <char>Robin</char> and<char>Larry</char> crash down on top of him. Once the dust clears, <char>Robin</char> sits up and rubs his head; he and <char>Beast Boy</char> both groan, and<char>Larry</char> pops up.</sd>
+    <sd>Raven mutely taps him on the shoulder and points upward as the sound of something falling toward them is heard. <char>Beast Boy</char> follows her gesture; cut to ground level, the camera pointing straight up. <action mrkr="Robin" with="all" move="2" place="JumpCity"/><char>Robin</char> and<char>Larry</char> scream and drop straight toward us, and the view cuts back to <char>Beast Boy</char> and <char>Raven</char>. She takes an impossibly long step off to one side, but he is a bit slow on the draw. Finally, he yells, still with <char>Raven</char>'s voice, and tries to run, but <char>Robin</char> and<char>Larry</char> crash down on top of him. Once the dust clears, <char>Robin</char> sits up and rubs his head; he and <char>Beast Boy</char> both groan, and<char>Larry</char> pops up.</sd>
 
 <sp><spkr ref="Larry">Larry</spkr> We're still alive! Yaaaay!</sp>
 
@@ -438,7 +440,7 @@
 
 <sp><spkr ref="Robin">Robin</spkr> <sd>sarcastically</sd> Yay.</sp>
 
-<sd>Cut to a street in normal<location> Jump City</location>. The clouds and light float over a street, turning it to a simple, garish version of itself. Tilt down to ground level as screams are heard, and soon, several panicked residents, their normal selves, are seen fleeing before a tank that rolls toward the camera. It rolls past, after which a fellow, dressed as the title character from Gilligan's Island, runs across the street and is chased by two angry dogs. Cut to a roof-level of a normal block, panning along as it is transformed; at ground level; more panic-stricken people run past<char>Larry</char> and the Titans. Their pursuer: an eight-foot tall guinea pig, standing on its hind legs and growling like a mad dog.</sd>
+<sd><setNote shot="yes">Cut to a street in normal <location>Jump City</location>. The clouds and light float over a street, turning it to a simple, garish version of itself.</setNote> Tilt down to ground level as screams are heard, and soon, several panicked residents, their normal selves, are seen fleeing before a tank that rolls toward the camera. It rolls past, after which a fellow, dressed as the title character from Gilligan's Island, runs across the street and is chased by two angry dogs. Cut to a roof-level of a normal block, panning along as it is transformed; at ground level; more panic-stricken people run past<char>Larry</char> and the Titans. Their pursuer: an eight-foot tall guinea pig, standing on its hind legs and growling like a mad dog.</sd>
 
 <sd>After the creature has run by, <char>Beast Boy</char> looks off in a certain direction and starts to flail his arms with a muffled scream. Shift to point down the street; the unaffected Tower stands in the distance, that shaft of white light still issuing from its roof as others lance down from the clouds. Close-up of its roof, tilting up to the top of the blazing column.</sd>
 
@@ -470,11 +472,11 @@
 
 <sd>Snap to a street. As <char>Beast Boy</char> chases the post toward the camera, the other mad dash crosses the screen behind him. The fleeing five pass in front, at which point the green goofball and city fixture both stop in their tracks and gape. Down comes one scaly green foot in front of them; when it steps off, the post is gone. <char>Beast Boy</char> looks down, clapping hands to head in surprise, and the camera cuts to ground level. His mouth is now floating on a rivulet of water toward the sewer, and as it disappears beneath the street, he reaches vainly toward it. A moment later, the dejected Titan is yanked away by his buddies and<char>Larry</char> as they pass, keeping just ahead of that gigantic foot.</sd>
 
-<sd>Cut to a boat at the water's edge. Everyone piles in and pushes off, leaving the monster ranting on land; a bottle containing a message floats past, followed by shark fin. Without any warning, the boat springs a leak and sinks very quickly. Cut to underwater; one after another, they descend within large air bubbles, <char>Starfire</char>'s head and body contained separately. A large whale swims past and swallows the entire group whole, and the camera cuts to within its gut. <char>Cyborg</char> is first to put his head up, turning on his shoulder-mounted flashlight, and <char>Robin</char>, <char>Beast Boy</char>, <char>Raven</char>, and <char>Starfire</char>'s body surface.<char>Larry</char> is carried up on the Tamaranean's winged head, which is still in a bubble.</sd>
+    <sd>Cut to a boat at the water's edge. Everyone piles in and pushes off, leaving the monster ranting on land; a bottle containing a message floats past, followed by shark fin. Without any warning, the boat springs a leak and sinks very quickly. Cut to underwater; one after another, they descend within large air bubbles, <action mrkr="Starfire" with="all" move="3" place="bay"/><char>Starfire</char>'s head and body contained separately. A large whale swims past and swallows the entire group whole, and the camera cuts to within its gut. <action mrkr="Cyborg" with="all" move="3" place="bay"/><char>Cyborg</char> is first to put his head up, turning on his shoulder-mounted flashlight, and <action mrkr="Robin" with="all" move="3" place="bay"/><char>Robin</char>, <action mrkr="BeastBoy" with="all" move="3" place="bay"/><char>Beast Boy</char>, <action mrkr="Raven" with="all" move="3" place="bay"/><char>Raven</char>, and <char>Starfire</char>'s body surface.<char>Larry</char> is carried up on the Tamaranean's winged head, which is still in a bubble.</sd>
 
-<sd>Outside, near the floor of <location>Jump City Bay</location>. The whale swims contentedly by, but is brought up short when its hide starts to bulge due to a ruckus inside. It finally lets off a great belch, allowing everyone to escape: they have fought their way out, and the view dissolves to the exterior of <location>the Tower</location>, seen from water level. The structure and its island are still normal, and the shafts of light are still playing here and there from the clouds above.</sd>
+<sd><setNote shot="no">Outside, near the floor of <location>Jump City Bay</location></setNote>. The whale swims contentedly by, but is brought up short when its hide starts to bulge due to a ruckus inside. It finally lets off a great belch, allowing everyone to escape: they have fought their way out, and the view dissolves to the exterior of <location>the Tower</location>, seen from water level. The structure and its island are still normal, and the shafts of light are still playing here and there from the clouds above.</sd>
 
-<sd>Cut to the shore, the camera pointing over the transformed water toward<location> Jump City</location>. <char>Cyborg</char> climbs onto dry land, followed by <char>Raven</char> and then <char>Robin</char>, and walk toward their home.<char>Larry</char> joins them after a second.</sd>
+<sd>Cut to the shore, the camera pointing over the transformed water toward <location>Jump City</location>. <char>Cyborg</char> climbs onto dry land, followed by <char>Raven</char> and then <char>Robin</char>, and walk toward their home.<char>Larry</char> joins them after a second.</sd>
 
 <sp><spkr ref="Larry">Larry</spkr> Yaaaay! We made it! Now <char>Robin</char> can save the universe!</sp>
 
@@ -492,7 +494,7 @@
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> I knew something like that was gonna happen.</sp>
 
-<sd>From-the-ground view of <location>the Tower</location>. <char>Beast Boy</char>, as a falcon, flies up toward the roof and is followed by everyone else in the merry band. <char>Raven</char> carries <char>Robin</char>, while <char>Starfire</char> is toting <char>Cyborg</char>. Roof level: <char>Beast Boy</char> comes in for a landing and reverts to human form, staring at the wide swath of radiance emerging from the concrete. Tilt up to its top end, then cut to him, <char>Robin</char>, <char>Raven</char>, and<char>Larry</char> on the roof. Pan slowly across them toward <char>Cyborg</char> and <char>Starfire</char>; as the camera moves, <char>Raven</char> fiddles with her hair. It first turns into a turkey, then the Leaning Tower of Pisa and finally back to its normal style on the next line.</sd>
+    <sd><setNote shot="yes">From-the-ground view of <location>the Tower</location></setNote>. <action mrkr="BeastBoy" with="all" move="4" place="tower"/><char>Beast Boy</char>, as a falcon, flies up toward the roof and is followed by everyone else in the merry band. <action mrkr="Raven" with="all" move="4" place="tower"/><char>Raven</char> carries <action mrkr="Robin" with="all" move="4" place="tower"/><char>Robin</char>, while <action mrkr="Starfire" with="all" move="4" place="tower"/><char>Starfire</char> is toting <action mrkr="Cyborg" with="all" move="4" place="tower"/><char>Cyborg</char>. Roof level: <char>Beast Boy</char> comes in for a landing and reverts to human form, staring at the wide swath of radiance emerging from the concrete. Tilt up to its top end, then cut to him, <char>Robin</char>, <char>Raven</char>, and<char>Larry</char> on the roof. Pan slowly across them toward <char>Cyborg</char> and <char>Starfire</char>; as the camera moves, <char>Raven</char> fiddles with her hair. It first turns into a turkey, then the Leaning Tower of Pisa and finally back to its normal style on the next line.</sd>
 
 <sp><spkr ref="BeastBoy">BeastBoy</spkr> <sd>during <char>Raven</char>'s fiddling, he speaks backwards with subtitles appearing at the bottom of the screen to translate</sd> Dude, I could stare at that for hours. <sd>Cut to it.</sd></sp>
 
@@ -502,7 +504,7 @@
 
 <sp><spkr ref="Rancid">Rancid</spkr> You don't. <sd>Close-up.</sd> Whatever this thing is, it controls the city. <sd>Pull back; he gets ready to run.</sd> And now the city belongs to <char>Johnny Rancid</char>!</sp>
 
-<sd>On the end of this, his boots start pounding the concrete. He pushes off the edge of the housing and launches himself directly at the blinding vortex, his form fading partially away as he plunges. <char>Robin</char> rushes in.</sd>
+<sd>On the end of this, his boots start pounding the concrete. <setNote shot="no">He pushes off the edge of the housing and launches himself directly at the blinding vortex, his form fading partially away as he plunges</setNote>. <char>Robin</char> rushes in.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> No!</sp>
 
@@ -521,7 +523,7 @@
 
 <title>ACT THREE</title>
     
-<sd>Opening shot: a gaily colored section of the transformed<location> Jump City</location>. Pan through the area as a wave spreads to turn it into a dim, twisted, blighted nightmare metropolis under a blackly clouded sky. Long shot of the city, panning to <location>the Tower</location>; that fiery column is still raging on the roof, then cut to the six travelers.</sd>
+<sd><setNote shot="yes">Opening shot: a gaily colored section of the transformed<location> Jump City</location>.</setNote> Pan through the area as a wave spreads to turn it into a dim, twisted, blighted nightmare metropolis under a blackly clouded sky. Long shot of the city, panning to <location>the Tower</location>; that fiery column is still raging on the roof, then cut to the six travelers.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> Cool...uh, I mean, oops.</sp>
 
@@ -535,15 +537,15 @@
 
 <sd>Close-up of <char>Rancid</char>, pulling back. He has his hands outstretched, palms down, and energy streams from them to form a jumbo-size version of his original chopper, its headlight blazing. A quick hop puts him in the seat; he revs the engine, brings the craft around with a screech of tires, and charges straight at <char>Raven</char> and <char>Starfire</char>. On the next line, they scatter and he lifts off the roof, leaving a trail of flames in his wake.</sd>
 
-<sp><spkr ref="Rancid">Rancid</spkr> Come on, Bird-Boy! Let's see if you can fly!</sp>
+<sp><spkr ref="Rancid">Rancid</spkr> Come on, <char>Bird-Boy</char>! Let's see if you can fly!</sp>
 
-<sd>Cyborg runs up and raises his left fist. It launches off the arm, still connected to the wrist by a long cable, and the hand wraps all five fingers around the rear fender as a makeshift grappling hook. The line pulls tight and yanks <char>Cyborg</char> off the roof with a yell; he is dragged higher and higher, and <char>Rancid</char> levels one of his new weapons at the stowaway and fires. The blast snaps the connection and drops him screaming into the bay.</sd>
+<sd><char>Cyborg</char> runs up and raises his left fist. It launches off the arm, still connected to the wrist by a long cable, and the hand wraps all five fingers around the rear fender as a makeshift grappling hook. The line pulls tight and yanks <action mrkr="Cyborg" with="S BB R" move="5" place="bay"/><char>Cyborg</char> off the roof with a yell; he is dragged higher and higher, and <char>Rancid</char> levels one of his new weapons at the stowaway and fires. The blast snaps the connection and drops him screaming into the bay.</sd>
 
-<sd>Starfire pitches a couple of high-energy sliders at the monstrous hoodlum, who is now riding fairly low above the water. He dodges her shots, grins maliciously back up at her, and sweeps the bike so low that his tires cleave the liquid. More swerving puts him in the clear from her next blasts, but she streaks down after him and almost ends up in the drink herself. <char>Rancid</char> hocks up a wad of phlegm and spits it at the pterodactyl <char>Beast Boy</char>; it tumbles through the air, curves improbably, and splatters right into the beaked face. He plummets into the bay, very nearly crashing with the charging <char>Starfire</char>, and pokes his head up after she has passed. Back in human form, he spits out a mouthful of water.</sd>
+<sd><action mrkr="Starfire" with="C BB R" move="5" place="bay"/><char>Starfire</char> pitches a couple of high-energy sliders at the monstrous hoodlum, who is now riding fairly low above the water. He dodges her shots, grins maliciously back up at her, and sweeps the bike so low that his tires cleave the liquid. More swerving puts him in the clear from her next blasts, but she streaks down after him and almost ends up in the drink herself. <char>Rancid</char> hocks up a wad of phlegm and spits it at the pterodactyl <action mrkr="BeastBoy" with="C S R" move="5" place="bay"/><char>Beast Boy</char>; it tumbles through the air, curves improbably, and splatters right into the beaked face. He plummets into the bay, very nearly crashing with the charging <char>Starfire</char>, and pokes his head up after she has passed. Back in human form, he spits out a mouthful of water.</sd>
 
 <sp><spkr ref="BeastBoy">BeastBoy</spkr> <sd>speaks backwards with subtitles appearing at the bottom of the screen to translate</sd> Yuck! <char>Rancid</char> loogie!</sp>
 
-<sd>Having gained some altitude, <char>Rancid</char> dodges more starbolts and fires into the high clouds. The blast tears them open to send down a curtain of red lightning bolts; cut to <char>Starfire</char>, who very quickly finds herself wrapped up in the glowing tendrils and reeled up into the thunderheads. The rent seals itself, almost like a zipper being secured, and puts her out of sight. <char>Rancid</char> pulls into view just above the water, smiling wickedly back at the sight, but his face soon registers shock; ahead of him, <char>Raven</char> drops into view.</sd>
+<sd>Having gained some altitude, <char>Rancid</char> dodges more starbolts and fires into the high clouds. The blast tears them open to send down a curtain of red lightning bolts; cut to <char>Starfire</char>, who very quickly finds herself wrapped up in the glowing tendrils and reeled up into the thunderheads. The rent seals itself, almost like a zipper being secured, and puts her out of sight. <char>Rancid</char> pulls into view just above the water, smiling wickedly back at the sight, but his face soon registers shock; ahead of him, <action mrkr="Raven" with="C S BB" move="5" place="bay"/><char>Raven</char> drops into view.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> You want dark? I'll give you dark! Azarath Metrion Zinthos!</sp>
 
@@ -561,7 +563,7 @@
 
 <sp><spkr ref="Larry">Larry</spkr> So? I mess up all the time, but I still try. That's how come you're my hero, <char>Robin</char>. Because no matter what, you always try.</sp>
 
-<sd>Cut to a close-up of the Boy Wonder's face. These words set him thinking for a few seconds; he comes out of the reverie with a broad smile that<char>Larry</char> cheerfully returns. Cut to <char>Rancid</char> in flight through the city; he unleashes bursts on the buildings and laughs at the destruction.</sd>
+<sd>Cut to a close-up of <char>the Boy Wonder</char>'s face. These words set him thinking for a few seconds; he comes out of the reverie with a broad smile that<char>Larry</char> cheerfully returns. Cut to <char>Rancid</char> in flight through the city; he unleashes bursts on the buildings and laughs at the destruction.</sd>
 
 <sp><spkr ref="Rancid">Rancid</spkr> Bam! Yeah! Gotcha! Yeah, take that!</sp>
 
@@ -569,23 +571,23 @@
 
 <sp><spkr ref="Rancid">Rancid</spkr> Whoa! <sd>wheels around</sd> Huh?</sp>
 
-<sd>Cut to the wheels of the R-Cycle, now also in midair, and tilt up. It is in proper working order, with <char>Robin</char> at the throttle and<char>Larry</char> riding the little scooter seen in the opening sequence. This is attached to <char>Robin</char>'s bike.</sd>
+<sd>Cut to the wheels of the R-Cycle, now also in midair, and tilt up. It is in proper working order, with <char>Robin</char> at the throttle and <char>Larry</char> riding the little scooter seen in the opening sequence. This is attached to <char>Robin</char>'s bike.</sd>
 
 <sp><spkr ref="Larry">Larry</spkr> <sd>taunts</sd><char>Larry</char> fixed the bike!</sp>
 
-<sd>Rancid's jaw hangs slack for a second, a bit of drool oozing over it; a quick shake of the head brings him back to himself, and his face goes bright red with rage. His next line is delivered with enough force to shake the camera.</sd>
+<sd><char>Rancid</char>'s jaw hangs slack for a second, a bit of drool oozing over it; a quick shake of the head brings him back to himself, and his face goes bright red with rage. His next line is delivered with enough force to shake the camera.</sd>
 
 <sp><spkr ref="Rancid">Rancid</spkr> Yeah! And it's the stupidest thing I've ever seen!</sp>
 
 <sp><spkr ref="Robin">Robin</spkr> Have you looked in a mirror lately?</sp>
 
-<sd>Rancid's response is to bring the chopper around in a shrieking arc, ready to come right at them. <char>Robin</char> just yawns in a bored fashion and<char>Larry</char> leans back. This prompts an enraged growl from the gray sociopath, which is followed by<char>Larry</char>'s giddy laughter. Now <char>Rancid</char>'s growls intensify as his bloodshot eyes water and drool streams back through his teeth; he aims the front wheel straight at the pair, who simply float straight up and avoid a collision. The red-and-black bike comes around to a stop, leaving <char>Rancid</char> to watch <char>Robin</char> and<char>Larry</char> descend back to his level.</sd>
+<sd>Rancid's response is to bring the chopper around in a shrieking arc, ready to come right at them. <char>Robin</char> just yawns in a bored fashion and <char>Larry</char> leans back. This prompts an enraged growl from the gray sociopath, which is followed by <char>Larry</char>'s giddy laughter. Now <char>Rancid</char>'s growls intensify as his bloodshot eyes water and drool streams back through his teeth; he aims the front wheel straight at the pair, who simply float straight up and avoid a collision. The red-and-black bike comes around to a stop, leaving <char>Rancid</char> to watch <char>Robin</char> and<char>Larry</char> descend back to his level.</sd>
 
 <sd>In a flash, the little imp is jumping out of his seat and the camera tilts up to frame him. He changes his outfit into that of a bullfighter, gold-trimmed red jacket, green hat and pants, and waves a small red cape. Thoroughly incensed by this provocation, <char>Rancid</char> snorts steam from his nose, snarls, and guns the engine. Just as he is about to mow the pair down, they rise away.</sd>
 
 <sp><spkr ref="Larry">Larry</spkr> Olé!</sp>
 
-<sd>He and <char>Robin</char> descend again; now back in his seat, he restores his normal clothing. A red blast lances between them, almost taking both heads off, and<char>Larry</char> screams as <char>Robin</char> cuts his wheel to one side and lays rubber out of there. The gun battle ranges all over the twisted buildings of<location> Jump City</location>; as <char>Rancid</char> bears down on the R-Cycle, <char>Robin</char> whips out a birdarang and lets fly. It whizzes past the red-and-black-haired madman.</sd>
+<sd>He and <action mrkr="Robin" with="none" move="5" place="JumpCity"/><char>Robin</char> descend again; now back in his seat, he restores his normal clothing. A red blast lances between them, almost taking both heads off, and<char>Larry</char> screams as <char>Robin</char> cuts his wheel to one side and lays rubber out of there. The gun battle ranges all over the twisted buildings of<location> Jump City</location>; as <char>Rancid</char> bears down on the R-Cycle, <char>Robin</char> whips out a birdarang and lets fly. It whizzes past the red-and-black-haired madman.</sd>
 
 <sp><spkr ref="Rancid">Rancid</spkr> Ha! You missed!</sp>
 
@@ -593,7 +595,7 @@
 
 <sp><spkr ref="Rancid">Rancid</spkr> Huh?</sp>
 
-<sd>The severed piece tumbles toward the streets far below, sparking a fresh wave of hatred that makes him rev his engine and speed ahead. He pulls even with <char>Robin</char> and steers into him; knocked away, the Boy Wonder and<char>Larry</char> drive around a building and pull back in. This time,<char>Larry</char> screams in terror as the two choppers lock fenders. Close-up of the two steely-determined drivers' faces, then cut to an oncoming structure. Just in time, the motorcycles separate and go around it on opposite sides, then ram into one another again once they are clear.</sd>
+<sd>The severed piece tumbles toward the streets far below, sparking a fresh wave of hatred that makes him rev his engine and speed ahead. He pulls even with <char>Robin</char> and steers into him; knocked away, <char>the Boy Wonder</char> and<char>Larry</char> drive around a building and pull back in. This time,<char>Larry</char> screams in terror as the two choppers lock fenders. Close-up of the two steely-determined drivers' faces, then cut to an oncoming structure. Just in time, the motorcycles separate and go around it on opposite sides, then ram into one another again once they are clear.</sd>
 
 <sd>Rancid lifts one red-crackling hand and shoves it into <char>Robin</char>'s face;<char>Larry</char> counters with a shout and a blast from his magic finger. This shot strikes <char>Rancid</char>'s hair, covering it with a mass of flowers and making him yell in surprise, but he quickly shakes the blooms loose. Now <char>Robin</char> brings up one steel boot sole for a kick that goes squarely into the crazed biker's jaw; he and his wheels are knocked loose from the R-Cycle and pushed down.</sd>
 
@@ -605,9 +607,9 @@
 
 <sd>Larry, meanwhile, has gone into free fall, and his extended finger pounds into <char>Rancid</char>&#39;s breadbasket. There is a mighty flash, which clears to show the area of the midair battle; tilt down to an overhead view of the street as the thug plummets from here and has a very painful meeting with the centerline. The impact sends up thick clouds of dust and smashes a deep crater in the pavement; when it clears, <char>Rancid</char> sits up groaning, back to his normal self, as <char>Robin</char> and<char>Larry</char> bring the R-Cycle down to hover nearby.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> So, Johnny, what's it like having your butt kicked by a stupid little kid?</sp>
+<sp><spkr ref="Robin">Robin</spkr> So, <char>Johnny</char>, what's it like having your butt kicked by a stupid little kid?</sp>
 
-<sd>Rancid stares incredulously up at them for a moment, then faints with a final groan. Cut to a street-level view of several panicked residents as an enormous, pudgy, green-gloved arm with a glowing index finger rises:<char>Larry</char>'s injury is healed. The digit stands over the city and swivels like a lighthouse to cover the entire area; a flash of yellow, and<location> Jump City</location> is back to normal. Morning has come. Cut to a long shot of the shore and pull back to put the roof of <location>the Tower</location> in the foreground. Its light vortex is gone, and the Titans are visible as small black dots at this distance.</sd>
+<sd>Rancid stares incredulously up at them for a moment, then faints with a final groan. Cut to a street-level view of several panicked residents as an enormous, pudgy, green-gloved arm with a glowing index finger rises:<char>Larry</char>'s injury is healed. The digit stands over the city and swivels like a lighthouse to cover the entire area; a flash of yellow, and <location>Jump City</location> is back to normal. Morning has come. Cut to a long shot of the shore and pull back to put the roof of <location>the Tower</location> in the foreground. Its light vortex is gone, and the Titans are visible as small black dots at this distance.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Ahhhh. Back to reality. <sd>Cut to them; he has reattached his left hand.</sd></sp>
 
@@ -633,7 +635,7 @@
 
 <sp><spkr ref="Robin">Robin</spkr> It's perfect!<char>Larry</char>, you did it! <sd>surprised</sd> Uh...</sp>
 
-<sd>Dissolve to a longer shot as he stands up, then pull back. There is absolutely nothing around him: no Tower, no<location> Jump City</location>, no fellow Titans, and certainly no<char>Larry</char>.</sd>
+<sd>Dissolve to a longer shot as he stands up, then pull back. There is absolutely nothing around him: no <location>Tower</location>, no<location> Jump City</location>, no fellow Titans, and certainly no<char>Larry</char>.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> <sd>echoes a bit</sd><char>Larry</char>?</sp>
 
