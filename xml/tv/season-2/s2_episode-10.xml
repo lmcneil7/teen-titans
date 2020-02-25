@@ -23,12 +23,13 @@
         <locList id="tower">Titan's Tower</locList>
         <locList id="amusement_park">Amusement Park in Jump City</locList>
         <locList id="bens_diner">Ben's Diner</locList>
+        <locList id="JumpCity">Streets of Jump City</locList>
     </locationList>
     <body>
         <act n="0">
          <title>PROLOGUE</title>
 
-<sd><setNote shot="yes">Opening shot: a complex of buildings overlooking a rocky ridge.</setNote> It is early evening. Zoom in slowly, then cut to a room inside; a guard falls unconscious to the floor, and several of<char>Slade</char>'s commando robots, one carrying a large canister, walk past him. <setNote shot="yes">Overhead view: many other guards lie knocked out as well. Outside, a section of the wall is blown out and the screen fills with dust, which clears to show the robots making their exit</setNote>.<action mrkr="Robin" with="all" move="1" place=""/><char>Robin</char>'s birdarang flashes across the screen and smashes away part of the leader's head; cut to a close-up of it in flight and follow it back to the thrower's hand. Pull back to show the original five Titans on the scene.</sd>
+<sd><setNote shot="yes">Opening shot: a complex of buildings overlooking a rocky ridge.</setNote> It is early evening. Zoom in slowly, then cut to a room inside; a guard falls unconscious to the floor, and several of<char>Slade</char>'s commando robots, one carrying a large canister, walk past him. <setNote shot="yes">Overhead view: many other guards lie knocked out as well. Outside, a section of the wall is blown out and the screen fills with dust, which clears to show the robots making their exit</setNote>.<action mrkr="Robin" with="all" move="1" place="JumpCity"/><char>Robin</char>'s birdarang flashes across the screen and smashes away part of the leader's head; cut to a close-up of it in flight and follow it back to the thrower's hand. Pull back to show the original five Titans on the scene.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> Tell<char>Slade</char> the Titans have a message for him. <sd>Tilt up;<char>Terra</char> stands on one of several floating boulders.</sd></sp>
 
@@ -38,9 +39,9 @@
 
 <sp><spkr ref="Robin">Robin</spkr> Titans! Go!</sp>
 
-<sd>All six move in,<char>Terra</char> bringing a few more rocks along. She changes positions and lowers the one she was standing on so that<char>Robin</char> can hop aboard. Laser blasts from the surviving robots slash the air, but he swerves expertly around them. Finally, he leaps off; the stone crashes into one shooter, and he delivers a flying kick to another. More shots emerge from farther back, zeroing in on the approaching<action mrkr="Starfire" with="all" move="1" place=""/><char>Starfire</char>. She returns fire with her eye beams, tracing a blazing path through three other robots; it explodes after a moment and throws them in all directions.</sd>
+<sd>All six move in,<char>Terra</char> bringing a few more rocks along. She changes positions and lowers the one she was standing on so that<char>Robin</char> can hop aboard. Laser blasts from the surviving robots slash the air, but he swerves expertly around them. Finally, he leaps off; the stone crashes into one shooter, and he delivers a flying kick to another. More shots emerge from farther back, zeroing in on the approaching<action mrkr="Starfire" with="all" move="1" place="JumpCity"/><char>Starfire</char>. She returns fire with her eye beams, tracing a blazing path through three other robots; it explodes after a moment and throws them in all directions.</sd>
 
-<sd><action mrkr="Raven" with="all" move="1" place=""/><char>Raven</char>'s turn. She levitates an enormous slab of rock.</sd>
+<sd><action mrkr="Raven" with="all" move="1" place="JumpCity"/><char>Raven</char>'s turn. She levitates an enormous slab of rock.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr><char>Terra</char>! Catch!</sp>
 
@@ -50,7 +51,7 @@
 
 <sp><spkr ref="Raven">Raven</spkr> Closer to two tons, actually.</sp>
 
-<sd>She creates a shield in front of herself; a laser shot immediately blasts it apart and throws her backward. The robot that fired it flies up behind her, using its boot-mounted rockets to stay aloft, and cuts loose with another blast that shatters<char>Terra</char>'s stone platform. She tumbles to the ground and very soon finds herself staring up at a couple of the burglars, but <action mrkr="BeastBoy" with="all" move="1" place=""/><char>Beast Boy</char>, as a large gorilla, jumps down behind her and roars, pounding his chest in fury. Cut to one robot, which gets a huge green smack across the face, then pan to the other just in time for it to receive the same. A third runs toward<char>Beast Boy</char> and is swatted away; a fourth jumps on his back, but he picks it off, slams it to the ground, and throws it against a charging fifth. Finally, he roars, scoops<char>Terra</char> up, and returns to human form.</sd>
+<sd>She creates a shield in front of herself; a laser shot immediately blasts it apart and throws her backward. The robot that fired it flies up behind her, using its boot-mounted rockets to stay aloft, and cuts loose with another blast that shatters<char>Terra</char>'s stone platform. She tumbles to the ground and very soon finds herself staring up at a couple of the burglars, but <action mrkr="BeastBoy" with="all" move="1" place="JumpCity"/><char>Beast Boy</char>, as a large gorilla, jumps down behind her and roars, pounding his chest in fury. Cut to one robot, which gets a huge green smack across the face, then pan to the other just in time for it to receive the same. A third runs toward<char>Beast Boy</char> and is swatted away; a fourth jumps on his back, but he picks it off, slams it to the ground, and throws it against a charging fifth. Finally, he roars, scoops<char>Terra</char> up, and returns to human form.</sd>
 
 <sp><spkr ref="Terra">Terra</spkr> You saved me.</sp>
 
@@ -62,7 +63,7 @@
 
 <sd>A robot being thrown past them cuts him off; he gives her a big sheepish grin and runs in the direction it came from. Brief close-up of<char>Terra</char>'s suddenly worried face, then cut to another part of the plain, where<char>Robin</char> and a commando charge at each other. His fighting staff out and at full length, he nails the enemy with a backward flip kick to the chin and swings the weapon to knock away another one when it rushes in. A roar and jump carry him in range to bash a third upside the head, the camera panning to follow. As he lands the blow, there is a brief flicker and click as of a camera shutter snapping. After this, we see him in freeze frame; his name appears on the screen along with a few computer graph readouts.</sd>
 
-<sd>Cut to<char>Raven</char>, rising higher in the air with a black aura surrounding her body. She forms this into a group of energy streams and hurls them downward; freeze frame just like<char>Robin</char>'s. From here, cut to <action mrkr="Cyborg" with="all" move="1" place=""/><char>Cyborg</char> running at a commando. He drills it with a killer uppercut, then brings out his sonic cannon and fires in a different direction, and he too is seen in freeze frame. Cut to a group of robots, fleeing from a hail of starbolts, and as smoke pours up from the points of impact,<char>Starfire</char> flies out of it and hurls another one. Freeze frame. Cut to<char>Beast Boy</char> and pan to follow him as he becomes a bighorn sheep and rams another of the thieves. Freeze frame.</sd>
+<sd>Cut to<char>Raven</char>, rising higher in the air with a black aura surrounding her body. She forms this into a group of energy streams and hurls them downward; freeze frame just like<char>Robin</char>'s. From here, cut to <action mrkr="Cyborg" with="all" move="1" place="JumpCity"/><char>Cyborg</char> running at a commando. He drills it with a killer uppercut, then brings out his sonic cannon and fires in a different direction, and he too is seen in freeze frame. Cut to a group of robots, fleeing from a hail of starbolts, and as smoke pours up from the points of impact,<char>Starfire</char> flies out of it and hurls another one. Freeze frame. Cut to<char>Beast Boy</char> and pan to follow him as he becomes a bighorn sheep and rams another of the thieves. Freeze frame.</sd>
 
 <sd><setNote shot="yes">Smoke billows up to cover the entire screen. It clears to show a silhouetted figure watching a wall of small monitors; each of the preceding five shots appears several times on them.</setNote> This person's back is to us, but the voice is a dead giveaway.</sd>
 
