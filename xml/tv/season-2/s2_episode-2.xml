@@ -27,6 +27,16 @@
         <locList id="tower">Titans Tower</locList>
         <locList id="pizza">The Pizza Joint</locList>
         <locList id="park">The Park</locList>
+        <locList id="bay">Jump City Bay</locList>
+        <locList id="hill">The Hill in a City Street</locList>
+        <locList id="rooftop">Rooftop of Unknown Building</locList>
+        <locList id="drive-in">Drive-In Restaurant</locList>
+        <locList id="street">Street</locList>
+        <locList id="alley">An Alley</locList>
+        <locList id="ship">Soto's Ship</locList>
+        <locList id="sewer">The Sewers</locList>
+        <locList id="sidewalk">Sidewalk</locList>
+        <locList id="forest">Forest</locList>
     </locationList>
     <body> 
 <act n="0">
@@ -176,7 +186,7 @@
 <act n="2">
 <title>Act Two</title>
 
-<sd><setNote shot="yes">Opening shot: the burned patch of grass in <location>the park</location> where <char>Soto</char>'s tractor beam hit.</setNote> <action mrkr="Robin" with="C S R" move="2" place="park"/><char>Robin</char> reaches into view to pluck a bit of it, and the camera pulls back to show him, <char>Cyborg</char>, and <char>Starfire</char> at the site. Cyborg is examining his forearm panel closely. Pull back a bit from the group; Raven walks up to join them.</sd>
+<sd><setNote shot="yes">Opening shot: the burned patch of grass in <location>the park</location> where <char>Soto</char>'s tractor beam hit.</setNote> <action mrkr="Robin" with="C S R" move="2" place="park"/><char>Robin</char> reaches into view to pluck a bit of it, and the camera pulls back to show him, <action mrkr="Cyborg" with="RB S R" move="2" place="park"/><char>Cyborg</char>, and <action mrkr="Starfire" with="RB C R" move="2" place="park"/><char>Starfire</char> at the site. <char>Cyborg</char> is examining his forearm panel closely. Pull back a bit from the group; <action mrkr="Raven" with="RB C S" move="2" place="park"/><char>Raven</char> walks up to join them.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> Word is, it was some kind of flying saucer. </sp>
 
@@ -184,39 +194,39 @@
 
 <sp><spkr ref="Robin">Robin</spkr> <sd>pointing at burned grass</sd> But it did leave this. Something got zapped. Question is, what?</sp>
 
-<sd>Starfire looks off to one side toward the ground, gasps, and bends over; close-up of the dropped communicator, which she picks up.</sd>
+<sd><char>Starfire</char> looks off to one side toward the ground, gasps, and bends over; close-up of the dropped communicator, which she picks up.</sd>
 
-<sp><spkr ref="Starfire">Starfire</spkr> Beast Boy!</sp>
+<sp><spkr ref="Starfire">Starfire</spkr> <char>Beast Boy</char>!</sp>
 
-<sd>The others hurry over to see, and Cyborg takes the device and sniffs at it.</sd>
+<sd>The others hurry over to see, and <char>Cyborg</char> takes the device and sniffs at it.</sd>
 
-<sp><spkr ref="Cyborg">Cyborg</spkr> <sd>turning head hastily</sd> It's BB's, all right. Smells like tofu. </sp>
+<sp><spkr ref="Cyborg">Cyborg</spkr> <sd>turning head hastily</sd> It's <char ref="BeastBoy">BB</char>'s, all right. Smells like tofu. </sp>
 
-<sd>Starfire takes it back.</sd> 
+<sd><char>Starfire</char> takes it back.</sd> 
 
 <sp><spkr ref="Starfire">Starfire</spkr> Oh, I fear our friend has gotten the zap.</sp>
 
-<sd>The dog that had been on the ship-the one Soto was trying to catch-jumps across the screen and bowls Raven over. It gives her a hearty lick on the face, prompting a disgusted groan.</sd>
+<sd>The dog that had been on the ship-the one <char>Soto</char> was trying to catch-jumps across the screen and bowls <char>Raven</char> over. It gives her a hearty lick on the face, prompting a disgusted groan.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> He looks fine to me. </sp>
 
-<sp><spkr ref="Starfire">Starfire</spkr> Beast Boy! <sd>picking up dog</sd> You are unharmed! </sp>
+<sp><spkr ref="Starfire">Starfire</spkr> <char>Beast Boy</char>! <sd>picking up dog</sd> You are unharmed! </sp>
 
-<sd>Raven gets up.</sd> 
+<sd><char>Raven</char> gets up.</sd> 
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Where have you been? </sp>
 
 <sp><spkr ref="Robin">Robin</spkr> Did you get a look at the UFO?</sp>
 
-<sd>It squirms out of Starfire's grip and jumps on Raven to knock her down again. More licking.</sd>
+<sd>It squirms out of <char>Starfire</char>'s grip and jumps on <char>Raven</char> to knock her down again. More licking.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> Ugh! Don't make me send you to another dimension.</sp>
 
 <sd>She pushes it away and stands; the pooch barks excitedly at her feet.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> All right, Beast Boy, quit fooling around. We've got work to do. Beast Boy!</sp>
+<sp><spkr ref="Robin">Robin</spkr> All right, <char>Beast Boy</char>, quit fooling around. We've got work to do. <char>Beast Boy</char>!</sp>
 
-<sd>The dog is engaged in the time-honored pursuit of chasing its own tail, causing a big drop of sweat to pop out in Robin's hair and slide down. After it stops, they move a bit closer.</sd>
+<sd>The dog is engaged in the time-honored pursuit of chasing its own tail, causing a big drop of sweat to pop out in <char>Robin</char>'s hair and slide down. After it stops, they move a bit closer.</sd>
 
 <sp><spkr ref="Starfire">Starfire</spkr> Friend! Why will you not resume human form and speak with us? </sp>
 
@@ -226,37 +236,41 @@
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> That's strange.</sp>
 
-<sd>As he says this, cut to just behind the canine, the camera pointing at the nearby street. A car speeds past and down a side road; natural instinct takes over, and those four feet are soon racing after the vehicle. Cyborg stands up.</sd>
+<sd>As he says this, cut to just behind the canine, the camera pointing at the nearby street. A car speeds past and down a side road; natural instinct takes over, and those four feet are soon racing after the vehicle. <char>Cyborg</char> stands up.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Yep. Definitely something wrong with him.</sp>
 
-<sd>Cut to a long shot of the dog, racing across an intersection, and pan to the entrance to an alley. The four Titans emerge and look around. Close-up of Robin.</sd>
+<sd><setNote shot="yes">Cut to a long shot of the dog, racing across an intersection, and pan to the entrance to an alley.</setNote> The four Titans emerge and look around. Close-up of <char>Robin</char>.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> Where did he go? </sp>
 
-<sd>Pan to Raven.</sd> 
+<sd>Pan to <char>Raven</char>.</sd> 
 
 <sp><spkr ref="Raven">Raven</spkr> And what did he do to that car?</sp>
 
 <sd>Said car is on the other side of the street, its rear bumper gone and its rear axle severely bent. The owner just stares helplessly at the damage, then jumps all around to see it from different angles and gets out a string of strangled cries before speaking coherently.</sd>
 
-<sp><spkr ref="Driver">Driver</spkr> My bumper! <sd>He falls to his knees, crying.</sd> Robin: Split up and search. Start with Beast Boy's usual hangouts and fan out from there.</sp>
+<sp><spkr ref="Driver">Driver</spkr> My bumper!</sp> 
+    
+<sd>He falls to his knees, crying.</sd> 
+    
+<sp><spkr ref="Robin">Robin</spkr> Split up and search. Start with <char>Beast Boy</char>'s usual hangouts and fan out from there.</sp>
 
-<sd>The four follow orders. Dissolve to the second-story patio of the pizza joint and tilt down to ground level. Robin is questioning the two girls, who are back at their old table; cut to a close-up behind him and pull back to the sidewalk. The green mutt is tugging on the end of his cape, then lets go and runs off with him in pursuit. Cut to the shore of Jump City Bay, under the bridge, where Raven is walking along the water's edge. The creature zips up from behind and knocks her down to lick her face once more.</sd>
+<sd>The four follow orders. Dissolve to the second-story patio of <location>the pizza joint</location> and tilt down to ground level. <action mrkr="Robin" with="none" move="3" place="pizza"/><char>Robin</char> is questioning the two girls, who are back at their old table; cut to a close-up behind him and pull back to the sidewalk. The green mutt is tugging on the end of his cape, then lets go and runs off with him in pursuit. Cut to the shore of <location>Jump City Bay</location>, under the bridge, where <action mrkr="Raven" with="none" move="3" place="bay"/><char>Raven</char> is walking along the water's edge. The creature zips up from behind and knocks her down to lick her face once more.</sd>
 
-<sd>Wipe to Cyborg, coming up over the hill in a city street. Close-up of him, suddenly becoming peeved, and pull back to show the dog right next to him. The king-size Titan's image dissolves into one of a fire hydrant-how he appears in the dog's eyes-and the camera cuts to a close-up of him. As the background fades to yellow, he recoils in disgust, realizing that he has just been used as a toilet; pull back to a letterbox view as he chases the dog across the screen.</sd>
+<sd>Wipe to <action mrkr="Cyborg" with="none" move="3" place="hill"/><char>Cyborg</char>, coming up over <setNote shot="no"><location>the hill</location> in a city street</setNote>. Close-up of him, suddenly becoming peeved, and pull back to show the dog right next to him. The king-size Titan's image dissolves into one of a fire hydrant-how he appears in the dog's eyes-and the camera cuts to a close-up of him. As the background fades to yellow, he recoils in disgust, realizing that he has just been used as a toilet; pull back to a letterbox view as he chases the dog across the screen.</sd>
 
-<sd>This view slides down and away and is replaced by a fullscreen view of the park. Now the green pooch runs along a path with one of Starfire's boots in its jaws; she hops into view after it, keeping her bare foot off the dirt. This shot slides off to the left, giving way to a view of several rooftops. The dog leaps from one to the next, without the stolen boot, staying ahead of Robin. It reaches a ledge beyond which no other buildings are visible and stops to look back at the pursuer. Cut to just past the ledge, the camera pointing back at Robin; he comes to a stop and looks out, seeing no green mutt anywhere in sight at street or roof level. Tilt down slightly to show it in a small niche just below, standing on its forelegs and pressed against the masonry.</sd>
+<sd>This view slides down and away and is replaced by a fullscreen view of <location>the park</location>. Now the green pooch runs along a path with one of <char>Starfire</char>'s boots in its jaws; she hops into view after it, keeping her bare foot off the dirt. This shot slides off to the left, giving way to a view of several <location>rooftops</location>. The dog leaps from one to the next, without the stolen boot, staying ahead of <action mrkr="Robin" with="none" move="4" place="rooftop"/><char>Robin</char>. It reaches a ledge beyond which no other buildings are visible and stops to look back at the pursuer. Cut to just past <location>the ledge</location>, the camera pointing back at <char>Robin</char>; he comes to a stop and looks out, seeing no green mutt anywhere in sight at street or roof level. Tilt down slightly to show it in <location>a small niche</location> just below, standing on its forelegs and pressed against the masonry.</sd>
 
-<sd>Cut to the parking lot of the drive-in restaurant. Raven walks through and looks around; no luck for the moment, but that changes when the dog leaps into view and plows her to the ground for another enthusiastic lick. It gives up after a moment and bounds off, leaving her to chase after. In the park, the sun is now setting and Starfire has found her boot next to a bench. It is soggy and chewed up, but she has little time to worry about it once the canine barrels through. Pulling the boot on hastily, she runs off across the grass.</sd>
+<sd>Cut to the parking lot of <location>the drive-in restaurant</location>. <action mrkr="Raven" with="none" move="4" place="drive-in"/><char>Raven</char> walks through and looks around; no luck for the moment, but that changes when the dog leaps into view and plows her to the ground for another enthusiastic lick. It gives up after a moment and bounds off, leaving her to chase after. In <location>the park</location>, the sun is now setting and <char>Starfire</char> has found her boot next to a bench. It is soggy and chewed up, but she has little time to worry about it once the canine barrels through. Pulling the boot on hastily, she runs off across the grass.</sd>
 
-<sd>Cut to Cyborg, chasing the dog in the street. Raven, backing up across a parking lot only to get flattened and licked yet again. It runs into an alley; Robin and Cyborg go in after it, followed by Raven and Starfire. Close-up of them, panning slowly across. Now it is evening.</sd>
+<sd>Cut to <action mrkr="Cyborg" with="none" move="4" place="street"/><char>Cyborg</char>, chasing the dog in <location>the street</location>. <char>Raven</char>, backing up across a parking lot only to get flattened and licked yet again. It runs into <location>an alley</location>; <action mrkr="Robin" with="C S R" move="5" place="alley"/><char>Robin</char> and <action mrkr="Cyborg" with="RB S R" move="5" place="alley"/><char>Cyborg</char> go in after it, followed by <action mrkr="Raven" with="RB C S" move="5" place="alley"/><char>Raven</char> and <action mrkr="Starfire" with="RB C R" move="3" place="alley"/><char>Starfire</char>. Close-up of them, panning slowly across. Now it is evening.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> Careful, everybody. We don't want to hurt him. </sp>
 
 <sp><spkr ref="Raven">Raven</spkr> Speak for yourself. </sp>
 
-<sd>Starfire sniffs and covers her nose.</sd> 
+<sd><char>Starfire</char> sniffs and covers her nose.</sd> 
 
 <sp><spkr ref="Starfire">Starfire</spkr> Ugh! What is that smell? </sp>
 
@@ -264,7 +278,7 @@
 
 <sd>The dog pokes out of a trash can.</sd> 
 
-<sp><spkr ref="Robin">Robin</spkr> Easy, Beast Boy. </sp>
+<sp><spkr ref="Robin">Robin</spkr> Easy, <char>Beast Boy</char>. </sp>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> We just want to help.</sp>
 
@@ -272,45 +286,45 @@
 
 <sp><spkr ref="Robin Cyborg Raven Starfire">Robin, Cyborg, Raven, Starfire</spkr> EWWW!!</sp>
 
-<sd>The jaws open, and out snakes that wet tongue-several feet of it, to be exact-to lick Raven's face. Retracting it, the dog pants happily before jumping out of the trash can. Cut to just below a sewer grate; it runs up, turns its body into a mass of slime to ooze through the bars, and solidifies again to makes its escape. Street level: the four heroes eye the grate suspiciously.</sd>
+<sd>The jaws open, and out snakes that wet tongue-several feet of it, to be exact-to lick <char>Raven</char>'s face. Retracting it, the dog pants happily before jumping out of the trash can. Cut to just below a sewer grate; it runs up, turns its body into a mass of slime to ooze through the bars, and solidifies again to makes its escape. Street level: the four heroes eye the grate suspiciously.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Ummm... <sd>Close-up.</sd> ...ooooo-kay. </sp>
 
-<sd>Pan to Robin and Raven; she wipes her face.</sd> 
+<sd>Pan to <char>Robin</char> and <char>Raven</char>; she wipes her face.</sd> 
 
-<sp><spkr ref="Raven">Raven</spkr> I'm gonna go out on a limb here and say that isn't Beast Boy. </sp>
+<sp><spkr ref="Raven">Raven</spkr> I'm gonna go out on a limb here and say that isn't <char>Beast Boy</char>. </sp>
 
-<sp><spkr ref="Robin">Robin</spkr> And if that's not Beast Boy... </sp>
+<sp><spkr ref="Robin">Robin</spkr> And if that's not <char>Beast Boy</char>... </sp>
 
-<sd>To Starfire.</sd> 
+<sd>To <char>Starfire</char>.</sd> 
 
 <sp><spkr ref="Starfire">Starfire</spkr> ...then where could he be?</sp>
 
-<sd>Dissolve to an overhead view of Soto's ship, now parked in a clearing, and zoom in slowly.</sd>
+<sd>Dissolve to an overhead view of <char>Soto</char>'s ship, now parked in a clearing, and zoom in slowly.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>from inside</sd> Dude, for the last time...</sp>
 
-<sd>Inside, he straightens up and strains to pull the collar off his neck, without success. A vein throbs on his forehead.</sd>
+<sd>Inside, <action mrkr="BeastBoy" with="none" move="4" place="ship"/>Beast Boy straightens up and strains to pull the collar off his neck, without success. A vein throbs on his forehead.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> I am not your dog!</sp>
 
-<sd>As he falls backward, losing his balance, we see that a red energy leash has been attached. Pull back; Soto sits nearby, watching him, and gasps happily. In the light, his clothing is seen to e a full-body jumpsuit with many patches sewn on, as well as gloves and boots built in. The outfit strongly resembles a giant pair of child's "footie" pajamas.</sd>
+<sd>As he falls backward, losing his balance, we see that a red energy leash has been attached. Pull back; <char>Soto</char> sits nearby, watching him, and gasps happily. <charDesc ref="Soto">In the light, his clothing is seen to be a full-body jumpsuit with many patches sewn on, as well as gloves and boots built in. The outfit strongly resembles a giant pair of child's "footie" pajamas.</charDesc></sd>
 
-<sp><spkr ref="Soto">Soto</spkr> <sd>clapping</sd> You are funny! Soto likes you. </sp>
+<sp><spkr ref="Soto">Soto</spkr> <sd>clapping</sd> You are funny! <char>Soto</char> likes you. </sp>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Okay. I didn't want to have to do this, but...</sp>
 
-<sd>He becomes a bobcat, roars at full voice, and leaps-but Soto presses a switch on a remote control in his hand and the leash pulls taut to cut off the rush. Beast Boy is yanked back to the floor; the other end of the tether is now anchored to an eyebolt driven in there. Getting to his feet, he eyes it for a moment and then tries another lunge only to have it stopped when the slack runs out. Soto laughs and claps as he flails his paws and then becomes a crane. Pecking at the leash does no good; ditto when he becomes an alligator and tries to bite through it. Donkey, monkey, hippopotamus, fish-none of these forms allows him to slip free of the collar, which grows or shrinks as needed to fit him every time. Even as a pterodactyl, he cannot get free. Soto laughs and claps before getting to his feet.</sd>
+<sd>He becomes a bobcat, roars at full voice, and leaps-but <char>Soto</char> presses a switch on a remote control in his hand and the leash pulls taut to cut off the rush. <char>Beast Boy</char> is yanked back to the floor; the other end of the tether is now anchored to an eyebolt driven in there. Getting to his feet, he eyes it for a moment and then tries another lunge only to have it stopped when the slack runs out. <char>Soto</char> laughs and claps as he flails his paws and then becomes a crane. Pecking at the leash does no good; ditto when he becomes an alligator and tries to bite through it. Donkey, monkey, hippopotamus, fish-none of these forms allows him to slip free of the collar, which grows or shrinks as needed to fit him every time. Even as a pterodactyl, he cannot get free. <char>Soto</char> laughs and claps before getting to his feet.</sd>
 
-<sp><spkr ref="Soto">Soto</spkr> <sd>grabbing and hugging Beast Boy</sd> You are not Soto's dog! <sd>He resumes human form.</sd> You are better than Soto's dog!</sp>
+<sp><spkr ref="Soto">Soto</spkr> <sd>grabbing and hugging <char>Beast Boy</char></sd> You are not <char>Soto</char>'s dog! <sd>He resumes human form.</sd> You are better than <char>Soto</char>'s dog!</sp>
 
 <sd>He drops the new "pet" to land on a group of cushions, then offers him a dish of assorted strange foods.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Oh! <sd>taking an item</sd> Uh...thanks. </sp>
 
-<sd>Soto leans closer.</sd> 
+<sd><char>Soto</char> leans closer.</sd> 
 
-<sp><spkr ref="Soto">Soto</spkr> You can change into any pet? <sd>clapping</sd> Any pet Soto asks? </sp>
+<sp><spkr ref="Soto">Soto</spkr> You can change into any pet? <sd>clapping</sd> Any pet <char>Soto</char> asks? </sp>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>tossing food aside</sd> Well...I don't like to brag, but... </sp>
 
@@ -320,19 +334,19 @@
 
 <sp><spkr ref="Soto">Soto</spkr> <sd>nodding</sd> Mmm-hmm, mmm-hmm.</sp>
 
-<sd>The shape-shifter gets to his feet; in an instant, he has become a giraffe. Soto stares, thunderstruck, and laughs after a moment.</sd>
+<sd>The shape-shifter gets to his feet; in an instant, he has become a giraffe. <char>Soto</char> stares, thunderstruck, and laughs after a moment.</sd>
 
 <sp><spkr ref="Soto">Soto</spkr> Change! </sp>
 
-<sd>Beast Boy resumes human form.</sd> 
+<sd><char>Beast Boy</char> resumes human form.</sd> 
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>pointing at collar</sd> Uh, hello? Aren't we forgetting something? </sp>
 
-<sd>Long pause; Soto suddenly becomes angry.</sd> 
+<sd>Long pause; <char>Soto</char> suddenly becomes angry.</sd> 
 
-<sp><spkr ref="Soto">Soto</spkr> Bad dog! <sd>brandishing remote</sd> Soto said, "Change!" </sp>
+<sp><spkr ref="Soto">Soto</spkr> Bad dog! <sd>brandishing remote</sd> <char>Soto</char> said, "Change!" </sp>
 
-<sp><spkr ref="BeastBoy">Beast Boy</spkr> And Beast Boy said-</sp>
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> And <char>Beast Boy</char> said-</sp>
 
 <sd>The press of a switch sends a strong electric shock through the Titan's body; he turns into a parrot.</sd>
 
@@ -340,27 +354,27 @@
 
 <sp><spkr ref="Soto">Soto</spkr> Change!</sp>
 
-<sd>Shock; Beast Boy transforms to a bighorn sheep; Soto laughs.</sd>
+<sd>Shock; <char>Beast Boy</char> transforms to a bighorn sheep; <char>Soto</char> laughs.</sd>
 
 <sp><spkr ref="Soto">Soto</spkr> Change!</sp>
 
 <sd>Shock; now we have a green mouse and the stone-faced alien laughs hard enough for his head to flap briefly off his neck.</sd>
 
-<sp><spkr ref="Soto">Soto</spkr> Change! <sd>Shock; a sullen gorilla.</sd> You're the best dog ever! And now you are Soto's new dog!</sp>
+<sp><spkr ref="Soto">Soto</spkr> Change! <sd>Shock; a sullen gorilla.</sd> You're the best dog ever! And now you are <char>Soto</char>'s new dog!</sp>
 
-<sd>Beast Boy grunts softly and resumes human form. He is sick to the teeth of the whole situation.</sd>
+<sd><char>Beast Boy</char> grunts softly and resumes human form. He is sick to the teeth of the whole situation.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Say what?! <sd>Shock.</sd> Dude, I am nobody's pet! </sp>
 
-<sd>Soto's eyes tear up.</sd> 
+<sd><char>Soto</char>'s eyes tear up.</sd> 
 
-<sp><spkr ref="Soto">Soto</spkr> <sd>voice trembling</sd> You...do not like Soto's ship? <sd>leaning down to Beast Boy</sd> You do not like Soto? </sp>
+<sp><spkr ref="Soto">Soto</spkr> <sd>voice trembling</sd> You...do not like <char>Soto</char>'s ship? <sd>leaning down to <char>Beast Boy</char></sd> You do not like <char>Soto</char>? </sp>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Um... </sp>
 
 <sp><spkr ref="Soto">Soto</spkr> <sd>brightening, patting his head</sd> Good dog!</sp>
 
-<sd>He laughs and backs o.c. as Beast Boy sighs with relief, having temporarily defused his anger.</sd>
+<sd>He laughs and backs o.c. as <char>Beast Boy</char> sighs with relief, having temporarily defused his anger.</sd>
 
 <sp><spkr ref="Soto">Soto</spkr> <sd>from o.c.</sd> Now we go home.</sp>
 
@@ -368,9 +382,9 @@
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Home?</sp>
 
-<sd>Cut to the helm. Soto is adjusting the controls, which look very much like the sort of toys a toddler might play with: bright colors, simple shapes, little bells that ring when buttons are pressed.</sd>
+<sd>Cut to the helm. <char>Soto</char> is adjusting the controls, which look very much like the sort of toys a toddler might play with: bright colors, simple shapes, little bells that ring when buttons are pressed.</sd>
 
-<sp><spkr ref="Soto">Soto</spkr> Soto's planet, on far side of galaxy.</sp>
+<sp><spkr ref="Soto">Soto</spkr> <char>Soto</char>'s planet, on far side of galaxy.</sp>
 
 <sd>The new house pet swallows very hard at the prospect of relocation. Zoom in slowly and fade to black.</sd>
 
@@ -378,7 +392,7 @@
 <act n="3">
 <title>Act Three</title>
 
-<sd>Opening shot: the dark upper reaches of a sewer tunnel. Tilt down to Robin, Raven, and Starfire, to the sound of water dripping; the green dog makes its way across the screen behind them, and they head after it. The barking canine turns into a side tunnel, and after it has passed out of view, the camera pans to Cyborg hiding around a corner. He yells and dives out, getting all ten fingers around the animal-but only for a moment, as it slithers out of his grasp in the same way it escaped down the sewer grate. Off it goes around another corner.</sd>
+<sd><setNote shot="yes">Opening shot: the dark upper reaches of a sewer tunnel.</setNote> Tilt down to <action mrkr="Robin" with="C S R" move="6" place="sewer"/><char>Robin</char>, <action mrkr="Raven" with="RB C S" move="6" place="sewer"/><char>Raven</char>, and <action mrkr="Starfire" with="RB C R" move="4" place="sewer"/><char>Starfire</char>, to the sound of water dripping; the green dog makes its way across the screen behind them, and they head after it. The barking canine turns into a side tunnel, and after it has passed out of view, the camera pans to <action mrkr="Cyborg" with="RB S R" move="6" place="sewer"/><char>Cyborg</char> hiding around a corner. He yells and dives out, getting all ten fingers around the animal-but only for a moment, as it slithers out of his grasp in the same way it escaped down the sewer grate. Off it goes around another corner.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Remind me again why we're chasing this thing? </sp>
 
@@ -388,29 +402,29 @@
 
 <sp><spkr ref="Robin">Robin</spkr> The alien ship must have come here looking for the green dog- </sp>
 
-<sd>Close-up of Cyborg, nonplussed, during this, then the group again.</sd> 
+<sd>Close-up of <char>Cyborg</char>, nonplussed, during this, then the group again.</sd> 
 
 <sp><spkr ref="Starfire">Starfire</spkr> -and captured our green friend instead. </sp>
 
-<sp><spkr ref="Raven">Raven</spkr> So, if we ever want to find Beast Boy- </sp>
+<sp><spkr ref="Raven">Raven</spkr> So, if we ever want to find <char>Beast Boy</char>- </sp>
 
 <sp><spkr ref="Robin">Robin</spkr> -we have to catch that dog. We need a plan. </sp>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Or maybe we just need some bait.</sp>
 
-<sd>Cut to the other three Titans and zoom in on Raven, who stands between and behind Robin and Starfire. These two throw knowing glances toward her, having figured out what Cyborg has in mind; her eyes dart uneasily back and forth.</sd>
+<sd>Cut to the other three Titans and zoom in on <char>Raven</char>, who stands between and behind <char>Robin</char> and <char>Starfire</char>. These two throw knowing glances toward her, having figured out what <char>Cyborg</char> has in mind; her eyes dart uneasily back and forth.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> What?</sp>
 
-<sd>Dissolve to a patch of sidewalk, where the extraterrestrial pooch is sniffing at a tree. The sound of Raven clearing her throat o.c. gets its attention very quickly; pull back to show her a few yards down the way. She sighs wearily and beckons.</sd>
+<sd>Dissolve to <location>a patch of sidewalk</location>, where the extraterrestrial pooch is sniffing at a tree. The sound of <action mrkr="Raven" with="RB C S" move="7" place="sidewalk"/><char>Raven</char> clearing her throat o.c. gets its attention very quickly; pull back to show her a few yards down the way. She sighs wearily and beckons.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> Here, doggie...here, doggie, doggie...</sp>
 
-<sd>Hearts pop briefly in the doggie's eyes, and it is off like a shot in no time flat. The four feet are pounding across the cement, closing fast on the extremely reluctant live bait; just as it gets close enough to jump at her, though, Starfire swoops down and places a large glass globe in the path. This item has a hinged lid, open, and the aperture is turned toward the dog. A panicked yelp, a skid of paws on the sidewalk, and it slides neatly into the container. Its speed flips the thing up 90 degrees, putting the hatch toward the sky, and Robin leaps down to slam it shut.</sd>
+<sd>Hearts pop briefly in the doggie's eyes, and it is off like a shot in no time flat. The four feet are pounding across the cement, closing fast on the extremely reluctant live bait; just as it gets close enough to jump at her, though, <action mrkr="Starfire" with="RB C R" move="5" place="sidewalk"/><char>Starfire</char> swoops down and places a large glass globe in the path. This item has a hinged lid, open, and the aperture is turned toward the dog. A panicked yelp, a skid of paws on <location>the sidewalk</location>, and it slides neatly into the container. Its speed flips the thing up 90 degrees, putting the hatch toward the sky, and <action mrkr="Robin" with="C S R" move="7" place="sidewalk"/><char>Robin</char> leaps down to slam it shut. <action mrkr="Cyborg" with="RB S R" move="7" place="sidewalk"/><char>Cyborg</char> created the glass globe to capture the green dog.</sd>
 
 <sd>Growling angrily, the imprisoned dog tries a quick shape change, then a lash of its overlong tongue, but neither can even crack the walls. The four Titans gather around it.</sd>
 
-<sp><spkr ref="Cyborg">Cyborg</spkr> Sorry, Fido. When Cyborg builds it, nobody breaks it. </sp>
+<sp><spkr ref="Cyborg">Cyborg</spkr> Sorry, Fido. When <char>Cyborg</char> builds it, nobody breaks it. </sp>
 
 <sp><spkr ref="Raven">Raven</spkr> So, now that we've got him... </sp>
 
@@ -420,9 +434,9 @@
 
 <sd>Close-up of the girls.</sd> 
 
-<sp><spkr ref="Starfire">Starfire</spkr> <sd>to Raven</sd> Perhaps you could use your powers to communicate with the creature. </sp>
+<sp><spkr ref="Starfire">Starfire</spkr> <sd>to <char>Raven</char></sd> Perhaps you could use your powers to communicate with the creature. </sp>
 
-<sp><spkr ref="Raven">Raven</spkr> I'm still getting his drool off my face. <sd>A little drop of sweat rolls down Starfire's temple.</sd> I don't want him anywhere near my brain. </sp>
+<sp><spkr ref="Raven">Raven</spkr> I'm still getting his drool off my face. <sd>A little drop of sweat rolls down <char>Starfire</char>'s temple.</sd> I don't want him anywhere near my brain. </sp>
 
 <sp><spkr ref="Voice2">Voice 2</spkr> Uh, pardon me...</sp>
 
@@ -436,7 +450,7 @@
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> You talk? Dogs don't talk! </sp>
 
-<sp><spkr ref="Dog">Dog</spkr> Perhaps not on your planet, my dear fellow. Now- <sd>Cut to them, composed; he continues o.c.</sd> -if you'll agree to release me, I would be happy to help you locate my odious former master. <sd>Back to him.</sd> After I escaped his ship, he pursued me here and mistakenly captured another green dog-your Beast Boy, I presume.</sp>
+<sp><spkr ref="Dog">Dog</spkr> Perhaps not on your planet, my dear fellow. Now- <sd>Cut to them, composed; he continues o.c.</sd> -if you'll agree to release me, I would be happy to help you locate my odious former master. <sd>Back to him.</sd> After I escaped his ship, he pursued me here and mistakenly captured another green dog-your <char>Beast Boy</char>, I presume.</sp>
 
 <sd>He makes quotation marks with his front paws upon saying the Titan's name.</sd>
 
@@ -446,25 +460,25 @@
 
 <sd>He grins.</sd>
 
-<sd>Dissolve to an overhead view of Soto's ship, then cut to a close-up of a monitor inside. A Pac-Man-like creature, shaped like the outline of Soto's head, munches two rows of dots and then disappears, replaced by the flashing message "Full Power."</sd>
+<sd>Dissolve to an overhead view of <location><char>Soto</char>'s ship</location>, then cut to a close-up of a monitor inside. A Pac-Man-like creature, shaped like the outline of <char>Soto</char>'s head, munches two rows of dots and then disappears, replaced by the flashing message "Full Power."</sd>
 
 <sp><spkr ref="Soto">Soto</spkr> <sd>from o.c.</sd> Engines ready!</sp>
 
-<sd>Pull back; he is at the controls, while Beast Boy pulls feverishly at the leash that holds him to the floor.</sd>
+<sd>Pull back; he is at the controls, while <char>Beast Boy</char> pulls feverishly at the leash that holds him to the floor.</sd>
 
 <sp><spkr ref="Soto">Soto</spkr> Hang on, new dog. Time to go home. </sp>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> I am home! Now let me go!</sp>
 
-<sd>Outside. The engines on the underside kick into gear, lifting the vessel clear of the ground. Cut to Beast Boy inside; an exclamation mark pops up by his head.</sd>
+<sd>Outside. The engines on the underside kick into gear, lifting the vessel clear of the ground. Cut to <char>Beast Boy</char> inside; an exclamation mark pops up by his head.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Huh?</sp>
 
-<sd>He redoubles his efforts to break the restraining line, but Soto pays no mind; the ship proceeds over the forest.</sd>
+<sd>He redoubles his efforts to break the restraining line, but <char>Soto</char> pays no mind; the ship proceeds over the forest.</sd>
 
 <sp><spkr ref="Soto">Soto</spkr> <sd>waving</sd> Bye-bye.</sp>
 
-<sd>Up goes the ship. A defeated little sigh escapes Beast Boy's lips and his head drops.</sd>
+<sd>Up goes the ship. A defeated little sigh escapes <char>Beast Boy</char>'s lips and his head drops.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> See you.</sp>
 
@@ -474,17 +488,17 @@
 
 <sd>He looks toward his control panels. Close-up of the monitor, which shows a simple computer graphic of the ship descending toward the trees; tilt up to show the view through the main window-tilting down toward the ground. Two veins pop out on his temples.</sd>
 
-<sp><spkr ref="Soto">Soto</spkr> No! <sd>pounding panel</sd> Soto want up, not down!</sp>
+<sp><spkr ref="Soto">Soto</spkr> No! <sd>pounding panel</sd> <char>Soto</char> want up, not down!</sp>
 
-<sd>Overhead view of the forest, panning along. The craft advances and descends into view, and we see why its upward progress has been reversed-Starfire is there, pushing down on the upper portion of the fuselage with all her strength. Soto counters by working a few controls; now the engines hit overdrive and power the ship skyward despite her best efforts. From ground level, Robin's grappling hook flies up and wraps its line around one wing, while a beam of Raven's black energy seizes the other one. The ship is slowly towed down; cut to the ground as Raven backs into view, her spell going full blast. Pan to Robin and Cyborg, who have looped the line on a tree trunk and are pulling for all they are worth. When Soto's vessel gets low enough, vertical rods extend themselves from the underside so it can balance on them.</sd>
+<sd>Overhead view of <location>the forest</location>, panning along. The craft advances and descends into view, and we see why its upward progress has been reversed-<action mrkr="Starfire" with="all" move="6" place="forest"/><char>Starfire</char> is there, pushing down on the upper portion of the fuselage with all her strength. <char>Soto</char> counters by working a few controls; now the engines hit overdrive and power <location>the ship</location> skyward despite her best efforts. From ground level, <action mrkr="Robin" with="all" move="8" place="forest"/><char>Robin</char>'s grappling hook flies up and wraps its line around one wing, while a beam of Raven's black energy seizes the other one. The ship is slowly towed down; cut to the ground as Raven backs into view, her spell going full blast. Pan to <char>Robin</char> and <action mrkr="Cyborg" with="all" move="8" place="forest"/><char>Cyborg</char>, who have looped the line on a tree trunk and are pulling for all they are worth. When <char>Soto</char>'s vessel gets low enough, vertical rods extend themselves from the underside so it can balance on them.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> Hang on, Beast Boy! We're going to get you out! </sp>
+<sp><spkr ref="Robin">Robin</spkr> Hang on, <char>Beast Boy</char>! We're going to get you out! </sp>
 
 <sp><spkr ref="Raven">Raven</spkr> Azarath Metrion Zinthos!</sp>
 
-<sd>This spell hits the underside hatch and forces the front end of it to fall open; the inner surface now forms a gangway. Robin charges toward it, but stops short when Soto emerges in a single leap, shaking the camera when he lands.</sd>
+<sd>This spell hits the underside hatch and forces the front end of it to fall open; the inner surface now forms a gangway. <char>Robin</char> charges toward it, but stops short when <char>Soto</char> emerges in a single leap, shaking the camera when he lands.</sd>
 
-<sp><spkr ref="Soto">Soto</spkr> NO!! <sd>Robin backs up.</sd> New dog belongs to Soto! You go now! </sp>
+<sp><spkr ref="Soto">Soto</spkr> NO!! <sd><char>Robin</char> backs up.</sd> New dog belongs to <char>Soto</char>! You go now! </sp>
 
 <sp><spkr ref="Robin">Robin</spkr> I'm thinking you're the one who's gotta go.</sp>
 
@@ -492,65 +506,65 @@
 
 <sp><spkr ref="Robin">Robin</spkr> Titans! Move!</sp>
 
-<sd>The landing sets up tremors that throw everyone toward or into the trees. Out of the resulting dust cloud comes Soto, roaring mad and charging at the camera.</sd>
+<sd>The landing sets up tremors that throw everyone toward or into the trees. Out of the resulting dust cloud comes <char>Soto</char>, roaring mad and charging at the camera.</sd>
 
 <sp><spkr ref="Soto">Soto</spkr> <sd>trying to crush Robin</sd> Soto smash!</sp>
 
-<sd>The Titans' leader vaults over the clearing and throws a handful of grenades down at Soto. These explode all around him in a string of brilliant flashes that leave him dazed and dazzled. As Robin backs away, Cyborg and Starfire move in with sonic cannon and starbolts; the double barrage forces the alien to go on the defensive.</sd>
+<sd>The Titans' leader vaults over the clearing and throws a handful of grenades down at <char>Soto</char>. These explode all around him in a string of brilliant flashes that leave him dazed and dazzled. As <char>Robin</char> backs away, <char>Cyborg</char> and <char>Starfire</char> move in with sonic cannon and starbolts; the double barrage forces the alien to go on the defensive.</sd>
 
 <sp><spkr ref="Soto">Soto</spkr> NO!!</sp>
 
-<sd>He tears loose a rock slab to use as a shield, but it is blown apart in his hands. The blast clears to show Robin, Cyborg, and Starfire shielding their faces from debris. They lower their arms with a shocked gasp; cut to a long shot of the other side of the clearing, pulling back as the dust clears and Soto emerges from it. He charges straight at the camera with a growing yell; there is a flash of white when he reaches it, accompanied by the sound of a bowling ball striking pins. Sight gag: the three Titans are knocked into the air as bowling pins to tumble every which way. Pull back; the gag ends, and they crash to the ground as Soto runs along the clearing. The word "STRIKE" appears above them in big red letters.</sd>
+<sd>He tears loose a rock slab to use as a shield, but it is blown apart in his hands. The blast clears to show <char>Robin</char>, <char>Cyborg</char>, and <char>Starfire</char> shielding their faces from debris. They lower their arms with a shocked gasp; cut to a long shot of the other side of the clearing, pulling back as the dust clears and <char>Soto</char> emerges from it. He charges straight at the camera with a growing yell; there is a flash of white when he reaches it, accompanied by the sound of a bowling ball striking pins. Sight gag: the three Titans are knocked into the air as bowling pins to tumble every which way. Pull back; the gag ends, and they crash to the ground as <char>Soto</char> runs along the clearing. The word "STRIKE" appears above them in big red letters.</sd>
 
-<sd>Raven makes a dash for the ship, but has to get out of the way fast in order to avoid his huge descending hand.</sd>
+<sd><action mrkr="Raven" with="all" move="8" place="forest"/><char>Raven</char> makes a dash for <location>the ship</location>, but has to get out of the way fast in order to avoid his huge descending hand.</sd>
 
 <sp><spkr ref="Soto">Soto</spkr> My dog!</sp>
 
-<sd>She backs up a little more and aims a spell off to one side, uprooting a tree and swinging it at him, trunk first. It bashes him away, but he gets a grip and brings the thing to a stop; now he starts swinging it back at her and she has to release her hold. Cyborg dives across to knock her out of the way before she can take a few thousand pounds of old-growth pine upside the head.</sd>
+<sd>She backs up a little more and aims a spell off to one side, uprooting a tree and swinging it at him, trunk first. It bashes him away, but he gets a grip and brings the thing to a stop; now he starts swinging it back at her and she has to release her hold. <char>Cyborg</char> dives across to knock her out of the way before she can take a few thousand pounds of old-growth pine upside the head.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> <sd>as they duck another swing</sd> Why didn't you just hand him a laser cannon?</sp>
 
-<sd>They bail out. Next Starfire flies in, holding Robin up by the arms. She lets go of him and clears out, and he lets fly with two birdarangs that home in on the tree trunk. A quick double flash of metal against wood, and the weapons circle back to the hands of Robin, who has just landed. Soto is braced for impact, but nothing happens directly to him; instead, the trunk falls apart along the lines scored into it. He finds himself holding the last couple of feet as a thick, short bludgeon.</sd>
+<sd>They bail out. Next <char>Starfire</char> flies in, holding <char>Robin</char> up by the arms. She lets go of him and clears out, and he lets fly with two birdarangs that home in on the tree trunk. A quick double flash of metal against wood, and the weapons circle back to the hands of <char>Robin</char>, who has just landed. <char>Soto</char> is braced for impact, but nothing happens directly to him; instead, the trunk falls apart along the lines scored into it. He finds himself holding the last couple of feet as a thick, short bludgeon.</sd>
 
-<sd>His mouth starts to wobble upon seeing the damage done to his weapon. Sight gag: in "Super Deformed" style, he briefly appears against a red background and cries like a baby as he stamps the ground. Pull back to put Robin and Cyborg in view, watching, and the gag ends with a cut to the four Titans against the normal background. After a moment of puzzlement, the two boys trade a look and charge with a double yell of fury.</sd>
+<sd>His mouth starts to wobble upon seeing the damage done to his weapon. Sight gag: in "Super Deformed" style, he briefly appears against a red background and cries like a baby as he stamps the ground. Pull back to put <char>Robin</char> and <char>Cyborg</char> in view, watching, and the gag ends with a cut to the four Titans against the normal background. After a moment of puzzlement, the two boys trade a look and charge with a double yell of fury.</sd>
 
-<sd>Soto blocks their attacks with his tree trunk and swings at them, but Raven's powers soon pull the wood out of his hands. Starbolts rain down all around, forcing him to shield his face. The girls are in midair, blazing away; he scoops up two handfuls of dirt and sends a machine-gun barrage of clods up at them. The double attack ends in a hurry. Now Soto cocks an eyebrow quizzically; tilt up from him to the descending Robin, who brings one leg up in a huge kick that merely glances off the massive raised arm. Two more boot soles against the chest have no effect, but Soto's next attack-a thundering clap of his open palms-creates shock waves that send him hurtling into the trees.</sd>
+<sd><char>Soto</char> blocks their attacks with his tree trunk and swings at them, but <char>Raven</char>'s powers soon pull the wood out of his hands. Starbolts rain down all around, forcing him to shield his face. The girls are in midair, blazing away; he scoops up two handfuls of dirt and sends a machine-gun barrage of clods up at them. The double attack ends in a hurry. Now <char>Soto</char> cocks an eyebrow quizzically; tilt up from him to the descending <char>Robin</char>, who brings one leg up in a huge kick that merely glances off the massive raised arm. Two more boot soles against the chest have no effect, but <char>Soto</char>'s next attack-a thundering clap of his open palms-creates shock waves that send him hurtling into the trees.</sd>
 
-<sd>As Robin tumbles overhead, Cyborg gets back into the action. With a roar of undiluted rage, he pulls back a fist to clean Soto's clock-but it is caught in a giant yellow-gloved hand. Cyborg's face goes slack with shock just before he is swung back and forth by that arm to slam into the ground. Starfire's turn is next, in the form of a starbolt fusillade from midair; her shots have no effect, though, and he growls and hurls Cyborg up at her. The big man crashes into her, and both take a short and very graceless flight back to the forest floor. The dust clears to show both of them severely dazed by the impact.</sd>
+<sd>As <char>Robin</char> tumbles overhead, <char>Cyborg</char> gets back into the action. With a roar of undiluted rage, he pulls back a fist to clean <char>Soto</char>'s clock-but it is caught in a giant yellow-gloved hand. <char>Cyborg</char>'s face goes slack with shock just before he is swung back and forth by that arm to slam into the ground. <char>Starfire</char>'s turn is next, in the form of a starbolt fusillade from midair; her shots have no effect, though, and he growls and hurls <char>Cyborg</char> up at her. The big man crashes into her, and both take a short and very graceless flight back to <location>the forest floor</location>. The dust clears to show both of them severely dazed by the impact.</sd>
 
 <sd>Pull back to frame all four Titans. The downed ones get up on the next line.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> We've hit him with everything and it's still not enough! We need more. We need-</sp>
 
-<sd>Close-up of Soto, whose attention is drawn by the loud o.c. trumpeting of an elephant. A question mark pops up by his head and floats away.</sd>
+<sd>Close-up of <char>Soto</char>, whose attention is drawn by the loud o.c. trumpeting of an elephant. A question mark pops up by his head and floats away.</sd>
 
 <sp><spkr ref="Soto">Soto</spkr> Huh?</sp>
 
-<sd>Pull back. A green pachyderm-Beast Boy, free of his collar-thunders across the clearing and hits him bang on. The former returns to human form as the latter is knocked back into a stagger.</sd>
+<sd>Pull back. A green pachyderm-<action mrkr="BeastBoy" with="all" move="6" place="forest"/><char>Beast Boy</char>, free of his collar-thunders across <location>the clearing</location> and hits him bang on. The former returns to human form as the latter is knocked back into a stagger.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>extending thumb, pinky like telephone</sd> You rang?</sp>
 
-<sd>He approaches Soto. Close-up of the latter.</sd>
+<sd>He approaches <char>Soto</char>. Close-up of the latter.</sd>
 
-<sp><spkr ref="Soto">Soto</spkr> Bad dog! <sd>Pull back; he works his remote.</sd> Soto will punish!</sp>
+<sp><spkr ref="Soto">Soto</spkr> Bad dog! <sd>Pull back; he works his remote.</sd> <char>Soto</char> will punish!</sp>
 
-<sd>The switches have no effect on Beast Boy, no matter how hard Soto hits them or shakes the unit. Close-up of his feet; the discarded collar rolls into view and clatters down. He picks it up, and the camera cuts to head level as he stares at it. A huge green reptilian muzzle is pushed into view right in front of him and snorts out a big cloud of steam-and not one, but two big drops of nervous sweat slide down the stone temple.</sd>
+<sd>The switches have no effect on <char>Beast Boy</char>, no matter how hard <char>Soto</char> hits them or shakes the unit. Close-up of his feet; the discarded collar rolls into view and clatters down. He picks it up, and the camera cuts to head level as he stares at it. A huge green reptilian muzzle is pushed into view right in front of him and snorts out a big cloud of steam-and not one, but two big drops of nervous sweat slide down the stone temple.</sd>
 
-<sd>Pull back to show that Beast Boy has become a tyrannosaurus rex. A mighty roar, a swing of the tail, and Soto is flying toward the right-field fence. Beast Boy resumes human form, then becomes a pterodactyl and takes to the air. The other four Titans close in for a final assault. First the green flyer turns into a kangaroo and somersaults to bring his rear legs and heavy tail down on Soto's head, after which Robin leaps past and delivers a punch that sets him spinning. Cyborg's hit sends him careening through the clear night sky; now Raven and Starfire rise for the finishing stroke, a simultaneous assault with starbolts and black energy that drives Soto to the ground next to his ship.</sd>
+<sd>Pull back to show that <char>Beast Boy</char> has become a tyrannosaurus rex. A mighty roar, a swing of the tail, and <char>Soto</char> is flying toward the right-field fence. <char>Beast Boy</char> resumes human form, then becomes a pterodactyl and takes to the air. The other four Titans close in for a final assault. First the green flyer turns into a kangaroo and somersaults to bring his rear legs and heavy tail down on <char>Soto</char>'s head, after which <char>Robin</char> leaps past and delivers a punch that sets him spinning. <char>Cyborg</char>'s hit sends him careening through the clear night sky; now <char>Raven</char> and <char>Starfire</char> rise for the finishing stroke, a simultaneous assault with starbolts and black energy that drives <char>Soto</char> to the ground next to <location>his ship</location>.</sd>
 
-<sd>The smoke and dust clear to reveal that he is now sitting in a deep crater formed by his impact and looking very dejected indeed. Cyborg and Beast Boy, already at the lip, are soon joined by the others as the big granite lip starts to quiver. Before this can blossom into a full crying jag, his original dog's long tongue flicks into view and snaps the abandoned collar around his neck. Quick pan to the other side of the crater, where the animal is sitting next to the remote.</sd>
+<sd>The smoke and dust clear to reveal that he is now sitting in a deep crater formed by his impact and looking very dejected indeed. <char>Cyborg</char> and <char>Beast Boy</char>, already at the lip, are soon joined by the others as the big granite lip starts to quiver. Before this can blossom into a full crying jag, his original dog's long tongue flicks into view and snaps the abandoned collar around his neck. Quick pan to the other side of the crater, where the animal is sitting next to the remote.</sd>
 
 <sp><spkr ref="Dog">Dog</spkr> Sit. Stay.</sp>
 
-<sd>Soto sits up with a gasp and a laugh, then climbs up to ground level.</sd>
+<sd><char>Soto</char> sits up with a gasp and a laugh, then climbs up to ground level.</sd>
 
 <sp><spkr ref="Soto">Soto</spkr> Doggie! You came back! </sp>
 
 <sp><spkr ref="Dog">Dog</spkr> On the contrary. I am only here to retrieve my squeaky toys. I refuse to be your pet any longer. </sp>
 
-<sd>Soto gasps sharply.</sd> 
+<sd><char>Soto</char> gasps sharply.</sd> 
 
-<sp><spkr ref="Soto">Soto</spkr> Okay! <sd>dropping to all fours</sd> Soto will be the doggie now, and you will be the master!</sp>
+<sp><spkr ref="Soto">Soto</spkr> Okay! <sd>dropping to all fours</sd> <char>Soto</char> will be the doggie now, and you will be the master!</sp>
 
 <sd>He rolls back and forth and starts to jump around-laughing, panting and barking, still on all fours-and even licks the dog's face.</sd>
 
@@ -562,29 +576,29 @@
 
 <sp><spkr ref="Raven">Raven</spkr> Better him than me. </sp>
 
-<sd>Cut to Soto.</sd> 
+<sd>Cut to <char>Soto</char>.</sd> 
 
 <sp><spkr ref="Soto">Soto</spkr> Arf! Arf! Arf! Arf! </sp>
 
-<sd>Dog's whistle from o.c.</sd> 
+<sd><char>Dog</char>'s whistle from o.c.</sd> 
 
-<sp><spkr ref="Dog">Dog</spkr> <sd>from o.c.</sd> Come along, Soto. <sd>Pan to him at the top of the gangway.</sd> Time to go home. </sp>
+<sp><spkr ref="Dog">Dog</spkr> <sd>from o.c.</sd> Come along, <char>Soto</char>. <sd>Pan to him at the top of the gangway.</sd> Time to go home. </sp>
 
 <sp><spkr ref="Soto">Soto</spkr> <sd>running up, laughing</sd> Bow-wow! Bow-wow! <sd>now inside</sd> Woof!</sp>
 
-<sd>The hatch closes and the ship lifts off into the night, retracting its landing props. Close-up of Beast Boy; Robin's hand lands on his shoulder, and Cyborg comes up on the other side.</sd>
+<sd>The hatch closes and <char>the ship</char> lifts off into the night, retracting its landing props. Close-up of <char>Beast Boy</char>; <char>Robin</char>'s hand lands on his shoulder, and <char>Cyborg</char> comes up on the other side.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> All right, Beast Boy! </sp>
+<sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> All right, <char>Beast Boy</char>! </sp>
 
 <sd>Pull back to frame all five.</sd> 
 
 <sp><spkr ref="Raven">Raven</spkr> Welcome back. </sp>
 
-<sd>Cyborg holds out a fist.</sd> 
+<sd><char>Cyborg</char> holds out a fist.</sd> 
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Gimme some love, dog.</sp>
 
-<sd>The green Titan taps his own fist against it and gets a big giggly hug from Starfire.</sd>
+<sd>The green Titan taps his own fist against it and gets a big giggly hug from <char>Starfire</char>.</sd>
 
 <sp><spkr ref="Starfire">Starfire</spkr> Ah! I am elated to see you! We have all missed you so. </sp>
 
@@ -594,17 +608,17 @@
 
 <sp><spkr ref="Robin">Robin</spkr> And spar with me in the gym? </sp>
 
-<sp><spkr ref="Starfire">Starfire</spkr> And eat nauseating amounts of tofu while Raven and I watch? </sp>
+<sp><spkr ref="Starfire">Starfire</spkr> And eat nauseating amounts of tofu while <char>Raven</char> and I watch? </sp>
 
-<sd>Raven gives her a funny look.</sd> 
+<sd><char>Raven</char> gives her a funny look.</sd> 
 
 <sp><spkr ref="Raven">Raven</spkr> Uh, how about we all just go for pizza? </sp>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Sounds good to me.</sp>
 
-<sd>All but Beast Boy walk o.c.; he stays put, gazing up at the stars.</sd>
+<sd>All but <char>Beast Boy</char> walk o.c.; he stays put, gazing up at the stars.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> Beast Boy?</sp>
+<sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> <char>Beast Boy</char>?</sp>
 
 <sd>Letterbox view, top third of the screen: he and the others look back at the lone Titan.</sd>
 
