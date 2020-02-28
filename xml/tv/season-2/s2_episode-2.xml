@@ -19,7 +19,7 @@
         <charList type="nonrecurring" id="Girl2">Girl 2</charList>
         <charList type="nonrecurring" id="Voice1">Voice 1</charList>
         <charList type="nonrecurring" id="Driver">Driver</charList>
-        <charList type="nonrecurring" subtype="villain" id="Soto">Soto</charList>
+        <charList type="recurring" subtype="villain" id="Soto">Soto</charList>
         <charList type="nonrecurring" id="Voice2">Voice 2</charList>
         <charList type="nonrecurring" id="Dog">Dog</charList>
     </characterList>
