@@ -26,16 +26,22 @@
     </characterList>
     <locationList>
         <locList id="tower">Titans' Tower</locList>
+        <locList id="stadium">Football Stadium</locList>
+        <locList id="redsky">One of the Planets Starfire Visits - Has a Red Sky</locList>
+        <locList id="bluesky">One of the Planets Starfire Visits - Has a Blue Sky</locList>
+        <locList id="greensky">One of the Planets Starfire Visits - Has a Green Sky</locList>
+        <locList id="smallp">One of the Planets Starfire Visits - It's Small</locList>
+        <locList id="forestp">The Planet Starfire Lands On - Has Forest</locList>
     </locationList>
     <body>
         <act n="0">
             <title>PROLOGUE</title>
 
-<sd>Opening shot: a leather-bound book whose front cover displays the Titans' insignia. As the camera zooms in, it opens to the first page; a drawing of Earth, seen from outer space, and a kindly male voice begins to narrate.</sd>
+<sd><setNote shot="yes">Opening shot: a leather-bound book whose front cover displays the Titans' insignia.</setNote> As the camera zooms in, <setNote shot="no">it opens to the first page; a drawing of Earth, seen from outer space</setNote>, and a kindly male voice begins to narrate.</sd>
 
 <sp><spkr ref="Narrator">Narrator</spkr> Long ago, on a small blue planet called Earth...</sp>
 
-<sd>Page turn: now a flying-saucer cutout floats against the cosmos, with Starfire grinning and flashing a peace sign inside. On the next line, pan to follow it to Titans Tower.</sd>
+<sd>Page turn: now a flying-saucer cutout floats against the cosmos, with <char>Starfire</char> grinning and flashing a peace sign inside. On the next line, pan to follow it to <location>Titans Tower</location>.</sd>
 
 <sp><spkr ref="Narrator">Narrator</spkr> ...there was a young alien girl who lived in a T.</sp>
 
@@ -47,7 +53,7 @@
 
 <sp><spkr ref="Narrator">Narrator</spkr> She was very powerful...</sp>
 
-<sd>Page turn: she holds a pair of smelly magenta boxer shorts at arm's length over the washing machine while Robin, Raven, and Cyborg keep their distance. The underwear is decorated with various animals; straight from Beast Boy's wardrobe, and a small panel floats up the screen. He is within it, wearing only a towel and shower cap and laughing his head off.</sd>
+<sd>Page turn: she holds a pair of smelly magenta boxer shorts at arm's length over the washing machine while <char>Robin</char>, <char>Raven</char>, and <char>Cyborg</char> keep their distance. The underwear is decorated with various animals; straight from <char>Beast Boy</char>'s wardrobe, and a small panel floats up the screen. He is within it, wearing only a towel and shower cap and laughing his head off.</sd>
 
 <sp><spkr ref="Narrator">Narrator</spkr> ...and very brave. And although she never thought much of it...</sp>
 
@@ -60,31 +66,31 @@
 
 
 
-OPENING THEME
+<cue>OPENING THEME</cue>
 
         </act>
         <act n="1">
             <title>ACT ONE</title>
 
-<sd>Opening shot: the exterior of the Tower, zooming in slowly. It is daytime. Cut to a close-up of Starfire's forehead; she is in the bathroom, and the glints show that she is looking in the mirror.</sd>
+<sd><setNote shot="yes">Opening shot: the exterior of the Tower, zooming in slowly.</setNote> It is daytime. Cut to a close-up of <action mrkr="Starfire" with="all" move="1" place="tower"/><char>Starfire</char>'s forehead; she is in the bathroom, and the glints show that she is looking in the mirror.</sd>
 
 <sp><spkr ref="Starfire">Starfire</spkr> Huh?</sp>
 
 <sd>A tentative poke at the bump makes it shiver slightly, as if it were filled with very cold pudding. She leans closer, pressing it against the glass, and moans worriedly; this is followed by a slow slide down the mirror and a little whine. Pull back to frame all of her. She pushes down on the growth and succeeds in flattening it. However, a relieved sigh is barely out of her mouth before it crops up again. Now, each time she tries to mash it down, it simply appears in another spot beneath her hairline. A few frantic prods put the thing out of sight, but only for a moment, as it comes right back to the center of her forehead.</sd>
 
-<sd>Starfire groans in frustration and pokes furiously at the protuberance, which shifts all over her head as fast as she can get her finger after it, and finally jams down the spot where it first cropped up. Now it has gone; a knock at the door draws her attention, and it swells forth and draws another groan from her. In the hall, Beast Boy is outside the bathroom, whining and doing the classic dance favored by little kids with full bladders.</sd>
+<sd><char>Starfire</char> groans in frustration and pokes furiously at the protuberance, which shifts all over her head as fast as she can get her finger after it, and finally jams down the spot where it first cropped up. Now it has gone; a knock at the door draws her attention, and it swells forth and draws another groan from her. In <location>the hall</location>, <action mrkr="BeastBoy" with="all" move="1" place="tower"/><char>Beast Boy</char> is outside the bathroom, whining and doing the classic dance favored by little kids with full bladders.</sd>
 
-<sp><spkr ref="BeastBoy">Beast Boy</spkr> Starfire, hurry up! You've been in there for twenty minutes, and I'm not paper-trained</sp>
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> <char>Starfire</char>, hurry up! You've been in there for twenty minutes, and I'm not paper-trained</sp>
 
 <sd>More whining, now doglike.</sd>
 
 <sp><spkr ref="Starfire">Starfire</spkr> <sd>from inside, through the door</sd> One moment more, please!</sp>
 
-<sd>He hops slowly toward the door, which opens when he is just short of the threshold. Starfire peeks out, showing her forehead back under control, but the bump asserts itself anew and she ducks back in, slamming the door. Beast Boy rushes, but an instant too late; he slams into it face first and tumbles backward, stopping himself from hitting the floor with a leg bent backward under his body.</sd>
+<sd>He hops slowly toward the door, which opens when he is just short of the threshold. <char>Starfire</char> peeks out, showing her forehead back under control, but the bump asserts itself anew and she ducks back in, slamming the door. <char>Beast Boy</char> rushes, but an instant too late; he slams into it face first and tumbles backward, stopping himself from hitting the floor with a leg bent backward under his body.</sd>
 
-<sd>He staggers up and claps both hands over himself to hold it in, but the sound of flowing water draws his attention elsewhere. Quick pan to Robin outside; he is wearing an apron decorated with a potted plant and whistling happily as he plays a hose over some bushes. Cut to a close-up of the groaning, sweating green face, then pan quickly to a glass being held under a running faucet by Cyborg. He leans into view, showing a hot, sweaty face with a towel draped around the neck; that drink will come in handy indeed. Close-up of Beast Boy, whose eyebrows twitch uncontrollably now as perspiration gushes from every pore, then pan quickly to Raven outside. She levitates two large boulders while floating in midair; pull back to show the scene as a dry waterfall. Once the rocks are out of the way, a torrent gushes over the precipice below her.</sd>
+<sd>He staggers up and claps both hands over himself to hold it in, but the sound of flowing water draws his attention elsewhere. Quick pan to <action mrkr="Robin" with="all" move="1" place="tower"/><char>Robin</char> outside; he is wearing an apron decorated with a potted plant and whistling happily as he plays a hose over some bushes. Cut to a close-up of the groaning, sweating green face, then pan quickly to a glass being held under a running faucet by <action mrkr="Cyborg" with="all" move="1" place="tower"/><char>Cyborg</char>. He leans into view, showing a hot, sweaty face with a towel draped around the neck; that drink will come in handy indeed. Close-up of <char>Beast Boy</char>, whose eyebrows twitch uncontrollably now as perspiration gushes from every pore, then pan quickly to <action mrkr="Raven" with="all" move="1" place="tower"/><char>Raven</char> outside. She levitates two large boulders while floating in midair; pull back to show the scene as a dry waterfall. Once the rocks are out of the way, a torrent gushes over the precipice below her.</sd>
 
-<sd>Quick pan back to Beast Boy, who looks and sounds as if he is about to explode. He starts to look around the hall.</sd>
+<sd>Quick pan back to <char>Beast Boy</char>, who looks and sounds as if he is about to explode. He starts to look around <char>the hall</char>.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> A, B, C, D, E, F, G..</sp>
 
@@ -94,31 +100,27 @@ OPENING THEME
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>voice over</sd> ...PEEEEEEEEEE!!</sp>
 
-<sd>Dissolve to an overhead view of Raven and Starfire, on the couch in the operations center, and zoom in. Starfire has put on a large, floppy green hat that covers her entire forehead; Raven is, as usual, immersed in heavy reading.</sd>
+<sd>Dissolve to an overhead view of <char>Raven</char> and <char>Starfire</char>, on the couch in <location>the operations center</location>, and zoom in. <char>Starfire</char> has put on a large, floppy green hat that covers her entire forehead; <char>Raven</char> is, as usual, immersed in heavy reading.</sd>
 
 <sp><spkr ref="Starfire">Starfire</spkr> <sd>whispering; sweat drop slides down temple</sd> I fear something may be terribly wrong with me <sd>louder, freaks out a bit with limbs flopping</sd> I could have Irinean measles, or perhaps my epidermis has become infested with steiner mites, or..</sp>
 
-<sd>Raven slams her book shut.</sd>
+<sd><char>Raven</char> slams her book shut.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> Okay. What are you talking about?</sp>
 
 <sp><spkr ref="Starfire">Starfire</spkr> I caution <sd>grips on her hat brim</sd> What you are about to see may shock and disturb you.</sp>
 
-<sd>She shudders a bit and prepares to lift the headgear; cut to behind her as she gets it off. The sound of her new growth popping out is heard, but Raven just stays deadpan.</sd>
+<sd>She shudders a bit and prepares to lift the headgear; cut to behind her as she gets it off. The sound of her new growth popping out is heard, but <char>Raven</char> just stays deadpan.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> It's a zit. Everybody gets them. Deal with it.</sp>
 
-<sp><spkr ref="Starfire">Starfire</spkr> Then I am normal</sp>
+<sp><spkr ref="Starfire">Starfire</spkr> Then I am normal <sd>She sweeps <char>Raven</char> into a hug.</sd> Oh, thank you, <char>Raven</char> <sd>a sweat drop flashes on <char>Starfire</char>'s temple; vein on Raven's</sd> Now I shall no longer feel worry or shame or--</sp>
 
-<sd>She sweeps Raven into a hug.</sd> Oh, thank you, Raven
-
-<sd>a sweat drop flashes on Starfire's temple; vein on Raven's</sd> Now I shall no longer feel worry or shame or--
-
-<sd>The door opens to admit Robin; she gasps in shock, a fresh sweat drop rolling down, then jams the hat back onto her head and pulls it down to cover the top half of her face. He just crosses the room to go about his business.</sd>
+<sd>The door opens to admit <char>Robin</char>; she gasps in shock, a fresh sweat drop rolling down, then jams the hat back onto her head and pulls it down to cover the top half of her face. He just crosses the room to go about his business.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> Just so you know, that's not really dealing with it.</sp>
 
-<sd>She walks o.c., leaving Starfire to watch the blue-cloaked back. Zoom in slowly as she turns a very worried expression to the camera.</sd>
+<sd>She walks o.c., leaving <char>Starfire</char> to watch the blue-cloaked back. Zoom in slowly as she turns a very worried expression to the camera.</sd>
 
 <sp><spkr ref="Narrator">Narrator</spkr> But one little bump was only the beginning of her worries.</sp>
 
@@ -126,37 +128,37 @@ OPENING THEME
 
 <sp><spkr ref="Narrator">Narrator</spkr> Deep down inside, something strange was happening; something very strange indeed.</sp>
 
-<sd>Dissolve to behind the couch. Starfire sits in the center, flanked by Robin and Cyborg; a GameStation race is in progress on the window/screen. Close-up of the three; the controllers are in the two boys' hands, while she huddles under her big green chapeau.</sd>
+<sd>Dissolve to behind the couch. <char>Starfire</char> sits in <location>the center</location>, flanked by <char>Robin</char> and <char>Cyborg</char>; a GameStation race is in progress on the window/screen. Close-up of the three; the controllers are in the two boys' hands, while she huddles under her big green chapeau.</sd>
 
 <sp><spkr ref="Narrator">Narrator</spkr> The next day, she grew tusks on her neck.</sp>
 
-<sd>They pop out, one protruding from each side, and she gasps and tries to pull her head down into her neck piece. A short squeal, two palms pressed to cover the new growths, and a lightning-fast dive over the couch, but Robin and Cyborg are so engrossed in their game that they take no notice whatsoever. She puts her eyes up over the cushions; now they give their thumbs a rest and glance her way, but she ducks back out of sight. The two racers trade a puzzled look, shrug, and throw crazed grins at the camera as they return to the game.</sd>
+<sd>They pop out, one protruding from each side, and she gasps and tries to pull her head down into her neck piece. A short squeal, two palms pressed to cover the new growths, and a lightning-fast dive over the couch, but <char>Robin</char> and <char>Cyborg</char> are so engrossed in their game that they take no notice whatsoever. She puts her eyes up over the cushions; now they give their thumbs a rest and glance her way, but she ducks back out of sight. The two racers trade a puzzled look, shrug, and throw crazed grins at the camera as they return to the game.</sd>
 
-<sd>Dissolve to a close-up of a belly-busting ice cream sundae in the kitchen, so tall that its top is cut off by the top edge of the screen. Beast Boy leans into view, hearts in his eyes and drool oozing from the corner of his mouth.</sd>
+<sd>Dissolve to a close-up of a belly-busting ice cream sundae in <location>the kitchen</location>, so tall that its top is cut off by the top edge of the screen. <char>Beast Boy</char> leans into view, hearts in his eyes and drool oozing from the corner of his mouth.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Ahhhh...</sp>
 
-<sd>Tilt up to the highest scoops. He reaches up and sets a cherry in place with great care, and the camera pulls back to show him and Starfire regarding the creation from opposite sides of the counter. She has put on a wide scarf to hide her neck. He turns around to rummage in the cabinets; she leans eagerly toward the sundae.</sd>
+<sd>Tilt up to the highest scoops. He reaches up and sets a cherry in place with great care, and the camera pulls back to show him and <char>Starfire</char> regarding the creation from opposite sides of the counter. She has put on a wide scarf to hide her neck. He turns around to rummage in the cabinets; she leans eagerly toward the sundae.</sd>
 
 <sp><spkr ref="Narrator">Narrator</spkr> The day after that.. <sd>She gasps and jerks her hands from the counter; they are shaking.</sd> ...her fingernails grew long and ugly.</sp>
 
-<sd>Close-up of those hands, dissolving to a shot that shows long striped nails and badly swollen fingers. Pull back; she runs a panicked eye over the digits and hastily shoves them into the sundae with a gasp. Towering scoops, chocolate syrup, and sprinkles splatter in a heap on the counter. When Beast Boy stands up from the cabinets, holding spoons for himself and Starfire, he goggles at the destruction of his masterpiece, screams, and faints. Snap to black.</sd>
+<sd>Close-up of those hands, dissolving to a shot that shows long striped nails and badly swollen fingers. Pull back; she runs a panicked eye over the digits and hastily shoves them into the sundae with a gasp. Towering scoops, chocolate syrup, and sprinkles splatter in a heap on the counter. When <char>Beast Boy</char> stands up from the cabinets, holding spoons for himself and <char>Starfire</char>, he goggles at the destruction of his masterpiece, screams, and faints. Snap to black.</sd>
 
 <sd>The view resolves to the interior of the refrigerator as she opens the door to inspect the moldy leftovers. Now she has added blue oven mitts to her ensemble.</sd>
 
 <sp><spkr ref="Narrator">Narrator</spkr> And the day after that, she developed bizarre cravings for the most unusual foods.</sp>
 
-<sd>A fly starts to buzz near her head. After a few seconds, worth of watching its flight, Starfire whips out one padded hand and seizes it. What she does next is to turn her palm over and peer carefully at it; close-up of the half-crushed fly, zooming in.</sd>
+<sd>A fly starts to buzz near her head. After a few seconds, worth of watching its flight, <char>Starfire</char> whips out one padded hand and seizes it. What she does next is to turn her palm over and peer carefully at it; close-up of the half-crushed fly, zooming in.</sd>
 
 <sp><spkr ref="Fly">Fly</spkr> Help me!</sp>
 
-<sd>Pull back. The young Tamaranean lashes out her tongue, which is now considerably longer than it has any right to be, and lays it squarely across the insect. Whisking it into her mouth, Starfire crunches down and swallows; a little hiccup comes back up after the meal, and she claps a hand to her lips. The closing fridge door blacks out the screen.</sd>
+<sd>Pull back. The young Tamaranean lashes out her tongue, which is now considerably longer than it has any right to be, and lays it squarely across the insect. Whisking it into her mouth, <char>Starfire</char> crunches down and swallows; a little hiccup comes back up after the meal, and she claps a hand to her lips. The closing fridge door blacks out the screen.</sd>
 
-<sd>Snap to the exterior of the Tower. After the passage of all this time, it is day again.</sd>
+<sd>Snap to <location>the exterior of the Tower</location>. After the passage of all this time, it is day again.</sd>
 
 <sp><spkr ref="Narrator">Narrator</spkr> And with each passing day...</sp>
 
-<sd>Dissolve to a very despondent Starfire in her room, sitting on the bed. Her shadow is cast on the wall by the door.</sd>
+<sd>Dissolve to a very despondent <char>Starfire</char> in her room, sitting on the bed. Her shadow is cast on the wall by the door.</sd>
 
 <sp><spkr ref="Narrator">Narrator</spkr> ...the strange little alien grew stranger...</sp>
 
@@ -174,65 +176,61 @@ OPENING THEME
 
 <sd>An alarm and flashing red light shake her out of the funk and scare a little shriek out of her.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> <sd>from outside</sd> Starfire! Trouble</sp>
-
-<sd>She looks toward the closed door.</sd> We need to go
+<sp><spkr ref="Robin">Robin</spkr> <sd>from outside</sd> <char>Starfire</char>! Trouble <sd>She looks toward the closed door.</sd> We need to go</sp>
 
 <sd>She pulls a blanket partway up.</sd>
 
 <sp><spkr ref="Starfire">Starfire</spkr> Please proceed <sd>pulls it over head</sd> I will join you shortly!</sp>
 
-<sd>Cut to an overhead view of an empty football stadium. Night has fallen, and the gridiron sits under the broad glare of the facility's floodlights. Faint crowd noise quickly grows to a screaming panic, whose source is soon revealed as the members of two opposing high school teams fleeing downfield. They are accompanied by cheerleaders and marching band performers. Out of the shadows comes Plasmus, stumping after them and screeching insanely. He moves in on the group, which has stuffed itself into the entrance to one of the locker rooms, and lets off a roar before slamming one slimy fist to the turf and digging it in deep. What he pulls up is several yards of a broken sewage line; he licks his lips eagerly and directs the greenish flow into his mouth.</sd>
+<sd><setNote shot="no">Cut to an overhead view of <location>an empty football stadium</location>.</setNote> Night has fallen, and the gridiron sits under the broad glare of the facility's floodlights. Faint crowd noise quickly grows to a screaming panic, whose source is soon revealed as the members of two opposing high school teams fleeing downfield. They are accompanied by cheerleaders and marching band performers. Out of the shadows comes <char>Plasmus</char>, stumping after them and screeching insanely. He moves in on the group, which has stuffed itself into the entrance to one of <location>the locker rooms</location>, and lets off a roar before slamming one slimy fist to the turf and digging it in deep. What he pulls up is several yards of a broken sewage line; he licks his lips eagerly and directs the greenish flow into his mouth.</sd>
 
 <sp><spkr ref="Footballplayer">Football player</spkr> Is that a sewer pipe?</sp>
 
 <sp><spkr ref="Crowd">Crowd</spkr> EWWWWW!!</sp>
 
-<sd>Plasmus pays them no mind and continues to drink his fill. When he finishes, he lowers the pipe and wipes his mouth, but something o.c. draws his surprised attention toward itself. Cut to a close-up of one of Robin's discs in mid-flight, then to him; it and two others strike his chest and stick there. They detonate after a moment, tearing his upper body apart into purple ribbons that splay in all directions; think of the T-1000 in "Terminator 2: Judgment Day", but he quickly reassembles himself and roars in fury.</sd>
+<sd><char>Plasmus</char> pays them no mind and continues to drink his fill. When he finishes, he lowers the pipe and wipes his mouth, but something o.c. draws his surprised attention toward itself. Cut to a close-up of one of <action mrkr="Robin" with="C R BB" move="2" place="stadium"/><char>Robin</char>'s discs in mid-flight, then to him; it and two others strike his chest and stick there. They detonate after a moment, tearing his upper body apart into purple ribbons that splay in all directions; think of the T-1000 in "Terminator 2: Judgment Day", but he quickly reassembles himself and roars in fury.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> I don't know what's more disgusting, Plasmus.. <sd>Cut to him on the turf.</sd> ...the way you look.. <sd>Pull back; Beast Boy, Cyborg, and Raven join him.</sd> ...or the stuff you eat.</sp>
+<sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> I don't know what's more disgusting, <char>Plasmus</char>.. <sd>Cut to him on the turf.</sd> ...the way you look.. <sd>Pull back; <action mrkr="BeastBoy" with="RB C R" move="2" place="stadium"/><char>Beast Boy</char>, <action mrkr="Cyborg" with="RB R BB" move="2" place="stadium"/><char>Cyborg</char>, and <action mrkr="Raven" with="RB C BB" move="2" place="stadium"/><char>Raven</char> join him.</sd> ...or the stuff you eat.</sp>
 
 <sd>He responds by vomiting forth a wide stream of sludge.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> Titans! Go!</sp>
 
-<sd>They scatter to dodge the deluge. Robin comes down from his leap with his fighting staff ready to use; as Plasmus hurls handfuls of slime, he swerves back and forth and ends with a bound that carries him over the semi-liquid villain's head. The staff is stabbed straight down behind the eyes and disappears to its full length. After Robin lands behind him, he regurgitates a new torrent that brings up only a piece of the retractable weapon. One huge fist seizes the Boy Wonder and flings him to the far goalpost; he bounces off one upright and down, no three points for this play.</sd>
+<sd>They scatter to dodge the deluge. <char>Robin</char> comes down from his leap with his fighting staff ready to use; as <char>Plasmus</char> hurls handfuls of slime, he swerves back and forth and ends with a bound that carries him over the semi-liquid villain's head. The staff is stabbed straight down behind the eyes and disappears to its full length. After <char>Robin</char> lands behind him, he regurgitates a new torrent that brings up only a piece of the retractable weapon. One huge fist seizes <char ref="Robin">the Boy Wonder</char> and flings him to the far goalpost; he bounces off one upright and down, no three points for this play.</sd>
 
-<sd>Cyborg leaps down, sonic cannon at the ready, and fires a couple of blasts that blow holes in Plasmus' arms. The big man moves in closer for another go.</sd>
+<sd><char>Cyborg</char> leaps down, sonic cannon at the ready, and fires a couple of blasts that blow holes in <char>Plasmus</char>' arms. The big man moves in closer for another go.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Come on, Booger-Man <sd>fires</sd> Gimme what you got!</sp>
 
-<sd>This next blast blows away the mounded head, but it does not take long for Plasmus to put himself back together. He fires a gush of gunk from his chest; cut to a long shot of Cyborg and zoom in quickly. One surprised shout is all he has time for before the view shifts to the goalpost where Robin has fallen. Cyborg is driven backward against the support and tumbles onto the end zone, plastered head to toe with Plasmus leftovers. Sitting up, he shakes some of the mess off his head, snorts in a breath, and lets off a strangled cry before exhaling at full force; more slime, lots of it, pours from both nostrils.</sd>
+<sd>This next blast blows away the mounded head, but it does not take long for <char>Plasmus</char> to put himself back together. He fires a gush of gunk from his chest; cut to a long shot of <char>Cyborg</char> and zoom in quickly. One surprised shout is all he has time for before the view shifts to the goalpost where <char>Robin</char> has fallen. <char>Cyborg</char> is driven backward against the support and tumbles onto the end zone, plastered head to toe with <char>Plasmus</char> leftovers. Sitting up, he shakes some of the mess off his head, snorts in a breath, and lets off a strangled cry before exhaling at full force; more slime, lots of it, pours from both nostrils.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> I'm gonna be smelling that for a week.</sp>
 
-<sd>Plasmus laughs at him as Raven floats up behind the big head. She levitates the dug-up sewer line and causes it to wrap him up securely. Close-up of her.</sd>
+<sd><char>Plasmus</char> laughs at him as <char>Raven</char> floats up behind the big head. She levitates the dug-up sewer line and causes it to wrap him up securely. Close-up of her.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> Azarath Metrion--</sp>
 
-<sd>A gooey blast fills her mouth before she can finish the spell; pull back to show that Plasmus has created several tentacles at the back of his head to shut her up. She is flung over his shoulders and onto the grass hard. As she stands up with a groan, her cloak is more purple than blue, Cyborg walks up behind her.</sd>
+<sd>A gooey blast fills her mouth before she can finish the spell; pull back to show that <char>Plasmus</char> has created several tentacles at the back of his head to shut her up. She is flung over his shoulders and onto the grass hard. As she stands up with a groan, her cloak is more purple than blue, <char>Cyborg</char> walks up behind her.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> Yuck.</sp>
 
-<sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>from o.c.</sd> Cyborg</sp>
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>from o.c.</sd> <char>Cyborg</char> <sd>Pan to <char>Beast Boy</char>, running up.</sd> Time for the <char>Beast Boy</char> Blitz!</sp>
 
-<sd>Pan to Beast Boy, running up.</sd> Time for the Beast Boy Blitz!
-
-<sd>He goes into a leap, becomes an armadillo, and rolls himself into a ball on the way down. Cyborg catches him, dodges a few Plasmus strikes, and throws the green teen just before one last hit drives him backward; the armadillo becomes a rhinoceros, but Plasmus easily swats it away. Cut to a table on the sidelines, loaded with coolers. Beast Boy, back in human form, crashes into it and ends up amid a swamp of Gatorade and purple ooze. Pushing a cooler off his head, he licks the glop off his face.</sd>
+<sd>He goes into a leap, becomes an armadillo, and rolls himself into a ball on the way down. <char>Cyborg</char> catches him, dodges a few <char>Plasmus</char> strikes, and throws the green teen just before one last hit drives him backward; the armadillo becomes a rhinoceros, but <char>Plasmus</char> easily swats it away. Cut to a table on the sidelines, loaded with coolers. <char>Beast Boy</char>, back in human form, crashes into it and ends up amid a swamp of Gatorade and purple ooze. Pushing a cooler off his head, he licks the glop off his face.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Orange-flavored bad guy? Gross, yet strangely refreshing.</sp>
 
-<sd>The four Titans begin to regroup. Cut to Plasmus, stomping along toward them, but a sudden rain of starbolts ends his advance and fills the screen with smoke. When it clears, we see a new crater in the field, which is filling not only with sewage from the line he broke, but also with his amorphous remains. The purple gunk bubbles as Robin, Cyborg, and Raven look into the hole.</sd>
+<sd>The four Titans begin to regroup. Cut to <char>Plasmus</char>, stomping along toward them, but a sudden rain of starbolts ends his advance and fills the screen with smoke. When it clears, we see a new crater in the field, which is filling not only with sewage from the line he broke, but also with his amorphous remains. The purple gunk bubbles as <char>Robin</char>, <char>Cyborg</char>, and <char>Raven</char> look into the hole.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Boo-yah</sp>
 
-<sd>Beast Boy joins them.</sd>
+<sd><char>Beast Boy</char> joins them.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Awesome</sp>
 
-<sd>Robin turns around.</sd>
+<sd><char>Robin</char> turns around.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> Way to go, Star...fire?</sp>
+<sp><spkr ref="Robin">Robin</spkr> Way to go, <char>Star...fire</char>?</sp>
 
 <sd>On the end of this, the camera pulls back slightly from the group and a pair of feet in yellow galoshes descends into view. Cut to an empty patch of field; the rubbers touch down, and the camera tilts up to show the rest of the hapless alien. The remains of her own footwear are visible between the tops of the galoshes and the hem of a matching raincoat. Thanks to these items, the oven mitts, the scarf, and the hat, all her skin is covered except for the top half of her face.</sd>
 
@@ -240,9 +238,9 @@ OPENING THEME
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Yeah, uh...nice slicker.</sp>
 
-<sp><spkr ref="Robin">Robin</spkr> Starfire...you've been acting kind of...strange lately <sd>steps toward Starfire</sd> Is everything okay?</sp>
+<sp><spkr ref="Robin">Robin</spkr> <char>Starfire</char>...you've been acting kind of...strange lately <sd>steps toward <action mrkr="Starfire" with="none" move="2" place="stadium"/><char>Starfire</char></sd> Is everything okay?</sp>
 
-<sd>She backs up with a scared little moan, but a loud rumbling from o.c. diverts Robin's attention. He looks over his shoulder; pull back to the crater where she gave Plasmus what for. A maroon geyser boils up and forms a gargantuan humanoid creature with thinner arms and legs than before. A huge screaming mouth sits below a row of bulbous green eyes that stretches up both shoulders and across the top of his head. The new Plasmus lets off a long, grating scream.</sd>
+<sd>She backs up with a scared little moan, but a loud rumbling from o.c. diverts <char>Robin</char>'s attention. He looks over his shoulder; pull back to the crater where she gave <char>Plasmus</char> what for. <charDesc ref="Plasmus">A maroon geyser boils up and forms a gargantuan humanoid creature with thinner arms and legs than before. A huge screaming mouth sits below a row of bulbous green eyes that stretches up both shoulders and across the top of his head.</charDesc> The new <char>Plasmus</char> lets off a long, grating scream.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Ewwww!</sp>
 
@@ -252,21 +250,21 @@ OPENING THEME
 
 <sp><spkr ref="Robin">Robin</spkr> No matter how nasty he gets, he's just a monster. And like every other monster, he's got to go!</sp>
 
-<sd>He does not notice the shock Starfire gets from his words, and after he rushes toward the enemy, she lets off a little moan and buries her face even deeper in her scarf. Robin dashes in and lets fly with a handful of explosive discs, Raven puts a few black bursts upside the head, and Cyborg fires off a cannon salvo, but the combined effect of the three Titans' weapons just makes Plasmus madder. His eyes swell and burst like giant pimples, releasing a flood of luridly tinted ichor; Cyborg dives for cover with a yell, leaving Starfire to look up just in time to take it in the face. Close-up of her hat, tumbling to the ground, and pan to follow. It lands by her feet, and we see that the rest of her hastily donned outerwear has been blasted away by the torrents as well.</sd>
+<sd>He does not notice the shock <char>Starfire</char> gets from his words, and after he rushes toward the enemy, she lets off a little moan and buries her face even deeper in her scarf. <char>Robin</char> dashes in and lets fly with a handful of explosive discs, <char>Raven</char> puts a few black bursts upside the head, and <char>Cyborg</char> fires off a cannon salvo, but the combined effect of the three Titans' weapons just makes <char>Plasmus</char> madder. His eyes swell and burst like giant pimples, releasing a flood of luridly tinted ichor; <char>Cyborg</char> dives for cover with a yell, leaving <char>Starfire</char> to look up just in time to take it in the face. Close-up of her hat, tumbling to the ground, and pan to follow. It lands by her feet, and we see that the rest of her hastily donned outerwear has been blasted away by the torrents as well.</sd>
 
-<sd>Tilt up to frame her head; she lets off a panicked gasp as having been exposed in this manner. In the battle zone, the other four Titans, "Super Deformed" style, are faring very badly against Plasmus. Raven is caught up in one sludgy fist, Beast Boy has sunk to his waist in the head, Robin has been driven halfway into the ground, and Cyborg is firing a fusillade of cannon shots that do no damage at all. They stop their struggles after a moment and stare dumbstruck at the camera.</sd>
+<sd>Tilt up to frame her head; she lets off a panicked gasp as having been exposed in this manner. In the battle zone, the other four Titans, "Super Deformed" style, are faring very badly against <char>Plasmus</char>. <char>Raven</char> is caught up in one sludgy fist, <char>Beast Boy</char> has sunk to his waist in the head, <char>Robin</char> has been driven halfway into the ground, and <char>Cyborg</char> is firing a fusillade of cannon shots that do no damage at all. They stop their struggles after a moment and stare dumbstruck at the camera.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> Starfire</sp>
+<sp><spkr ref="Robin">Robin</spkr> <char>Starfire</char></sp>
 
-<sd>"?!" by Plasmus' head.</sd>
+<sd>"?!" by <char>Plasmus</char>' head.</sd>
 
 <sp><spkr ref="Plasmus">Plasmus</spkr> Ewwww!</sp>
 
-<sd>Sight gag: cut to Starfire's feet, against a green field, and tilt up slowly to her mortified face. On both sides of her, panels are filled with laughing faces, including those of the other four Titans and Plasmus. She covers her face; snap to black, her perspective, as she takes her hands away. Now the screen is empty, but it quickly fills with guffawing players and supporters from the interrupted football game. Tilt down slowly to show that the other Titans and their foe are among this crowd as well; she is here, but quickly flies up o.c. Cut to a close-up of a television set whose screen is blank. Starfire rises into view on it but bangs her head against the top edge; rubbing her head, she stares in great puzzlement as the camera pulls back. More hooting spectators, including Soto, point at her misfortune.</sd>
+<sd>Sight gag: cut to <char>Starfire</char>'s feet, against a green field, and tilt up slowly to her mortified face. On both sides of her, panels are filled with laughing faces, including those of the other four Titans and <char>Plasmus</char>. She covers her face; snap to black, her perspective, as she takes her hands away. Now the screen is empty, but it quickly fills with guffawing players and supporters from the interrupted football game. Tilt down slowly to show that the other Titans and their foe are among this crowd as well; she is here, but quickly flies up o.c. Cut to a close-up of a television set whose screen is blank. <char>Starfire</char> rises into view on it but bangs her head against the top edge; rubbing her head, she stares in great puzzlement as the camera pulls back. More hooting spectators, including <char>Soto</char>, point at her misfortune.</sd>
 
-<sd>The sight gag ends; cut to Starfire on the field. She clutches her head and groans through clenched teeth.</sd>
+<sd>The sight gag ends; cut to <char>Starfire</char> on the field. She clutches her head and groans through clenched teeth.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> Starfire <sd>Cut to him.</sd> What's going...</sp>
+<sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> <char>Starfire</char> <sd>Cut to him.</sd> What's going...</sp>
 
 <sd>She covers herself.</sd>
 
@@ -274,68 +272,68 @@ OPENING THEME
 
 <sd>She lifts off.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> Starfire! Wait!</sp>
+<sp><spkr ref="Robin">Robin</spkr> <char>Starfire</char>! Wait!</sp>
 
-<sd>Cut to a long shot of Earth, seen from outer space. A violet streak zooms up from the planet and resolves into the freaked-out Tamaranean when she is near the camera. Sniffling and sobbing, she glances over her shoulder toward her adopted home.</sd>
+<sd><setNote shot="yes">Cut to a long shot of <location>Earth</location>, seen from <location>outer space</location>.</setNote> A violet streak zooms up from the planet and resolves into the freaked-out Tamaranean when she is near the camera. Sniffling and sobbing, she glances over her shoulder toward her adopted home.</sd>
 
 <sp><spkr ref="Starfire">Starfire</spkr> I truly am a monster.</sp>
 
-<sd>She flies o.c.; cut to a pan across the galaxy, keeping her in view as she recedes from the camera. Her tears float weightless in her wake, and her sobs echo through the void.</sd>
+<sd>She flies o.c.; cut to a pan across <location>the galaxy</location>, keeping her in view as she recedes from the camera. Her tears float weightless in her wake, and her sobs echo through the void.</sd>
 
-<sp><spkr ref="Narrator">Narrator</spkr> And so the sad, strange girl flew far away, into the cold dark loneliness of outer space.</sp>
+<sp><spkr ref="Narrator">Narrator</spkr> And so the sad, strange girl flew far away, into the cold dark loneliness of <location>outer space</location>.</sp>
 
 <sd>Fade to black.</sd>
         </act>
         <act n="2">
             <title>ACT TWO</title>
 
-<sd>Opening shot: another region of the galaxy. Starfire floats dejectedly into view.</sd>
+<sd><setNote shot="yes">Opening shot: another region of <location>the galaxy</location>.</setNote> <char>Starfire</char> floats dejectedly into view.</sd>
 
-<sp><spkr ref="Narrator">Narrator</spkr> "Surely," thought the odd little alien, "a horrible ugly monster like me does not belong on Earth with such good and handsome friends."</sp>
+<sp><spkr ref="Narrator">Narrator</spkr> "Surely," thought the odd little alien, "a horrible ugly monster like me does not belong on <location>Earth</location> with such good and handsome friends."</sp>
 
 <sd>She has stopped by this point and is regarding a planet whose surface is splotched with bright pink streaks, as of paint dripped onto a canvas.</sd>
 
 <sp><spkr ref="Narrator">Narrator</spkr> But where was she to go <sd>She floats away.</sd> Not even her home planet would take her in, looking as strange as she did.</sp>
 
-<sd>She looks remorsefully back the way she came, this was Tamaran, and continues on.</sd>
+<sd>She looks remorsefully back the way she came, this was <location>Tamaran</location>, and continues on.</sd>
 
 <sp><spkr ref="Narrator">Narrator</spkr> "I must find a new world"" she decided, "one with monsters as horrible and ugly as I."</sp>
 
-<sd>On the second half of this line, the camera cuts to a group of planets and a dotted line starts to weave among them, marking her course. She stops at one of them; wipe to the surface, arid under a red sky, where a couple of inhabitants can be seen sporting large tusks on either side of their necks. Pan to Starfire, who smiles ingratiatingly up at one of them and waves.</sd>
+<sd><setNote shot="no">On the second half of this line, the camera cuts to a group of planets and a dotted line starts to weave among them, marking her course.</setNote> She stops at one of them; wipe to the surface, arid under a red sky, where a couple of inhabitants can be seen sporting large tusks on either side of their necks. Pan to <action mrkr="Starfire" with="none" move="3" place="redsky"/><char>Starfire</char>, who smiles ingratiatingly up at one of them and waves.</sd>
 
 <sp><spkr ref="Starfire">Starfire</spkr> Hello, fellow ugly monsters!</sp>
 
 <sd>Her words spark a surprised gasp from the would-be new friend, who then twitters something in its own language and runs away. She hangs her head, and the view dissolves to the group of planets. Now her path carries her on a roundabout course to a different one; wipe to its surface under a bright blue sky. Here are many tall trees with growths that look very much like her fingernails, and a couple of large anteater creatures are speaking to each other; their claws are of this same design, and many similar horny growths protrude from their bodies.</sd>
 
-<sd>Cut to Starfire, who has landed here. She looks at her own nails, laughs, and moves across the clearing, but as soon as the two creatures get a good look at one of those hirsute feet, they squeal and make a break for it. The planets again; the dotted-line course takes her to a third one, and a wipe to the surface shows a dense forest with many phosphorescent growths on tree trunks, all under a vivid green sky. Pan across this area as she runs screaming into view and past the camera; a moment later, an enraged, torch-bearing mob of scaly greenish creatures charges by to run her out of the place.</sd>
+<sd>Cut to <action mrkr="Starfire" with="none" move="4" place="bluesky"/><char>Starfire</char>, who has landed here. She looks at her own nails, laughs, and moves across the clearing, but as soon as the two creatures get a good look at one of those hirsute feet, they squeal and make a break for it. The planets again; the dotted-line course takes <action mrkr="Starfire" with="none" move="5" place="greensky"/>Starfire to a third one, and a wipe to the surface shows a dense forest with many phosphorescent growths on tree trunks, all under a vivid green sky. Pan across this area as she runs screaming into view and past the camera; a moment later, an enraged, torch-bearing mob of scaly greenish creatures charges by to run her out of the place.</sd>
 
-<sd>The planets again. This time, Starfire's sojourn brings her to one of the smaller ones; wipe to a close-up of her, very down in the dumps, sitting on the surface. The curvature suggests that, to borrow a Disney lyric, it is a small world after all, and this is borne out when the camera pulls back and rotates 180 degrees to frame her upside down. This planet is not more than a few feet in diameter, and several tiny creatures with very hairy feet and no arms stand on the hemisphere opposite her perch. Though their shouted words are unintelligible, the tone reveals just how much they resent her presence. She sighs heavily and takes her leave of this miniature planet.</sd>
+<sd>The planets again. This time, <action mrkr="Starfire" with="none" move="6" place="smallp"/><char>Starfire</char>'s sojourn brings her to one of the smaller ones; wipe to a close-up of her, very down in the dumps, sitting on the surface. The curvature suggests that, to borrow a Disney lyric, it is a small world after all, and this is borne out when the camera pulls back and rotates 180 degrees to frame her upside down. This planet is not more than a few feet in diameter, and several tiny creatures with very hairy feet and no arms stand on the hemisphere opposite her perch. Though their shouted words are unintelligible, the tone reveals just how much they resent her presence. She sighs heavily and takes her leave of this miniature planet.</sd>
 
 <sp><spkr ref="Narrator">Narrator</spkr> But with each new world she visited, the strange alien girl felt uglier and uglier.</sp>
 
-<sd>On the end of this line, cut to a slow pan across outer space to keep her in view. Starfire makes her way past some more planets and into an asteroid belt.</sd>
+<sd>On the end of this line, cut to a slow pan across <location>outer space</location> to keep her in view. <char>Starfire</char> makes her way past some more planets and into an asteroid belt.</sd>
 
-<sp><spkr ref="Narrator">Narrator</spkr> And with nowhere else to go, she wandered alone into the deepest, darkest part of the galaxy.</sp>
+<sp><spkr ref="Narrator">Narrator</spkr> And with nowhere else to go, she wandered alone into the deepest, darkest part of <location>the galaxy</location>.</sp>
 
-<sd>The pan has stopped by now. Starfire flies o.c.; a second or two later, a silhouette clambers over the edge of an asteroid and jumps into space to follow. It looks something like a cross between a crab and a spider. Now the fleeing girl picks her way deeper through the belt, with this other creature keeping a long tail on her.</sd>
+<sd>The pan has stopped by now. <char>Starfire</char> flies o.c.; a second or two later, a silhouette clambers over the edge of an asteroid and jumps into <location>space</location> to follow. <charDesc ref="Chrysaliseater">It looks something like a cross between a crab and a spider.</charDesc> Now the fleeing girl picks her way deeper through the belt, with this other creature keeping a long tail on her.</sd>
 
 <sp><spkr ref="Narrator">Narrator</spkr> But she was not really alone.</sp>
 
-<sd>A large asteroid floats across the screen; behind it, the view changes to an empty patch of space. Tilt down to the exterior of the Tower, then cut to Robin standing at the edge of the roof. He looks back and forth, surveying the bay, and switches on his communicator.</sd>
+<sd>A large asteroid floats across the screen; behind it, the view changes to an empty patch of <location>space</location>. Tilt down to <location>the exterior of the Tower</location>, then cut to <action mrkr="Robin" with="C R BB" move="3" place="tower"/><char>Robin</char> standing at the edge of the roof. He looks back and forth, surveying <location>the bay</location>, and switches on his communicator.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> Cyborg! How long until we can launch?</sp>
+<sp><spkr ref="Robin">Robin</spkr> <char>Cyborg</char>! How long until we can launch?</sp>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> <sd>over the comm</sd> Oh, about five minutes after you QUIT ASKING ME THAT!!</sp>
 
-<sd>Sight gag: his mouth pops out from the screen to deliver the last four words, and Robin recoils from the force he puts into them. Cut to inside an underground launch silo, at the level of a large craft's exhaust nozzles. As machinery kicks into gear, tilt up to show them attached to a pair of large booster engines, which are in turn attached to the underside of the T-Sub, It stands with its bow pointed straight up at the silo hatch. Part of the service structure retracts, and we see that the four earthbound Titans are in their individual cockpits as in "Deep Six". The next lines sound slightly muffled by the canopies until otherwise noted.</sd>
+<sd>Sight gag: his mouth pops out from the screen to deliver the last four words, and <char>Robin</char> recoils from the force he puts into them. Cut to inside an underground launch silo, at the level of a large craft's exhaust nozzles. As machinery kicks into gear, tilt up to show them attached to a pair of large booster engines, which are in turn attached to the underside of the T-Sub, It stands with its bow pointed straight up at the silo hatch. Part of the service structure retracts, and we see that the four earthbound Titans, <char>Robin</char>, <action mrkr="Cyborg" with="RB R BB" move="3" place="tower"/><char>Cyborg</char>, <action mrkr="BeastBoy" with="RB C R" move="3" place="tower"/><char>Beast Boy</char> and <action mrkr="Raven" with="RB C BB" move="3" place="tower"/><char>Raven</char>, are in their individual cockpits as in "Deep Six". The next lines sound slightly muffled by the canopies until otherwise noted.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> Are we sure this thing is ready to fly?</sp>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> No! The T-Sub was built for deep sea, not deep space</sp>
 
-<sd>Pan to Robin.</sd>
+<sd>Pan to <char>Robin</char>.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> I don't care what it was built for <sd>Cut to him inside; no longer muffled.</sd> It's going into space. We've gotta find Starfire.</sp>
+<sp><spkr ref="Robin">Robin</spkr> I don't care what it was built for <sd>Cut to him inside; no longer muffled.</sd> It's going into space. We've gotta find <char>Starfire</char>.</sp>
 
 <sd>Close-up of a control panel; he reaches into view and presses a button, and bar-graph readouts start to fill up.</sd>
 
@@ -347,19 +345,19 @@ OPENING THEME
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Fusion thrusters ready to fire.</sp>
 
-<sd>Cut to a close-up overhead view of the silo hatch. It slides open, allowing the T-Sub to be raised through on its supports, and the camera pulls back to show the silo on the shore of the Tower's island. Extreme close-up of Robin's eyes.</sd>
+<sd>Cut to a close-up overhead view of the silo hatch. It slides open, allowing the T-Sub to be raised through on its supports, and the camera pulls back to show the silo on <location>the shore of the Tower's island</location>. Extreme close-up of <char>Robin</char>'s eyes.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> Titans! Launch!</sp>
 
-<sd>The engines fire and fill the screen with their exhaust; when it clears, the island is seen from over the rooftops of Jump City. With a mighty roar, the converted T-Sub lifts clear of the island and traces a course straight for the heavens, the camera tilting up to follow. When it is nearly off the top edge of the screen, cut to an overhead shot; the engines put extra thrust behind the craft, then to Cyborg, hunched over his controls. The engine vibrations make the next two lines sound very shaky indeed.</sd>
+<sd>The engines fire and fill the screen with their exhaust; <setNote shot="no">when it clears, <location>the island</location> is seen from over <location>the rooftops of Jump City</location>.</setNote> With a mighty roar, the converted T-Sub lifts clear of <location>the island</location> and traces a course straight for the heavens, the camera tilting up to follow. When it is nearly off the top edge of the screen, cut to an overhead shot; the engines put extra thrust behind the craft, then to <char>Cyborg</char>, hunched over his controls. The engine vibrations make the next two lines sound very shaky indeed.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Told you she was ready to fly!</sp>
 
 <sp><spkr ref="Raven">Raven</spkr> Hmmm...</sp>
 
-<sd>The four Titans are carried ever higher; after a few more seconds, the booster engines are jettisoned and the T-Sub begins to coast in outer space. The grinning driver thumbs a button and brings a couple of thrusters into action; firing from the aft quarters on port and starboard, they power the vessel across the galaxy.</sd>
+<sd>The four Titans are carried ever higher; after a few more seconds, the booster engines are jettisoned and the T-Sub begins to coast in <location>outer space</location>. The grinning driver thumbs a button and brings a couple of thrusters into action; firing from the aft quarters on port and starboard, they power the vessel across the galaxy.</sd>
 
-<sd>Dissolve to a particular group of planets and zoom in slowly on the centermost one, then cut to a view of the sky from its surface and tilt down to ground level. Starfire is advancing cautiously along a path that winds through a thick forest. As a low, hissing respiration is heard, she stops for a moment and looks around; cut to a patch of vegetation and pan across to stop on her, back turned to the camera. Many trumpet-like projections sprout from the bushes and undergrowth.</sd>
+<sd><setNote shot="no">Dissolve to a particular group of planets and zoom in slowly on the centermost one, then cut to a view of the sky from its surface and tilt down to ground level.</setNote> <action mrkr="Starfire" with="none" move="7" place="forestp"/><char>Starfire</char> is advancing cautiously along a path that winds through a thick forest. As a low, hissing respiration is heard, she stops for a moment and looks around; cut to a patch of vegetation and pan across to stop on her, back turned to the camera. Many trumpet-like projections sprout from the bushes and undergrowth.</sd>
 
 <sp><spkr ref="Starfire">Starfire</spkr> <sd>turning around</sd> Hello? Someone is there?</sp>
 
