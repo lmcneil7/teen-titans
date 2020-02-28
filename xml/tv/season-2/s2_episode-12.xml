@@ -19,10 +19,15 @@
         <charList type="nonrecurring" subtype="villain" id="Slade">Slade</charList>
         <charList type="nonrecurring" subtype="both" id="Terra">Terra</charList>
         <charList type="nonrecurring" id="Guard">Guard</charList>
+        <charList type="nonrecurring" id="DeskMan">A worker in the office that gets destroyed in the episode.</charList>
     </characterList>
     <locationList>
         <locList id="tower">Titans Tower</locList>
         <locList id="JumpCity">Streets of Jump City</locList>
+        <locList id="chamber"></locList>
+        <locList id="forest">A forest that Cyborg and Beast Boy travel through on their way to fight Plasmus in the chemical plant.</locList>
+        <locList id="chemical_plant">A chemical plant where Beast Boy and Cyborg fight Plasmus</locList>
+        <locList id="mine">A mine where Robin and Starfire fight Cinderblock.</locList>
     </locationList>
     <body>
         <act n="0">
@@ -334,7 +339,7 @@
 
 <sd>Plasmus turns toward him, revealing <char>Beast Boy</char>, back in human form, trapped within one of those huge, vomit-green eyes. The hero holds his breath as he struggles against the outer covering, then begins a transformation. Pull back; the beast roars over <char>Cyborg</char>, but that eye starts to bulge out of all proportion, and soon, <char>Beast Boy</char> bursts out of it as a tyrannosaurus rex. <char>Cyborg</char> finds himself standing in the growing shadow, which reverts to human form just in time for the changeling to drop neatly into his arms. Close-up of <char>Plasmus</char>, roaring down at both of them.</sd>
 
-<sd>Dissolve to a close-up of <char>Cinderblock</char>'s screaming face and pull back. <setNote shot="no">Facing off against <action mrkr="Robin" with="S" move="4" place="mine"/><char>Robin</char> in an open-pit mine,</setNote> he has lifted a dump truck above his head. He hurls it at <char>the Boy Wonder</char>, who fires a grappling hook and swings away on its line as the vehicle smashes down near him. What he has hooked is the overhead boom of a crane; he swings up and over it in a full circle, coming down for a flying kick at <char>Cinderblock</char>. This blow finds the stone behemoth's forehead and drives him back to the edge of the pit.</sd>
+<sd>Dissolve to a close-up of <char>Cinderblock</char>'s screaming face and pull back. Facing off against <action mrkr="Robin" with="S" move="4" place="mine"/><char>Robin</char> <setNote shot="no">in an open-pit mine</setNote>, he has lifted a dump truck above his head. He hurls it at <char>the Boy Wonder</char>, who fires a grappling hook and swings away on its line as the vehicle smashes down near him. What he has hooked is the overhead boom of a crane; he swings up and over it in a full circle, coming down for a flying kick at <char>Cinderblock</char>. This blow finds the stone behemoth's forehead and drives him back to the edge of the pit.</sd>
 
 <sd>He shakes his head to clear it, roars, and charges back in. Cut to his perspective, <char>Robin</char>, standing pat atop an earth-mover. As the approach continues, the Titans' leader jumps out of the way, revealing <action mrkr="Starfire" with="RB" move="4" place="mine"/><char>Starfire</char> right behind him and flying in fast. Her sucker punch drops <char>Cinderblock</char> into a hard skid across the pit floor; he fetches up against a parked crane. Something creaks overhead, drawing his attention and snapping him back to full consciousness in a very big hurry. High above, the crane's load of steel girders has been set swinging by the crash. Down they come, squarely on him; in no time flat, though, he is back on his feet and hopping mad.</sd>
 
