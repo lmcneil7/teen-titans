@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../schema_v2.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <head>
         <episode>DATE WITH DESTINY</episode>
@@ -7,591 +9,755 @@
         <director></director> 
         <storyboard></storyboard>
         <animation></animation>
-        <source>https://teentitans.fandom.com/wiki/Date_with_Destiny_(Transcript)</source>
+        <source>https://teentitans.fandom.com/wiki/Date_with_Destiny_Transcript</source>
     </head>
+    <characterList>
+        <charList type="nonrecurring" id="MaleVoice">Male Voice</charList>
+        <charList type="nonrecurring" subtype="villain" id="KillerMoth">Killer Moth</charList>
+        <charList type="nonrecurring" id="FemaleVoice">Female Voice</charList>
+        <charList type="nonrecurring"  subtype="villain" id="Kitten">Kitten</charList>
+        <charList type="recurring" subtype="titan" id="Starfire">Starfire</charList>
+        <charList type="recurring" subtype="titan" id="Cyborg">Cyborg</charList>
+        <charList type="recurring" subtype="titan" id="BeastBoy">Beast Boy</charList>
+        <charList type="recurring" subtype="titan" id="Raven">Raven</charList>
+        <charList type="recurring" subtype="titan" id="Robin">Robin</charList>
+        <charList type="nonrecurring" id="MaleGuest">Male Guest</charList>
+        <charList type="nonrecurring" id="Fang">Fang</charList>
+        <charList type="nonrecurring" id="FemaleGuest">Female Guest</charList>
+        <charList type="nonrecurring" id="Announcer">Announcer</charList>
+    </characterList>
+    <locationList>
+        <locList id="tower">Titans Tower</locList>
+        <locList id="city">Jump City</locList>
+    </locationList>
     <body>
-         PROLOGUE
+<act n="0">
+<title>Prologue</title>
 
-(Opening shot: a dark pane of glass, which shakes a bit as several pairs of glowing eyes open behind it. Pull back slightly and pan across the area as a voice begins to speak male, but distorted somewhat. The camera movement reveals a dimly lit room and ranks of glass holding pens stuffed with black silhouettes; the whirring sound of many beating wings is heard.)
+<sd><setNote shot="yes">Opening shot: a dark pane of glass, which shakes a bit as several pairs of glowing eyes open behind it.</setNote> Pull back slightly and pan across the area as a voice begins to speak male, but distorted somewhat. The camera movement reveals a dimly lit room and ranks of glass holding pens stuffed with black silhouettes; the whirring sound of many beating wings is heard.</sd>
 
-Male voice: Patience, my children. Soon, you shall wreak the havoc you crave.
+<sp><spkr ref="MaleVoice">Male Voice</spkr> Patience, my children. Soon, you shall wreak the havoc you crave.</sp>
 
-(On the end of this line, the speaker comes into view. Standing at a worktable with his back to the camera, he is humanoid, covered with black and white fuzz; two pairs of striated insect wings sprout from his back. This is Killer Moth, working under the illumination provided by an overhead skylight. He is in the basement of a house.)
+<sd>On the end of this line, the speaker comes into view. Standing at a worktable with his back to the camera, <charDesc ref="KillerMoth">he is humanoid, covered with black and white fuzz; two pairs of striated insect wings sprout from his back</charDesc>. This is <char>Killer Moth</char>, working under the illumination provided by an overhead skylight. He is in the <location>basement of a house</location>.</sd>
 
-Killer Moth: Soon, I shall have the power I deserve. Soon, the entire city will bow before its new master... (turns to face the camera) ...Killer Moth!
+<sp><spkr ref="KillerMoth">Killer Moth</spkr> Soon, I shall have the power I deserve. Soon, the entire city will bow before its new master..
 
-(His head is that of the aforementioned insect, and the fuzz stops short of his abdomen and legs; these are covered with tough gray hide. He laughs madly, but a second voice cuts him off in a heartbeat. This one is young, female, and very petulant. Those of you who watch The Powerpuff Girls regularly, imagine Princess Morebucks at sixteen or so and you have the idea.)
+    <sd>turns to face the camera</sd> ...Killer Moth!</sp>
 
-Female voice: DADDY!! DAAAADDDDDYYYYY!!
+<sd>His head is that of the aforementioned insect, and the fuzz stops short of his abdomen and legs; these are covered with tough gray hide. He laughs madly, but a second voice cuts him off in a heartbeat. This one is young, female, and very petulant. Those of you who watch The Powerpuff Girls regularly, imagine Princess Morebucks at sixteen or so and you have the idea.</sd>
 
-(On the second repetition, tilt up quickly through the layers of the house and stop an extreme close-up of the screaming mouth, them pull back to frame her. She is a teenager, blond, wearing pink pajamas and sitting on a bed. The room is done out in the same color, marking it as hers. This is Kitten.)
+<sp><spkr ref="FemaleVoice">Female voice</spkr> DADDY!! DAAAADDDDDYYYYY!!</sp>
 
-(Cut to inside the closed door. Killer Moth smashes it open and runs in.)
+<sd>On the second repetition, tilt up quickly through the layers of the house and stop an extreme close-up of the screaming mouth, them pull back to frame her. <charDesc ref="Kitten">She is a teenager, blond, wearing pink pajamas and sitting on a bed.</charDesc> The room is done out in the same color, marking it as hers. This is <char>Kitten</char>.</sd>
 
-Killer Moth: Daddy's working, Kitten. Can't this wait until--?
+<sd>Cut to inside the closed door. <char>Killer Moth</char> smashes it open and runs in.</sd>
 
-Kitten: (storming back and forth) No! He broke up with me. My stupid ex-boyfriend Fang broke up with me! And now, I don't have a date for the prom!
+<sp><spkr ref="KillerMoth">Killer Moth</spkr> Daddy's working, <char>Kitten</char>. Can't this wait until--?</sp>
 
-(As she crosses before him, we see that she wears a pink band in her hair to hold it back. A telephone is flung across the room, then a pillow, and then she pulls at her hair and throws herself facedown on the bed with a groan that turns into a sobbing jag. Her father sits down next to her and holds his hand uncertainly out toward her back, not having much of an idea what to do in this crisis. Finally, he strokes her hair. Through the bedroom window, the sky is seen to be darkening into the purple of early evening.)
+<sp><spkr ref="Kitten">Kitten</spkr> <sd>storming back and forth</sd> No! He broke up with me. My stupid ex-boyfriend <char>Fang</char> broke up with me! And now, I don't have a date for the prom!</sp>
 
-Killer Moth: Uh...there, there. I'm sure you'll find another date. (She sits up.)
+<sd>As she crosses before him, we see that she wears a pink band in her hair to hold it back. A telephone is flung across the room, then a pillow, and then she pulls at her hair and throws herself facedown on the bed with a groan that turns into a sobbing jag. Her father sits down next to her and holds his hand uncertainly out toward her back, not having much of an idea what to do in this crisis. Finally, he strokes her hair. Through the bedroom window, the sky is seen to be darkening into the purple of early evening.</sd>
 
-Kitten: (groans disgustedly) Prom is tomorrow, Daddy. I don't have time to find another date. So you're gonna find one for me!
+<sp><spkr ref="KillerMoth">Killer Moth</spkr> Uh...there, there. I'm sure you'll find another date</sp>
 
-(Sight gag: on the end of this, her head inflates to jumbo size and his figure shrinks ten or twelve notches as she leans over him. He stands up; the gag ends.)
+<sd>She sits up.</sd>
 
-Killer Moth: Now, Kitten, be reasonable! You don't seriously expect me to--
+<sp><spkr ref="Kitten">Kitten</spkr> <sd>groans disgustedly</sd> Prom is tomorrow, Daddy. I don't have time to find another date. So you're gonna find one for me!</sp>
 
-Kitten: (sits up to face him) And I don't want just anyone. I want someone handsome, and popular, and totally cool. Someone no other girl could get. (Extreme close-up of her mouth.) Someone who'll drive Fang wild with jealousy! I want--
+<sd>Sight gag: on the end of this, her head inflates to jumbo size and his figure shrinks ten or twelve notches as she leans over him. He stands up; the gag ends.</sd>
 
-(Cut to Robin in mid-leap. He lands neatly in the driver's seat of a red motorcycle whose windshield hugs the front fender as it sweeps back toward him. A large R is stenciled onto a circular protrusion near the footrest. This is the R-Cycle, Robin's personal mode of transport. Close-up of a red crash helmet held aloft and marked with an R; pull back as he brings it down onto his head. He revs the engine, brings the chopper around in a tearing skid, and speeds toward the camera. Snap to black just as he is about to collide with it.)
+<sp><spkr ref="KillerMoth">Killer Moth</spkr> Now, <char>Kitten</char>, be reasonable! You don't seriously expect me to--</sp>
+
+<sp><spkr ref="Kitten">Kitten</spkr> <sd>sits up to face him</sd> And I don't want just anyone. I want someone handsome, and popular, and totally cool. Someone no other girl could get
+
+    <sd>Extreme close-up of her mouth.</sd> Someone who'll drive <char>Fang</char> wild with jealousy! I want--</sp>
+
+<sd>Cut to <char>Robin</char> in mid-leap. He lands neatly in the driver's seat of a red motorcycle whose windshield hugs the front fender as it sweeps back toward him. A large R is stenciled onto a circular protrusion near the footrest. This is the R-Cycle, Robin's personal mode of transport. Close-up of a red crash helmet held aloft and marked with an R; pull back as he brings it down onto his head. He revs the engine, brings the chopper around in a tearing skid, and speeds toward the camera. Snap to black just as he is about to collide with it.</sd>
 
 
-OPENING THEME (sung in Japanese)
+<cue>OPENING THEM</cue>
 
-ACT ONE
+<sd>sung in Japanese</sd>
 
-(Opening shot: Robin bent over the handlebars, his cape blowing nearly straight out behind him due to the high velocity.)
+</act><act n="1">
+<title>Act One</title>
 
-Robin: Range to target!
+<sd>Opening shot: <char>Robin</char> bent over the handlebars, his cape blowing nearly straight out behind him due to the high velocity.</sd>
 
-(In another street, the T-Car is rolling up fast. Close-up of Raven in the front passenger seat; pan to Cyborg at the wheel on the next line.)
+<sp><spkr ref="Robin">Robin</spkr> Range to target!</sp>
 
-Cyborg: Five hundred and closing. Should have a visual any--
+<sd>In another street<action mrkr="Robin" with="all" move="1" place="city"/>, the T-Car is rolling up fast. Close-up of <char>Raven</char> in the front passenger seat; pan to <action mrkr="Cyborg" with="all" move="1" place="city"/><char>Cyborg</char> at the wheel on the next line.</sd>
 
-(Cut to Starfire in flight. Beast Boy, as a vulture, keeps pace with her.)
+<sp><spkr ref="Cyborg">Cyborg</spkr> Five hundred and closing. Should have a visual any--</sp>
 
-Starfire: There he is!
+<sd>Cut to <action mrkr="Starfire" with="all" move="1" place="city"/><char>Starfire</char> in flight.<action mrkr="BeastBoy" with="all" move="1" place="city"/> <char>Beast Boy</char>, as a vulture, keeps pace with her.</sd>
 
-Raven: Correction. There it is.
+<sp><spkr ref="Starfire">Starfire</spkr> There he is!</sp>
 
-(Close-up of a hand reaching into a jewelry store window to scoop out the contents. As Cyborg's tires are heard screeching in the distance and his headlights play over the area, the camera pulls back to frame the thief who has a teen male's body and a gargantuan spider's head. A complete carapace, with four legs, is attached to the latter; its legs are long enough to reach the ground. Across the street, the R-Cycle has pulled up and Robin glares at this creature, and Cyborg brings his vehicle in a moment later.)
+<sp><spkr ref="Raven">Raven</spkr> Correction. There it is.</sp>
 
-(The thief raises a weapon and lifts his human body clear of the ground as the camera pulls back from him. Robin gasps in surprise, and he and Cyborg peel out in opposite directions to avoid the blast, which rips across the pavement. Both drivers skid to a stop; the cross-breed howls in anger and leaps straight toward the sky. Tilt up to follow him to roof level, where he touches down and starts to bound away. Robin watches him jump across the street with ease.)
+<sd>Close-up of a hand reaching into a jewelry store window to scoop out the contents. As Cyborg's tires are heard screeching in the distance and his headlights play over the area, the camera pulls back to frame the thief who has a teen male's body and a gargantuan spider's head. A complete carapace, with four legs, is attached to the latter; its legs are long enough to reach the ground. Across the street, the R-Cycle has pulled up and <char>Robin</char> glares at this creature, and <char>Cyborg</char> brings his vehicle in a moment later.</sd>
 
-(Now those long legs carry the store-breaker down the facades, and the Titans set off after him on wheels and in the air. Starfire sends a few starbolts toward him, but he easily dodges and continues his sideways run; a huge leap carries him to the buildings on the other side of the street. Here comes Robin, gunning his engine and extending a blaster by each handlebar. He pops off a string of shots that barely miss the semi-arachnid, who crosses the street again and keeps right on going.)
+<sd>The thief raises a weapon and lifts his human body clear of the ground as the camera pulls back from him. <char>Robin</char> gasps in surprise, and he and <char>Cyborg</char> peel out in opposite directions to avoid the blast, which rips across the pavement. Both drivers skid to a stop; the cross-breed howls in anger and leaps straight toward the sky. Tilt up to follow him to roof level, where he touches down and starts to bound away. <char>Robin</char> watches him jump across the street with ease.</sd>
 
-(The T-Car pulls ahead of the R-Cycle and opens its sunroof. Instead of the proton cannon used in Car Trouble, though, a missile pops out and is launched. It streaks through the evening sky and zeroes in on the thief, who jumps clear to avoid the impact and explosion. Close-up of him in midair; he does a 180-degree turn and spits a large wad of gray slime as the camera pulls back to frame Beast Boy and Starfire in hot pursuit. He takes the brunt of it and is engulfed in the goo, which splatters itself all over a wall at ground level. Back in human form, he pokes his head, one arm, and both legs out and struggles to get free of the viscous material super-strength spider silk that has not yet dried.)
+<sd>Now those long legs carry the store-breaker down the facades, and the Titans set off after him on wheels and in the air. <char>Starfire</char> sends a few starbolts toward him, but he easily dodges and continues his sideways run; a huge leap carries him to the buildings on the other side of the street. Here comes <char>Robin</char>, gunning his engine and extending a blaster by each handlebar. He pops off a string of shots that barely miss the semi-arachnid, who crosses the street again and keeps right on going.</sd>
 
-Beast Boy: Super-loogie?! (Disgusted groan.)
+<sd>The T-Car pulls ahead of the R-Cycle and opens its sunroof. Instead of the proton cannon used in Car Trouble, though, a missile pops out and is launched. It streaks through the evening sky and zeroes in on the thief, who jumps clear to avoid the impact and explosion. Close-up of him in midair; he does a 180-degree turn and spits a large wad of gray slime as the camera pulls back to frame <char>Beast Boy</char> and <char>Starfire</char> in hot pursuit. He takes the brunt of it and is engulfed in the goo, which splatters itself all over a wall at ground level. Back in human form, he pokes his head, one arm, and both legs out and struggles to get free of the viscous material super-strength spider silk that has not yet dried.</sd>
 
-(The shooter spews out another mouthful, forcing Starfire to get out of the way. Dodging one gobbet after another, she keeps the pressure on. Overhead view of the street; from o.c., he spits a stream of adhesive back and forth, layering it to create a thick sheet that stretches to block the entire way. Tilt up to frame Robin and Cyborg bearing down on this. Robin gasps, while Raven puts her powers to work and extends them over the entire block. Pavement cracks and a fire hydrant opens up, gushing water along the sidewalk; both vehicles sail up the incline created by the shifting roadbed and pass neatly over the barrier.)
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> Super-loogie?</sp>
 
-(The smash-and-grab artist scuttles flat out, his human body waving in the wind, and turns to spit more silk. Robin swerves expertly to avoid Beast Boy's fate, but a load hits the T-Car's windshield and completely blankets it.)
+<sd>Disgusted groan.</sd>
 
-Cyborg: I can't see!
+<sd>The shooter spews out another mouthful, forcing <char>Starfire</char> to get out of the way. Dodging one gobbet after another, she keeps the pressure on. Overhead view of the street; from o.c., he spits a stream of adhesive back and forth, layering it to create a thick sheet that stretches to block the entire way. Tilt up to frame <char>Robin</char> and <char>Cyborg</char> bearing down on this. <char>Robin</char> gasps, while <char>Raven</char> puts her powers to work and extends them over the entire block. Pavement cracks and a fire hydrant opens up, gushing water along the sidewalk; both vehicles sail up the incline created by the shifting roadbed and pass neatly over the barrier.</sd>
 
-(He cuts his steering wheel hard to one side and skids to a stop as the R-Cycle roars past. More sludge comes down on the windshield. Now Starfire starts to catch up again, but a well-placed burst sends her to the sidewalk and pins her. She tries vainly to free herself as Robin zooms by, then cuts through it with a handful of starbolts and returns to the chase. The thief races down the street and around a corner; Robin and Starfire follow it, and the camera cuts to the end of a street that faces an elevated highway. Up comes the creature, making straight for a car parked to face the highway and jumping onto its rear end. Close-up of that windshield, through which a young man and his girlfriend are seen about to enjoy one another's company. They gasp as those four slender legs push off from the bodywork; pull back to show him leaping over the highway, then cut to the close-up again. The two look up after him, then at each other, then get right back to the business at hand.)
+<sd>The smash-and-grab artist scuttles flat out, his human body waving in the wind, and turns to spit more silk. <char>Robin</char> swerves expertly to avoid Beast Boy's fate, but a load hits the T-Car's windshield and completely blankets it.</sd>
 
-(They are quickly interrupted again by the sound of the R-Cycle's engine. A shocked stare and second gasp are all they can manage before Robin speeds in and onto the car's rear end, launching himself over the highway. As he sails through space, he fires off a grappling hook and is yanked away on its line, letting the chopper drop. The swinging trajectory carries him toward a wall, while the large R's on both sides of the plummeting R-Cycle extend outward from the body and each fire a beam from underneath. Cut to street level; the vehicle descends smoothly to the curb and touches down with the help of these, and the emitters retract.)
+<sp><spkr ref="Cyborg">Cyborg</spkr> I can't see!</sp>
 
-(The camera shifts to point straight up at the sky between the buildings on opposite sides of the street. The man-spider charges down the facade, followed closely by Robin, whose line trails out ahead of him, and proceeds to climb the architecture on the other side. Long shot of the rooftops, panning to follow him as he leaps from one to the next. Robin's hook shoots after him, the line pulls taut, and he is yanked along. The chase moves up yet another building, but the runner stops halfway up and spits a pair of short beams down at Robin to knock him loose. Overhead view of the street; the Boy Wonder drops toward it, his skin turning gray and his limbs frozen in place.)
+<sd>He cuts his steering wheel hard to one side and skids to a stop as the R-Cycle roars past. More sludge comes down on the windshield. Now <char>Starfire</char> starts to catch up again, but a well-placed burst sends her to the sidewalk and pins her. She tries vainly to free herself as <char>Robin</char> zooms by, then cuts through it with a handful of starbolts and returns to the chase. The thief races down the street and around a corner; <char>Robin</char> and <char>Starfire</char> follow it, and the camera cuts to the end of a street that faces an elevated highway. Up comes the creature, making straight for a car parked to face the highway and jumping onto its rear end. Close-up of that windshield, through which a young man and his girlfriend are seen about to enjoy one another's company. They gasp as those four slender legs push off from the bodywork; pull back to show him leaping over the highway, then cut to the close-up again. The two look up after him, then at each other, then get right back to the business at hand.</sd>
 
-Robin: Can't...move!
+<sd>They are quickly interrupted again by the sound of the R-Cycle's engine. A shocked stare and second gasp are all they can manage before <char>Robin</char> speeds in and onto the car's rear end, launching himself over the highway. As he sails through space, he fires off a grappling hook and is yanked away on its line, letting the chopper drop. The swinging trajectory carries him toward a wall, while the large R's on both sides of the plummeting R-Cycle extend outward from the body and each fire a beam from underneath. Cut to street level; the vehicle descends smoothly to the curb and touches down with the help of these, and the emitters retract.</sd>
 
-(The thief gains roof level and is soon out of sight, while Robin continues his paralyzed free fall.)
+<sd>The camera shifts to point straight up at the sky between the buildings on opposite sides of the street. The man-spider charges down the facade, followed closely by <char>Robin</char>, whose line trails out ahead of him, and proceeds to climb the architecture on the other side. Long shot of the rooftops, panning to follow him as he leaps from one to the next. Robin's hook shoots after him, the line pulls taut, and he is yanked along. The chase moves up yet another building, but the runner stops halfway up and spits a pair of short beams down at <char>Robin</char> to knock him loose. Overhead view of the street; the Boy Wonder drops toward it, his skin turning gray and his limbs frozen in place.</sd>
 
-Starfire: Robin!
+<sp><spkr ref="Robin">Robin</spkr> Can't...move!</sp>
 
-(She puts it in overdrive and catches him perhaps five feet short of a very painful meeting with the sidewalk. Cut to the other three Titans a little way over Beast Boy free of the silk adhesive and back in human form as she lands and sets Robin down. Cyborg steps in to look him over.)
+<sd>The thief gains roof level and is soon out of sight, while <char>Robin</char> continues his paralyzed free fall.</sd>
+
+<sp><spkr ref="Starfire">Starfire</spkr> <char>Robin</char>!</sp>
+
+<sd>She puts it in overdrive and catches him perhaps five feet short of a very painful meeting with the sidewalk. Cut to the other three Titans a little way over <char>Beast Boy</char> free of the silk adhesive and back in human form as she lands and sets <char>Robin</char> down. <char>Cyborg</char> steps in to look him over.</sd>
 
 [Animation goof: When she dives, her armband is on the wrong side.]
 
-Starfire: He is okay?
+<sp><spkr ref="Starfire">Starfire</spkr> He is okay?</sp>
 
-Cyborg: He will be. The venom's effect is only temporary. (Robin groans.)
+<sp><spkr ref="Cyborg">Cyborg</spkr> He will be. The venom's effect is only temporary</sp>
 
-Robin: Getting away...we have to...go after him! (Groan; he starts to topple.) Whoa... (Starfire rights him; cut to Raven.)
+<sd><char>Robin</char> groans.</sd>
 
-Raven: You mean, we have to go after him. (Pan to Cyborg.)
+<sp><spkr ref="Robin">Robin</spkr> Getting away...we have to...go after him</sp>
 
-Cyborg: You need to chill until that stuff wears off.
+<sd>Groan; he starts to topple.</sd> Whoa..
 
-Robin: But--
+<sd><char>Starfire</char> rights him; cut to <char>Raven</char>.</sd>
 
-Beast Boy: Dude, we can handle it. The guy's got a spider for a head. Not like he's gonna be hard to find.
+<sp><spkr ref="Raven">Raven</spkr> You mean, we have to go after him</sp>
 
-(Robin has no immediate answer for this, verbal or otherwise. His image quickly rotates 180 degrees, putting him head down, as the background dissolves to put Starfire's legs behind him. Pull back to show that she is holding him by the ankles in the operations center of Titans Tower. She stretches his legs and works them back and forth, eliciting several yelps of discomfort and causing his arms to flop around.)
+<sd>Pan to <char>Cyborg</char>.</sd>
 
-Starfire: Better?
+<sp><spkr ref="Cyborg">Cyborg</spkr> You need to chill until that stuff wears off.</sp>
 
-(His normal color returns, and a little tear of pain grows in one eye and hangs down like a pendulum, the venom that froze him is out of his system.)
+<sp><spkr ref="Robin">Robin</spkr> But--</sp>
 
-Robin: Ah, much. Thanks.
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> Dude, we can handle it. The guy's got a spider for a head. Not like he's gonna be hard to find.</sp>
 
-Starfire: I welcome you. (hefts him up and down) There are few problems that Tamaranean acupressure will not solve.
+<sd><char>Robin</char> has no immediate answer for this, verbal or otherwise. His image quickly rotates 180 degrees, putting him head down, as the background dissolves to put Starfire's legs behind him. Pull back to show that she is holding him by the ankles in the operations center of Titans Tower. She stretches his legs and works them back and forth, eliciting several yelps of discomfort and causing his arms to flop around.</sd>
 
-Robin: Now we can focus on solving our other problem. (He pulls out his communicator and opens it.) Titans! Any luck finding our jewel thief?
+<sp><spkr ref="Starfire">Starfire</spkr> Better?</sp>
 
-(His perspective of the device: upside down in his hand, with Raven's face on the screen inside.)
+<sd>His normal color returns, and a little tear of pain grows in one eye and hangs down like a pendulum, the venom that froze him is out of his system.</sd>
 
-Raven: We found something worse.
+<sp><spkr ref="Robin">Robin</spkr> Ah, much. Thanks.</sp>
 
-(Overhead, upside-down view of Beat Boy, Raven, and Cyborg staring up incredulously. Rotate quickly through 180 degrees and pull back/dissolve; they are standing on the bridge over Jump City Bay, and the beating of millions of wings is heard. Cut to the source, or, rather, a small part of it: a horde of large hovering insects, every one of which is fighting mad. The eyes and the whirring wings give them away as the creatures that filled Killer Moth's holding pens.)
+<sp><spkr ref="Starfire">Starfire</spkr> I welcome you</sp>
 
-(As they move lazily through the air, several cluster up and munch at one of the bridge's cables. When they fly away a moment later, it has been gnawed through and the final strand snaps; the lower end lashes toward the roadway, and people scatter as a car is crushed under the wire rope. Among them are the couple who had been interrupted during their make-out session. The entire bridge begins to sway back and forth, creating oscillations that send vehicles sliding around the three Titans.)
+<sd>hefts him up and down</sd> There are few problems that Tamaranean acupressure will not solve.
 
-(Now groups of moths start chomping on cable after cable, making short work of the outer covering and the twisted wires beneath. One of the bugs screeches in rage; cut to a large group of airborne attackers and tilt down to road level, to the sound of panicked yelling. Beast Boy and Cyborg are having a very tough time keeping their balance on the bucking pavement, while Raven floats a foot or two above it. In the air, a cable breaks and whistles downward; they dodge in three different directions. After skidding backward to a stop, Cyborg charges.)
+<sp><spkr ref="Robin">Robin</spkr> Now we can focus on solving our other problem</sp>
 
-Cyborg: Teen Titans! Go! (Beast Boy becomes a pterodactyl and lifts off.)
+<sd>He pulls out his communicator and opens it.</sd> Titans! Any luck finding our jewel thief?
 
-Raven: Azarath Metrion Zinthos!
+<sd>His perspective of the device: upside down in his hand, with Raven's face on the screen inside.</sd>
 
-(As Cyborg runs up, she creates an energy platform for him to jump onto; it carries him higher toward the cables and she flies behind.)
+<sp><spkr ref="Raven">Raven</spkr> We found something worse.</sp>
 
-Cyborg: Thanks for the lift, Raven!
+<sd>Overhead, upside-down view of Beat Boy, <char>Raven</char>, and <char>Cyborg</char> staring up incredulously. Rotate quickly through 180 degrees and pull back/dissolve; they are standing on the bridge over Jump City Bay, and the beating of millions of wings is heard. Cut to the source, or, rather, a small part of it: a horde of large hovering insects, every one of which is fighting mad. The eyes and the whirring wings give them away as the creatures that filled Killer Moth's holding pens.</sd>
 
-(Once he is at the moths' level, she peels off and he jumps onto a cable, leaving the platform to disintegrate. One of them flies across near the camera; behind it, the view changes to show him surrounded by groups of gnawing moths, and he cries out a bit as he nearly loses his balance. Breaking out his sonic cannon, he blasts away one group and runs to the spot they were attacking. The cable's outer covering has been breached, and the two ends are starting to pull apart. One metal hand grabs a chewed edge, while the other pops out its fingertip acetylene torch for some emergency repair work.)
+<sd>As they move lazily through the air, several cluster up and munch at one of the bridge's cables. When they fly away a moment later, it has been gnawed through and the final strand snaps; the lower end lashes toward the roadway, and people scatter as a car is crushed under the wire rope. Among them are the couple who had been interrupted during their make-out session. The entire bridge begins to sway back and forth, creating oscillations that send vehicles sliding around the three Titans.</sd>
 
-(Beast Boy stands his ground before a huge advancing moth, then sidesteps and becomes a monkey to hitch a ride. The gibbering green primate is swept here and there as the bug approaches the cables and weaves among them to try and buck him off. Next, Raven darts through the area and slams another platform into the face of one moth, but several others stay on her trail. She flies straight up toward the top of a support column, then puts on a burst of speed to give herself a little breathing room; Beast Boy steers the moth he has commandeered into the pursuers to knock them out of the sky.)
+<sd>Now groups of moths start chomping on cable after cable, making short work of the outer covering and the twisted wires beneath. One of the bugs screeches in rage; cut to a large group of airborne attackers and tilt down to road level, to the sound of panicked yelling. <char>Beast Boy</char> and <char>Cyborg</char> are having a very tough time keeping their balance on the bucking pavement, while <char>Raven</char> floats a foot or two above it. In the air, a cable breaks and whistles downward; they dodge in three different directions. After skidding backward to a stop, <char>Cyborg</char> charges.</sd>
 
-(Close-up of the damaged cable. Cyborg has pulled the edges back together and is now running his torch flame around hem, bringing them to red heat and joining them once more. When he finishes, pull back to frame all of him. He jumps clear, avoiding several of the insects, and slides down the cable with his cannon blazing. A mighty leap carries him to another one, where he has to duck a stream of oncoming six-legged bandits; a second jump deposits him safely on the bridge in a backward skid.)
+<sp><spkr ref="Cyborg">Cyborg</spkr> Teen Titans! Go</sp>
 
-Cyborg: Boo-yah!...Huh?
+<sd><char>Beast Boy</char> becomes a pterodactyl and lifts off.</sd>
 
-(Cut to a long shot behind him, facing the Jump City skyline. Above the buildings, a dense black cloud rises slowly into view, accompanied by the beating of countless wings, the full force of Killer Moth's armada. He watches, dumbstruck, as Beast Boy steers his moth down to street level and then turns into an elephant to crush it. Close-up of a group in midair; one of them flies toward the camera and to one side, and behind it the view changes to a close-up of Cyborg, Raven, and Beast Boy. The latter returns to human form and stares with his eyes bugging out, while the big man lifts his forearm and addresses himself toward it, the onboard communicator.)
+<sp><spkr ref="Raven">Raven</spkr> Azarath Metrion Zinthos!</sp>
 
-Cyborg: Uh...we're gonna need backup.
+<sd>As <char>Cyborg</char> runs up, she creates an energy platform for him to jump onto; it carries him higher toward the cables and she flies behind.</sd>
 
-(The operations center. Robin and Starfire watch the window/screen, which is filled with his face.)
+<sp><spkr ref="Cyborg">Cyborg</spkr> Thanks for the lift, <char>Raven</char>!</sp>
 
-Robin: We're on our way.
+<sd>Once he is at the moths' level, she peels off and he jumps onto a cable, leaving the platform to disintegrate. One of them flies across near the camera; behind it, the view changes to show him surrounded by groups of gnawing moths, and he cries out a bit as he nearly loses his balance. Breaking out his sonic cannon, he blasts away one group and runs to the spot they were attacking. The cable's outer covering has been breached, and the two ends are starting to pull apart. One metal hand grabs a chewed edge, while the other pops out its fingertip acetylene torch for some emergency repair work.</sd>
 
-(As they start to head out, the screen fills with static and changes to show Killer Moth. His words stop them in their tracks.)
+<sd><char>Beast Boy</char> stands his ground before a huge advancing moth, then sidesteps and becomes a monkey to hitch a ride. The gibbering green primate is swept here and there as the bug approaches the cables and weaves among them to try and buck him off. Next, <char>Raven</char> darts through the area and slams another platform into the face of one moth, but several others stay on her trail. She flies straight up toward the top of a support column, then puts on a burst of speed to give herself a little breathing room; <char>Beast Boy</char> steers the moth he has commandeered into the pursuers to knock them out of the sky.</sd>
 
-Killer Moth: Don't bother. Even if you defeat a few of my children, (Both return to the screen.) you won't be able to stop me from releasing the entire swarm.
+<sd>Close-up of the damaged cable. <char>Cyborg</char> has pulled the edges back together and is now running his torch flame around hem, bringing them to red heat and joining them once more. When he finishes, pull back to frame all of him. He jumps clear, avoiding several of the insects, and slides down the cable with his cannon blazing. A mighty leap carries him to another one, where he has to duck a stream of oncoming six-legged bandits; a second jump deposits him safely on the bridge in a backward skid.</sd>
 
-(On the end of this line, pull back a bit to show those masses of black, buzzing silhouettes behind the villain. Both Titans gasp; close-up of the glowing eyes.)
+<sp><spkr ref="Cyborg">Cyborg</spkr> Boo-yah!...Huh?</sp>
 
-Killer Moth: (from o.c.) Unless you want your city reduced to a moth-eaten wasteland, (Pan to his image and Robin.) you'll do exactly as I say.
+<sd>Cut to a long shot behind him, facing the Jump City skyline. Above the buildings, a dense black cloud rises slowly into view, accompanied by the beating of countless wings, the full force of Killer Moth's armada. He watches, dumbstruck, as <char>Beast Boy</char> steers his moth down to street level and then turns into an elephant to crush it. Close-up of a group in midair; one of them flies toward the camera and to one side, and behind it the view changes to a close-up of <char>Cyborg</char>, <char>Raven</char>, and <char>Beast Boy</char>. The latter returns to human form and stares with his eyes bugging out, while the big man lifts his forearm and addresses himself toward it, the onboard communicator.</sd>
 
-Robin: What do you want?
+<sp><spkr ref="Cyborg">Cyborg</spkr> Uh...we're gonna need backup.</sp>
 
-Killer Moth: My demands are simple. The city will declare me ruler, the Teen Titans will surrender, and Robin...
+<sd>The operations center. <char>Robin</char> and <char>Starfire</char> watch the window/screen, which is filled with his face.</sd>
 
-(The mention of his name makes him straighten up involuntarily. On screen, Killer Moth backs up slightly to one side.)
+<sp><spkr ref="Robin">Robin</spkr> We're on our way.</sp>
 
-Killer Moth: (hesitantly) ...will...take this lovely young lady to her junior prom.
+<sd>As they start to head out, the screen fills with static and changes to show <char>Killer Moth</char>. His words stop them in their tracks.</sd>
 
-(A window appears in the space he has vacated. Framed in it is Kitten, waving cheerfully.)
+<sp><spkr ref="KillerMoth">Killer Moth</spkr> Don't bother. Even if you defeat a few of my children</sp>
 
-Kitten: Hi, Robbie-poo!
+<sd>Both return to the screen.</sd> you won't be able to stop me from releasing the entire swarm.
 
-(The last demand hits Robin like a two-by-four upside the head.)
+<sd>On the end of this line, pull back a bit to show those masses of black, buzzing silhouettes behind the villain. Both Titans gasp; close-up of the glowing eyes.</sd>
 
-Robin: Um...what was that last part again?
+<sp><spkr ref="KillerMoth">Killer Moth</spkr> <sd>from o.c.</sd> Unless you want your city reduced to a moth-eaten wasteland</sp>
 
-Starfire: (irked) Robin, who is this girl? And why does she call you "poo"?
+<sd>Pan to his image and <char>Robin</char>.</sd> you'll do exactly as I say.
 
-(Sight gag: as she speaks, his image dissolves to one that shows him hunched over, hands twitching, face set in a fierce grimace, as a big drop of sweat trickles down from the ceiling. On the end of the line, his entire body melts away, leaving only his masked eyes floating in midair with one eyebrow squinched down.)
+<sp><spkr ref="Robin">Robin</spkr> What do you want?</sp>
 
-Killer Moth: Her name is Kitten, (She puckers up; Robin reconstitutes himself.) and you will take her to prom! (Starfire floats up to her window; close-up of the two.)
+<sp><spkr ref="KillerMoth">Killer Moth</spkr> My demands are simple. The city will declare me ruler, the Teen Titans will surrender, and <char>Robin</char>...</sp>
 
-Starfire: This prom is some manner of duel, yes?
+<sd>The mention of his name makes him straighten up involuntarily. On screen, <char>Killer Moth</char> backs up slightly to one side.</sd>
 
-(She pulls off one of her wrist guards. Sight gag: the hand goes with it but immediately reappears on her arm, and slaps the young blonde's image across the face. The blow leaves a bright red hand imprint on her cheek.)
+<sp><spkr ref="KillerMoth">Killer Moth</spkr> <sd>hesitantly</sd> ...will...take this lovely young lady to her junior prom.</sp>
 
-Starfire: Robin eagerly accepts!
+<sd>A window appears in the space he has vacated. Framed in it is <char>Kitten</char>, waving cheerfully.</sd>
 
-(She throws down the protective item. On the next line, tilt down to Robin; it has landed across his eyes.)
+<sp><spkr ref="Kitten">Kitten</spkr> Hi, Robbie-poo!</sp>
 
-Robin: It's not a duel, Star. (He peels it off and drops it.) It's a date.
+<sd>The last demand hits <char>Robin</char> like a two-by-four upside the head.</sd>
 
-(Her long, hysterical gasp gives away just how unprepared she was to hear this fact; now she has put the wrist guard back on. Cut to Robin, who scratches his head nervously.)
+<sp><spkr ref="Robin">Robin</spkr> Um...what was that last part again?</sp>
 
-Starfire: (from o.c.) He does not accept! (He walks o.c.) Do you hear? (Cut to her.) Robin does not accept!
+<sp><spkr ref="Starfire">Starfire</spkr> <sd>irked</sd> <char>Robin</char>, who is this girl? And why does she call you "poo"?</sp>
 
-(She is yanked unceremoniously downward with a short yell. Pull back to frame the entire screen; though she still floats in midair, Robin is leading her away by the foot.)
+<sd>Sight gag: as she speaks, his image dissolves to one that shows him hunched over, hands twitching, face set in a fierce grimace, as a big drop of sweat trickles down from the ceiling. On the end of the line, his entire body melts away, leaving only his masked eyes floating in midair with one eyebrow squinched down.</sd>
 
-Robin: We're going to need a minute.
+<sp><spkr ref="KillerMoth">Killer Moth</spkr> Her name is <char>Kitten</char></sp>
 
-(They move o.c. and a door is heard opening. Cut to him in the hall.)
+<sd>She puckers up; <char>Robin</char> reconstitutes himself.</sd> and you will take her to prom
 
-Starfire: (pacing, literally fuming) Odium! Scandal! Atrocity! These demands must not be met!
+<sd><char>Starfire</char> floats up to her window; close-up of the two.</sd>
 
-(On the start of this line, Robin activates his communicator. Her next line is spoken over the two that follow it.)
+<sp><spkr ref="Starfire">Starfire</spkr> This prom is some manner of duel, yes?</sp>
 
-Starfire: Clearly, this demented madman has no idea with whom he is dealing! And if he believes--
+<sd>She pulls off one of her wrist guards. Sight gag: the hand goes with it but immediately reappears on her arm, and slaps the young blonde's image across the face. The blow leaves a bright red hand imprint on her cheek.</sd>
 
-Robin: Cyborg, report. How bad is it? (Close-up of the screen; Cyborg wrestles with a moth.)
+<sp><spkr ref="Starfire">Starfire</spkr> <char>Robin</char> eagerly accepts!</sp>
 
-Cyborg: Bad! Can't hold 'em off much longer!
+<sd>She throws down the protective item. On the next line, tilt down to <char>Robin</char>; it has landed across his eyes.</sd>
 
-(Cut to him on the bridge, then pan along it away from him as he continues. Utter chaos still reigns here; Beast Boy, now a tiger, squares off against one of the insects.)
+<sp><spkr ref="Robin">Robin</spkr> It's not a duel, Star</sp>
 
-Cyborg: If you're gonna do something, do it quick!
+<sd>He peels it off and drops it.</sd> It's a date.
 
-(Back to Robin. Now spurts of fire belch from Starfire's mouth and green smoke rises from her glowing eyes as she rants on.)
+<sd>Her long, hysterical gasp gives away just how unprepared she was to hear this fact; now she has put the wrist guard back on. Cut to <char>Robin</char>, who scratches his head nervously.</sd>
 
-Starfire: --out of his mind if he believes you would even consider such a distasteful-- (He closes the communicator.)
+<sp><spkr ref="Starfire">Starfire</spkr> <sd>from o.c.</sd> He does not accept
 
-Robin: I have to do it. (Pull back to frame both.)
+<sd>He walks o.c.</sd> Do you hear?
 
-Starfire: WHAT?!?
+    <sd>Cut to her.</sd> <char>Robin</char> does not accept!</sp>
 
-(Sight gag: her head briefly grows a fair bit on this line, and his hair is blown flat by the force of her outburst.)
+<sd>She is yanked unceremoniously downward with a short yell. Pull back to frame the entire screen; though she still floats in midair, <char>Robin</char> is leading her away by the foot.</sd>
 
-Robin: (picking at his sleeve) It's the only way to save the bridge. (sorts out his hair) The only way to give us enough time to stop Killer Moth.
+<sp><spkr ref="Robin">Robin</spkr> We're going to need a minute.</sp>
 
-(She just hangs before him, a few inches above the floor, the whole body hanging slack and eyes wide as dinner plates from the shock of hearing this decision. Long pause.)
+<sd>They move o.c. and a door is heard opening. Cut to him in the hall.</sd>
 
-Starfire: But, but, but--
+<sp><spkr ref="Starfire">Starfire</spkr> <sd>pacing, literally fuming</sd> Odium! Scandal! Atrocity! These demands must not be met!</sp>
 
-(He turns back toward the operations center, leaving her to float half-slumped after him.)
+<sd>On the start of this line, <char>Robin</char> activates his communicator. Her next line is spoken over the two that follow it.</sd>
 
-Robin: I have to, Starfire, no matter how much I don't want to. (The door opens to admit them back into the area.) And I really don't want to.
+<sp><spkr ref="Starfire">Starfire</spkr> Clearly, this demented madman has no idea with whom he is dealing! And if he believes--</sp>
 
-(He crosses the floor and stops in front of the screen.)
+<sp><spkr ref="Robin">Robin</spkr> <char>Cyborg</char>, report. How bad is it</sp>
 
-Killer Moth: Do we have a deal?
+<sd>Close-up of the screen; <char>Cyborg</char> wrestles with a moth.</sd>
 
-Robin: I'll take the girl to prom.
+<sp><spkr ref="Cyborg">Cyborg</spkr> Bad! Can't hold 'em off much longer!</sp>
 
-Killer Moth: Don't tell me. Ask her. (Kitten smiles smugly.)
+<sd>Cut to him on the bridge, then pan along it away from him as he continues. Utter chaos still reigns here; <char>Beast Boy</char>, now a tiger, squares off against one of the insects.</sd>
 
-Robin: You've gotta be--
+<sp><spkr ref="Cyborg">Cyborg</spkr> If you're gonna do something, do it quick!</sp>
 
-Killer Moth: Do it! (Robin steels himself.)
+<sd>Back to <char>Robin</char>. Now spurts of fire belch from Starfire's mouth and green smoke rises from her glowing eyes as she rants on.</sd>
 
-Robin: Kitten, was it?
+<sp><spkr ref="Starfire">Starfire</spkr> --out of his mind if he believes you would even consider such a distasteful-</sp>
 
-(A brief burst of static. Sight gag: she grows a tail, claws, and cat ears, and her face takes on a feline appearance.)
+<sd>He closes the communicator.</sd>
 
-Kitten: Meow. (Gag ends; cut to Robin.)
+<sp><spkr ref="Robin">Robin</spkr> I have to do it</sp>
 
-Robin: Right. Will you...go with me to the prom?
+<sd>Pull back to frame both.</sd>
 
-(Pan from him to Starfire, who snarls through gritted teeth at the indignity of this date by extortion. Her eyes glow more and more intensely, and after a moment she spontaneously combusts. All that remains is a giant burned matchstick with those two green-flaming eyes at its head. On screen, Kitten gasps happily.)
+<sp><spkr ref="Starfire">Starfire</spkr> WHAT?!?</sp>
 
-Kitten: Oh, Robbie-poo! (leans out of the window) I thought you'd never ask!
+<sd>Sight gag: her head briefly grows a fair bit on this line, and his hair is blown flat by the force of her outburst.</sd>
 
-(Cut to an extreme close-up of his thoroughly disgusted face and fade to black.)
-ACT TWO
+<sp><spkr ref="Robin">Robin</spkr> <sd>picking at his sleeve</sd> It's the only way to save the bridge
 
-(Opening shot: Beast Boy, now a gorilla, slugging it out with a few of Killer Moth's crazed insects. Pull back to show him atop a bridge column; tilt down slightly to show a group of moths working their way through a cable and breaking it with ease. Elsewhere, Raven has her hands full with a few dozen others when the free end swings past her. She looks down wide-eyed after it; cut to the dropping cable and follow it down.)
+    <sd>sorts out his hair</sd> The only way to give us enough time to stop <char>Killer Moth</char>.</sp>
 
-Raven: (from o.c.) Azarath Metrion Zinthos!
+<sd>She just hangs before him, a few inches above the floor, the whole body hanging slack and eyes wide as dinner plates from the shock of hearing this decision. Long pause.</sd>
 
-(As she finishes the spell, the mass of wires comes under her influence and stops just short of crushing Cyborg. As it is levitated away, he fires his cannon at will.)
+<sp><spkr ref="Starfire">Starfire</spkr> But, but, but--</sp>
 
-Cyborg: There's too many! We're not gonna... (The moths leave him alone.) ...make it?
+<sd>He turns back toward the operations center, leaving her to float half-slumped after him.</sd>
 
-(Pull back to show that the black flying cloud is making a very rapid exit. Raven drops to ground level to stare after them, and Beast Boy jumps onto a wrecked truck, then down to join them as he returns to human form.)
+<sp><spkr ref="Robin">Robin</spkr> I have to, <char>Starfire</char>, no matter how much I don't want to</sp>
 
-Beast Boy: Um...what just happened? (Raven activates her communicator; the others gather around.)
+<sd>The door opens to admit them back into the area.</sd> And I really don't want to.
 
-Robin: (over the comm) I bought you some time. (Close-up; he is on screen.) Killer Moth.
+<sd>He crosses the floor and stops in front of the screen.</sd>
 
-(The villain's face appears in place of his own.)
+<sp><spkr ref="KillerMoth">Killer Moth</spkr> Do we have a deal?</sp>
 
-Robin: (over comm) He's controlling the mutant insects. Find him and stop him. (shows Kitten) Start your search with her.
+<sp><spkr ref="Robin">Robin</spkr> I'll take the girl to prom.</sp>
 
-(She winks. Cut to the operations center screen, which shows the three Titans.)
+<sp><spkr ref="KillerMoth">Killer Moth</spkr> Don't tell me. Ask her</sp>
 
-Raven: Who is she?
+<sd><char>Kitten</char> smiles smugly.</sd>
 
-Beast Boy: Huh?
+<sp><spkr ref="Robin">Robin</spkr> You've gotta be--</sp>
 
-(Pull back; the other two are here, and Starfire has put herself back together after her burnout.)
+<sp><spkr ref="KillerMoth">Killer Moth</spkr> Do it</sp>
 
-Starfire: (turns away) She is a manipulative gremplork not worthy of Robin's time.
+<sd><char>Robin</char> steels himself.</sd>
 
-Robin: Name's Kitten. She's got some kind of connection to Killer Moth. Find the connection, and I bet you'll find him. (glances at an indignant Starfire in foreground) Starfire will join you to help with the search. (Focus shifts from him to her.)
+<sp><spkr ref="Robin">Robin</spkr> <char>Kitten</char>, was it?</sp>
 
-Starfire: Hmph! (Back to the others.)
+<sd>A brief burst of static. Sight gag: she grows a tail, claws, and cat ears, and her face takes on a feline appearance.</sd>
 
-Beast Boy: Hey, what about you? Aren't you gonna help us?
+<sp><spkr ref="Kitten">Kitten</spkr> Meow</sp>
 
-Robin: (over the comm) I can't. (On screen, his face is shown.) I have a date.
+<sd>Gag ends; cut to <char>Robin</char>.</sd>
 
-(Question marks pop up above all three very puzzled faces. Tilt up from them to one of the bridge columns, then down again as the view dissolves to a docked cruise ship whose horn sound loudly. It is that same evening, and the dock is crowded with high school students in their best finery. Lights blaze from the rigging and cabin, and above the gangplank is a banner: "Junior Prom Your Date With Destiny." The party is in full swing, as is the music. Near the camera, the R-Cycle pulls partway into view and revs down its engine; Robin climbs off, removes his helmet, and turns to face us. He has traded in his usual outfit for a tuxedo, though his mask is still firmly in place.)
+<sp><spkr ref="Robin">Robin</spkr> Right. Will you...go with me to the prom?</sp>
 
-(The world's most reluctant prom date adjusts his lapels, sighs heavily, and tugs at his collar.)
+<sd>Pan from him to <char>Starfire</char>, who snarls through gritted teeth at the indignity of this date by extortion. Her eyes glow more and more intensely, and after a moment she spontaneously combusts. All that remains is a giant burned matchstick with those two green-flaming eyes at its head. On screen, <char>Kitten</char> gasps happily.</sd>
 
-Robin: Really hoping she doesn't show.
+<sp><spkr ref="Kitten">Kitten</spkr> Oh, Robbie-poo</sp>
 
-(A lavender-gloved hand reaches into view and taps his shoulder, instantly putting him in the wrong mood. He slowly swivels his head around in that direction; cut to a pair of feet poking from under the hem of a full-length gown and tilt up. The garment and shoes are a darker shade than the gloves, which extend past the elbows, and the hands cradle a carnation. When the camera reaches the head, the owner of all these assorted body parts and clothing is revealed to be not Kitten but Starfire, silhouetted against the full moon and looking absolutely stunning. For someone who is still learning her way around Earth culture, she is certainly a quick study when it comes to formal wear. She has removed her neck piece.)
+<sd>leans out of the window</sd> I thought you'd never ask!
 
-Robin: (from o.c.) Starfire?
+<sd>Cut to an extreme close-up of his thoroughly disgusted face and fade to black.</sd>
+</act><act n="2">
+<title>Act Two</title>
 
-Starfire: On such occasions, I believe it is customary to wear a dead plant. (She pins it to his lapel.)
+<sd>Opening shot: <char>Beast Boy</char>, now a gorilla, slugging it out with a few of Killer Moth's crazed insects. Pull back to show him atop a bridge column; tilt down slightly to show a group of moths working their way through a cable and breaking it with ease. Elsewhere, <char>Raven</char> has her hands full with a few dozen others when the free end swings past her. She looks down wide-eyed after it; cut to the dropping cable and follow it down.</sd>
 
-Robin: Star...you're supposed to be helping the others track down Killer Moth.
+<sp><spkr ref="Raven">Raven</spkr> <sd>from o.c.</sd> Azarath Metrion Zinthos!</sp>
 
-Starfire: Your orders were to investigate the girl. I intend to investigate her thoroughly. Besides, you may require saving. This Kitten is perhaps some form of ooze monster in disguise. She certainly is ugly like a monster, yes?
+<sd>As she finishes the spell, the mass of wires comes under her influence and stops just short of crushing <char>Cyborg</char>. As it is levitated away, he fires his cannon at will.</sd>
 
-(Sight gag: during the words, some form of ooze monster, and she turns her head into a growling mass of slime. After she finishes, a car horn is heard honking o.c. Both stare in its direction, an exclamation point popping up over Robin's head, and near the gangplank a pink limousine pulls up. Pan to its rear passenger door, which opens, and cut to ground level as a pair of pink high heels steps out under the hem of a matching gown. Pull back; it is Kitten, having gone strapless with a corsage of her own on display. She looks around for a moment, then waves.)
+<sp><spkr ref="Cyborg">Cyborg</spkr> There's too many! We're not gonna..</sp>
 
-Kitten: Yoo-hoo! Robbie-poo! Your Kitten has arrived! Me-ow!
+<sd>The moths leave him alone.</sd> ...make it?
 
-(Starfire stares popeyed as Robin cocks a very nervous eyebrow at the new arrival. He finally gets his feet moving.)
+<sd>Pull back to show that the black flying cloud is making a very rapid exit. <char>Raven</char> drops to ground level to stare after them, and <char>Beast Boy</char> jumps onto a wrecked truck, then down to join them as he returns to human form.</sd>
 
-Robin: Second thought, maybe I will need saving.
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> Um...what just happened</sp>
 
-(Starfire fumes silently as he leaves her. Cut to him and pan to follow his trudging footsteps across the dock, past the staring couples to Kitten.)
+<sd><char>Raven</char> activates her communicator; the others gather around.</sd>
 
-Kitten: (loudly) Oh, Robin! (drapes herself on him) My date! Robin! Don't you look handsome! (softly and nastily) Compliment me on my dress.
+<sp><spkr ref="Robin">Robin</spkr> <sd>over the comm</sd> I bought you some time
 
-Robin: No.
+    <sd>Close-up; he is on screen.</sd> <char>Killer Moth</char>.</sp>
 
-Kitten: Do it, or else!
+<sd>The villain's face appears in place of his own.</sd>
 
-Robin: (bitterly) Nice dress.
+<sp><spkr ref="Robin">Robin</spkr> <sd>over comm</sd> He's controlling the mutant insects. Find him and stop him
 
-Kitten: (loudly, with a gasp) Oh, Robin! (Cut to various guests; turning to stare; she continues o.c.) You're such a gentleman! Not at all like my worthless ex-boyfriend Fang!
+    <sd>shows <char>Kitten</char></sd> Start your search with her.</sp>
 
-(Cut back to the two in time for this final insult. Sight gag: to deliver it, three more heads pop out on her shoulders and all four turn their mouths into loudspeakers, amplifying the words. The gag ends, and she slides closer to Robin, elbow crooked, as he lets off a visible sigh of relief.)
+<sd>She winks. Cut to the operations center screen, which shows the three Titans.</sd>
 
-Kitten: Now take my arm, lead me in, (Robin takes her elbow.) and would it kill you to smile?
+<sp><spkr ref="Raven">Raven</spkr> Who is she?</sp>
 
-(He forces a savagely lopsided grin onto his face, cheeks creaking and popping with the effort as if his whole face is about to split apart.)
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> Huh?</sp>
 
-Robin: (through gritted teeth) Maybe.
+<sd>Pull back; the other two are here, and <char>Starfire</char> has put herself back together after her burnout.</sd>
 
-(He pulls her toward the gangplank. Behind the crowd, Starfire floats closer, the toes of her shoes striking sparks against the concrete. More sparks fly from her grinding teeth as her eyes blaze and smoke with pure rage; she brings one fist up and slams it onto the hood of Kitten's limo. The force of the blow ruins the entire front end and causes the car to flip briefly up onto that pair of wheels. When it comes down, the rest of the bodywork crumples and all the windows crack.)
+<sp><spkr ref="Starfire">Starfire</spkr> <sd>turns away</sd> She is a manipulative gremplork not worthy of Robin's time.</sp>
 
-(Dissolve to a long shot of the ship, now sailing the waters of Jump City Bay, then cut to a pan across the deck. It has been set up with balloon-decorated tables and chairs, as well as a large open area for a dance floor, and many couples are taking advantage of the latter as a slow tune plays. Stop on Robin and Kitten, seated at a table near the rail; he rocks back and forth irritably, while she seems to be having the time of her life. Zoom in on them. After a few seconds, the smile disappears from her face as if someone had thrown a switch.)
+<sp><spkr ref="Robin">Robin</spkr> Name's <char>Kitten</char>. She's got some kind of connection to <char>Killer Moth</char>. Find the connection, and I bet you'll find him
 
-Kitten: Ask me to dance. (He stops rocking.)
+    <sd>glances at an indignant <char>Starfire</char> in foreground</sd> <char>Starfire</char> will join you to help with the search</sp>
 
-Robin: I don't dance.
+<sd>Focus shifts from him to her.</sd>
 
-Kitten: (comes around him loudly and cheerfully) Come on, Robbie-poo. (tries to pull him up) You've never, ever danced before?
+<sp><spkr ref="Starfire">Starfire</spkr> Hmph</sp>
 
-Robin: Tried it once. Didn't like it.
+<sd>Back to the others.</sd>
 
-Kitten: (softly) Fine! (pulls out a cell phone) Then I can have the whole city destroyed...or...we can just skip straight to the kissing. (A nasty grin has creased her face by now.)
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> Hey, what about you? Aren't you gonna help us?</sp>
 
-Robin: (wearily) Wanna dance?
+<sp><spkr ref="Robin">Robin</spkr> <sd>over the comm</sd> I can't</sp>
 
-(She nods, and with a yell, he is hauled onto the floor. His dislike of the high-stepping arts is perhaps an aftereffect of the rave that turned into a knockdown/drag-out brawl in "Sisters".)
+<sd>On screen, his face is shown.</sd> I have a date.
 
-Kitten: (loudly, sight gag; head grows) Oh, Robin, of course I'd love to dance with you!
+<sd>Question marks pop up above all three very puzzled faces. Tilt up from them to one of the bridge columns, then down again as the view dissolves to a docked cruise ship whose horn sound loudly. It is that same evening, and the dock is crowded with high school students in their best finery. Lights blaze from the rigging and cabin, and above the gangplank is a banner: "Junior Prom Your Date With Destiny." The party is in full swing, as is the music. Near the camera, the R-Cycle pulls partway into view and revs down its engine; <char>Robin</char> climbs off, removes his helmet, and turns to face us. He has traded in his usual outfit for a tuxedo, though his mask is still firmly in place.</sd>
 
-(Other couples move out of the way, and she giggles and sweeps him into a boisterous turn. Starfire, about to dip from the punch bowl, literally cannot see straight as her irises and pupils have briefly disappeared. Her jaw hangs slack; sight gag; her mouth slides down to hang by one corner from her chin, then drops loose and splashes in.)
+<sd>The world's most reluctant prom date adjusts his lapels, sighs heavily, and tugs at his collar.</sd>
 
-Male guest: (from o.c.) Um... (Starfure's eyes and hand glow.) ...could we have some punch?
+<sp><spkr ref="Robin">Robin</spkr> Really hoping she doesn't show.</sp>
 
-(The bowl steams and boils from the energy flowing through her hand to the ladle. As she edges closer to blowing her top, the camera pans slightly to show the speaker and his date coming up on one side. Starfire turns to face them and lets off a bellowing animal roar, her head growing and her mouth opening to expose several rows of deadly sharp teeth in a fearsome sight gag. The young woman on the receiving end gasps in fright.)
+<sd>A lavender-gloved hand reaches into view and taps his shoulder, instantly putting him in the wrong mood. He slowly swivels his head around in that direction; cut to a pair of feet poking from under the hem of a full-length gown and tilt up. The garment and shoes are a darker shade than the gloves, which extend past the elbows, and the hands cradle a carnation. When the camera reaches the head, the owner of all these assorted body parts and clothing is revealed to be not <char>Kitten</char> but <char>Starfire</char>, silhouetted against the full moon and looking absolutely stunning. For someone who is still learning her way around Earth culture, she is certainly a quick study when it comes to formal wear. She has removed her neck piece.</sd>
 
-(Out on the dance floor, Robin extricates himself from Kitten's hold as the music ends.)
+<sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> <char>Starfire</char>?</sp>
 
-Robin: Okay. That's over.
+<sp><spkr ref="Starfire">Starfire</spkr> On such occasions, I believe it is customary to wear a dead plant</sp>
 
-(He walks o.c.; a new song starts up, prompting a happy gasp from her.)
+<sd>She pins it to his lapel.</sd>
 
-Kitten: Ooh, goody! (yanks Robin back) Another slow dance!
+<sp><spkr ref="Robin">Robin</spkr> Star...you're supposed to be helping the others track down <char>Killer Moth</char>.</sp>
 
-(They start to go around again, her face showing subdued delight and his displaying no emotion whatsoever. Pan slowly to follow them across the floor through several turns.)
+<sp><spkr ref="Starfire">Starfire</spkr> Your orders were to investigate the girl. I intend to investigate her thoroughly. Besides, you may require saving. This <char>Kitten</char> is perhaps some form of ooze monster in disguise. She certainly is ugly like a monster, yes?</sp>
 
-Kitten: From now on, Robbie-poo, this'll always be our song.
+<sd>Sight gag: during the words, some form of ooze monster, and she turns her head into a growling mass of slime. After she finishes, a car horn is heard honking o.c. Both stare in its direction, an exclamation point popping up over Robin's head, and near the gangplank a pink limousine pulls up. Pan to its rear passenger door, which opens, and cut to ground level as a pair of pink high heels steps out under the hem of a matching gown. Pull back; it is <char>Kitten</char>, having gone strapless with a corsage of her own on display. She looks around for a moment, then waves.</sd>
 
-(She rests her head on his shoulder; he responds by opening his communicator and holding it at arm's length past her back.)
+<sp><spkr ref="Kitten">Kitten</spkr> Yoo-hoo! Robbie-poo! Your <char>Kitten</char> has arrived! Me-ow!</sp>
 
-Robin: (softly) Please tell me you guys have found Killer Moth.
+<sd><char>Starfire</char> stares popeyed as <char>Robin</char> cocks a very nervous eyebrow at the new arrival. He finally gets his feet moving.</sd>
 
-(Cut to Cyborg, on the other end of this call. He is in a darkened place, watching Robin's flickering image on his forearm panel.)
+<sp><spkr ref="Robin">Robin</spkr> Second thought, maybe I will need saving.</sp>
 
-Cyborg: (softly) Not yet. (Pull back and pan across the area, a living room.) But we tracked down your girlfriend's home address.
+<sd><char>Starfire</char> fumes silently as he leaves her. Cut to him and pan to follow his trudging footsteps across the dock, past the staring couples to <char>Kitten</char>.</sd>
 
-(Beast Boy comes into view, then Raven, both inspecting different parts of the decor. Back to Cyborg; Robin's image leans out of the panel.)
+<sp><spkr ref="Kitten">Kitten</spkr> <sd>loudly</sd> Oh, Robin
 
-Robin: (angrily) She's not my---
+    <sd>drapes herself on him</sd> My date! <char>Robin</char>! Don't you look handsome
 
-(Pan to Beast Boy, who is poking at a small statue of a horse. He cries out as it begins to topple on its base, but instead of falling over, its eyes glow and the section of floor it is standing on sinks out of sight. The piece of wall behind it flips down to cover the new hole, revealing a staircase that leads down into darkness.)
+    <sd>softly and nastily</sd> Compliment me on my dress.</sp>
 
-Beast Boy: (from o.c.) Whoa... (Cut to the three, moving closer.)
+<sp><spkr ref="Robin">Robin</spkr> No.</sp>
 
-Raven: Well, that's not suspicious.
+<sp><spkr ref="Kitten">Kitten</spkr> Do it, or else!</sp>
 
-(The green klutz advances toward the camera as the view fades to black.)
+<sp><spkr ref="Robin">Robin</spkr> <sd>bitterly</sd> Nice dress.</sp>
 
-(Snap to the bottom of the stairs; the light down here is as bad as it was in the living room. Beast Boy is first to descend, his shadow stretching yards ahead of him on the bare floor as the others come down at a distance behind. Cut to another section of this place, with a cord hanging from the ceiling. One by one, the three move over here for as good a look as they can get under the circumstances. Beast Boy blunders up against the cord and lets off a panicked scream, but he soon realizes that it poses no danger. A tug brings up the lights and reveals a holding pen filled with Killer Moth's multitudes behind them; this is his basement. Dissolve/pull back to a shot of him, seen from within another pen through the mass of buzzing silhouettes, then pull back farther until the camera has gone out the other side and backed up down a distant aisle.)
+<sp><spkr ref="Kitten">Kitten</spkr> <sd>loudly, with a gasp</sd> Oh, Robin
 
-(Cut back to the trio. Beast Boy and Raven flip open their communicators, while Cyborg fires up the one in his forearm.)
+    <sd>Cut to various guests; turning to stare; she continues o.c.</sd> You're such a gentleman! Not at all like my worthless ex-boyfriend <char>Fang</char>!</sp>
 
-Beast Boy, Cyborg and Raven: (in unison) Found him.
+<sd>Cut back to the two in time for this final insult. Sight gag: to deliver it, three more heads pop out on her shoulders and all four turn their mouths into loudspeakers, amplifying the words. The gag ends, and she slides closer to <char>Robin</char>, elbow crooked, as he lets off a visible sigh of relief.</sd>
 
-(Overhead view of the basement, panning quickly around the place and cutting back to Cyborg on the end of this line. The lights begin to flicker.)
+<sp><spkr ref="Kitten">Kitten</spkr> Now take my arm, lead me in</sp>
 
-Killer Moth: (from o.c.) Yes, you've found me, but you'll soon be wishing you hadn't.
+<sd><char>Robin</char> takes her elbow.</sd> and would it kill you to smile?
 
-(That huge insect/humanoid shadow throws itself over Cyborg, whose jaw falls open as he looks toward the ceiling, and the camera zooms in slightly and tilts up. Killer Moth is clinging to the overhead light; a king-size example of moths' tendency to gravitate toward bright things, and he glares down at them with unbridled fury and lets go. Long shot of the fixture, the camera pointing straight up; he drops toward it with a loud growl as it backs up, and the dark fuzz between his eyes fills the screen to black it out.)
-ACT THREE
+<sd>He forces a savagely lopsided grin onto his face, cheeks creaking and popping with the effort as if his whole face is about to split apart.</sd>
 
-(Opening shot: the evening sky. Tilt down to the deck of the cruise ship, where Robin still has his communicator at arm's length to keep it out of Kitten's field of view. Her head is still nestled on his shoulder, but she soon lifts it and he tucks the device away as other couples dance past. Close-up of her.)
+<sp><spkr ref="Robin">Robin</spkr> <sd>through gritted teeth</sd> Maybe.</sp>
 
-Kitten: Kiss me. (She puckers up.)
+<sd>He pulls her toward the gangplank. Behind the crowd, <char>Starfire</char> floats closer, the toes of her shoes striking sparks against the concrete. More sparks fly from her grinding teeth as her eyes blaze and smoke with pure rage; she brings one fist up and slams it onto the hood of Kitten's limo. The force of the blow ruins the entire front end and causes the car to flip briefly up onto that pair of wheels. When it comes down, the rest of the bodywork crumples and all the windows crack.</sd>
 
-Robin: (from o.c.) Sorry. (Pull back to frame both.) I don't like you that way. (smirks) Matter of fact, I just don't like you.
+<sd>Dissolve to a long shot of the ship, now sailing the waters of Jump City Bay, then cut to a pan across the deck. It has been set up with balloon-decorated tables and chairs, as well as a large open area for a dance floor, and many couples are taking advantage of the latter as a slow tune plays. Stop on <char>Robin</char> and <char>Kitten</char>, seated at a table near the rail; he rocks back and forth irritably, while she seems to be having the time of her life. Zoom in on them. After a few seconds, the smile disappears from her face as if someone had thrown a switch.</sd>
 
-(Starfire, watching from across the dance floor, pumps her fist upon hearing this.)
+<sp><spkr ref="Kitten">Kitten</spkr> Ask me to dance</sp>
 
-Starfire: (to herself) Yes! (Sight gag: Kitten's head briefly inflates like a parade balloon.)
+<sd>He stops rocking.</sd>
 
-Kitten: WHAT?!?
+<sp><spkr ref="Robin">Robin</spkr> I don't dance.</sp>
 
-(The force of her yell blows Robin's hair back for a moment, but he calmly flips open his communicator.)
+<sp><spkr ref="Kitten">Kitten</spkr> <sd>comes around him loudly and cheerfully</sd> Come on, Robbie-poo</sp>
 
-Robin: Killer Moth's being taken down as we speak. (tucks his communicator in his pocket and turns away) We're done here.
+<sd>tries to pull him up</sd> You've never, ever danced before?
 
-Kitten: (tearing off corsage) No, we are not!
+<sp><spkr ref="Robin">Robin</spkr> Tried it once. Didn't like it.</sp>
 
-(A few petals flutter down, revealing a push-button controller within the blossoms.)
+<sp><spkr ref="Kitten">Kitten</spkr> <sd>softly</sd> Fine</sp>
 
-Kitten: Daddy's not calling the shots tonight, Robbie-poo. I am!
+<sd>pulls out a cell phone</sd> Then I can have the whole city destroyed...or...we can just skip straight to the kissing
 
-Robin: (stunned) Daddy?
+<sd>A nasty grin has creased her face by now.</sd>
 
-Kitten: And unless you want me to let those nasty bugs out for a late-night snack...
+<sp><spkr ref="Robin">Robin</spkr> <sd>wearily</sd> Wanna dance?</sp>
 
-(She hooks her free hand into his shirt front and yanks him in close as Starfire watches, paralyzed with shock.)
+<sd>She nods, and with a yell, he is hauled onto the floor. His dislike of the high-stepping arts is perhaps an aftereffect of the rave that turned into a knockdown/drag-out brawl in "Sisters".</sd>
 
-Kitten: ...you better pucker up!
+<sp><spkr ref="Kitten">Kitten</spkr> <sd>loudly, sight gag; head grows</sd> Oh, <char>Robin</char>, of course I'd love to dance with you!</sp>
 
-(Close-up of Starfire, who once again cannot see straight due to the surprise of finding out that Robin is dancing with Killer Moth's daughter. She gasps, and the picture cracks and falls apart to show Robin's perspective of his insane prom date. Kitten leans toward the camera, pursing her lips eagerly for a kiss until they fill the entire screen. Pull back to frame both; he is doing his level best to keep any and every part of his face out of reach and shutting his eyes as tightly as he can. Opening one of them fully, then the other, he recoils even farther in horror. His perspective again: now her mouth looks something like that of a fish gasping for air after being reeled into the boat. The attempted smooch is brought up short by his finger on her lips; pull back to frame both as he pushes her away.)
+<sd>Other couples move out of the way, and she giggles and sweeps him into a boisterous turn. <char>Starfire</char>, about to dip from the punch bowl, literally cannot see straight as her irises and pupils have briefly disappeared. Her jaw hangs slack; sight gag; her mouth slides down to hang by one corner from her chin, then drops loose and splashes in.</sd>
 
-Robin: Not even if you paid me.
+<sp><spkr ref="MaleGuest">Male guest</spkr> <sd>from o.c.</sd> Um..</sp>
 
-(One swift grab takes the controller from her hand into his; she gasps and tries to seize it, but he holds it out of reach. In a twinkling, the two have begun a back-and-forth struggle, with Kitten concentrating on that particular set of five fingers and how to unhinge them. She ends up hanging backward over Robin's other arm, looking upside-down at everything, and her eyes pop huge for a moment.)
+<sd>Starfure's eyes and hand glow.</sd> ...could we have some punch?
 
-Kitten: Fang? (Robin looks that way; his eyes pop, too.)
+<sd>The bowl steams and boils from the energy flowing through her hand to the ladle. As she edges closer to blowing her top, the camera pans slightly to show the speaker and his date coming up on one side. <char>Starfire</char> turns to face them and lets off a bellowing animal roar, her head growing and her mouth opening to expose several rows of deadly sharp teeth in a fearsome sight gag. The young woman on the receiving end gasps in fright.</sd>
 
-Robin: That's your boyfriend?
+<sd>Out on the dance floor, <char>Robin</char> extricates himself from Kitten's hold as the music ends.</sd>
 
-(She seizes the moment and grabs the button from his hand. Across the deck, prom guests begin to panic and flee as Kitten's ex-boyfriend approaches; he is none other than the thief who pulled off the jewelry store robbery in Act One. Despite his grotesque appearance, his voice is perfectly normal for a teenage boy. He knocks tables and chairs out of the way.)
+<sp><spkr ref="Robin">Robin</spkr> Okay. That's over.</sp>
 
-Fang: Get your hands off my girl!
+<sd>He walks o.c.; a new song starts up, prompting a happy gasp from her.</sd>
 
-(Back to Robin, who drops Kitten like a ton of bricks in order to have both hands free. He blocks a few swings of those huge legs, but one knocks him aside. Fang steps over to Kitten and is about to help her up; before he can do so, a starbolt flashes into view and plows him away. Quick pan to Starfire, still by the punch bowl, with more shots ready to go.)
+<sp><spkr ref="Kitten">Kitten</spkr> Ooh, goody</sp>
 
-Starfire: Keep your legs off my boy! (Robin stands up; she winds down.) Robin, are you injured?
+<sd>yanks <char>Robin</char> back</sd> Another slow dance!
 
-Robin: Best I've felt all day.
+<sd>They start to go around again, her face showing subdued delight and his displaying no emotion whatsoever. Pan slowly to follow them across the floor through several turns.</sd>
 
-(As he says this, he tears off the monkey suit with one easy motion, revealing his normal outfit beneath his gloves and all, and drops it to the deck. Kitten runs over to Fang, who has fetched up against a table and upset it, but is now trying to stand.)
+<sp><spkr ref="Kitten">Kitten</spkr> From now on, Robbie-poo, this'll always be our song.</sp>
 
-Kitten: Fangie-poo! (He lowers his human body to her level.) You really do care!
+<sd>She rests her head on his shoulder; he responds by opening his communicator and holding it at arm's length past her back.</sd>
 
-("Fangie" is pronounced with a hard G. Close-up of these two; they are in focus, while the periphery of the screen is blurred.)
+<sp><spkr ref="Robin">Robin</spkr> <sd>softly</sd> Please tell me you guys have found <char>Killer Moth</char>.</sp>
 
-Fang: Let's never fight again, baby.
+<sd>Cut to <char>Cyborg</char>, on the other end of this call. He is in a darkened place, watching Robin's flickering image on his forearm panel.</sd>
 
-(All his spider legs extend into view, holding out several stolen bracelets that make her gasp in delight. She throws her arms around his neck.)
+<sp><spkr ref="Cyborg">Cyborg</spkr> <sd>softly</sd> Not yet</sp>
 
-Kitten: Oh, Fang! (They kiss.)
+<sd>Pull back and pan across the area, a living room.</sd> But we tracked down your girlfriend's home address.
 
-Robin: (from o.c.) You know...
+<sd><char>Beast Boy</char> comes into view, then <char>Raven</char>, both inspecting different parts of the decor. Back to <char>Cyborg</char>; Robin's image leans out of the panel.</sd>
 
-(Normal shot: Robin and Starfire stand ready for action. She is back in her usual outfit.)
+<sp><spkr ref="Robin">Robin</spkr> <sd>angrily</sd> She's not my---</sp>
+
+<sd>Pan to <char>Beast Boy</char>, who is poking at a small statue of a horse. He cries out as it begins to topple on its base, but instead of falling over, its eyes glow and the section of floor it is standing on sinks out of sight. The piece of wall behind it flips down to cover the new hole, revealing a staircase that leads down into darkness.</sd>
+
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>from o.c.</sd> Whoa..</sp>
+
+<sd>Cut to the three, moving closer.</sd>
+
+<sp><spkr ref="Raven">Raven</spkr> Well, that's not suspicious.</sp>
+
+<sd>The green klutz advances toward the camera as the view fades to black.</sd>
+
+<sd>Snap to the bottom of the stairs; the light down here is as bad as it was in the living room. <char>Beast Boy</char> is first to descend, his shadow stretching yards ahead of him on the bare floor as the others come down at a distance behind. Cut to another section of this place, with a cord hanging from the ceiling. One by one, the three move over here for as good a look as they can get under the circumstances. <char>Beast Boy</char> blunders up against the cord and lets off a panicked scream, but he soon realizes that it poses no danger. A tug brings up the lights and reveals a holding pen filled with Killer Moth's multitudes behind them; this is his basement. Dissolve/pull back to a shot of him, seen from within another pen through the mass of buzzing silhouettes, then pull back farther until the camera has gone out the other side and backed up down a distant aisle.</sd>
+
+<sd>Cut back to the trio. <char>Beast Boy</char> and <char>Raven</char> flip open their communicators, while <char>Cyborg</char> fires up the one in his forearm.</sd>
+
+<sp><spkr ref="BeastBoy Cyborg Raven">Beast Boy, Cyborg, and Raven</spkr> <sd>in unison</sd> Found him.</sp>
+
+<sd>Overhead view of the basement, panning quickly around the place and cutting back to <char>Cyborg</char> on the end of this line. The lights begin to flicker.</sd>
+
+<sp><spkr ref="KillerMoth">Killer Moth</spkr> <sd>from o.c.</sd> Yes, you've found me, but you'll soon be wishing you hadn't.</sp>
+
+<sd>That huge insect/humanoid shadow throws itself over <char>Cyborg</char>, whose jaw falls open as he looks toward the ceiling, and the camera zooms in slightly and tilts up. <char>Killer Moth</char> is clinging to the overhead light; a king-size example of moths' tendency to gravitate toward bright things, and he glares down at them with unbridled fury and lets go. Long shot of the fixture, the camera pointing straight up; he drops toward it with a loud growl as it backs up, and the dark fuzz between his eyes fills the screen to black it out.</sd>
+</act><act n="3">
+<title>Act Three</title>
+
+<sd>Opening shot: the evening sky. Tilt down to the deck of the cruise ship, where <char>Robin</char> still has his communicator at arm's length to keep it out of Kitten's field of view. Her head is still nestled on his shoulder, but she soon lifts it and he tucks the device away as other couples dance past. Close-up of her.</sd>
+
+<sp><spkr ref="Kitten">Kitten</spkr> Kiss me</sp>
+
+<sd>She puckers up.</sd>
+
+<sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> Sorry</sp>
+
+<sd>Pull back to frame both.</sd> I don't like you that way
+
+<sd>smirks</sd> Matter of fact, I just don't like you.
+
+<sd><char>Starfire</char>, watching from across the dance floor, pumps her fist upon hearing this.</sd>
+
+<sp><spkr ref="Starfire">Starfire</spkr> <sd>to herself</sd> Yes</sp>
+
+<sd>Sight gag: Kitten's head briefly inflates like a parade balloon.</sd>
+
+<sp><spkr ref="Kitten">Kitten</spkr> WHAT?!?</sp>
+
+<sd>The force of her yell blows Robin's hair back for a moment, but he calmly flips open his communicator.</sd>
+
+<sp><spkr ref="Robin">Robin</spkr> Killer Moth's being taken down as we speak</sp>
+
+<sd>tucks his communicator in his pocket and turns away</sd> We're done here.
+
+<sp><spkr ref="Kitten">Kitten</spkr> <sd>tearing off corsage</sd> No, we are not!</sp>
+
+<sd>A few petals flutter down, revealing a push-button controller within the blossoms.</sd>
+
+<sp><spkr ref="Kitten">Kitten</spkr> Daddy's not calling the shots tonight, Robbie-poo. I am!</sp>
+
+<sp><spkr ref="Robin">Robin</spkr> <sd>stunned</sd> Daddy?</sp>
+
+<sp><spkr ref="Kitten">Kitten</spkr> And unless you want me to let those nasty bugs out for a late-night snack...</sp>
+
+<sd>She hooks her free hand into his shirt front and yanks him in close as <char>Starfire</char> watches, paralyzed with shock.</sd>
+
+<sp><spkr ref="Kitten">Kitten</spkr> ...you better pucker up!</sp>
+
+<sd>Close-up of <char>Starfire</char>, who once again cannot see straight due to the surprise of finding out that <char>Robin</char> is dancing with Killer Moth's daughter. She gasps, and the picture cracks and falls apart to show Robin's perspective of his insane prom date. <char>Kitten</char> leans toward the camera, pursing her lips eagerly for a kiss until they fill the entire screen. Pull back to frame both; he is doing his level best to keep any and every part of his face out of reach and shutting his eyes as tightly as he can. Opening one of them fully, then the other, he recoils even farther in horror. His perspective again: now her mouth looks something like that of a fish gasping for air after being reeled into the boat. The attempted smooch is brought up short by his finger on her lips; pull back to frame both as he pushes her away.</sd>
+
+<sp><spkr ref="Robin">Robin</spkr> Not even if you paid me.</sp>
+
+<sd>One swift grab takes the controller from her hand into his; she gasps and tries to seize it, but he holds it out of reach. In a twinkling, the two have begun a back-and-forth struggle, with <char>Kitten</char> concentrating on that particular set of five fingers and how to unhinge them. She ends up hanging backward over Robin's other arm, looking upside-down at everything, and her eyes pop huge for a moment.</sd>
+
+<sp><spkr ref="Kitten">Kitten</spkr> <char>Fang</char></sp>
+
+<sd><char>Robin</char> looks that way; his eyes pop, too.</sd>
+
+<sp><spkr ref="Robin">Robin</spkr> That's your boyfriend?</sp>
+
+<sd>She seizes the moment and grabs the button from his hand. Across the deck, prom guests begin to panic and flee as Kitten's ex-boyfriend approaches; he is none other than the thief who pulled off the jewelry store robbery in Act One. Despite his grotesque appearance, his voice is perfectly normal for a teenage boy. He knocks tables and chairs out of the way.</sd>
+
+<sp><spkr ref="Fang">Fang</spkr> Get your hands off my girl!</sp>
+
+<sd>Back to <char>Robin</char>, who drops <char>Kitten</char> like a ton of bricks in order to have both hands free. He blocks a few swings of those huge legs, but one knocks him aside. <char>Fang</char> steps over to <char>Kitten</char> and is about to help her up; before he can do so, a starbolt flashes into view and plows him away. Quick pan to <char>Starfire</char>, still by the punch bowl, with more shots ready to go.</sd>
+
+<sp><spkr ref="Starfire">Starfire</spkr> Keep your legs off my boy
+
+    <sd><char>Robin</char> stands up; she winds down.</sd> <char>Robin</char>, are you injured?</sp>
+
+<sp><spkr ref="Robin">Robin</spkr> Best I've felt all day.</sp>
+
+<sd>As he says this, he tears off the monkey suit with one easy motion, revealing his normal outfit beneath his gloves and all, and drops it to the deck. <char>Kitten</char> runs over to <char>Fang</char>, who has fetched up against a table and upset it, but is now trying to stand.</sd>
+
+<sp><spkr ref="Kitten">Kitten</spkr> Fangie-poo</sp>
+
+<sd>He lowers his human body to her level.</sd> You really do care!
+
+<sd>"Fangie" is pronounced with a hard G. Close-up of these two; they are in focus, while the periphery of the screen is blurred.</sd>
+
+<sp><spkr ref="Fang">Fang</spkr> Let's never fight again, baby.</sp>
+
+<sd>All his spider legs extend into view, holding out several stolen bracelets that make her gasp in delight. She throws her arms around his neck.</sd>
+
+<sp><spkr ref="Kitten">Kitten</spkr> Oh, <char>Fang</char></sp>
+
+<sd>They kiss.</sd>
+
+<sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> You know...</sp>
+
+<sd>Normal shot: <char>Robin</char> and <char>Starfire</char> stand ready for action. She is back in her usual outfit.</sd>
 
 [Animation goof: Her armband is missing in this shot.]
 
-Robin: ...you two make a really bad couple.
+<sp><spkr ref="Robin">Robin</spkr> ...you two make a really bad couple.</sp>
 
-(Said couple glares at him for a moment, after which Fang lets go of Kitten and charges. Cut to the side of one of Killer Moth's pens; Cyborg backs into view and dodges a swing, then gets driven to the floor when the winged evildoer climbs up his chest and vaults away. He and Beast Boy canvass the vicinity, but turn up nothing. Ditto for Raven, but in a moment, Killer Moth is leaping toward her. She floats up out of reach, levitates several bags of feed, and sends them down at him; he bats them away easily and jumps up to grab her shoulders. After his feet touch the ceiling, he slings her away and is promptly shot down by a blast from Cyborg's cannon.)
+<sd>Said couple glares at him for a moment, after which <char>Fang</char> lets go of <char>Kitten</char> and charges. Cut to the side of one of Killer Moth's pens; <char>Cyborg</char> backs into view and dodges a swing, then gets driven to the floor when the winged evildoer climbs up his chest and vaults away. He and <char>Beast Boy</char> canvass the vicinity, but turn up nothing. Ditto for <char>Raven</char>, but in a moment, <char>Killer Moth</char> is leaping toward her. She floats up out of reach, levitates several bags of feed, and sends them down at him; he bats them away easily and jumps up to grab her shoulders. After his feet touch the ceiling, he slings her away and is promptly shot down by a blast from Cyborg's cannon.</sd>
 
-(As soon as he hits the floor, Beast Boy transforms into a wolf and lunges at him. The insect who would be king seizes both forelegs, letting go a scream that puts a surprised stare in their owner's eyes. Cut to Cyborg, rushing down one aisle; the lupine Titan is hurled into view, bowling him over. Pan to where all three have landed. Beast Boy is back in human form and severely dazed from the collision, but he shakes his head to clear it.)
+<sd>As soon as he hits the floor, <char>Beast Boy</char> transforms into a wolf and lunges at him. The insect who would be king seizes both forelegs, letting go a scream that puts a surprised stare in their owner's eyes. Cut to <char>Cyborg</char>, rushing down one aisle; the lupine Titan is hurled into view, bowling him over. Pan to where all three have landed. <char>Beast Boy</char> is back in human form and severely dazed from the collision, but he shakes his head to clear it.</sd>
 
-Beast Boy: For a weirdo who lives in his basement, this guy's pretty tough.
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> For a weirdo who lives in his basement, this guy's pretty tough.</sp>
 
-(Wipe to the cruise ship deck. Fang stands there, Kitten behind; pull back as he spews a torrent of spider silk across the dance floor. Robin nimbly dodges the glop, but Starfire is his dead on ad driven back into the sky. He stops near the rail, where the couple previously seen at the punch bowl walk into view; the young woman is laughing.)
+<sd>Wipe to the cruise ship deck. <char>Fang</char> stands there, <char>Kitten</char> behind; pull back as he spews a torrent of spider silk across the dance floor. <char>Robin</char> nimbly dodges the glop, but <char>Starfire</char> is his dead on ad driven back into the sky. He stops near the rail, where the couple previously seen at the punch bowl walk into view; the young woman is laughing.</sd>
 
-Male guest: Let's hit the dance flo--
+<sp><spkr ref="MaleGuest">Male Guest</spkr> Let's hit the dance flo--</sp>
 
-(They instead take a hit from Fang's venom and become living, gray-tinged statues. A second blast just misses Robin, and Fang sets out after him. At the rail, the Boy Wonder stops to face him and has to block a flurry of spider-leg strikes. He manages to grab all four limbs at once, setting off a tug-of-war between the two combatants. It ends when Robin heaves with all his strength and sends Fang tumbling overboard.)
+<sd>They instead take a hit from Fang's venom and become living, gray-tinged statues. A second blast just misses <char>Robin</char>, and <char>Fang</char> sets out after him. At the rail, the Boy Wonder stops to face him and has to block a flurry of spider-leg strikes. He manages to grab all four limbs at once, setting off a tug-of-war between the two combatants. It ends when <char>Robin</char> heaves with all his strength and sends <char>Fang</char> tumbling overboard.</sd>
 
-(Close-up of the Titan, who looks past the rail expecting to see and hear the felon splash into Jump City Bay. Instead, his eyes bug out and an exclamation mark pops up by his head.)
+<sd>Close-up of the Titan, who looks past the rail expecting to see and hear the felon splash into Jump City Bay. Instead, his eyes bug out and an exclamation mark pops up by his head.</sd>
 
-Robin: Huh?
+<sp><spkr ref="Robin">Robin</spkr> Huh?</sp>
 
-(Cut to just above him, looking down. With all four spider legs climbing up the side of the ship, Fang spits silk up at him and barely misses Deck level; the creature gets over the rail, wrecking a table, and leaps high above the planks. On the way down, he whirls his legs like a high-speed flail and forces Robin to back up while blocking the hits. The human limbs are now brought into play instead; Fang and Robin dodge each other's blows, the former swinging his human body high overhead to gain momentum. More furniture goes flying all over the deck in the course of this punching match, and Fang finally connects with a spider kick that sends Robin spinning through the air.)
+<sd>Cut to just above him, looking down. With all four spider legs climbing up the side of the ship, <char>Fang</char> spits silk up at him and barely misses Deck level; the creature gets over the rail, wrecking a table, and leaps high above the planks. On the way down, he whirls his legs like a high-speed flail and forces <char>Robin</char> to back up while blocking the hits. The human limbs are now brought into play instead; <char>Fang</char> and <char>Robin</char> dodge each other's blows, the former swinging his human body high overhead to gain momentum. More furniture goes flying all over the deck in the course of this punching match, and <char>Fang</char> finally connects with a spider kick that sends <char>Robin</char> spinning through the air.</sd>
 
-(He catches a string of lights and hangs there for a moment; Fang hisses up at him, runs to the cabin, and scuttles straight up its wall. A leap carries him up to the cables, and the camera pulls back to show hero and villain facing off with four wires between them. Robin swings from one to the next, dodging gluey spurts along the way, and launches himself into an incredibly high leap that silhouettes him against the moon. With one leg extended for a kick, he descends straight toward Fang; there is a flash when he connects, and the camera cuts to an overhead view of the deck. Fang drops into view and crashes down on one of the surviving tables; he has been knocked silly. The balloons attached to its centerpiece float free.)
+<sd>He catches a string of lights and hangs there for a moment; <char>Fang</char> hisses up at him, runs to the cabin, and scuttles straight up its wall. A leap carries him up to the cables, and the camera pulls back to show hero and villain facing off with four wires between them. <char>Robin</char> swings from one to the next, dodging gluey spurts along the way, and launches himself into an incredibly high leap that silhouettes him against the moon. With one leg extended for a kick, he descends straight toward <char>Fang</char>; there is a flash when he connects, and the camera cuts to an overhead view of the deck. <char>Fang</char> drops into view and crashes down on one of the surviving tables; he has been knocked silly. The balloons attached to its centerpiece float free.</sd>
 
-(One of them passes by the camera; behind its trailing edge, the view changes to show the entire bunch floating into the evening sky. Robin plunges out of them and toward the camera. When his face fills the screen, cut to deck level, where Fang has come to and put up his spider legs to catch the spiky-haired Titan. The two grapple as the camera pulls back to frame Kitten, watching at a short distance. Fang throws Robin across the deck.)
+<sd>One of them passes by the camera; behind its trailing edge, the view changes to show the entire bunch floating into the evening sky. <char>Robin</char> plunges out of them and toward the camera. When his face fills the screen, cut to deck level, where <char>Fang</char> has come to and put up his spider legs to catch the spiky-haired Titan. The two grapple as the camera pulls back to frame <char>Kitten</char>, watching at a short distance. <char>Fang</char> throws <char>Robin</char> across the deck.</sd>
 
-Kitten: Ooooh! (Cut to her.) Isn't it romantic? They're fighting over me!
+<sp><spkr ref="Kitten">Kitten</spkr> Ooooh</sp>
 
-(During this line, Starfire stands up behind her, peels Fang's adhesive off her face, and stares bug-eyed at the little blond terror. Sight gag: on the next line, the Tamaranean's head grows a few notches and her pupils disappear.)
+<sd>Cut to her.</sd> Isn't it romantic? They're fighting over me!
 
-Starfire: They are not fighting over you!
+<sd>During this line, <char>Starfire</char> stands up behind her, peels Fang's adhesive off her face, and stares bug-eyed at the little blond terror. Sight gag: on the next line, the Tamaranean's head grows a few notches and her pupils disappear.</sd>
 
-(Kitten yells and jumps at her, and the two roll across the refreshment table. Starfire pins her shoulders and reaches to snag the button, but Kitten gets a handful of food and throws it in her face. In a blink, Starfire is the one pinned down, unable to see through the mass of cream covering her head. It soon starts to bubble, and Kitten backs off as energy beams from Starfire's eyes burn away the goop, in the same fashion as Blackfire in "Sisters." The out-of-towner sits up with a wildcat snarl, throwing a genuine scare into Kitten, and clamps a hand onto her shoulder. Pull back to frame more of the table; the crazed girl is shoved into view, sliding most of the way to the end, and soon finds herself staring up at a leaping, roaring Tamaranean teen ready to claw her eyes out.)
+<sp><spkr ref="Starfire">Starfire</spkr> They are not fighting over you!</sp>
 
-(Kitten screams and gets her legs up at the last second, catching Starfire with them and flipping backward to dump her head into the punch bowl. She puts her weight into forcing the face deeper; cut to inside the bowl, the camera pointing up at the two. Kitten smiles savagely, while Starfire's eyes and cheeks bulge out from her held breath and a few air bubbles slip out between her lips. Her eyes blaze up, and the camera pulls out of the bowl in time to show her wrapping her own legs around Kitten's waist. The latter is slung over the bowl to crash into a large chocolate cake that has been set on the end of the table.)
+<sd><char>Kitten</char> yells and jumps at her, and the two roll across the refreshment table. <char>Starfire</char> pins her shoulders and reaches to snag the button, but <char>Kitten</char> gets a handful of food and throws it in her face. In a blink, <char>Starfire</char> is the one pinned down, unable to see through the mass of cream covering her head. It soon starts to bubble, and <char>Kitten</char> backs off as energy beams from Starfire's eyes burn away the goop, in the same fashion as Blackfire in "Sisters." The out-of-towner sits up with a wildcat snarl, throwing a genuine scare into <char>Kitten</char>, and clamps a hand onto her shoulder. Pull back to frame more of the table; the crazed girl is shoved into view, sliding most of the way to the end, and soon finds herself staring up at a leaping, roaring Tamaranean teen ready to claw her eyes out.</sd>
 
-(Starfire pulls her head out of the punch and flings her sodden hair back. On the deck before her, Kitten lies sprawled out with cake plastered all over her hair and body. She stands up; on her next four words, zoom in by steps to an extreme close-up of her face, then pan to the control button in her raised hand on the last one.)
+<sd><char>Kitten</char> screams and gets her legs up at the last second, catching <char>Starfire</char> with them and flipping backward to dump her head into the punch bowl. She puts her weight into forcing the face deeper; cut to inside the bowl, the camera pointing up at the two. <char>Kitten</char> smiles savagely, while Starfire's eyes and cheeks bulge out from her held breath and a few air bubbles slip out between her lips. Her eyes blaze up, and the camera pulls out of the bowl in time to show her wrapping her own legs around Kitten's waist. The latter is slung over the bowl to crash into a large chocolate cake that has been set on the end of the table.</sd>
 
-Kitten: You...ruined...my...dress!
+<sd><char>Starfire</char> pulls her head out of the punch and flings her sodden hair back. On the deck before her, <char>Kitten</char> lies sprawled out with cake plastered all over her hair and body. She stands up; on her next four words, zoom in by steps to an extreme close-up of her face, then pan to the control button in her raised hand on the last one.</sd>
 
-(Her thumb comes down. Cut to a suddenly worried Starfire and pan quickly to the exterior of Killer Moth's house.)
+<sp><spkr ref="Kitten">Kitten</spkr> You...ruined...my...dress!</sp>
 
-Cyborg: (from inside) Start talking!
+<sd>Her thumb comes down. Cut to a suddenly worried <char>Starfire</char> and pan quickly to the exterior of Killer Moth's house.</sd>
 
-(In the basement, he has the villain bent over a table. Beast Boy watches.)
+<sp><spkr ref="Cyborg">Cyborg</spkr> <sd>from inside</sd> Start talking!</sp>
 
-Cyborg: How do you control the... (Alarms and red strobe lights go off.) ...MOTHS!!
+<sd>In the basement, he has the villain bent over a table. <char>Beast Boy</char> watches.</sd>
 
-(Cut to a pan across an aisle in which Raven is standing. Responding to Kitten's triggering command, the front panels on pen after pen slide open, releasing clouds of vapor and the entire horde of Killer Moth's city-destroyers.)
+<sp><spkr ref="Cyborg">Cyborg</spkr> How do you control the..</sp>
 
-Beast Boy: Run!
+<sd>Alarms and red strobe lights go off.</sd> ...MOTHS!!
 
-(He makes tracks up a flight of stairs that lead to the street, but the hatch at the top slams shut in his face thanks to Raven's powers.)
+<sd>Cut to a pan across an aisle in which <char>Raven</char> is standing. Responding to Kitten's triggering command, the front panels on pen after pen slide open, releasing clouds of vapor and the entire horde of Killer Moth's city-destroyers.</sd>
 
-Raven: We can't let them escape! Seal the exits!
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> Run!</sp>
 
-(The two boys break in opposite directions. Beast Boy turns into a jellyfish in mid-leap and positions himself in front of an air vent, just in time to stop any moths from getting out that way. Elsewhere, thousands fly past Cyborg as he picks up a desk and throws it o.c.; cut to behind one insect as it zips up the stairs to the living room. The desk lands in front of the doorway and is quickly joined by another, cutting off that route. Meanwhile, bags of feed rise from the floor under Raven's control and stuff themselves into the overhead ductwork. Close-up of her and Cyborg back to back, the camera pulling back slowly and circling around them as millions of deranged giant bugs swarm in the basement. He has his cannon at the ready now.)
+<sd>He makes tracks up a flight of stairs that lead to the street, but the hatch at the top slams shut in his face thanks to Raven's powers.</sd>
 
-(One moth flies past, very close to the camera; behind its rear, the view changes to the evening sky. Robin rises into view and aims the sole of one boot straight at the camera. A flash of impact, and we are back on the cruise ship deck. Caught flat-footed by the blow, Fang stumbles backward and tries to refocus his eyes. His perspective; seeing many images of Robin due to the compound-lens structure of his eyes, and the lids start to close. Back to him; he moans wearily and loses his balance, crushing one more table as he falls and knocking its balloons loose.)
+<sp><spkr ref="Raven">Raven</spkr> We can't let them escape! Seal the exits!</sp>
 
-(Pan from here to a long shot of the refreshment table, where Starfire and Kitten are facing off from opposite ends. Close-up; the mad blonde screams and charges straight down the table's length, but Starfire sidesteps and prepares a starbolt. This hits Kitten's hand, knocking the controller to the deck. She gasps as the camera cuts to deck level and backs up to follow the thing as it skitters away. Robin's boot drops into view near the camera and stops it; cut to his feet and tilt up.)
+<sd>The two boys break in opposite directions. <char>Beast Boy</char> turns into a jellyfish in mid-leap and positions himself in front of an air vent, just in time to stop any moths from getting out that way. Elsewhere, thousands fly past <char>Cyborg</char> as he picks up a desk and throws it o.c.; cut to behind one insect as it zips up the stairs to the living room. The desk lands in front of the doorway and is quickly joined by another, cutting off that route. Meanwhile, bags of feed rise from the floor under Raven's control and stuff themselves into the overhead ductwork. Close-up of her and <char>Cyborg</char> back to back, the camera pulling back slowly and circling around them as millions of deranged giant bugs swarm in the basement. He has his cannon at the ready now.</sd>
 
-Robin: Consider yourself dumped.
+<sd>One moth flies past, very close to the camera; behind its rear, the view changes to the evening sky. <char>Robin</char> rises into view and aims the sole of one boot straight at the camera. A flash of impact, and we are back on the cruise ship deck. Caught flat-footed by the blow, <char>Fang</char> stumbles backward and tries to refocus his eyes. His perspective; seeing many images of <char>Robin</char> due to the compound-lens structure of his eyes, and the lids start to close. Back to him; he moans wearily and loses his balance, crushing one more table as he falls and knocking its balloons loose.</sd>
 
-(His boot again; a little weight, carefully applied at the toe, makes short work of the controller. Extreme close-up of Kitten's wide, staring eyes, then pull back.)
+<sd>Pan from here to a long shot of the refreshment table, where <char>Starfire</char> and <char>Kitten</char> are facing off from opposite ends. Close-up; the mad blonde screams and charges straight down the table's length, but <char>Starfire</char> sidesteps and prepares a starbolt. This hits Kitten's hand, knocking the controller to the deck. She gasps as the camera cuts to deck level and backs up to follow the thing as it skitters away. Robin's boot drops into view near the camera and stops it; cut to his feet and tilt up.</sd>
 
-Kitten: NOOOOOOOOOOO!!
+<sp><spkr ref="Robin">Robin</spkr> Consider yourself dumped.</sp>
 
-(In the basement, Cyborg and Raven have huddled against each other to protect themselves from the flying army. Suddenly, the insects transform into large caterpillar/maggot-like larvae and drop to the floor, leaving the two Titans at a momentary loss for words. Beast Boy, back in human form, emerges from under Raven's cloak. The things worm their way around the basement.)
+<sd>His boot again; a little weight, carefully applied at the toe, makes short work of the controller. Extreme close-up of Kitten's wide, staring eyes, then pull back.</sd>
 
-Beast Boy: (confused) Okay...
+<sp><spkr ref="Kitten">Kitten</spkr> NOOOOOOOOOOO!!</sp>
 
-(What we know and they do not is that the metamorphosis was triggered by the destruction of Kitten's controller. Cut to the dock, where the cruise ship has pulled in to meet a couple of police cars and a transport van. Fang is escorted down the gangplank, his hands cuffed and all four spider legs shackled together above his head, and led to the back of the van by an armed guard. Inside, he gives the camera a very puzzled look; the reason is quickly revealed; a close-up of Killer Moth's visage, behind a transparent shield perforated by air holes. A mask has been locked onto his face to keep his mouth closed, similar to the one worn by Hannibal Lecter in The Silence of the Lambs.)
+<sd>In the basement, <char>Cyborg</char> and <char>Raven</char> have huddled against each other to protect themselves from the flying army. Suddenly, the insects transform into large caterpillar/maggot-like larvae and drop to the floor, leaving the two Titans at a momentary loss for words. <char>Beast Boy</char>, back in human form, emerges from under Raven's cloak. The things worm their way around the basement.</sd>
 
-(Pull back to show that the winged father figure has been secured in a large display case, the sort that might be used to show off a butterfly collection, with his arms and legs clamped down spreadeagle. He groans wearily. Cut to Kitten, hands cuffed behind her back, in the grip of two guards who are escorting her toward the van. Pan to follow the group.)
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>confused</sd> Okay...</sp>
 
-Kitten: Nobody dumps Kitten! Nobody! (The Titans, at the rail, come into view.) You're going to pay for this, Robbie-poo! YOU'RE GOING TO PAAAYYY!!
+<sd>What we know and they do not is that the metamorphosis was triggered by the destruction of Kitten's controller. Cut to the dock, where the cruise ship has pulled in to meet a couple of police cars and a transport van. <char>Fang</char> is escorted down the gangplank, his hands cuffed and all four spider legs shackled together above his head, and led to the back of the van by an armed guard. Inside, he gives the camera a very puzzled look; the reason is quickly revealed; a close-up of Killer Moth's visage, behind a transparent shield perforated by air holes. A mask has been locked onto his face to keep his mouth closed, similar to the one worn by Hannibal Lecter in The Silence of the Lambs.</sd>
 
-(The guards put her in and close the door, muffling her last word, and the van speeds off with sirens blaring. Cut to the team at the rail; Beast Boy sits on the deck.)
+<sd>Pull back to show that the winged father figure has been secured in a large display case, the sort that might be used to show off a butterfly collection, with his arms and legs clamped down spreadeagle. He groans wearily. Cut to <char>Kitten</char>, hands cuffed behind her back, in the grip of two guards who are escorting her toward the van. Pan to follow the group.</sd>
 
-Cyborg: So, no second date? (Tilt down a bit; Beast Boy holds one of the larvae.)
+<sp><spkr ref="Kitten">Kitten</spkr> Nobody dumps <char>Kitten</char>! Nobody</sp>
 
-Beast Boy: You know... (Close-up of it; he continues o.c.) ...now that nobody's making 'em all mutate-y... (pokes the larvae's stomach; it gurgles happily) ...these things might actually make good pets. (Pull back to frame Raven.)
+<sd>The Titans, at the rail, come into view.</sd> You're going to pay for this, Robbie-poo! YOU'RE GOING TO PAAAYYY!!
 
-Raven: Don't even think about it.
+<sd>The guards put her in and close the door, muffling her last word, and the van speeds off with sirens blaring. Cut to the team at the rail; <char>Beast Boy</char> sits on the deck.</sd>
 
-(Robin leans over the rail and Starfire eyes his back as two guards slide the paralyzed couple across the deck. He steps over to them.)
+<sp><spkr ref="Cyborg">Cyborg</spkr> So, no second date</sp>
 
-Robin: Okay, well...
+<sd>Tilt down a bit; <char>Beast Boy</char> holds one of the larvae.</sd>
 
-(Close-up of him, scratching his head nervously. Starfire steps up as he continues.)
+<sp><spkr ref="BeastBoy">Beast Boy</spkr> You know..</sp>
 
-Robin: ...sorry we pretty much ruined your prom.
+<sd>Close-up of it; he continues o.c.</sd> ...now that nobody's making 'em all mutate-y..
 
-Male guest: (from o.c.) Are you kidding? (Robin's eyes pop; cut to the couple.) This was the best prom ever!
+<sd>pokes the larvae's stomach; it gurgles happily</sd> ...these things might actually make good pets
 
-Female guest: Even if I still can't move my legs! (The guards take them away.)
+<sd>Pull back to frame <char>Raven</char>.</sd>
 
-Robin: Yeah. That'll wear off. (Spotlights cross the floor; both Titans brace for action.)
+<sp><spkr ref="Raven">Raven</spkr> Don't even think about it.</sp>
 
-Announcer: And now, the moment you've all been waiting for... (Starfire warms up her hands.) ...the king and queen of this year's prom are... (The spots stop on them; she winds down.) ...Robin and Starfire!
+<sd><char>Robin</char> leans over the rail and <char>Starfire</char> eyes his back as two guards slide the paralyzed couple across the deck. He steps over to them.</sd>
 
-(Surprise, then a smile from Robin.)
+<sp><spkr ref="Robin">Robin</spkr> Okay, well...</sp>
 
-Robin: I guess one more dance wouldn't kill me.
+<sd>Close-up of him, scratching his head nervously. <char>Starfire</char> steps up as he continues.</sd>
 
-(He takes her hand and leads her toward the center of the floor. Cut to a long shot of the docked ship, tilt up to the moon hanging low in the sky, and "iris out" on it to black.) 
+<sp><spkr ref="Robin">Robin</spkr> ...sorry we pretty much ruined your prom.</sp>
+
+<sp><spkr ref="MaleGuest">Male Guest</spkr> <sd>from o.c.</sd> Are you kidding</sp>
+
+<sd>Robin's eyes pop; cut to the couple.</sd> This was the best prom ever!
+
+<sp><spkr ref="FemaleGuest">Female guest</spkr> Even if I still can't move my legs</sp>
+
+<sd>The guards take them away.</sd>
+
+<sp><spkr ref="Robin">Robin</spkr> Yeah. That'll wear off</sp>
+
+<sd>Spotlights cross the floor; both Titans brace for action.</sd>
+
+<sp><spkr ref="Announcer">Announcer</spkr> And now, the moment you've all been waiting for..
+
+<sd><char>Starfire</char> warms up her hands.</sd> ...the king and queen of this year's prom are..
+
+    <sd>The spots stop on them; she winds down.</sd> ...<char>Robin</char> and <char>Starfire</char>!</sp>
+
+<sd>Surprise, then a smile from <char>Robin</char>.</sd>
+
+<sp><spkr ref="Robin">Robin</spkr> I guess one more dance wouldn't kill me.</sp>
+
+<sd>He takes her hand and leads her toward the center of the floor. Cut to a long shot of the docked ship, tilt up to the moon hanging low in the sky, and "iris out" on it to black.</sd> 
+</act>
     </body>
     
 </root>
