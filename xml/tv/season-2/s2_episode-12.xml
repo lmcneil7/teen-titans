@@ -23,7 +23,7 @@
     </characterList>
     <locationList>
         <locList id="tower">Titans Tower</locList>
-        <locList id="JumpCity">Streets of Jump City</locList>
+        <locList id="city">Streets of Jump City</locList>
         <locList id="chamber"></locList>
         <locList id="forest">A forest that Cyborg and Beast Boy travel through on their way to fight Plasmus in the chemical plant.</locList>
         <locList id="chemical_plant">A chemical plant where Beast Boy and Cyborg fight Plasmus</locList>
@@ -132,7 +132,7 @@
 
 <sp><spkr ref="Robin">Robin</spkr> Titans! Go!</sp>
 
-<sd><action mrkr="Robin" with="all" move="1" place="JumpCity"/>He, <action mrkr="Starfire" with="all" move="1" place="JumpCity"/><char>Starfire</char>, and <action mrkr="BeastBoy" with="all" move="1" place="JumpCity"/><char>Beast Boy</char> move first, the last turning into a cheetah as he charges, and <action mrkr="Cyborg" with="all" move="1" place="JumpCity"/><char>Cyborg</char> and <action mrkr="Raven" with="all" move="1" place="JumpCity"/><char>Raven</char> bring up the rear. Cut to an overhead shot of <char>Terra</char> skimming her platform along the street; tilt down slightly to frame a long fissure forming ahead of her. It rapidly widens while racing toward the Titans, and a huge stone pillar rises to push <char>Robin</char> and <char>Raven</char> out of sight. The other three heroes continue their rush, <char>Starfire</char> blasting away, but a boulder flies into view and knocks her backward.</sd>
+<sd><action mrkr="Robin" with="all" move="1" place="city"/>He, <action mrkr="Starfire" with="all" move="1" place="city"/><char>Starfire</char>, and <action mrkr="BeastBoy" with="all" move="1" place="city"/><char>Beast Boy</char> move first, the last turning into a cheetah as he charges, and <action mrkr="Cyborg" with="all" move="1" place="city"/><char>Cyborg</char> and <action mrkr="Raven" with="all" move="1" place="city"/><char>Raven</char> bring up the rear. Cut to an overhead shot of <char>Terra</char> skimming her platform along the street; tilt down slightly to frame a long fissure forming ahead of her. It rapidly widens while racing toward the Titans, and a huge stone pillar rises to push <char>Robin</char> and <char>Raven</char> out of sight. The other three heroes continue their rush, <char>Starfire</char> blasting away, but a boulder flies into view and knocks her backward.</sd>
 
 <sd><char>Cyborg</char> shoots one worried look back toward her, then trains his sonic cannon on <char>Terra</char> and fires. The blast chops away part of her paving fragment and puts her off balance for a moment; however, she quickly regains control and sends the broken piece down at the two remaining Titans. It crashes into <char>Cyborg</char>'s face and floors him, but <char>Beast Boy</char> jumps away and becomes a falcon in midair. A fast swoop puts him in her face, at which point he reverts to human form and hauls himself over her leading edge.</sd>
 
@@ -297,7 +297,7 @@
 
 <sp><spkr ref="Raven">Raven</spkr> <sd>voice over</sd> I can deal with <char>Overload</char>.</sp>
 
-<sd>Pull back on the end of the previous line to frame her <action mrkr="Starfire" with="RB" move="3" place="JumpCity"/><char>Starfire</char> in flight above <action mrkr="Robin" with="S" move="3" place="JumpCity"/><char>Robin</char>.</sd>
+<sd>Pull back on the end of the previous line to frame her <action mrkr="Starfire" with="RB" move="3" place="city"/><char>Starfire</char> in flight above <action mrkr="Robin" with="S" move="3" place="city"/><char>Robin</char>.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> <sd>voice over</sd> And <char>Beast Boy</char> and I'll take <char>Plasmus</char>.</sp>
 
