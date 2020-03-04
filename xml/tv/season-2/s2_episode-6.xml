@@ -81,7 +81,7 @@
 </act><act n="1">
 <title>Act One</title>
 
-<sd>Opening shot: <char>Robin</char> bent over the handlebars, his cape blowing nearly straight out behind him due to the high velocity.</sd>
+<sd><setNote shot="yes">Opening shot: <char>Robin</char> bent over the handlebars</setNote>, his cape blowing nearly straight out behind him due to the high velocity.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> Range to target!</sp>
 
