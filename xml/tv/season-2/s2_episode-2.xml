@@ -24,7 +24,10 @@
         <charList type="nonrecurring" id="Dog">Dog</charList>
     </characterList>
     <locationList>
-        <locList id="tower">Titans Tower</locList>
+        <locList id="tower">Titans' Tower</locList>
+        <locList id="garage">TT - Garage</locList>
+        <locList id="extTT">The Exterior of Titans' Tower</locList>
+        <locList id="rroom">TT - Raven's Room</locList>
         <locList id="pizza">The Pizza Joint</locList>
         <locList id="park">The Park</locList>
         <locList id="bay">Jump City Bay</locList>
@@ -54,7 +57,7 @@
 <act n="1">
 <title>Act One</title>
 
-<sd><setNote shot="yes">Opening shot: <location>the exterior of Titans Tower</location>, zooming in slowly.</setNote> It is now the following day. Inside, <action mrkr="Cyborg" with="none" move="1" place="tower"/><char>Cyborg</char> is tuning up the engine of the T-Car, with the help of the acetylene torch built into his finger. Pull back and pan across <location>the garage</location>; <action mrkr="BeastBoy" with="all" move="1" place="tower"/><char>Beast Boy</char>, as a lizard, scuttles up the side of a storage container and reaches the ceiling. Hanging there, upside down, he surveys the budding mechanic hard at work. Close-up of <char>Cyborg</char>, who gets an unexpected visit in the form of <char>Beast Boy</char> landing on his arm. The former's eyes bug out.</sd>
+<sd><setNote shot="yes">Opening shot: <location>the exterior of Titans Tower</location>, zooming in slowly.</setNote> It is now the following day. Inside, <action mrkr="Cyborg" with="none" move="1" place="garage"/><char>Cyborg</char> is tuning up the engine of the T-Car, with the help of the acetylene torch built into his finger. Pull back and pan across <location>the garage</location>; <action mrkr="BeastBoy" with="C" move="1" place="garage"/><char>Beast Boy</char>, as a lizard, scuttles up the side of a storage container and reaches the ceiling. Hanging there, upside down, he surveys the budding mechanic hard at work. Close-up of <char>Cyborg</char>, who gets an unexpected visit in the form of <char>Beast Boy</char> landing on his arm. The former's eyes bug out.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Wha-? Whoa!</sp>
 
@@ -78,7 +81,7 @@
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Maybe you should go help somebody else.</sp>
 
-<sd><char>Beast Boy</char> takes the hint and runs out of the place. <setNote shot="no">Dissolve to <location>the exterior of the Tower</location>, seen from ground level, and tilt down to the rock outcroppings that line <location>the island</location>'s shores.</setNote> On one is a control panel, while on a lower level a couple of man-shaped cutout targets pop up-operated remotely from the panel. <action mrkr="Robin" with="none" move="1" place="tower"/><char>Robin</char> sails into view and strikes one, then the other, destroying both; he then goes into a fast run and breaks three more with various kung fu moves. As he hurls himself at another one, <char>Beast Boy</char> pops up right in front of it.</sd>
+<sd><char>Beast Boy</char> takes the hint and runs out of the place. <setNote shot="no">Dissolve to <location>the exterior of the Tower</location>, seen from ground level, and tilt down to the rock outcroppings that line <location>the island</location>'s shores.</setNote> On one is a control panel, while on a lower level a couple of man-shaped cutout targets pop up-operated remotely from the panel. <action mrkr="Robin" with="none" move="1" place="extTT"/><char>Robin</char> sails into view and strikes one, then the other, destroying both; he then goes into a fast run and breaks three more with various kung fu moves. As he hurls himself at another one, <action mrkr="BeastBoy" with="RB" move="2" place="extTT"/><char>Beast Boy</char> pops up right in front of it.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Hey, <char>Robin</char>.</sp>
 
@@ -94,11 +97,11 @@
 
 <sp><spkr ref="Raven">Raven</spkr> <sd>from inside, chanting</sd> Azarath Metrion Zinthos...</sp>
 
-<sd>Cut to <action mrkr="Starfire" with="R" move="1" place="tower"/><char>Starfire</char> inside; she is floating cross-legged just above the floor. Her eyes are closed, but she pops one of them open to glance across the way.</sd>
+<sd>Cut to <action mrkr="Starfire" with="R" move="1" place="rroom"/><char>Starfire</char> inside; she is floating cross-legged just above the floor. Her eyes are closed, but she pops one of them open to glance across the way.</sd>
 
 <sp><spkr ref="Starfire">Starfire</spkr> Tell me, <char>Raven</char>, does it always take so long to contact the spirit world? </sp>
 
-<sd>Cut to <action mrkr="Raven" with="S" move="1" place="tower"/><char>Raven</char>, her eyes closed.</sd> 
+<sd>Cut to <action mrkr="Raven" with="S" move="1" place="rroom"/><char>Raven</char>, her eyes closed.</sd> 
 
 <sp><spkr ref="Raven">Raven</spkr> Not always, <char>Starfire</char>, but it does require intense focus.</sp>
 
@@ -106,7 +109,7 @@
 
 <sp><spkr ref="Raven">Raven</spkr> <sd>from o.c.</sd> Absolute quiet and- </sp>
 
-<sd><char>Beast Boy</char>'s image appears.</sd> 
+<sd><action mrkr="BeastBoy" with="S R" move="3" place="rroom"/><char>Beast Boy</char>'s image appears.</sd> 
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> DUDES!!</sp>
 
@@ -118,7 +121,7 @@
 
 <sp><spkr ref="Raven">Raven</spkr> No.</sp>
 
-<sd>His face falls. Zoom in as he looks away, frustrated and dejected, then <setNote shot="no">cut to inside <location>the Tower's open main entrance</location> and tilt down to floor level</setNote>. <char>Beast Boy</char> backs into view.</sd>
+<sd>His face falls. Zoom in as he looks away, frustrated and dejected, then <setNote shot="no">cut to inside <location>the Tower's open main entrance</location> and tilt down to floor level</setNote>. <action mrkr="BeastBoy" with="none" move="4" place="tower"/><char>Beast Boy</char> backs into view.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>loudly, cheerfully</sd> Okay, well...if, uh, nobody needs me, I'm heading <location>downtown</location>. Crazy party in the big city. Anybody want to come with?</sp>
 
@@ -134,7 +137,7 @@
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Please let them be somebody!</sp>
 
-<sd><action mrkr="BeastBoy" with="none" move="2" place="pizza"/><char>Beast Boy</char> strolls up as they giggle to themselves some more.</sd>
+<sd><action mrkr="BeastBoy" with="none" move="5" place="pizza"/><char>Beast Boy</char> strolls up as they giggle to themselves some more.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Hello, ladies. <sd>jerking thumb o.c.</sd> Want to go for a spin on my moped? </sp>
 
@@ -158,9 +161,9 @@
 
 <sp><spkr ref="Girl2">Girl 2</spkr> <sd>waving him off</sd> Shoo! Yucky dog, get away! Go!</sp>
 
-<sd>Back to <action mrkr="BeastBoy" with="none" move="3" place="park"/><char>Beast Boy</char> on the end of this line; he whines, hangs his head, and slinks away. Dissolve to <location>an alley</location>, where the green dog seen in the prologue barks and pokes its head up from a Dumpster. It leaps out and begins to gnaw at a boot left on the pavement; but after a few chews, the sound of something approaching makes it drop the item and yip worriedly. In the sky above, the spacecraft is moving over <location>the alley</location>. It hovers above the dog, and a broad beam of light pours from a hatch on the underisde. The boot is sucked up into this-a tractor beam-and the canine takes off running to get away from it.</sd>
+<sd>Back to <action mrkr="BeastBoy" with="none" move="6" place="park"/><char>Beast Boy</char> on the end of this line; he whines, hangs his head, and slinks away. Dissolve to <location>an alley</location>, where the green dog seen in the prologue barks and pokes its head up from a Dumpster. It leaps out and begins to gnaw at a boot left on the pavement; but after a few chews, the sound of something approaching makes it drop the item and yip worriedly. In the sky above, the spacecraft is moving over <location>the alley</location>. It hovers above the dog, and a broad beam of light pours from a hatch on the underisde. The boot is sucked up into this-a tractor beam-and the canine takes off running to get away from it.</sd>
 
-<sd><setNote shot="no">Around the corner they go, then over an aqueduct, and into another <location>alley</location>.</setNote> That tractor beam is hot on the green tail. Inside <location>the operations center</location>, the window/screen suddenly flashes red and displays a message: <setNote shot="no">"Alert-City Sector 5."</setNote> <char>Robin</char> and <char>Cyborg</char> are here; <char>Raven</char> and <char>Starfire</char> soon join them.</sd>
+<sd><setNote shot="no">Around the corner they go, then over an aqueduct, and into another <location>alley</location>.</setNote> That tractor beam is hot on the green tail. Inside <location>the operations center</location>, the window/screen suddenly flashes red and displays a message: <setNote shot="no">"Alert-City Sector 5."</setNote> <action mrkr="Robin" with="C S R" move="2" place="tower"/><char>Robin</char> and <action mrkr="Cyborg" with="RB S R" move="2" place="tower"/><char>Cyborg</char> are here; <action mrkr="Raven" with="RB C S" move="2" place="tower"/><char>Raven</char> and <action mrkr="Starfire" with="RB C R" move="2" place="tower"/><char>Starfire</char> soon join them.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> Trouble! </sp>
 
@@ -186,7 +189,7 @@
 <act n="2">
 <title>Act Two</title>
 
-<sd><setNote shot="yes">Opening shot: the burned patch of grass in <location>the park</location> where <char>Soto</char>'s tractor beam hit.</setNote> <action mrkr="Robin" with="C S R" move="2" place="park"/><char>Robin</char> reaches into view to pluck a bit of it, and the camera pulls back to show him, <action mrkr="Cyborg" with="RB S R" move="2" place="park"/><char>Cyborg</char>, and <action mrkr="Starfire" with="RB C R" move="2" place="park"/><char>Starfire</char> at the site. <char>Cyborg</char> is examining his forearm panel closely. Pull back a bit from the group; <action mrkr="Raven" with="RB C S" move="2" place="park"/><char>Raven</char> walks up to join them.</sd>
+<sd><setNote shot="yes">Opening shot: the burned patch of grass in <location>the park</location> where <char>Soto</char>'s tractor beam hit.</setNote> <action mrkr="Robin" with="C S R" move="3" place="park"/><char>Robin</char> reaches into view to pluck a bit of it, and the camera pulls back to show him, <action mrkr="Cyborg" with="RB S R" move="3" place="park"/><char>Cyborg</char>, and <action mrkr="Starfire" with="RB C R" move="3" place="park"/><char>Starfire</char> at the site. <char>Cyborg</char> is examining his forearm panel closely. Pull back a bit from the group; <action mrkr="Raven" with="RB C S" move="3" place="park"/><char>Raven</char> walks up to join them.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> Word is, it was some kind of flying saucer. </sp>
 
@@ -256,15 +259,15 @@
     
 <sp><spkr ref="Robin">Robin</spkr> Split up and search. Start with <char>Beast Boy</char>'s usual hangouts and fan out from there.</sp>
 
-<sd>The four follow orders. Dissolve to the second-story patio of <location>the pizza joint</location> and tilt down to ground level. <action mrkr="Robin" with="none" move="3" place="pizza"/><char>Robin</char> is questioning the two girls, who are back at their old table; cut to a close-up behind him and pull back to the sidewalk. The green mutt is tugging on the end of his cape, then lets go and runs off with him in pursuit. Cut to the shore of <location>Jump City Bay</location>, under the bridge, where <action mrkr="Raven" with="none" move="3" place="bay"/><char>Raven</char> is walking along the water's edge. The creature zips up from behind and knocks her down to lick her face once more.</sd>
+<sd>The four follow orders. Dissolve to the second-story patio of <location>the pizza joint</location> and tilt down to ground level. <action mrkr="Robin" with="none" move="4" place="pizza"/><char>Robin</char> is questioning the two girls, who are back at their old table; cut to a close-up behind him and pull back to the sidewalk. The green mutt is tugging on the end of his cape, then lets go and runs off with him in pursuit. Cut to the shore of <location>Jump City Bay</location>, under the bridge, where <action mrkr="Raven" with="none" move="4" place="bay"/><char>Raven</char> is walking along the water's edge. The creature zips up from behind and knocks her down to lick her face once more.</sd>
 
-<sd>Wipe to <action mrkr="Cyborg" with="none" move="3" place="hill"/><char>Cyborg</char>, coming up over <setNote shot="no"><location>the hill</location> in a city street</setNote>. Close-up of him, suddenly becoming peeved, and pull back to show the dog right next to him. The king-size Titan's image dissolves into one of a fire hydrant-how he appears in the dog's eyes-and the camera cuts to a close-up of him. As the background fades to yellow, he recoils in disgust, realizing that he has just been used as a toilet; pull back to a letterbox view as he chases the dog across the screen.</sd>
+<sd>Wipe to <action mrkr="Cyborg" with="none" move="4" place="hill"/><char>Cyborg</char>, coming up over <setNote shot="no"><location>the hill</location> in a city street</setNote>. Close-up of him, suddenly becoming peeved, and pull back to show the dog right next to him. The king-size Titan's image dissolves into one of a fire hydrant-how he appears in the dog's eyes-and the camera cuts to a close-up of him. As the background fades to yellow, he recoils in disgust, realizing that he has just been used as a toilet; pull back to a letterbox view as he chases the dog across the screen.</sd>
 
-<sd>This view slides down and away and is replaced by a fullscreen view of <location>the park</location>. Now the green pooch runs along a path with one of <char>Starfire</char>'s boots in its jaws; she hops into view after it, keeping her bare foot off the dirt. This shot slides off to the left, giving way to a view of several <location>rooftops</location>. The dog leaps from one to the next, without the stolen boot, staying ahead of <action mrkr="Robin" with="none" move="4" place="rooftop"/><char>Robin</char>. It reaches a ledge beyond which no other buildings are visible and stops to look back at the pursuer. Cut to just past <location>the ledge</location>, the camera pointing back at <char>Robin</char>; he comes to a stop and looks out, seeing no green mutt anywhere in sight at street or roof level. Tilt down slightly to show it in <location>a small niche</location> just below, standing on its forelegs and pressed against the masonry.</sd>
+<sd>This view slides down and away and is replaced by a fullscreen view of <location>the park</location>. Now the green pooch runs along a path with one of <char>Starfire</char>'s boots in its jaws; she hops into view after it, keeping her bare foot off the dirt. This shot slides off to the left, giving way to a view of several <location>rooftops</location>. The dog leaps from one to the next, without the stolen boot, staying ahead of <action mrkr="Robin" with="none" move="5" place="rooftop"/><char>Robin</char>. It reaches a ledge beyond which no other buildings are visible and stops to look back at the pursuer. Cut to just past <location>the ledge</location>, the camera pointing back at <char>Robin</char>; he comes to a stop and looks out, seeing no green mutt anywhere in sight at street or roof level. Tilt down slightly to show it in <location>a small niche</location> just below, standing on its forelegs and pressed against the masonry.</sd>
 
-<sd>Cut to the parking lot of <location>the drive-in restaurant</location>. <action mrkr="Raven" with="none" move="4" place="drive-in"/><char>Raven</char> walks through and looks around; no luck for the moment, but that changes when the dog leaps into view and plows her to the ground for another enthusiastic lick. It gives up after a moment and bounds off, leaving her to chase after. In <location>the park</location>, the sun is now setting and <char>Starfire</char> has found her boot next to a bench. It is soggy and chewed up, but she has little time to worry about it once the canine barrels through. Pulling the boot on hastily, she runs off across the grass.</sd>
+<sd>Cut to the parking lot of <location>the drive-in restaurant</location>. <action mrkr="Raven" with="none" move="5" place="drive-in"/><char>Raven</char> walks through and looks around; no luck for the moment, but that changes when the dog leaps into view and plows her to the ground for another enthusiastic lick. It gives up after a moment and bounds off, leaving her to chase after. In <location>the park</location>, the sun is now setting and <char>Starfire</char> has found her boot next to a bench. It is soggy and chewed up, but she has little time to worry about it once the canine barrels through. Pulling the boot on hastily, she runs off across the grass.</sd>
 
-<sd>Cut to <action mrkr="Cyborg" with="none" move="4" place="street"/><char>Cyborg</char>, chasing the dog in <location>the street</location>. <char>Raven</char>, backing up across a parking lot only to get flattened and licked yet again. It runs into <location>an alley</location>; <action mrkr="Robin" with="C S R" move="5" place="alley"/><char>Robin</char> and <action mrkr="Cyborg" with="RB S R" move="5" place="alley"/><char>Cyborg</char> go in after it, followed by <action mrkr="Raven" with="RB C S" move="5" place="alley"/><char>Raven</char> and <action mrkr="Starfire" with="RB C R" move="3" place="alley"/><char>Starfire</char>. Close-up of them, panning slowly across. Now it is evening.</sd>
+<sd>Cut to <action mrkr="Cyborg" with="none" move="5" place="street"/><char>Cyborg</char>, chasing the dog in <location>the street</location>. <char>Raven</char>, backing up across a parking lot only to get flattened and licked yet again. It runs into <location>an alley</location>; <action mrkr="Robin" with="C S R" move="6" place="alley"/><char>Robin</char> and <action mrkr="Cyborg" with="RB S R" move="6" place="alley"/><char>Cyborg</char> go in after it, followed by <action mrkr="Raven" with="RB C S" move="6" place="alley"/><char>Raven</char> and <action mrkr="Starfire" with="RB C R" move="4" place="alley"/><char>Starfire</char>. Close-up of them, panning slowly across. Now it is evening.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> Careful, everybody. We don't want to hurt him. </sp>
 
@@ -304,7 +307,7 @@
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>from inside</sd> Dude, for the last time...</sp>
 
-<sd>Inside, <action mrkr="BeastBoy" with="none" move="4" place="ship"/>Beast Boy straightens up and strains to pull the collar off his neck, without success. A vein throbs on his forehead.</sd>
+<sd>Inside, <action mrkr="BeastBoy" with="none" move="7" place="ship"/>Beast Boy straightens up and strains to pull the collar off his neck, without success. A vein throbs on his forehead.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> I am not your dog!</sp>
 
@@ -392,7 +395,7 @@
 <act n="3">
 <title>Act Three</title>
 
-<sd><setNote shot="yes">Opening shot: the dark upper reaches of a sewer tunnel.</setNote> Tilt down to <action mrkr="Robin" with="C S R" move="6" place="sewer"/><char>Robin</char>, <action mrkr="Raven" with="RB C S" move="6" place="sewer"/><char>Raven</char>, and <action mrkr="Starfire" with="RB C R" move="4" place="sewer"/><char>Starfire</char>, to the sound of water dripping; the green dog makes its way across the screen behind them, and they head after it. The barking canine turns into a side tunnel, and after it has passed out of view, the camera pans to <action mrkr="Cyborg" with="RB S R" move="6" place="sewer"/><char>Cyborg</char> hiding around a corner. He yells and dives out, getting all ten fingers around the animal-but only for a moment, as it slithers out of his grasp in the same way it escaped down the sewer grate. Off it goes around another corner.</sd>
+<sd><setNote shot="yes">Opening shot: the dark upper reaches of a sewer tunnel.</setNote> Tilt down to <action mrkr="Robin" with="C S R" move="7" place="sewer"/><char>Robin</char>, <action mrkr="Raven" with="RB C S" move="7" place="sewer"/><char>Raven</char>, and <action mrkr="Starfire" with="RB C R" move="5" place="sewer"/><char>Starfire</char>, to the sound of water dripping; the green dog makes its way across the screen behind them, and they head after it. The barking canine turns into a side tunnel, and after it has passed out of view, the camera pans to <action mrkr="Cyborg" with="RB S R" move="7" place="sewer"/><char>Cyborg</char> hiding around a corner. He yells and dives out, getting all ten fingers around the animal-but only for a moment, as it slithers out of his grasp in the same way it escaped down the sewer grate. Off it goes around another corner.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Remind me again why we're chasing this thing? </sp>
 
@@ -416,11 +419,11 @@
 
 <sp><spkr ref="Raven">Raven</spkr> What?</sp>
 
-<sd>Dissolve to <location>a patch of sidewalk</location>, where the extraterrestrial pooch is sniffing at a tree. The sound of <action mrkr="Raven" with="RB C S" move="7" place="sidewalk"/><char>Raven</char> clearing her throat o.c. gets its attention very quickly; pull back to show her a few yards down the way. She sighs wearily and beckons.</sd>
+<sd>Dissolve to <location>a patch of sidewalk</location>, where the extraterrestrial pooch is sniffing at a tree. The sound of <action mrkr="Raven" with="RB C S" move="8" place="sidewalk"/><char>Raven</char> clearing her throat o.c. gets its attention very quickly; pull back to show her a few yards down the way. She sighs wearily and beckons.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> Here, doggie...here, doggie, doggie...</sp>
 
-<sd>Hearts pop briefly in the doggie's eyes, and it is off like a shot in no time flat. The four feet are pounding across the cement, closing fast on the extremely reluctant live bait; just as it gets close enough to jump at her, though, <action mrkr="Starfire" with="RB C R" move="5" place="sidewalk"/><char>Starfire</char> swoops down and places a large glass globe in the path. This item has a hinged lid, open, and the aperture is turned toward the dog. A panicked yelp, a skid of paws on <location>the sidewalk</location>, and it slides neatly into the container. Its speed flips the thing up 90 degrees, putting the hatch toward the sky, and <action mrkr="Robin" with="C S R" move="7" place="sidewalk"/><char>Robin</char> leaps down to slam it shut. <action mrkr="Cyborg" with="RB S R" move="7" place="sidewalk"/><char>Cyborg</char> created the glass globe to capture the green dog.</sd>
+<sd>Hearts pop briefly in the doggie's eyes, and it is off like a shot in no time flat. The four feet are pounding across the cement, closing fast on the extremely reluctant live bait; just as it gets close enough to jump at her, though, <action mrkr="Starfire" with="RB C R" move="6" place="sidewalk"/><char>Starfire</char> swoops down and places a large glass globe in the path. This item has a hinged lid, open, and the aperture is turned toward the dog. A panicked yelp, a skid of paws on <location>the sidewalk</location>, and it slides neatly into the container. Its speed flips the thing up 90 degrees, putting the hatch toward the sky, and <action mrkr="Robin" with="C S R" move="8" place="sidewalk"/><char>Robin</char> leaps down to slam it shut. <action mrkr="Cyborg" with="RB S R" move="8" place="sidewalk"/><char>Cyborg</char> created the glass globe to capture the green dog.</sd>
 
 <sd>Growling angrily, the imprisoned dog tries a quick shape change, then a lash of its overlong tongue, but neither can even crack the walls. The four Titans gather around it.</sd>
 
@@ -490,7 +493,7 @@
 
 <sp><spkr ref="Soto">Soto</spkr> No! <sd>pounding panel</sd> <char>Soto</char> want up, not down!</sp>
 
-<sd>Overhead view of <location>the forest</location>, panning along. The craft advances and descends into view, and we see why its upward progress has been reversed-<action mrkr="Starfire" with="all" move="6" place="forest"/><char>Starfire</char> is there, pushing down on the upper portion of the fuselage with all her strength. <char>Soto</char> counters by working a few controls; now the engines hit overdrive and power <location>the ship</location> skyward despite her best efforts. From ground level, <action mrkr="Robin" with="all" move="8" place="forest"/><char>Robin</char>'s grappling hook flies up and wraps its line around one wing, while a beam of Raven's black energy seizes the other one. The ship is slowly towed down; cut to the ground as Raven backs into view, her spell going full blast. Pan to <char>Robin</char> and <action mrkr="Cyborg" with="all" move="8" place="forest"/><char>Cyborg</char>, who have looped the line on a tree trunk and are pulling for all they are worth. When <char>Soto</char>'s vessel gets low enough, vertical rods extend themselves from the underside so it can balance on them.</sd>
+<sd>Overhead view of <location>the forest</location>, panning along. The craft advances and descends into view, and we see why its upward progress has been reversed-<action mrkr="Starfire" with="all" move="7" place="forest"/><char>Starfire</char> is there, pushing down on the upper portion of the fuselage with all her strength. <char>Soto</char> counters by working a few controls; now the engines hit overdrive and power <location>the ship</location> skyward despite her best efforts. From ground level, <action mrkr="Robin" with="all" move="9" place="forest"/><char>Robin</char>'s grappling hook flies up and wraps its line around one wing, while a beam of Raven's black energy seizes the other one. The ship is slowly towed down; cut to the ground as Raven backs into view, her spell going full blast. Pan to <char>Robin</char> and <action mrkr="Cyborg" with="all" move="9" place="forest"/><char>Cyborg</char>, who have looped the line on a tree trunk and are pulling for all they are worth. When <char>Soto</char>'s vessel gets low enough, vertical rods extend themselves from the underside so it can balance on them.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> Hang on, <char>Beast Boy</char>! We're going to get you out! </sp>
 
@@ -516,7 +519,7 @@
 
 <sd>He tears loose a rock slab to use as a shield, but it is blown apart in his hands. The blast clears to show <char>Robin</char>, <char>Cyborg</char>, and <char>Starfire</char> shielding their faces from debris. They lower their arms with a shocked gasp; cut to a long shot of the other side of the clearing, pulling back as the dust clears and <char>Soto</char> emerges from it. He charges straight at the camera with a growing yell; there is a flash of white when he reaches it, accompanied by the sound of a bowling ball striking pins. Sight gag: the three Titans are knocked into the air as bowling pins to tumble every which way. Pull back; the gag ends, and they crash to the ground as <char>Soto</char> runs along the clearing. The word "STRIKE" appears above them in big red letters.</sd>
 
-<sd><action mrkr="Raven" with="all" move="8" place="forest"/><char>Raven</char> makes a dash for <location>the ship</location>, but has to get out of the way fast in order to avoid his huge descending hand.</sd>
+<sd><action mrkr="Raven" with="all" move="9" place="forest"/><char>Raven</char> makes a dash for <location>the ship</location>, but has to get out of the way fast in order to avoid his huge descending hand.</sd>
 
 <sp><spkr ref="Soto">Soto</spkr> My dog!</sp>
 
@@ -540,7 +543,7 @@
 
 <sp><spkr ref="Soto">Soto</spkr> Huh?</sp>
 
-<sd>Pull back. A green pachyderm-<action mrkr="BeastBoy" with="all" move="6" place="forest"/><char>Beast Boy</char>, free of his collar-thunders across <location>the clearing</location> and hits him bang on. The former returns to human form as the latter is knocked back into a stagger.</sd>
+<sd>Pull back. A green pachyderm-<action mrkr="BeastBoy" with="all" move="8" place="forest"/><char>Beast Boy</char>, free of his collar-thunders across <location>the clearing</location> and hits him bang on. The former returns to human form as the latter is knocked back into a stagger.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>extending thumb, pinky like telephone</sd> You rang?</sp>
 
