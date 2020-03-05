@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema_v2.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../tv-schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     
     <head>
         <episode>TERRA</episode>
-    <!--01-29-2020 shd: this is missing as of rn so gotta do research -->
         <writer>Amy Wolfram</writer>
         <director>Ciro Nieli</director>
         <storyboard>Eric Canete, Ben Jones, Kalvin Lee, Alan Wan, Matt Youngberg</storyboard>
@@ -167,7 +167,7 @@
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Boo-yah!</sp>
 
-<sd>The previous three lines are spoken at the same time.<action mrkr="BeastBoy" with="C" move="1" place="tower"/><!--shd: S is also in with, need to change schema to add more than 1 in with @--><char>Beast Boy</char>leads her toward the shore and the <location>Tower</location>,<action mrkr="Cyborg" with="S" move="2" place="tower"/><char>Cyborg</char>brings up the rear, and<action mrkr="Starfire" with="BB" move="2" place="tower"/><char>Starfire</char>flies happily above. Pull back from them to put the ledge in view. <char>Raven</char> looks after the departing foursome, while<char>Robin</char>kneels for a closer look at the o.c. battle site. She turns to him.</sd>
+<sd>The previous three lines are spoken at the same time.<action mrkr="BeastBoy" with="C S" move="2" place="tower"/><char>Beast Boy</char>leads her toward the shore and the <location>Tower</location>,<action mrkr="Cyborg" with="S" move="2" place="tower"/><char>Cyborg</char>brings up the rear, and<action mrkr="Starfire" with="BB" move="2" place="tower"/><char>Starfire</char>flies happily above. Pull back from them to put the ledge in view. <char>Raven</char> looks after the departing foursome, while<char>Robin</char>kneels for a closer look at the o.c. battle site. She turns to him.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> Everything okay</sp>
 
@@ -283,7 +283,7 @@
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr><char>Terra</char></sp>
 
-<sd>Dissolve to the exterior, then tilt down to the surface of <location>the bay</location>. A stone flies into view and skips along; close-up of the shore, where several others are lying near a backpack. One of these floats up, and the camera follows it to reveal a very dejected house guest sitting here; the backpack is hers. She has changed back into her usual outfit. A flash of her eyes sends the stone bouncing over the water. As she levitates another one,<action mrkr="BeastBoy" with="none" move="2" place="bay"/><char>Beast Boy's</char> voice interrupts; pull back on the next line to show him taking a seat next to her.</sd>
+<sd>Dissolve to the exterior, then tilt down to the surface of <location>the bay</location>. A stone flies into view and skips along; close-up of the shore, where several others are lying near a backpack. One of these floats up, and the camera follows it to reveal a very dejected house guest sitting here; the backpack is hers. She has changed back into her usual outfit. A flash of her eyes sends the stone bouncing over the water. As she levitates another one,<action mrkr="BeastBoy" with="none" move="3" place="bay"/><char>Beast Boy's</char> voice interrupts; pull back on the next line to show him taking a seat next to her.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> So I'm guessing the couch was too lumpy?</sp>
 

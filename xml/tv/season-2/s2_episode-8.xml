@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?xml-model href="../schema_v2.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../tv-schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
     <head>
         <episode>TITAN RISING</episode>
