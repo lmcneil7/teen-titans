@@ -24,6 +24,12 @@
     <locationList>
         <locList id="tower">Titans' Tower</locList>
         <locList id="video">A Video Game Store in Jump City</locList>
+        <locList id="evidroom">TT - The Evidence Room</locList>
+        <locList id="rroom">TT - Raven's Room</locList>
+        <locList id="rbroom">TT - Robin's Room</locList>
+        <locList id="croom">TT - Cyborg's Room</locList>
+        <locList id="sroom">TT - Starfire's Room</locList>
+        <locList id="bbroom">TT - Beast Boy's Room</locList>
     </locationList>
     <body>
         <act n="0">
@@ -184,7 +190,7 @@
 
 <sp><spkr ref="Clerk">Clerk</spkr> <sd>from o.c.</sd> Just take it!</sp>
 
-<sd>He blinks bemusedly down at the offering. Dissolve to a pan across a room whose walls displays a wealth of objects connected with the Titans' previous adventures, and stop on <action mrkr="Robin" with="all" move="2" place="tower"/><char>Robin</char> at the far end. We now see glass cases in the center of the floor, holding more items. This is <location>the evidence room</location> of <location>Titans Tower</location>. Close-up of a small pedestal; his shadow falls over it, and he reaches into view to set <char>Control Freak</char>'s remote atop it. A burst of feedback is heard over an intercom speaker, shaking him out of his brief reverie.</sd>
+<sd>He blinks bemusedly down at the offering. Dissolve to a pan across a room whose walls displays a wealth of objects connected with the Titans' previous adventures, and stop on <action mrkr="Robin" with="none" move="2" place="evidroom"/><char>Robin</char> at the far end. We now see glass cases in the center of the floor, holding more items. This is <location>the evidence room</location> of <location>Titans Tower</location>. Close-up of a small pedestal; his shadow falls over it, and he reaches into view to set <char>Control Freak</char>'s remote atop it. A burst of feedback is heard over an intercom speaker, shaking him out of his brief reverie.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>over the intercom</sd> <char>Robin</char>! Emergency! Get up here, now!</sp>
 
@@ -192,13 +198,13 @@
 
 <sp><spkr ref="Robin">Robin</spkr> Report!</sp>
 
-<sd>Cut to behind him. <action mrkr="BeastBoy" with="all" move="1" place="tower"/><char>Beast Boy</char> stands on the far side of the coffee table, while the other three Titans are on the couch.</sd>
+<sd>Cut to behind him. <action mrkr="BeastBoy" with="all" move="2" place="tower"/><char>Beast Boy</char> stands on the far side of the coffee table, while the other three Titans are on the couch.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> What's the problem?</sp>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> <sd>holds up the video</sd> The problem is, it's showtime, and you're not in your seat.</sp>
 
-<sd><char>Robin</char> steams at having been called up for something as trivial as this, and a vein throbs in his forehead. As <action mrkr="Raven" with="all" move="2" place="tower"/><char>Raven</char> reads a book, <char>Starfire</char> holds a large bowl of candy.</sd>
+<sd><action mrkr="Robin" with="all" move="3" place="tower"/><char>Robin</char> steams at having been called up for something as trivial as this, and a vein throbs in his forehead. As <action mrkr="Raven" with="all" move="2" place="tower"/><char>Raven</char> reads a book, <action mrkr="Starfire" with="all" move="2" place="tower"/><char>Starfire</char> holds a large bowl of candy.</sd>
 
 <sp><spkr ref="Starfire">Starfire</spkr> <char>Cyborg</char> <sd>offers it to him</sd> You are certain you do not desire unhealthy sugar candies</sp>
 
@@ -220,7 +226,7 @@
 
 <sd>Pan to <action mrkr="Cyborg" with="all" move="2" place="tower"/><char>Cyborg</char>.</sd>
 
-<sp><spkr ref="Starfire">Starfire</spkr> It was fascinating! I had no idea that Earth people ate so many pigs, and insects.</sp>
+<sp><spkr ref="Starfire">Starfire</spkr> It was fascinating! I had no idea that <location>Earth</location> people ate so many pigs, and insects.</sp>
 
 <sd>Her words set off a new wave of indigestion in <char>Cyborg</char>'s gut; his face goes green, and he hangs over the back of the couch to vomit once more.</sd>
 
@@ -232,7 +238,7 @@
 
 <sd><char>Beast Boy</char>'s face falls and a vein throbs in his temple as he pulls out the television remote. Pan from him to the window/screen, which fills with static and blacks out. The movie's title fades in, appearing as it did on the box; this view dissolves to a shot of <char>Raven</char> and <char>Robin</char>, staring wide-eyed with mouths agape straight ahead toward the screen. The lights have been shut off, so that the only illumination is from the screen and the night sky outside. Pan from them to <char>Starfire</char> and <char>Cyborg</char>, in that same stunned silence, to the sound of low, unearthly chuckling from the speakers. <char>Starfire</char> has grabbed the end of <char>Robin</char>'s cape and is huddled behind it.</sd>
 
-<sd><setNote shot="no">Dissolve to <location>the exterior of the Tower</location>, standing dark and ominous under the raging thunderstorm, then cut to a close-up of the screen and zoom in slowly.</setNote> A woman backs up in the approaching shadow of the tentacled creature seen on the box and screams in pure terror. Snap to black, against which the word "END" fades into view in big red letters, then cut to <char>Cyborg</char>, <char>Starfire</char>, and <char>Robin</char>. They are still frozen from the sheer horror of what they have just witnessed; <char>Starfire</char>'s eyes are now shut tight. Beast Boy carefully peeks up from behind the couch, he has been hiding here the entire time.</sd>
+<sd><setNote shot="no">Dissolve to <location>the exterior of the Tower</location>, standing dark and ominous under the raging thunderstorm, then cut to a close-up of the screen and zoom in slowly.</setNote> A woman backs up in the approaching shadow of the tentacled creature seen on the box and screams in pure terror. Snap to black, against which the word "END" fades into view in big red letters, then cut to <char>Cyborg</char>, <char>Starfire</char>, and <char>Robin</char>. They are still frozen from the sheer horror of what they have just witnessed; <char>Starfire</char>'s eyes are now shut tight. <char>Beast Boy</char> carefully peeks up from behind the couch, he has been hiding here the entire time.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Is it over?</sp>
 
@@ -272,7 +278,7 @@
 
 <sp><spkr ref="Raven">Raven</spkr> I don't do fear.</sp>
 
-<sd><setNote shot="no">Dissolve to <location>the exterior of the still-dark Tower</location>, seen from ground level as more rain and thunder stream down</setNote>, then cut to inside <location>the hall</location>. Sheets of water pour over the windows. From here, cut to <location>the empty stairway</location>, then to a closed door. Zoom in and dissolve to an overhead view of <char>Raven</char>, asleep in bed: the entrance we just saw was to <location><char>Raven</char>'s room</location>. The camera zooms again and rotates slightly before a flash of lightning shows a profile view of her, sitting up with a sharp gasp. She has taken off her cloak to sleep.</sd>
+<sd><setNote shot="no">Dissolve to <location>the exterior of the still-dark Tower</location>, seen from ground level as more rain and thunder stream down</setNote>, then cut to inside <location>the hall</location>. Sheets of water pour over the windows. From here, cut to <location>the empty stairway</location>, then to a closed door. Zoom in and dissolve to an overhead view of <action mrkr="Raven" with="none" move="3" place="rroom"/><char>Raven</char>, asleep in bed: the entrance we just saw was to <location><char>Raven</char>'s room</location>. The camera zooms again and rotates slightly before a flash of lightning shows a profile view of her, sitting up with a sharp gasp. She has taken off her cloak to sleep.</sd>
 
 <sd>She looks out the window, then across the room. Cut to her perspective, panning slowly from one corner to the other, then to her four-eyed drama masks seen in "Nevermore," and finally to a bookend statue that looks like an enlarged copy of the small black birds in that same episode. After this last item, we see her in a long shot, panning slowly.</sd>
 
@@ -282,7 +288,7 @@
 
 <sp><spkr ref="Raven">Raven</spkr> Who screamed?</sp>
 
-<sd>The other four Titans have gathered there and switched the lights back on.</sd>
+<sd><action mrkr="Robin" with="none" move="4" place="rbroom"/><action mrkr="Cyborg" with="none" move="3" place="croom"/><action mrkr="Starfire" with="none" move="3" place="sroom"/><action mrkr="BeastBoy" with="none" move="3" place="bbroom"/>The other four Titans have gathered there and switched the lights back on.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> Sounded like something from the movie. Did we leave the TV on?</sp>
 
@@ -292,11 +298,11 @@
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Okay. That's creepy.</sp>
 
-<sd>He extends a small flashlight from his shoulder and turns it on. Swiveling slowly in place, he lets the beam play over the kitchen, from counter to tables. <char>Robin</char> steps into the circle of light.</sd>
+<sd>He extends a small flashlight from his shoulder and turns it on. Swiveling slowly in place, he lets the beam play over <location>the kitchen</location>, from counter to tables. <action mrkr="Robin" with="all" move="5" place="tower"/><char>Robin</char> steps into the circle of light.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> The storm. Probably just tripped a circuit breaker.</sp>
 
-<sd>A tentacle reaches into view to touch his shoulder. Giving it only a raised eyebrow, he says nothing else as <char>Starfire</char>, <char>Cyborg</char>, and <char>Raven</char> cry out; now he smiles.</sd>
+<sd>A tentacle reaches into view to touch his shoulder. Giving it only a raised eyebrow, he says nothing else as <action mrkr="Starfire" with="all" move="4" place="tower"/><char>Starfire</char>, <action mrkr="Cyborg" with="all" move="4" place="tower"/><char>Cyborg</char>, and <action mrkr="Raven" with="all" move="4" place="tower"/><char>Raven</char> cry out; now he smiles.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> Okay, <char>Beast Boy</char>, you got us <sd>pushes the tentacle off</sd> Good one.</sp>
 
