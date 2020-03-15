@@ -27,6 +27,8 @@
         <charList id="bboy">Beast Boy</charList>
         <charList id="moe">Moe Shreivnitz</charList>
         <charList id="mccarthy">Doorman "Cap'n" Jack McCarthy</charList>
+        <charList id="kryszew">Doctor Stanislav Kryszewski</charList>
+        <charList id="made">Madeline</charList>
     </characterList>
     <settingList>
         <setting>
@@ -115,7 +117,7 @@
         </setting>
         <setting>
             <title>Hotel Fountaine</title>
-            <p>The Titans are still trailing Kovar after two days; however, they can't figure out what he's doing or looking for. Wonder Girl is the only one who doesn't think he's the culprit. Kovar is looking for Maladi Malanova; he's about to go up to her room when he sees her exit. Maladi appears to be very ill but gets into a cab. Now dressed in his costume, Kovar exits the hotel. Sensing he's after the girl, Starfire and Kid Flash go to stop him.</p>
+            <p>The Titans are still trailing Kovar after two days; however, they can't figure out what he's doing or looking for. Wonder Girl is the only one who doesn't think he's the culprit. Kovar is looking for Maladi Malanova; he's about to go up to her room when he sees her exit. Maladi appears to be very ill but gets into a cab. Now dressed in his costume, Kovar exits the hotel. Sensing he's after the girl, Starfire and Kid Flash go to stop him. A fight breaks out between Kovar and the Teen Titans because he's been ordered to stay silent of his involvement with the plague.</p>
             <charsPresent>
                 <char ref="#bboy">Beast Boy</char>
                 <char ref="#robin">Robin</char>
@@ -126,6 +128,78 @@
                 <char ref="#starfire">Koriand'r</char>
                 <char ref="#kovar">Leonid Kovar</char>
                 <char ref="#maladi">Maladi Malanova</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>The Teen Titans are interrogating Kovar. He tells the truth to the Titans, but because Kid Flash doesn't believe him, Kovar escapes to continue his plan alone. Beast Boy follows him.</p>
+            <charsPresent>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#kovar">Leonid Kovar</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Office of Stanislav Kryszewski</title>
+            <p>The Doctor and Madeline are discussing the disease inside Maladi. They tried to explain it to her, but she's in a hurry and leaves.</p>
+            <charsPresent>
+                <char ref="#kryszew">Stanislav Kryszewski</char>
+                <char ref="#made">Madeline</char>
+                <char ref="#maladi">Maladi Malanova</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>The East River</title>
+            <p>Beast Boy is searching for Kovar. Even though the Titans have mentioned nothing, Beast Boy feels the need to prove himself.</p>
+            <charsPresent>
+                <char ref="#bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>Beast Boy had no luck finding Kovar. Kid Flash voices his dislike for Kovar while Robin gives the order to the Titans to find Maladi.</p>
+            <charsPresent>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#raven">Raven</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>The Cloisters</title>
+            <p>Maladi's illness has taken a turn for the worse. Kovar reveals to Maladi that Slavik lied to her. The Titans interrupt him before he kills Maladi; however, they still haven't realized that he isn't the enemy. They fought, but because Kovar cannot defeat the Titans, they decide to do it the Titans' way. They take Maladi to a hospital.</p>
+            <charsPresent>
+                <char ref="#maladi">Maladi Malanova</char>
+                <char ref="#kovar">Leonid Kovar</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#wgirl">Wonder Girl</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#bboy">Beast Boy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Jamaica Hospital</title>
+            <p>A week later, Maladi dies. While Kid Flash yells at him, Kovar reveals that he and Maladi were engaged.</p>
+            <charsPresent>
+                <char ref="#kovar">Leonid Kovar</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#wgirl">Wonder Girl</char>
             </charsPresent>
         </setting>
     </settingList>
