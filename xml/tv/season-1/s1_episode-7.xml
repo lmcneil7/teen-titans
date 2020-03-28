@@ -80,7 +80,7 @@
         </act>
         <act n="1">
             <title>Act One</title>
-            <sd><stageDesc category="open-shot">Opening shot: outer space</stageDesc>.Ravenrises into view near the camera, her eyes shut and
+            <sd><stageDesc category="open-shot">Opening shot: outer space</stageDesc>.<char>Raven</char>rises into view near the camera, her eyes shut and
                 her face composed.</sd>
 
             <sp><spkr ref="#Raven">Raven</spkr><sd>chanting</sd>Azarath Metrion Zinthos...Azarath
@@ -97,7 +97,7 @@
 
             <sp><spkr ref="#Starfire">Starfire</spkr><sd>voice over, closer</sd><char>Raven</char> </sp>
 
-            <sd><directNote kind="pull">Pull back slightly to frame her</directNote> at the opening door;Ravenhas her back to it.</sd>
+            <sd><directNote kind="pull">Pull back slightly to frame her</directNote> at the opening door;<char>Raven</char>has her back to it.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>Please forgive my interruption, but have you
                 seen<char>Robin</char> </sp>
@@ -105,13 +105,13 @@
             <sp><spkr ref="#Raven">Raven</spkr>No.</sp>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>Oh.<sd>She turns to leave, but
-                stops.</sd>Perhaps you have seen<char>Cyborg</char> </sp>
+                stops.</sd>Perhaps you have seen<char>Cyborg</char>?</sp>
 
             <sp><spkr ref="#Raven">Raven</spkr>No.</sp>
 
             <sd><char>Starfire</char> turns again, but stops.</sd>
 
-            <sp><spkr ref="#Starfire">Starfire</spkr>Beast Boy </sp>
+            <sp><spkr ref="#Starfire">Starfire</spkr><char>Beast Boy</char>?</sp>
 
             <sp><spkr ref="#Raven">Raven</spkr>My eyes are closed,<char>Starfire</char>  I haven't seen
                 anyone.</sp>
@@ -122,7 +122,7 @@
                 journey to the mall of shopping, or perform braiding maneuvers upon each other's
                 hair, or...</sp>
 
-            <sd><directNote kind="pull">Pull back on this last word</directNote> to putRavenin frame. If she was annoyed before, she is
+            <sd><directNote kind="pull">Pull back on this last word</directNote> to put<char>Raven</char>in frame. If she was annoyed before, she is
                 now absolutely ready to explode: <directNote kind="gag">eyes bugging out, black flames outlining her head,
                 and face set in a fierce grimace</directNote>.</sd>
 
@@ -147,8 +147,7 @@
                 Hitting the floor with a thud, she winds up in a heap before the three boys, who
                 have just come in.<char>Cyborg</char> is carrying a crate.</sd>
 
-            <sp><spkr ref="#Starfire">Starfire</spkr><sd>flyies to them</sd><char>Robin</char> <char>Cyborg</char>  Beast
-                Boy! You are back! It was...quiet while you were gone.</sp>
+            <sp><spkr ref="#Starfire">Starfire</spkr><sd>flyies to them</sd><char>Robin</char> <char>Cyborg</char>  <char>Beast Boy</char>! You are back! It was...quiet while you were gone.</sp>
 
             <sp><spkr ref="#Raven">Raven</spkr><sd>stands up and dusts herself off</sd>Not that
                 quiet.</sp>
@@ -171,7 +170,7 @@
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>from o.c.</sd>Well, one way to find out.</sp>
 
-            <sd>He yanks it up; <directNote kind="cut">cut to inside as<char>Cyborg</char> <char>Robin</char>  andStarfirepeek in</directNote>.</sd>
+            <sd>He yanks it up; <directNote kind="cut">cut to inside as<char>Cyborg</char> <char>Robin</char> and<char>Starfire</char>peek in</directNote>.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Whoa!</sp>
 
@@ -185,7 +184,7 @@
             <sd><char>Cyborg</char> reaches toward the camera; <directNote kind="cut">cut to him.</directNote> He brings up the puppet copy of
                 himself seen in the prologue.</sd>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>Aww, isn't that cute? Puppet Cy has a light-up
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Aww, isn't that cute? <char>Puppet Cy</char> has a light-up
                 eye.</sp>
 
             <sd>It does indeed.<char>Beast Boy</char> and<char>Robin</char> have found their duplicates.</sd>
@@ -200,7 +199,7 @@
                 time on their hands.</sp>
 
             <sd>On the end of this line, she pulls back the puppet's hood and finds that her
-                hairline has also been recreated.Starfiregiggles as she looks hers over and works
+                hairline has also been recreated.<char>Starfire</char>giggles as she looks hers over and works
                 it around a bit.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>I have never seen such a whimsical device.</sp>
@@ -211,7 +210,7 @@
                    <char>Starfire</char> <sd>leaning into view to shake, normal voice</sd>Hello, tiny wooden
                 replica of<char>Starfire</char> </sp>
 
-            <sd>Beast Boy's puppet jumps over behind<char>Robin</char>'s.</sd>
+            <sd><char>Beast Boy</char>'s puppet jumps over behind<char>Robin</char>'s.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>from o.c.</sd>Dude!<sd>It delivers a kick
                     to the rear; <directNote kind="cut">cut to the two boys</directNote>.</sd>My puppet is totally kicking your puppet's
@@ -219,7 +218,7 @@
 
             <sp><spkr ref="#Robin">Robin</spkr>Not for long.</sp>
 
-            <sd>Shifting his voice into kung fu mode, he makes his marionette strike Beast Boy's
+            <sd>Shifting his voice into kung fu mode, he makes his marionette strike <char>Beast Boy</char>'s
                 with a chop that sends it crashing into the wooden<char>Cyborg</char> </sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>from o.c.; puppet shakes its fist</sd>You want
@@ -240,7 +239,7 @@
 
             <sp><spkr ref="#Raven">Raven</spkr>Knock yourself out.</sp>
 
-            <sd>She tosses hers toStarfireand walks away, leaving only the camera on the receiving
+            <sd>She tosses hers to<char>Starfire</char>and walks away, leaving only the camera on the receiving
                 end of the latter's puzzled stare. Fade to black.</sd>
 
             <sd><directNote kind="fade">Fade in to the exterior of the Tower that night</directNote>. <directNote kind="cut">Cut to a series of overhead views</directNote>
@@ -255,7 +254,7 @@
                 overlarge head gives it away as the<char>Puppet King</char>  All the monitors fill with static,
                 and the screen snaps to black.</sd>
 
-            <sd>Snap to an <stageDesc category="overhead-shot">overhead view</stageDesc> ofStarfireasleep in her room. Her bed is circular, with
+            <sd>Snap to an <stageDesc category="overhead-shot">overhead view</stageDesc> of<char>Starfire</char>asleep in her room. Her bed is circular, with
                 pink sheets and blankets, and she is sleeping the wrong way around on top of the
                 bedclothes, feet on the pillow, head hanging off the opposite edge. Her puppet lies
                 nearby on a round stool. Initially, the camera frames her head near the top of the
@@ -283,14 +282,13 @@
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>...one at a time. You'll all get to take your
                 picture with me.</sp>
 
-            <sd>He makes as if to kiss the unwashed footwear as the <directNote kind="pull">camera pulls back</directNote>. The Puppet
-                King has climbed up to the bunk, and he holds out a wooden crosspiece such as the
+            <sd>He makes as if to kiss the unwashed footwear as the <directNote kind="pull">camera pulls back</directNote>. <char>The Puppet King</char> has climbed up to the bunk, and he holds out a wooden crosspiece such as the
                 ones attached to all the puppets. This one has no strings, but a green spot begins
                 to glow on one of the six arms and<char>Beast Boy</char> is briefly surrounded with light of the
                 same color. He shudders in his sleep, then relaxes, and a ghostly copy of the teen
                 emerges from his body and enters the puppet.</sd>
 
-            <sd><directNote kind="cut">Cut to the hall</directNote>.<char>Starfire</char>'s door opens; she steps out, missing the Puppet King's
+            <sd><directNote kind="cut">Cut to the hall</directNote>.<char>Starfire</char>'s door opens; she steps out, missing the <char>Puppet King</char>'s
                 shadow as it passes at the far end.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr><sd>softly</sd>Hello? Hello?</sp>
@@ -303,14 +301,14 @@
                 soon rolls to one side as a specter of himself passes from his body to the puppet.
                 The little red eye lights up,</sd>
 
-            <sd><directNote kind="cut">Cut to the stairs</directNote>. The door opens andStarfirelooks out, just as those short legs
+            <sd><directNote kind="cut">Cut to the stairs</directNote>. The door opens and<char>Starfire</char>looks out, just as those short legs
                 clamber up the stairs. She returns to normal volume.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>Is someone there?</sp>
 
             <sd>In<char>Robin</char>'s room, his supine form is already swathed in red light. He drops o.c. as
                 his ethereal form escapes its physical shell and passes to the puppet sitting atop
-                some nearby bookshelves. The hall again;Starfirelooks along it, her back to the
+                some nearby bookshelves. The hall again;<char>Starfire</char>looks along it, her back to the
                 camera, as a creepy chuckle echoes in the darkness; the same voice from the
                 prologue. It gets louder; she turns to face us.</sd>
 
@@ -334,14 +332,14 @@
 
             <sd>This time, the thing that cuts her off is a blast from the o.c.<char>Cyborg</char>'s sonic
                 cannon that just misses both of them. Turning toward its source, they find the other
-                three Titans charging down the hall.<char>Robin</char> leaps for a kick as <transform class="reptile">Beast Boy turns into
+                three Titans charging down the hall.<char>Robin</char> leaps for a kick as <char>Beast Boy</char> <transform class="reptile">turns into
                 a dinosaur</transform> and charges ahead. The former nearly takes<char>Starfire</char>'s head off with the
                 sole of his boot; the latter tries to get at<char>Raven</char>  but she creates energy barriers
                 to slow him down a bit. The eyes of both aggressors are glowing.</sd>
 
-            <sp><spkr ref="#Raven">Raven</spkr>Beast Boy  it's me! Don't make me hurt you!</sp>
+            <sp><spkr ref="#Raven">Raven</spkr><char>Beast Boy</char>  it's me! Don't make me hurt you!</sp>
 
-            <sd>He breaks through the shield she has put up and snaps at her. AsStarfireflies over
+            <sd>He breaks through the shield she has put up and snaps at her. As<char>Starfire</char>flies over
                <char>Robin</char>'s head, he gets three discs ready in one hand and hurls them. She shoots them
                 down with starbolts; the first two fizzle out, but the third explodes with great
                 force when shot and she is thrown downward.<char>Cyborg</char> catches her, and we see that his
@@ -386,7 +384,7 @@
                     up his crosspiece, which now shows lights on five of its arms, red for<char>Robin</char> 
                     orange for<char>Starfire</char>  blue for<char>Raven</char> </sd>I command you.</sp>
 
-            <sd><char>Beast Boy</char> and<char>Robin</char> raise theRavenandStarfiremarionettes, respectively, and each
+            <sd><char>Beast Boy</char> and<char>Robin</char> raise the<char>Raven</char>and<char>Starfire</char>marionettes, respectively, and each
                 girl groans as she is wreathed in her own color light, the beginning of the same
                 process that took the souls of the boys.</sd>
 
@@ -404,7 +402,7 @@
 
             <sd>Beams shoot from the ends corresponding to the two girls, and their souls float free
                 of the wooden receptacles and flash into the bodies of the prone girls,<char>Starfire</char>'s
-                toRavenand vice versa. By the time the<char>Puppet King</char> has his control device back in
+                to<char>Raven</char>and vice versa. By the time the<char>Puppet King</char> has his control device back in
                 hand, they have made it upright and sprinted off down the hall.</sd>
 
             <sp><spkr ref="#PuppetKing">Puppet King</spkr>After them.</sp>
@@ -444,7 +442,7 @@
             <sp><spkr ref="#Starfire">Starfire (in Raven's body)</spkr>Oh,<char>Raven</char>  This is
                     awful!<sd><char>Raven</char> emerges.</sd>Terribly, horribly awful!</sp>
 
-            <sd><char>Raven</char> heads down the sidewalk, pullingStarfirealong behind her.</sd>
+            <sd><char>Raven</char> heads down the sidewalk, pulling<char>Starfire</char>along behind her.</sd>
 
             <sp><spkr ref="#Raven">Raven (in Starfire's body)</spkr>Tell me about it.</sp>
 
@@ -489,17 +487,15 @@
 
             <sd>A cry from<char>Beast Boy</char>  overhead o.c.</sd>
 
-            <sp><spkr ref="#Starfire">Starfire (in Raven's body)</spkr><sd>points</sd>Beast
-                Boy!</sp>
+            <sp><spkr ref="#Starfire">Starfire (in Raven's body)</spkr><sd>points</sd><char>Beast Boy</char>!</sp>
 
             <sd>From the ground view of the sky, tilting up from the pair. He is above the rooftops,
                 illuminated by the full moon, but soon goes into a sharp descent with talons
                 extended. Back to the girls, <directNote kind="zoom">zooming in</directNote>, on the start of the next line.</sd>
 
-            <sp><spkr ref="#Raven">Raven (in Starfire's body)</spkr>You mean zombie Beast
-                    Boy.<sd>pullsStarfiretoward alley</sd>Run!</sp>
+            <sp><spkr ref="#Raven">Raven (in Starfire's body)</spkr>You mean zombie <char>Beast Boy</char>.<sd>pulls<char>Starfire</char>toward alley</sd>Run!</sp>
 
-            <sd>As they follow the alley's turns,Ravenstarts jumping and flapping her arms, trying
+            <sd>As they follow the alley's turns,<char>Raven</char>starts jumping and flapping her arms, trying
                 to get clear of the ground.</sd>
 
             <sp><spkr ref="#Raven">Raven (in Starfire's body)</spkr>Fly! Fly!</sp>
@@ -527,7 +523,7 @@
             <sp><spkr ref="#Starfire">Starfire (in Raven's body)</spkr><sd>points
                 o.c.</sd>Look!</sp>
 
-            <sd>The hand movement creates a black spark that throwsRavenoff her feet. Camera
+            <sd>The hand movement creates a black spark that throws<char>Raven</char>off her feet. Camera
                 shift: now we see<char>Beast Boy</char> <transform class="mammal">as a tiger</transform>, rushing toward them.</sd>
 
             <sp><spkr ref="#Raven">Raven (in Starfire's body)</spkr>What do I have to feel to use
@@ -541,23 +537,23 @@
 
             <sp><spkr ref="#Raven">Raven (in Starfire's body)</spkr>Never mind.</sp>
 
-            <sd>She runs back the way they came and yanksStarfirealong. As<char>Beast Boy</char> pursues, they
+            <sd>She runs back the way they came and yanks<char>Starfire</char>along. As<char>Beast Boy</char> pursues, they
                 take a different turn and wind up in a darker stretch of the alley. Something black
                 swishes by in front, bringing them up short with a gasp; it straightens up to expose
                <char>Robin</char>'s silhouette. They back up a few steps only to find the green jungle cat
                 blocking the retreat. He moves in a little closer and roars, and now<char>Robin</char> brings
                 out his fighting staff and runs at them.<char>Beast Boy</char> pounces as well. The girls stand
                 pat and sidestep at the last moment; the two hypnotized Titans collide in midair,
-                and the staff socks<char>Beast Boy</char> in the head and goes flying along the alley.Ravenand
-               Starfiremake tracks while the attackers lie dazed,<char>Robin</char> pinned under<char>Beast Boy</char> 
+                and the staff socks<char>Beast Boy</char> in the head and goes flying along the alley.<char>Raven</char>and
+               <char>Starfire</char>make tracks while the attackers lie dazed,<char>Robin</char> pinned under<char>Beast Boy</char> 
                 The staff clunks down on the latter's head; both are soon on their feet to continue
                 the chase.</sd>
 
-            <sd>Yet another side passage in the alley.Starfirepasses it, butRavenducks in and
+            <sd>Yet another side passage in the alley.<char>Starfire</char>passes it, but<char>Raven</char>ducks in and
                 reaches out to haul her opposite number back. They flatten themselves against the
                 wall to stay out of sight of<char>Robin</char> and<char>Beast Boy</char>  who pass the corner without a
-                second thought. A momentary relieved smile fromRavenis cut off when two very large
-                and familiar bionic hands smash through the bricks behind them.Ravenscreams in
+                second thought. A momentary relieved smile from<char>Raven</char>is cut off when two very large
+                and familiar bionic hands smash through the bricks behind them.<char>Raven</char>screams in
                 terror and is propelled upward at terrific speed by an inadvertent burst of
                 telekinesis from<char>Starfire</char>  who runs off as<char>Cyborg</char> knocks the wall down.</sd>
 
@@ -582,10 +578,10 @@
             <sp><spkr ref="#Starfire">Starfire (in Raven's body)</spkr><sd>hastily</sd>Azarath
                 Metrion Zinthos!</sp>
 
-            <sd>She goes up like a rocket, draggingRavenby the hand, and both scream as they gain
+            <sd>She goes up like a rocket, dragging<char>Raven</char>by the hand, and both scream as they gain
                 too much altitude. The three puppet Titans stare up after them; the two stop in
                 midair before barreling over the trio's heads. Operating on the ragged edge of
-                control,StarfiretowsRavenup to roof level and beyond to soar over Jump
+                control,<char>Starfire</char>tows<char>Raven</char>up to roof level and beyond to soar over Jump
                 City.</sd>
 
             <sp><spkr ref="#Starfire">Starfire (in Raven's body)</spkr>I wish to stop! Please tell
@@ -599,9 +595,9 @@
 
             <sp><spkr ref="#Raven">Raven (in Starfire's body)</spkr><sd>from o.c.</sd>Wait!</sp>
 
-            <sd>Back to them. The severely inexperienced pilot drops like a rock,Ravengoes with
+            <sd>Back to them. The severely inexperienced pilot drops like a rock,<char>Raven</char>goes with
                 her, and they slam down in a huge pile of trash between two buildings. After a
-                moment, they poke their heads up;Ravenshovels waste feverishly toward the
+                moment, they poke their heads up;<char>Raven</char>shovels waste feverishly toward the
                 street.</sd>
 
             <sp><spkr ref="#Starfire">Starfire (in Raven's body)</spkr>Ugh! I smell like the breath
@@ -611,12 +607,12 @@
                    <char>Starfire</char>'s mouth</sd>Shhh!</sp>
 
             <sd>Leaning back to hide herself behind the berm she has made, she throws a trash bag at
-               Starfireand lands it on her head to drive her down and out of sight.<char>Robin</char> and
+               <char>Starfire</char>and lands it on her head to drive her down and out of sight.<char>Robin</char> and
                <char>Cyborg</char> walk into view from opposite directions and stop near the garbage to look
                 around a bit. Not seeing anything worth attention, they continue on their respective
                 patrols. <directNote kind="cut">Cut to behind the trash pile as they leave</directNote>, then <directNote kind="tilt">tilt down to the two girls</directNote>
                 huddled behind it. A little aura of energy appears briefly around one of<char>Starfire</char>'s
-                hands;Ravengives her a hard look as she moans sadly at having lost control again.
+                hands;<char>Raven</char>gives her a hard look as she moans sadly at having lost control again.
                 The next two lines are delivered in hushed tones.</sd>
 
             <sp><spkr ref="#Starfire">Starfire (in Raven's body)</spkr>Peace, quiet,
@@ -656,7 +652,7 @@
                 mine forever.<sd><stageDesc category="close-up">Extreme close-up of him</stageDesc>.</sd>Come, my puppets.</sp>
 
             <sd>He walks away and they follow. After all have gone, <directNote kind="cut">cut to an alley behind the dump
-                heap</directNote>. A few trash bags are flung away; the two girls step out, andRaventries to
+                heap</directNote>. A few trash bags are flung away; the two girls step out, and<char>Raven</char>tries to
                 get her auburn hair untangled.</sd>
 
             <sp><spkr ref="#Raven">Raven (in Starfire's body)</spkr>How can you stand having this
@@ -688,7 +684,7 @@
 
             <sp><spkr ref="#Raven">Raven (in Starfire's body)</spkr><sd>smiling</sd>All right.</sp>
 
-            <sd><directNote kind="cut">Cut to a shot of them on the ground</directNote>, facing each other,Starfirecross-legged, Raven
+            <sd><directNote kind="cut">Cut to a shot of them on the ground</directNote>, facing each other,<char>Starfire</char>cross-legged, <char>Raven</char>
                 kneeling, and pull back slowly.</sd>
 
             <sp><spkr ref="#Raven">Raven (in Starfire's body)</spkr>I was born in a place called
@@ -701,7 +697,7 @@
             <title>Act Three</title>
             <sd><stageDesc category="open-shot">Opening shot: an overhead view of a run-down area in Jump City</stageDesc>. <directNote kind="pan">Pan to a decrepit
                 old theater</directNote>, the Bijou, with a courtyard in front of it. There is a large stone
-                fountain, behind whichRavenandStarfirehave hunkered down to keep an eye on the
+                fountain, behind which<char>Raven</char>and<char>Starfire</char>have hunkered down to keep an eye on the
                 front entrance.<char>Beast Boy</char> <transform class="mammal">as a Doberman pinscher</transform>, paces at the bottom of the steps
                 that lead up to it. Both girls keep their voices down on the next two lines.</sd>
 
@@ -712,7 +708,7 @@
                 hand</sd>Agreed. Now, do just as I instructed. Close your eyes and think of
                 something joyful.</sp>
 
-            <sd><char>Raven</char> rolls her eyes and sighs wearily.Starfirereturns to normal volume.</sd>
+            <sd><char>Raven</char> rolls her eyes and sighs wearily.<char>Starfire</char>returns to normal volume.</sd>
 
             <sp><spkr ref="#Starfire">Starfire (in Raven's body)</spkr>You might choose flowers, or
                 kittens, or the laughter of children, or--</sp>
@@ -737,13 +733,13 @@
             <sp><spkr ref="#Starfire">Starfire (in Raven's body)</spkr>Oh. Well...I am glad I was
                 able to help.</sp>
 
-            <sd><char>Raven</char> looks at her, then down at the lock, then atStarfireagain.</sd>
+            <sd><char>Raven</char> looks at her, then down at the lock, then at<char>Starfire</char>again.</sd>
 
             <sp><spkr ref="#Raven">Raven (in Starfire's body)</spkr>Your turn. Find your center.
                 Focus your energy on the lock.</sp>
 
             <sd><char>Starfire</char> closes her eyes for a moment. When she opens them again, they are glowing
-                white as whenRavenuses her own powers; she raises her hands.</sd>
+                white as when<char>Raven</char>uses her own powers; she raises her hands.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>Azarath...Metrion...<sd>The lock floats up as
                     far as it can.</sd>...Zinthos.</sp>
@@ -762,7 +758,7 @@
             <sp><spkr ref="#Raven">Raven (in Starfire's body)</spkr><sd>sarcastically</sd>Nice
                 work.</sp>
 
-            <sd><directNote kind="cut">Cut to the catwalks in the auditorium</directNote> and <directNote kind="tilt">tilt down to the stage</directNote>. The Puppet King
+            <sd><directNote kind="cut">Cut to the catwalks in the auditorium</directNote> and <directNote kind="tilt">tilt down to the stage</directNote>. <char>The Puppet King</char>
                 stands before a large bowl filled with blue-white flames. Candles have been set up
                 and a scenery flat is to one side; the boys' puppets are hanging over the top edge
                 of the latter. He has his wooden crosspiece in one hand and a test tube in the
@@ -778,7 +774,7 @@
                     pours contents into a bowl</sd>...time for your grand finale.</sp>
 
             <sd>The flames blaze up. <directNote kind="cut">Cut to just below one of the catwalks</directNote> as sparks float toward
-                it; <directNote kind="tilt">tilt up to showRavenandStarfirewatching from here</directNote>.</sd>
+                it; <directNote kind="tilt">tilt up to show<char>Raven</char>and<char>Starfire</char>watching from here</directNote>.</sd>
 
             <sp><spkr ref="#Raven">Raven (in Starfire's body)</spkr><sd>horrified</sd>No.</sp>
 
@@ -822,7 +818,7 @@
             <sp><spkr ref="#PuppetKing">Puppet King</spkr>Go, my puppets! Capture them!</sp>
 
             <sd>They move out; <char>Beast Boy</char> <transform class="mammal">transforms into a vampire bat</transform> to fly up while <char>Robin</char>
-                clambers up the scaffolding.Starfirestands on the catwalk, still reveling in her
+                clambers up the scaffolding.<char>Starfire</char>stands on the catwalk, still reveling in her
                 rescue of the puppets, but is yanked away by<char>Raven</char> </sd>
 
             <sp><spkr ref="#Raven">Raven (in Starfire's body)</spkr>Move!</sp>
@@ -840,8 +836,8 @@
             <sp><spkr ref="#Robin">Robin (in Robin puppet's body)</spkr>Can't move. Deal with
                 it.</sp>
 
-            <sd>The girls are doing a little short-range skydiving of their own.Starfiretries to
-                grab a curtain cord to stop herself,Ravendoes her best to start flying, and
+            <sd>The girls are doing a little short-range skydiving of their own.<char>Starfire</char>tries to
+                grab a curtain cord to stop herself,<char>Raven</char>does her best to start flying, and
                 neither one has any success. <char>Beast Boy</char> <transform class="human">is in human form</transform> again; he hops onto the
                 railing and <transform class="mammal">turns into a gorilla</transform>, and he and<char>Robin</char> jump over the edge. Their two
                 targets have finally managed to hit the brakes and are floating near another
@@ -861,7 +857,7 @@
 
             <sd>She levitates a nearby sandbag and drops it over the side. The rope attached to it
                 is the same one whose loop<char>Robin</char> is standing in, and he is quickly dragged up by
-                that leg. NowRavenflies through the support framework, doing her best to stay
+                that leg. Now<char>Raven</char>flies through the support framework, doing her best to stay
                 ahead of<char>Cyborg</char> and<char>Beast Boy</char>  both of whom are swinging among the cables to get at
                 her. The latter finally finds a grip and bears her down to the catwalk, but she
                 kicks him away and quickly backs up to the wall as<char>Cyborg</char> rejoins the attack.</sd>
@@ -871,7 +867,7 @@
 
             <sd>The attempt comes to a very sudden end when<char>Cyborg</char> aims a punch at her and knocks
                 out a few dozen bricks.<char>Beast Boy</char> tries to seize her again as well; she dodges away,
-                but he counters by slamming his clasped hands onto the catwalk to break it. Raven
+                but he counters by slamming his clasped hands onto the catwalk to break it. <char>Raven</char>
                 hurtles toward the stage, but manages to reverse course and deliver a walloping
                 uppercut that dumps the shape-shifter, <transform class="human">now back in human form</transform>, at <char>Cyborg</char>'s 
                 feet.</sd>
@@ -911,7 +907,7 @@
 
             <sp><spkr ref="#Starfire">Starfire (in Raven's body)</spkr>Raven  help!</sp>
 
-            <sd><char>Cyborg</char> charges in to throw a punch, butRavencan do nothing to help, Beast Boy
+            <sd><char>Cyborg</char> charges in to throw a punch, but<char>Raven</char>can do nothing to help, <char>Beast Boy</char>
                 plants one of those huge mitts on her head and lifts her up by it. She shakes loose
                 and drives the sole of her boot in his face before leaping back to perch on a
                 scaffolding.</sd>
@@ -919,7 +915,7 @@
             <sp><spkr ref="#Raven">Raven (in Starfire's body)</spkr>Starfire!</sp>
 
             <sd><char>Starfire</char> looks up toward her,<char>Robin</char> goes up for a kick, and those violet soles push
-                off from the framework.Ravengoes into the fastest dive she can do and tackles the
+                off from the framework.<char>Raven</char>goes into the fastest dive she can do and tackles the
                 Boy Wonder in midair, driving him off the catwalk and catching the edge of his cape
                 in one hand to leave him hanging.</sd>
 
@@ -957,7 +953,7 @@
                 intertwine briefly before returning to their proper homes.</sd>
 
             <sd><directNote kind="cut">Cut to the three puppets on the stage</directNote>, now just lifeless pieces of wood, and <directNote kind="pan">pan
-                across a bit asStarfirelands</directNote> and sets<char>Robin</char> down.Ravenjoins them.</sd>
+                across a bit as<char>Starfire</char>lands</directNote> and sets<char>Robin</char> down.<char>Raven</char>joins them.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>I am me!<sd>to<char>Raven</char></sd>And you are you!</sp>
 
@@ -990,13 +986,13 @@
             <sd>The luminosity fades away, and he collapses as a slack-jawed, googly-eyed figurine
                 without being able to finish the sentence. <directNote kind="fade">Fade to black</directNote>.</sd>
 
-            <sd><directNote kind="fade">Fade in to the operations center</directNote>. It is now later in the day, andRavenfloats near
+            <sd><directNote kind="fade">Fade in to the operations center</directNote>. It is now later in the day, and<char>Raven</char>floats near
                 the windows, meditating. Her back is to the camera.</sd>
 
             <sp><spkr ref="#Raven">Raven</spkr><sd>chants</sd>Azarath Metrion Zinthos...<sd><stageDesc category="close-up">close-up
                     of her</stageDesc></sd>Azarath Metrion Zinthos...</sp>
 
-            <sd>On the next line, the <directNote kind="pan">camera pans</directNote>/<directNote kind="tilt">tilts slightly</directNote> to showStarfirestanding behind
+            <sd>On the next line, the <directNote kind="pan">camera pans</directNote>/<directNote kind="tilt">tilts slightly</directNote> to show<char>Starfire</char>standing behind
                 her.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>Raven  forgive my interruption, but...</sp>
@@ -1020,7 +1016,7 @@
                 Metrion Zinthos...Azarath Metrion...</sp>
 
             <sd>On the end of the second repetition, <stageDesc category="close-up">close-up of<char>Raven</char></stageDesc>. She breaks off and opens one
-                eye asStarfirecompletes the mantra.</sd>
+                eye as<char>Starfire</char>completes the mantra.</sd>
 
             <sp><spkr ref="#Raven">Raven</spkr>Starfire?</sp>
 

@@ -169,7 +169,7 @@
                <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>from inside</sd>Rise and shine,
                     amigos.</sp>
 
-               <sd>Inside, he is cooking at the kitchen counter, while<char>Cyborg</char> <char>Starfire</char>  and Robin
+               <sd>Inside, he is cooking at the kitchen counter, while<char>Cyborg</char> <char>Starfire</char>  and <char>Robin</char>
                     are at the table. He has donned a chef's hat.</sd>
 
                <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Breakfast is served</sp>
@@ -183,7 +183,7 @@
                <sp><spkr ref="#Starfire">Starfire</spkr>On my planet, such a feast would mark the
                     arrangement of a marriage. Tell me,<char>Beast Boy</char>  to whom are you engaged?</sp>
 
-               <sd>Not quite ready to deal with a curveball like that so early in the day, Beast Boy
+               <sd>Not quite ready to deal with a curveball like that so early in the day, <char>Beast Boy</char>
                     shouts in surprise and jumps back. He has to catch his hat in order to keep it
                     from flying across the room.<char>Cyborg</char>  meanwhile, has started wolfing down a
                     plateful of food. When he finishes, he burps loudly and his expression changes
@@ -256,7 +256,7 @@
                <sp><spkr ref="#Robin">Robin</spkr>She's our friend. What more do we need to
                     know?</sp>
 
-               <sd><stageDesc category="close-up">Close-up of Beast Boy</stageDesc>, <directNote kind="zoom">zooming in slowly</directNote>; he puts the mental machinery to work
+               <sd><stageDesc category="close-up">Close-up of <char>Beast Boy</char></stageDesc>, <directNote kind="zoom">zooming in slowly</directNote>; he puts the mental machinery to work
                     trying to sort this one out. <directNote kind="dissolve">Dissolve to him in the hall</directNote>, standing before a
                     closed door and scratching his head. After a few seconds, <directNote kind="cut">cut to a closer shot</directNote>;
                     he gingerly raises one fist, turns his head away as if ready to avoid a sudden
@@ -300,7 +300,7 @@
                <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Looks like Halloween came early this
                     year.</sp>
 
-               <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>from o.c., whispering</sd>We're in Raven's
+               <sp><spkr ref="#Cyborg">Cyborg</spkr><sd>from o.c., whispering</sd>We're in <char>Raven</char>'s
                     room <sd>walking into view</sd>We should not be in <char>Raven</char>'s room. She doesn't let
                     anybody in here, ever!</sp>
 
@@ -320,8 +320,8 @@
                     object, shapes itself into an arm, and grabs him. He is shaken back and forth as
                    <char>Cyborg</char> pays no mind, having reached the doorway and made ready to leave.</sd>
 
-               <sp><spkr ref="#Cyborg">Cyborg</spkr>Come on, B, we should really get out..<sd>Beast
-                         Boy is yanked away.</sd>...huh?</sp>
+               <sp><spkr ref="#Cyborg">Cyborg</spkr>Come on, <char>B</char>, we should really get out..<sd><char>Beast
+                         Boy</char> is yanked away.</sd>...huh?</sp>
 
                <sd><directNote kind="cut">Cut to the mirror</directNote>, on the floor, and <directNote kind="tilt">tilt up along the arm's length</directNote>.</sd>
 
@@ -686,7 +686,7 @@
                <sp><spkr ref="#Chef">Chef</spkr>Now the salt.</sp>
 
                <sd><directNote kind="pull">Pull back into the operations center</directNote>; this is a show<char>Robin</char> is watching on the
-                    window/screen, as was the previous clip. He lounges on the couch while Starfire
+                    window/screen, as was the previous clip. He lounges on the couch while <char>Starfire</char>
                     paces behind him.</sd>
 
                <sp><spkr ref="#Chef">Chef</spkr>Stir continuously until thickened.</sp>
@@ -739,8 +739,8 @@
                          three</directNote>.</sd>...then you're all weepy, and now you're a Marine? Make up your
                     mind. Who are you?</sp>
 
-               <sd><char>Green Raven</char> directs a quizzical look at him as grinning Pink leaps into view and
-                    glum Gray slinks up.</sd>
+               <sd><char>Green Raven</char> directs a quizzical look at him as grinning <char>Pink </char>leaps into view and
+                    glum <char>Gray</char> slinks up.</sd>
 
                <sp><spkr ref="#Green, Gray, and Pink Ravens">Green, Gray, and Pink
                          Ravens</spkr><sd>all at the same time</sd>I'm Raven</sp>
@@ -802,8 +802,7 @@
 
                <sp><spkr ref="#Trigon">Trigon</spkr>Hatred shall rule.</sp>
 
-               <sd>His voice is the same as the one overlaid with <char>Raven</char>'s when she snared Doctor
-                    Light at the beginning of the episode. <directNote kind="tilt">Tilt down to the horizon</directNote>; he also wears
+               <sd>His voice is the same as the one overlaid with <char>Raven</char>'s when she snared <char>Doctor Light</char> at the beginning of the episode. <directNote kind="tilt">Tilt down to the horizon</directNote>; he also wears
                     shin guards to match his wristbands.<char>Raven</char> and the boys stare up at his sheer
                     size.</sd>
 
@@ -889,7 +888,7 @@
                <sd>His blast is blocked when the demon raises a forearm, but with the chest left
                     wide open, a second shot finds its mark.<char>Trigon</char> stumbles backward, letting go of
                    <char>Raven</char>  and topples over the edge of the asteroid into empty space.<char>Raven</char> tumbles
-                    helplessly toward a high-speed hello with a granite slab, but <transform class="bird">Beast Boy, as a
+                    helplessly toward a high-speed hello with a granite slab, but <char>Beast Boy</char>, <transform class="bird">as a
                     falcon</transform>, is diving down at top speed. <stageDesc category="close-up">Close-up of her</stageDesc>; his talons close on her
                     shoulder, and she starts to come around with a barely audible moan. <directNote kind="pull">Pull back to
                     ground level</directNote>. He sets her down safely, leaving her to fall to her knees with a
@@ -999,14 +998,14 @@
                     from her hands. <directNote kind="cut">Cut to<char>Trigon</char></directNote> and <directNote kind="pull">pull back</directNote>; he sends two huge beams from his
                     hands toward her. The two energies meet at a point between them and cancel out;
                     it becomes a tug-of-war, with the balance point shifting back and forth between
-                    them. <transform class="human">Beast Boy, back in human form</transform>, and<char>Cyborg</char> have their hands full trying to
+                    them. <char>Beast Boy</char>,<transform class="human"> back in human form</transform>, and<char>Cyborg</char> have their hands full trying to
                     keep those birds from pecking them to mush, but they suddenly disappear.</sd>
 
                <sd>The standoff between <char>White Raven</char> and<char>Trigon</char> continues, with the former slowly
                     gaining ground. One final groaning effort sends her beam surging into his face;
                     there is an incredible flash when it hits, and the screen clears to show that he
-                    has turned into another copy of her, with red eyes and a dark red cloak.  Red
-                  <char>Raven</char>  drops to the ground in front of the white-clad real thing, revealing
+                    has turned into another copy of her, with red eyes and a dark red cloak. <char>Red
+                  Raven</char> drops to the ground in front of the white-clad real thing, revealing
                     herself to be perhaps a foot tall, and raises her head to expose two pairs of
                     those glowing eyes. Her body disintegrates into a bolt of energy that crackles
                     into <char>White Raven</char>'s, throwing her into an unbearable rictus.</sd>
@@ -1070,7 +1069,7 @@
                <sp><spkr ref="#Starfire">Starfire</spkr>Come, friends. We shall prepare a new
                     breakfast feast.</sp>
 
-               <sp><spkr ref="#BeastBoy">Beast Boy</spkr>It's a little late for breakfast, Star.
+               <sp><spkr ref="#BeastBoy">Beast Boy</spkr>It's a little late for breakfast, <char>Star</char>.
                     Maybe just some herbal tea.</sp>
 
                <sp><spkr ref="#Raven">Raven</spkr>Actually, breakfast sounds...nice.</sp>

@@ -27,14 +27,14 @@
         <act n="0">
             <title>Prologue</title>
             <sd><stageDesc category="open-shot">Opening shot: a pure white field, which resolves into <char>Robin</char>'s eye as <directNote kind="pull">the camera
-                pulls back to frame him running flat out</directNote>.</stageDesc> <directNote kind="pull">Pull back again; he is chasing Slade
+                pulls back to frame him running flat out</directNote>.</stageDesc> <directNote kind="pull">Pull back again; he is chasing <char>Slade</char>
                 across a rocky landscape under the starry night sky.</directNote> <directNote kind="pan">Pan across the area as <charDesc ref="Slade">the
                 masked villain</charDesc> leaps across a deep crevasse, then to a rock formation that
                 completely blocks the view.</directNote> When the camera passes the far edge, it has moved to <stageDesc category="close-up">a
                 close-up of the two runners</stageDesc>. With<char>Robin</char> still close behind him,<char>Slade</char> bounds over
                 another fissure and drops over <stageDesc category="setting">the edge of a mesa before making a beeline for a
                 high, flat peninsula studded with several tower-like formations</stageDesc>. There is a narrow
-                path leading to it, but he forgoes this in favor of a single long, high jump. Robin
+                path leading to it, but he forgoes this in favor of a single long, high jump. <char>Robin</char>
                 does likewise, landing in a crouch, and comes up for a wary look around.<char>Slade</char> steps
                 out from behind a rock.</sd>
 
@@ -59,7 +59,7 @@
                 his feet and fighting back, but his punches are blocked and he takes one that bowls
                 him over again.</sd>
 
-            <sd>When he gets up this time, he has a birdarang in each hand and lets them fly. Slade
+            <sd>When he gets up this time, he has a birdarang in each hand and lets them fly. <char>Slade</char>
                 stands his ground, arms crossed in front of himself; there is a quick flash and
                 clang of metal on metal, and we see each weapon in turn smash into a tower. The
                 formations begin to crumble, and <directNote kind="pull">the camera pulls back to <stageDesc category="overhead-shot">an overhead view to show
@@ -272,8 +272,7 @@
 
             <sd><char>Raven</char> glares at <charDesc ref="Beast Boy">her detractor</charDesc>, who grins and chuckles nervously at having been shown
                 up. <directNote kind="dissolve">Dissolve to a sign marking that location</directNote> and <directNote kind="pan">pan to one of the warehouses at the
-                waterfront</directNote>. It is now closer to sunup.<char>Robin</char> runs to the doors, followed by Beast
-                Boy, <transform class="mammal">as a cheetah</transform>, returning to <transform class="human">human form</transform>, and then the rest of the group. Cyborg
+                waterfront</directNote>. It is now closer to sunup.<char>Robin</char> runs to the doors, followed by <char>Beast Boy</char>, <transform class="mammal">as a cheetah</transform>, returning to <transform class="human">human form</transform>, and then the rest of the group. <char>Cyborg</char>
                 whips out his sonic cannon and lets it speak; <directNote kind="cut">cut to inside</directNote>. The doors are blasted
                 away, and<char>Robin</char> dashes in with his fighting staff in hand. He extends it to as the
                 others follow him, ready to slug it out. Their perspective, <directNote kind="pan">panning across the
@@ -351,8 +350,7 @@
 
             <sd>He stalks away, leaving the others staring after him and trying to figure out what
                 could have turned him into a one-man wrecking crew. <directNote kind="dissolve">Dissolve to outside the
-                warehouse, just above the doors<char>Cyborg</char> blew out</directNote>, and <directNote kind="tilt">tilt down to him and Beast
-                Boy</directNote>.</sd>
+                warehouse, just above the doors<char>Cyborg</char> blew out</directNote>, and <directNote kind="tilt">tilt down to him and <char>Beast Boy</char></directNote>.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Okay. We know the Chronoton Detonator was here. Now
                 we just have to figure out where it went.</sp>
@@ -376,7 +374,7 @@
             <sp><spkr ref="#Robin">Robin</spkr>Freeze!</sp>
 
             <sd>He is off like a shot; <charDesc ref="Man">the spooked fellow</charDesc> races along the way, but a birdarang
-                flashes into view and embeds itself in the concrete, bringing him up short. Robin
+                flashes into view and embeds itself in the concrete, bringing him up short. <char>Robin</char>
                 follows it down, throws him against the wall, and holds up a small crest with
                 <char>Slade</char>'s S insignia on it, taken from one of the robots.</sd>
 
@@ -458,7 +456,7 @@
 
             <sd>He closes the panel; <directNote kind="pull">pull back to show<char>Beast Boy</char> next to him</directNote>.</sd>
 
-            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>--Starfire can track it!</sp>
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>--<char>Starfire</char> can track it!</sp>
 
             <sd><directNote kind="cut">Cut to her</directNote> and <directNote kind="zoom">zoom in slightly as she sniffles</directNote>, then <directNote kind="fade">fade to black</directNote>.</sd>
 
@@ -609,8 +607,8 @@
             <sd>These words appear. <char>Cyborg</char>'s hand clamps onto the robot's shoulder; <directNote kind="pan">it looks that
                 way at he camera pans to <charDesc ref="Cyborg">the grinning Titan</charDesc></directNote>. <directNote kind="pull">Pull back; as the others fly after the
                 watercraft, a punch lands and the driver is flung over the stern.</directNote> On the deck, the
-                wheel is turning itself under the control of the automatic pilot program; Cyborg
-                seizes it and tries to steer manually, but only succeeds in tearing it out. Starfire
+                wheel is turning itself under the control of the automatic pilot program; <char>Cyborg</char>
+                seizes it and tries to steer manually, but only succeeds in tearing it out. <char>Starfire</char>
                 lands on the deck as he stares popeyed at it. Now he hammers several buttons.</sd>
 
             <sp><spkr ref="#Computer">Computer</spkr>Invalid code.</sp>
@@ -646,7 +644,7 @@
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Ooh.</sp>
 
-            <sp><spkr ref="#Raven">Raven</spkr>Whatever we're gonna do, we should do it before Slade
+            <sp><spkr ref="#Raven">Raven</spkr>Whatever we're gonna do, we should do it before <char>Slade</char>
                 decides to trigger this thing.</sp>
 
             <sd><directNote kind="cut">Cut to <stageDesc category="overhead-shot">a set of overhead gears</stageDesc> in <char>Slade</char>'s lair</directNote> and <directNote kind="tilt">tilt down to the ground</directNote>. The
@@ -715,7 +713,7 @@
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Well, that doesn't sound good.</sp>
 
             <sd>A flash, and we are back in <char>Slade</char>'s lair.<char>Robin</char> tumbles across the floor and stays
-                down for a few seconds, pounding his fist against the tiles with a loud groan. Slade
+                down for a few seconds, pounding his fist against the tiles with a loud groan. <char>Slade</char>
                 steps into view near him; <directNote kind="tilt">tilt up from feet to head</directNote>.</sd>
 
             <sp><spkr ref="#Slade">Slade</spkr>I understand your frustration,<char>Robin</char>. You hate losing
@@ -767,7 +765,7 @@
                 alarm goes off and elicits gasps and wide-eyed stares from all four. The core starts
                 to spin and glow again, and red light spreads from it along the cables that have not
                 been broken. Now the alarm slows down a bit as the red lights on the detonator's
-                housing start to pulsate, and the topmost section retracts slightly. Beast Boy
+                housing start to pulsate, and the topmost section retracts slightly. <char>Beast Boy</char>
                 screams shrilly.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>We blew it! We'll be frozen in time

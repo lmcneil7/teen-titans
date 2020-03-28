@@ -169,7 +169,7 @@
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>That's not<char>Slade</char>, that's...</sp>
 
-            <sp><spkr ref="#Starfire">Starfire</spkr>...Robin.</sp>
+            <sp><spkr ref="#Starfire">Starfire</spkr>...<char>Robin</char>.</sp>
 
             <sd><directNote kind="fade">Fade to black.</directNote></sd>
 
@@ -187,7 +187,7 @@
 
             <sp><spkr ref="#Starfire">Starfire</spkr><char>Robin</char>, why are you--?</sp>
 
-            <sd>He cuts her off with the throw of a Slade-styled flyer that explodes in
+            <sd>He cuts her off with the throw of a <char>Slade</char>-styled flyer that explodes in
                 her face, driving her back along the walkway toward the others.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Yo!</sp>
@@ -317,7 +317,7 @@
                    <char>Robin</char>'s very approximate likeness. It is destroying a city.
                     <directNote kind="zoom">Zoom in on this.</directNote></sd>
 
-            <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>from o.c.</sd>...Robin's been
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>from o.c.</sd>...<char>Robin</char>'s been
                 replaced by an evil robot double.</sp>
 
             <sd>The book opens to its first page, showing <stageDesc category="close-up">a close-up
@@ -452,11 +452,10 @@
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Guess there's nothing to talk about.</sp>
 
             <sd>He cracks his knuckles and turns into <transform class="mammal">an enormous
-                    gorilla</transform>, bringing both fists down on the rooftop. Robin
+                    gorilla</transform>, bringing both fists down on the rooftop. <char>Robin</char>
                 leaps back to evade the hit and a couple of grabs before perching at the center of
                 the A in WAYNE. <charDesc ref="Beast Boy">A huge green hand shoots up after
-                    him</charDesc>; he leaps to the A's peak, then down again as Beast
-                    Boy climbs up after him. In midair, he pulls out another of
+                    him</charDesc>; he leaps to the A's peak, then down again as <char>Beast Boy</char> climbs up after him. In midair, he pulls out another of
                    <char>Slade</char>'s flying weapons, the curved blades extending from the
                 central orb.<directNote kind="cut"> Cut to<char>Beast Boy</char></directNote>; a
                 line whistles down from o.c.,<char>Robin</char>'s direction, and winds itself
@@ -485,8 +484,7 @@
 
             <sd>Back to him. Giving up the attempt to get a clear shot, he disarms and runs in to do
                 things the old-fashioned way. The punch he throws misses<char>Robin</char>, but
-                connects against<char>Raven</char>'s shield. High above the roof, Beast
-                    Boy is still struggling to extricate himself from the sign's A. He
+                connects against<char>Raven</char>'s shield. High above the roof, <char>Beast Boy</char> is still struggling to extricate himself from the sign's A. He
                 finally succeeds by changing into <transform class="reptile">a snake</transform> and
                 slithering down; once he is back on the roof, he assumes the form of <transform
                     class="mammal">a bighorn sheep</transform> and charges. Those curved horns slam
@@ -522,7 +520,7 @@
 
             <sp><spkr ref="#Starfire">Starfire</spkr>No!</sp>
 
-            <sd><char>Cyborg</char> backs into view, blocking Robin’s punches.</sd>
+            <sd><char>Cyborg</char> backs into view, blocking <char>Robin</char>’s punches.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Come on, man, don’t make me do this! I don’t want
                 to do this!</sp>
@@ -546,7 +544,7 @@
                 muzzle glows red. <stageDesc category="close-up">Close-up of her, the green radiance
                     from her palm throwing an unearthly hue onto her icy expression as she steels
                     herself to fire.</stageDesc>
-                <directNote kind="cut">Cut to a slow pan across Robin’s expressionless
+                <directNote kind="cut">Cut to a slow pan across <char>Robin</char>’s expressionless
                     face, bathed in the blaster’s glare</directNote>, then to <stageDesc
                     category="close-up">an extreme close-up of her eye</stageDesc>. It widens,
                 showing the struggle between friendship and duty raging in her mind. <directNote
@@ -652,7 +650,7 @@
                 shield in front of herself.</sd>
 
             <sd>Now <charDesc ref="Beast Boy">the little green primate</charDesc> darts in and
-                climbs all over the armored arms and legs; it takes a moment for Robin
+                climbs all over the armored arms and legs; it takes a moment for <char>Robin</char>
                 to get hold and throw him aside. As he does so, though,<char>Raven</char> exerts
                 her powers over the arm with the blaster and causes the thing to dismantle itself.
                 What she gets for her trouble is a shove that sends her careening across the roof.
@@ -679,7 +677,7 @@
                 behind. When the smoke clears,<char>Cyborg</char> is seen in one piece and on his
                 feet; <directNote kind="pull">pull back slightly to show him standing in the center
                     of the fallen A</directNote>, the right place at the right time to keep from
-                being crushed.<char>Starfire</char> looks around fearfully as Raven
+                being crushed.<char>Starfire</char> looks around fearfully as <char>Raven</char>
                 lands near her.</sd>
 
             <sp><spkr ref="#Raven">Raven</spkr>He's gone.</sp>
@@ -816,7 +814,7 @@
                 breaks one loose to use as a club. He twirls it back and forth and gets ready to
                 swing, but<char>Slade</char> merely pulls out a fighting staff just like the one
                    <char>Robin</char> used to use and extends it to full length. More steam roils
-                around the two enemies before<char>Robin</char> charges in. Slade
+                around the two enemies before<char>Robin</char> charges in. <char>Slade</char>
                 parries his attacks, and the two lean in at each other with their full weight.
                 Slowly but surely,<char>Slade</char> overpowers<char>Robin</char> and forces him
                 back, then catches him with a high swing to drive him back against a pipe.</sd>
@@ -1014,8 +1012,7 @@
 
             <sp><spkr ref="#Robin">Robin</spkr>Titans! Go!</sp>
 
-            <sd>The others, also back in good health, charge at<char>Slade</char>. Beast
-                    Boy, <transform class="mammal">now a tiger</transform>, is first to do
+            <sd>The others, also back in good health, charge at<char>Slade</char>. <char>Beast Boy</char>, <transform class="mammal">now a tiger</transform>, is first to do
                 damage with a clawed swipe that pierces the armor.<char>Cyborg</char> and
                    <char>Starfire</char> move in next, starbolts and cannon going full throttle to
                 blast<char>Slade</char> backward. As he tumbles,<char>Raven</char> casts a spell
@@ -1088,8 +1085,7 @@
 
             <sd><directNote kind="pull">Pull back.</directNote>
                <char>Robin</char>, <charDesc ref="Robin">dressed in his proper outfit</charDesc>,
-                and the other three Titans are watching a magnified view of Beast
-                    Boy's blood on the window/screen. Not a probe in sight.</sd>
+                and the other three Titans are watching a magnified view of <char>Beast Boy</char>'s blood on the window/screen. Not a probe in sight.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>That's it, y'all. The Teen Titans are
                 officially probe-free.</sp>
@@ -1129,7 +1125,7 @@
             <sp><spkr ref="#Raven">Raven</spkr>Sorry I asked.</sp>
 
             <sd><charDesc ref="Beast Boy and Cyborg">The two laughing cooks</charDesc> run past and
-                haul her toward the kitchen, leaving<char>Robin</char> and Starfire
+                haul her toward the kitchen, leaving<char>Robin</char> and <char>Starfire</char>
                 alone at the couch. Some bacon and a couple of eggs fly back into view. He sits down
                 next to her; she cannot raise her eyes to him.</sd>
 

@@ -199,7 +199,7 @@
                 screen, and the <directNote kind="pull">camera pulls back to frame this</directNote>: an enormous missile ready to
                 launch.</sd>
 
-           <sp><spkr ref="#MadMod">Mad Mod</spkr>Right, then. Count along with Moddy.</sp>
+           <sp><spkr ref="#MadMod">Mad Mod</spkr>Right, then. Count along with <char>Moddy</char>.</sp>
 
            <sd>One of the two busts extends laser muzzles from its eyes and spinning blades on
                 jointed arms from its ears.</sd>
@@ -423,8 +423,8 @@
            <sd>Stop on the end of the lab, where a few desks have been set up. A head can just be
                 seen over the top of a chair that is front and center, positioned for a full view of
                 the overhead projector screen that hangs down from the ceiling at an angle. The
-                hypnotic pattern is playing across it. Head-on view of the chair; it is indeed Beast
-                Boy, wearing a dunce cap, fully under the screen's spell, drool running down his
+                hypnotic pattern is playing across it. Head-on view of the chair; it is indeed <char>Beast
+                Boy</char>, wearing a dunce cap, fully under the screen's spell, drool running down his
                 chin, babbling incoherently.<char>Robin</char>  and<char>Starfire</char>  move in for a look.</sd>
 
            <sp><spkr ref="#MadMod">Mad Mod</spkr>Ah, yeah. A model student, that one. Lovely. Sits
@@ -453,8 +453,8 @@
                 it out, and vaults to one of the molecular models and then over to her. He ducks
                 through the door and slams it shut. <directNote kind="fade">Fade to black</directNote>.</sd>
 
-           <sd><directNote kind="fade">Fade in to the hypnoscreen pattern</directNote> and <directNote kind="pull">pull back to show it still playing in Beast
-                Boy's eyes</directNote>. He is back in the main atrium.</sd>
+           <sd><directNote kind="fade">Fade in to the hypnoscreen pattern</directNote> and <directNote kind="pull">pull back to show it still playing in <char>Beast
+                Boy</char>'s eyes</directNote>. He is back in the main atrium.</sd>
 
            <sp><spkr ref="#Starfire">Starfire</spkr><char>Beast Boy</char> </sp>
 
@@ -536,7 +536,7 @@
                 there. He is slithering along like an inchworm, with copious amounts of saliva
                 lubricating the path.</sd>
 
-           <sp><spkr ref="#Robin">Robin</spkr>Mad Mod's hypnoscreens. We can't snap him out of it.
+           <sp><spkr ref="#Robin">Robin</spkr><char>Mad Mod</char>'s hypnoscreens. We can't snap him out of it.
                 We've tried everything.</sp>
 
            <sp><spkr ref="#Cyborg">Cyborg</spkr>Did you try this?</sp>
@@ -610,8 +610,7 @@
 
            <sd>That does the trick.</sd>
 
-           <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>laughing</sd>Boogers!<sd>He realizes Mad
-                    Mod got him again.</sd>Aw, man!</sp>
+           <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>laughing</sd>Boogers!<sd>He realizes <char>Mad Mod</char> got him again.</sd>Aw, man!</sp>
 
            <sd>He is yanked off with a shout to join the chase. <annot>Music cue: "K2G" by Puffy AmiYumi:
                 a light, energetic tune reminiscent of the "two-tone" ska style that emerged in
@@ -665,8 +664,8 @@
 
            <sd>They are carried up and o.c., and the view changes behind them to show a hall with
                 many doors on either side, seen from one end. A<char>Mad Mod</char>  bust stands at the other. He
-                rides in and, as the Titans slide through in a heap, exits through a far door. <transform class="human">Beast
-                Boy reverts to human form</transform> and stands there, slightly dazed, while the other four
+                rides in and, as the Titans slide through in a heap, exits through a far door. <char>Beast
+                Boy</char> <transform class="human">reverts to human form</transform> and stands there, slightly dazed, while the other four
                 bolt to the other end. The Limey runs across the hall and soon has <transform class="mammal">a green dog</transform>
                 nipping at his heels. Now<char>Robin</char>  peeks out, catches sight of him, and runs that way
                 while<char>Cyborg</char>  crosses the hall. <char>Beast Boy</char>  <transform class="mammal">as a gorilla</transform>, shambles through and just
@@ -879,8 +878,8 @@
                     screen</sd>--don't look at the screen, don't look at the screen--</sp>
 
            <sd>For the fourth time this episode, he surrenders to the mind-numbing effects and
-                starts burbling and drooling. <directNote kind="cut">Cut to<char>Robin</char> </directNote>, making his way quickly up toward Mad
-                Mod's platform. Once he reaches it, he throws a kick that hits a big bunch of
+                starts burbling and drooling. <directNote kind="cut">Cut to<char>Robin</char> </directNote>, making his way quickly up toward <char>Mad
+                Mod</char>'s platform. Once he reaches it, he throws a kick that hits a big bunch of
                 nothing as the villain easily sidesteps.<char>Mad Mod</char>  plants his cane upright and
                 balances on its end.</sd>
 
@@ -960,7 +959,7 @@
 
            <sp><spkr ref="#MadMod">Mad Mod</spkr><sd>clearing his throat</sd>Hello, guv'nor.</sp>
 
-           <sp><spkr ref="#Robin">Robin</spkr>School's out, Mod. And you're looking at about twenty
+           <sp><spkr ref="#Robin">Robin</spkr>School's out, <char>Mo</char>d. And you're looking at about twenty
                 years of detention.</sp>
 
            <sd>The elderly Englishman recoils a bit at the prospect. <directNote kind="fade">Fade to black</directNote>.</sd>

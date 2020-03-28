@@ -572,7 +572,7 @@
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr><char>Robin</char> </sp>
 
-            <sp><spkr ref="#Robin">Robin</spkr>I'm fine! Get X! Go!</sp>
+            <sp><spkr ref="#Robin">Robin</spkr>I'm fine! Get <char>X</char>! Go!</sp>
 
             <sd><directNote kind="cut">Cut to the other four on the end of this</directNote>. They set off; <directNote kind="cut">cut to a subway station
                 entrance</directNote>, where<char>Red X</char>  takes the entire down escalator in one huge leap. Underground,
@@ -711,7 +711,7 @@
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>from o.c.</sd>Let him go.<sd><directNote kind="cut">Cut to him
                     and the others</directNote>.</sd>Not like he's been much help lately anyway. If<char>Robin</char> wasn't
-                always A.W.O.L., X would be K.O.'d by now.</sp>
+                always A.W.O.L., <char>X</char> would be K.O.'d by now.</sp>
 
             <sp><spkr ref="#Raven">Raven</spkr>I can't believe I'm saying this, but <char>Beast Boy</char>'s 
                 right.</sp>
@@ -749,15 +749,15 @@
                 appears; caught up in the net as during the Titans' first pursuit of <char>Red X</char>  He
                 flickers a bit.</sd>
 
-            <sp><spkr ref="#Robin">Hologram Robin</spkr>I'm fine! Get X! Go!</sp>
+            <sp><spkr ref="#Robin">Hologram Robin</spkr>I'm fine! Get <char>X</char>! Go!</sp>
 
             <sd><char>Starfire</char>'s  foot steps into view near it.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr><sd>from o.c.</sd>Huh?<sd><directNote kind="cut">Cut to
                 her</directNote>.</sd><char>Robin</char> </sp>
 
-            <sp><spkr ref="#Robin">Hologram Robin</spkr>I'm fine! Get X! Go!<sd>as<char>Starfire</char> 
-                    reaches through him</sd>I'm fine! Get X! Go!</sp>
+            <sp><spkr ref="#Robin">Hologram Robin</spkr>I'm fine! Get <char>X</char>! Go!<sd>as<char>Starfire</char> 
+                    reaches through him</sd>I'm fine! Get <char>X</char>! Go!</sp>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>If you were not really there, then where
                 were...</sp>
@@ -855,8 +855,8 @@
                 support beams erected on it. A huge electric billboard throws a red glow over this
                 area.</sd>
 
-            <sd><char>Slade</char>  stops for a look back and sees<char>Robin</char> standing on the high, far plateau. The
-                Boy Wonder takes a few steps back and goes into a headlong rush; <stageDesc category="overhead-shot">overhead view of
+            <sd><char>Slade</char>  stops for a look back and sees<char>Robin</char> standing on the high, far plateau. <char>The
+                Boy Wonder</char> takes a few steps back and goes into a headlong rush; <stageDesc category="overhead-shot">overhead view of
                 the street</stageDesc>, <directNote kind="pan">panning across</directNote>, as he vaults into the elevated emptiness and begins to
                 drop toward the pool of red light. He lands safely and tumbles a bit before coming
                 up in a crouch to face <char>Slade</char> </sd>

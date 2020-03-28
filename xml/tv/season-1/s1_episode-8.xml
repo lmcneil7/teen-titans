@@ -172,7 +172,7 @@
                 slides open upon approach to reveal the bottom of Jump City Bay. The vessel blasts
                 out, to the sound of jubilant whooping from <char>Cyborg</char>  and soon recedes into the blue
                 depths. <directNote kind="dissolve">Dissolve to a <stageDesc category="close-up">close-up</stageDesc> of a passing school of fish</directNote>; the team chugs straight
-                through them, disrupting the formation.<char>Starfire</char> watches them while Beast Boy
+                through them, disrupting the formation.<char>Starfire</char> watches them while <char>Beast Boy</char>
                 watches her.</sd>
 
             <sp><spkr ref="#Starfire">Starfire</spkr>Oooh, wondrous!</sp>
@@ -339,7 +339,7 @@
                 up quickly, then comes down behind<char>Trident</char> and gets him in a headlock. <char>Beast Boy</char> 
                 <transform class="fish">again a swordfish</transform>, zips by.</sd>
 
-            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Let Pretty Boy wrestle.<sd><transform class="fish">becomes a
+            <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Let <char>Pretty Boy</char> wrestle.<sd><transform class="fish">becomes a
                     squid</transform></sd>Only<char>Beast Boy</char> can save a whole submarine.</sp>
 
             <sd>He goes into a sharp dive, preparing to do just that.</sd>
@@ -354,8 +354,8 @@
             <sd>They grind against the wall. At the edge,<char>Aqualad</char> is kicked down to the surface by
                 the escaping <char>Trident</char>  he looks after the villain, then down at the impending
                 disaster, and uses his telepathic powers to summon two nearby whales. The T-Sub
-                drops like a rock, at least, like a rock that has been dropped underwater, as  Beast
-                Boy  races after it.</sd>
+                drops like a rock, at least, like a rock that has been dropped underwater, as  <char>Beast
+                Boy</char>  races after it.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>I got it, I got it!<sd>The whales pass
                     him.</sd>Huh?</sp>
@@ -577,7 +577,7 @@
         </act>
         <act n="2">
             <title>Act Two</title>
-            <sd><stageDesc category="open-shot">Opening shot: Beast Boy</stageDesc>, <transform class="fish">as a squid</transform>, and<char>Aqualad</char> swimming near the ocean floor. They
+            <sd><stageDesc category="open-shot">Opening shot: <char>Beast Boy</char></stageDesc>, <transform class="fish">as a squid</transform>, and<char>Aqualad</char> swimming near the ocean floor. They
                 stop for a look around.</sd>
 
             <sp><spkr ref="#Aqualad">Aqualad</spkr>
@@ -691,8 +691,8 @@
                 thing!</sp>
 
             <sd><char>Aqualad</char>  grits his teeth to deliver a crushing response or a right hook, but before
-                he can make up his mind,<char>Trident</char> swims past and goes deeper into the grotto.  Beast
-                Boy  looks in a different direction and sees a pair of eyes shining in the black
+                he can make up his mind,<char>Trident</char> swims past and goes deeper into the grotto. <char>Beast
+                Boy</char>  looks in a different direction and sees a pair of eyes shining in the black
                 distance.</sd>
 
             <sp><spkr ref="#BeastBoy and Aqualad">Beast Boy and Aqualad</spkr>
@@ -740,7 +740,7 @@
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>And I thought<char>Aqualad</char> had a big ego.</sp>
 
             <sd>He lashes out with his other claw. <directNote kind="wipe">Wipe to the geyser patch</directNote>, where<char>Aqualad</char> drops
-                into view to land flat on his back. Rubbing his head, he looks up and finds Trident
+                into view to land flat on his back. Rubbing his head, he looks up and finds<char> Trident</char>
                 hurling himself downward, namesake at the ready.<char>Aqualad</char> gets out of the way just in
                 time and immediately has to dodge a bolt.<char>Trident</char> loses track of him, but only for a
                 moment until the blue-and-black-skinned fighter darts back in and kicks him in the
@@ -850,7 +850,7 @@
                 fray.</sd>
 
             <sd><char>Beast Boy</char>  <transform class="mammal">now a polar bear</transform>, rushes in and raises an enormous paw. One clone tumbles
-                to the ground, then another, and then a third raises his weapon and fires. Beast Boy
+                to the ground, then another, and then a third raises his weapon and fires. <char>Beast Boy</char>
                 is flung backward to crash into a console. Several drums of waste are connected to
                 it, and on the screen is a red-letter message: "Hatching Sequence Beginning." Sparks
                 fly after he hits; <transform class="human">back in human form</transform>, he stands up and rubs his head, and a big
@@ -882,7 +882,7 @@
             <sp><spkr ref="#Tridents">Tridents</spkr>...and praise my perfection!</sp>
 
             <sp><spkr ref="#Aqualad">Aqualad</spkr>
-                <sd>to Beast Boy</sd>Any bright ideas?</sp>
+                <sd>to <char>Beast Boy</char></sd>Any bright ideas?</sp>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Just one. Try to keep up.<sd>to
                <char>Trident</char>s</sd>So, if you're all perfect, which one of you is the best?</sp>

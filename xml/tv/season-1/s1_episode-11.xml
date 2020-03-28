@@ -46,7 +46,7 @@
 
             <sd>He hunches down over the steering wheel and starts grumbling to himself. A thought
                 balloon appears over his head, with assorted components scrolling by as if on a
-                stock ticker. After a few seconds, they are replaced by a glowing light bulb. Cyborg
+                stock ticker. After a few seconds, they are replaced by a glowing light bulb. <char>Cyborg</char>
                 straightens up as the balloon evaporates, he has hit on something.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Ha!</sp>
@@ -65,10 +65,10 @@
 
             <sd>Beast<char>Boy</char> turns into <transform class="mammal">a lemur</transform> and starts thumping his belly to fill the request.</sd>
 
-            <sp><spkr ref="#Cyborg">Cyborg</spkr>Ladies and gentlemen, and whatever Beast Boy
+            <sp><spkr ref="#Cyborg">Cyborg</spkr>Ladies and gentlemen, and whatever <char>Beast Boy</char>
                 is...</sp>
 
-            <sd>Beast<char>Boy</char> returns to his <transform class="human">human form</transform>.</sd>
+            <sd><char>Beast Boy</char> returns to his <transform class="human">human form</transform>.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>angrily</sd>Hey,<char>Cyborg</char>. You want a drum
                 roll or not?</sp>
@@ -294,8 +294,7 @@
             <sp><spkr ref="#Raven">Raven</spkr>Azarath Metrion Zinthos!</sp>
 
             <sd>The items rocket toward<char>Overload</char> and disappear into his body; instead of being hurt,
-                though, he merely grows several feet and roars heartily. She retreats to where Beast
-               <char>Boy</char> is crouched atop a display case.</sd>
+                though, he merely grows several feet and roars heartily. She retreats to where <char>Beast Boy</char> is crouched atop a display case.</sd>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Smooth.</sp>
 
@@ -343,7 +342,7 @@
                 other four head out.</sd>
 
             <sp><spkr ref="#Cyborg">Cyborg</spkr>Soon as we hand <charDesc ref="Overload">Sparky</charDesc> over to the cops...<sd>stops
-                    and elbows Beast Boy</sd>...how 'bout we swing by the drive-thru?</sp>
+                    and elbows <char>Beast Boy</char></sd>...how 'bout we swing by the drive-thru?</sp>
 
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr><sd>gestures vaguely</sd>Uh...dude?</sp>
 
@@ -354,7 +353,7 @@
             <sp><spkr ref="#Cyborg">Cyborg</spkr>My wheel lock! My car alarm! <charDesc ref="T-Car">My baby!</charDesc><sd>collapses
                     and sobs</sd>Somebody stole <charDesc ref="T-Car">my baby</charDesc>!</sp>
 
-            <sd><stageDesc category="close-up">Close-up of <charDesc ref="T-Car">the baby in question</charDesc>, speeding through the streets, with<char>Cash</char> and Sammy
+            <sd><stageDesc category="close-up">Close-up of <charDesc ref="T-Car">the baby in question</charDesc>, speeding through the streets, with<char>Cash</char> and <char>Sammy</char>
                 hanging out the front windows and whooping it up.</stageDesc> The former is driving the now-hot
                 car in this joyride.</sd>
 
@@ -390,7 +389,7 @@
             <sp><spkr ref="#BeastBoy">Beast Boy</spkr>Hey, look on the bright side. At least it
                 wasn't my fault.</sp>
 
-            <sp><spkr ref="#Robin">Robin</spkr>Not helping.<sd>Beast<char>Boy</char> laughs nervously; Robin
+            <sp><spkr ref="#Robin">Robin</spkr>Not helping.<sd>Beast<char>Boy</char> laughs nervously; <char>Robin</char>
                     addresses<char>Cyborg</char>.</sd>We'll help you find your car, I promise. But right now,
                 we've gotta take<char>Overload</char> to jail.</sp>
 
@@ -483,7 +482,7 @@
 
             <sd>He presses a button and gets his answer after a short delay: the T-Car accelerates
                 dramatically and tears ahead. It goes crazily up the wall and comes down in front
-                before crossing the finish line to take the checkered flag. With the race over, Cash
+                before crossing the finish line to take the checkered flag. With the race over, <char>Cash</char>
                 and<char>Sammy</char> do a sharp U-turn and come to a stop, then leap out.</sd>
 
             <sp><spkr ref="#Sammy">Sammy</spkr>Dude! That was the bomb!</sp>
@@ -505,7 +504,7 @@
 
             <sp><spkr ref="#Cash">Cash</spkr>Huh? Hey, dude, what's going on here, huh?</sp>
 
-            <sd>The lights shut off, and the entire mini-auto rises into the air to expose Gizmo
+            <sd>The lights shut off, and the entire mini-auto rises into the air to expose <char>Gizmo</char>
                 himself on all fours. It folds itself away into the central equipment pack on his
                 back; he stands up.</sd>
 
@@ -829,7 +828,7 @@
                 borrowed ragtop and<char>Gizmo</char> both rise into view, and a parachute deploys from the
                 latter's seat. A colossal explosion occurs at ground level o.c.; <directNote kind="cut">cut to the crash
                 site</directNote>. The van has been knocked onto its side, while the smashed T-Car has fetched up
-                against the undercarriage. <directNote kind="pan">Pan away a short distance to a clear patch of road.</directNote> Raven
+                against the undercarriage. <directNote kind="pan">Pan away a short distance to a clear patch of road.</directNote> <char>Raven</char>
                 brings the convertible down for a soft landing to the sound of the o.c.<char>Gizmo</char>'s very
                 nasty laughter; he drifts down into view as they jump out.</sd>
 
@@ -861,7 +860,7 @@
                 are tinted black. The headlights, narrowed into fierce slits, blaze to life as the
                 engine revs up.</charDesc></sd>
 
-            <sd><char>Cyborg</char> growls softly; the Overload/T-Car does likewise. They face each other down
+            <sd><char>Cyborg</char> growls softly; the <char>Overload/T-Car</char> does likewise. They face each other down
                 across the empty yards of asphalt.</sd>
 
             <sp><spkr ref="#Overload/T-Car">Overload/T-Car</spkr>Only way to stop<char>Overload</char> is to
@@ -881,7 +880,7 @@
                 dissipated.</sd>
 
             <sp><spkr ref="#Overload">Overload</spkr><sd>groans wearily and loses
-                steam</sd><oneLine>Overload...overloaded.</oneLine></sp>
+                steam</sd><oneLine><char>Overload</char>...overloaded.</oneLine></sp>
 
             <sd><char>Overload</char> closes his eye. <directNote kind="dissolve">Dissolve to a second prison van</directNote> and <directNote kind="pan">pan past its rear end
                 to the sound of<char>Gizmo</char>'s grumbling</directNote>. It is now sunrise. Two guards have cuffed him and
