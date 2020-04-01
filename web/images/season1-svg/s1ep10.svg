@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
-   <g transform="translate(25, 350) scale(.5)">
-      <text x="600"
+      <g transform="translate(25, 410) scale(.6)">
+      <text x="320"
             y="-620"
-            text-anchor="middle"
+            text-anchor="start"
             fill="DodgerBlue"
             font-size="40">MAD MOD</text>
       <line x1="50"
@@ -24,52 +24,52 @@
                text-anchor="start"
                font-size="22"
                fill="blue">Mad Mod</text>
-         <rect x="100" y="-400" width="50" height="400" fill="lightgrey"/>
+         <rect x="100" y="-400" width="75" height="400" fill="lightgrey"/>
       </g>
       <!--Count of Mad Mod speeches is: 40-->
       <g id="Robin">
-         <text x="200 "
+         <text x="225"
                y="30"
                text-anchor="start"
                font-size="22"
                fill="blue">Robin</text>
-         <rect x="200" y="-370" width="50" height="370" fill="lightgrey"/>
+         <rect x="225" y="-370" width="75" height="370" fill="lightgrey"/>
       </g>
       <!--Count of Robin speeches is: 37-->
       <g id="Starfire">
-         <text x="300 "
+         <text x="350 "
                y="30"
                text-anchor="start"
                font-size="22"
                fill="blue">Starfire</text>
-         <rect x="300" y="-200" width="50" height="200" fill="lightgrey"/>
+         <rect x="350" y="-200" width="75" height="200" fill="lightgrey"/>
       </g>
       <!--Count of Starfire speeches is: 20-->
       <g id="Cyborg">
-         <text x="400 "
+         <text x="470 "
                y="30"
                text-anchor="start"
                font-size="22"
                fill="blue">Cyborg</text>
-         <rect x="400" y="-140" width="50" height="140" fill="lightgrey"/>
+         <rect x="470" y="-140" width="75" height="140" fill="lightgrey"/>
       </g>
       <!--Count of Cyborg speeches is: 14-->
       <g id="BeastBoy">
-         <text x="500 "
-               y="30"
-               text-anchor="start"
-               font-size="22"
-               fill="blue">Beast Boy</text>
-         <rect x="500" y="-120" width="50" height="120" fill="lightgrey"/>
-      </g>
-      <!--Count of Beast Boy speeches is: 12-->
-      <g id="Raven">
          <text x="600 "
                y="30"
                text-anchor="start"
                font-size="22"
+               fill="blue">Beast Boy</text>
+         <rect x="600" y="-120" width="75" height="120" fill="lightgrey"/>
+      </g>
+      <!--Count of Beast Boy speeches is: 12-->
+      <g id="Raven">
+         <text x="725 "
+               y="30"
+               text-anchor="start"
+               font-size="22"
                fill="blue">Raven</text>
-         <rect x="600" y="-100" width="50" height="100" fill="lightgrey"/>
+         <rect x="725" y="-100" width="75" height="100" fill="lightgrey"/>
       </g>
       <!--Count of Raven speeches is: 10-->
       <text x="35"

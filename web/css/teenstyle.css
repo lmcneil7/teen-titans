@@ -116,12 +116,17 @@ padding-top: 20px;
 .svgContainer{
     justify-content: space-around;
     float: left;
+    margin-top:30px;
     font-size: 15px;
     color: white;
     text-align: center;
 }
 .svgContainer img{
     width: 600px;
+    height: 435px;
+}
+#s1ep4 img{
+     width: 650px;
     height: 435px;
 }
 #svg{

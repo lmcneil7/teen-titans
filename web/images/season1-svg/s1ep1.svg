@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
       <g transform="translate(25, 410) scale(.6)">
-            <text x="480"
+            <text x="320"
                   y="-620"
-                  text-anchor="middle"
+                  text-anchor="start"
                   fill="DodgerBlue"
                   font-size="40">DIVIDE AND CONQUER</text>
             <line x1="50"
@@ -72,6 +72,17 @@
                   <rect x="725" y="-60" width="75" height="60" fill="lightgrey"/>
             </g>
             <!--Count of Slade speeches is: 6-->
+            <text x="35"
+                  y="-100"
+                  fill="#ff4dc4"
+                  text-anchor="middle"
+                  font-size="20">10</text>
+            <line x1="50"
+                  y1="-100"
+                  x2="900"
+                  y2="-100"
+                  stroke="Chartreuse"
+                  stroke-dasharray="10"/>
             <text x="35" y="-200" fill="#ff4dc4" text-anchor="middle" font-size="20">20</text>
             <line x1="50"
                   y1="-200"
