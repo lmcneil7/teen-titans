@@ -113,17 +113,24 @@ padding-top: 20px;
     margin:20px;
     margin-top:30px;
 }
+.svgContainer{
+    justify-content: space-around;
+    float: left;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+.svgContainer img{
+    width: 600px;
+    height: 435px;
+}
 #svg{
     text-align: center;
      font-family: "Trebuchet MS", Helvetica, sans-serif;
      font-size: 18px;
      color: white;
 }
-#Shan img{
-    width: 450px;
-    height: 300px;
-    float: inherit;
-}
+
 .container{
     display:flex;
     position: absolute;
@@ -156,6 +163,7 @@ padding-top: 20px;
 .license a{
     text-decoration: none;
 }
+
 a:link {color: orange;} /* unvisited link */
 a:visited {color:#1aa3ff
 ;}  /* visited link */
