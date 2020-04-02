@@ -105,7 +105,7 @@ padding-top: 20px;
 }
 
 .textContain{
-     flex:1;
+    flex:1;
     justify-content: space-around;
     flex-direction: column;
     padding:20px;
@@ -113,29 +113,35 @@ padding-top: 20px;
     margin:20px;
     margin-top:30px;
 }
-.svgContainer{
-    justify-content: space-around;
-    float: left;
-    margin-top:30px;
-    font-size: 15px;
-    color: white;
+.svgText{
+    margin-top: 40px;
     text-align: center;
+}
+.svgContainer{
+    display: flex;
+    color: white;
+    max-width: 100%;
+    margin-top: 40px;
 }
 .svgContainer img{
     width: 600px;
     height: 435px;
 }
-#s1ep4 img{
+
+#svgLeft{
+    flex: 1;
+    flex-direction: column;
+    justify-content: space-around;
+}
+#svgRight{
+    flex: 1;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.fitting img{
      width: 650px;
     height: 435px;
 }
-#svg{
-    text-align: center;
-     font-family: "Trebuchet MS", Helvetica, sans-serif;
-     font-size: 18px;
-     color: white;
-}
-
 .container{
     display:flex;
     position: absolute;

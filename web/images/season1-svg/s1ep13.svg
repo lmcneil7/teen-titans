@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
       <g transform="translate(25, 410) scale(.6)">
-      <text x="320"
+      <text x="480"
             y="-620"
-            text-anchor="start"
+            text-anchor="middle"
             fill="DodgerBlue"
             font-size="40">APPRENTICE - PART 2</text>
       <line x1="50"
@@ -23,7 +23,7 @@
                y="30"
                text-anchor="start"
                font-size="22"
-               fill="blue">Slade</text>
+               fill="white">Slade</text>
          <rect x="100" y="-320" width="75" height="320" fill="lightgrey"/>
       </g>
       <!--Count of Slade speeches is: 32-->
@@ -32,7 +32,7 @@
                y="30"
                text-anchor="start"
                font-size="22"
-               fill="blue">Beast Boy</text>
+               fill="#1aff1a">Beast Boy</text>
          <rect x="225" y="-270" width="75" height="270" fill="lightgrey"/>
       </g>
       <!--Count of Beast Boy speeches is: 27-->
@@ -41,7 +41,7 @@
                y="30"
                text-anchor="start"
                font-size="22"
-               fill="blue">Cyborg</text>
+               fill="#3399ff">Cyborg</text>
          <rect x="350" y="-270" width="75" height="270" fill="lightgrey"/>
       </g>
       <!--Count of Cyborg speeches is: 27-->
@@ -50,7 +50,7 @@
                y="30"
                text-anchor="start"
                font-size="22"
-               fill="blue">Starfire</text>
+               fill="#ffff4d">Starfire</text>
          <rect x="475" y="-210" width="75" height="210" fill="lightgrey"/>
       </g>
       <!--Count of Starfire speeches is: 21-->
@@ -59,7 +59,7 @@
                y="30"
                text-anchor="start"
                font-size="22"
-               fill="blue">Robin</text>
+               fill="#ff3333">Robin</text>
          <rect x="600" y="-210" width="75" height="210" fill="lightgrey"/>
       </g>
       <!--Count of Robin speeches is: 21-->
@@ -68,7 +68,7 @@
                y="30"
                text-anchor="start"
                font-size="22"
-               fill="blue">Raven</text>
+               fill="#dd99ff">Raven</text>
          <rect x="725" y="-160" width="75" height="160" fill="lightgrey"/>
       </g>
       <!--Count of Raven speeches is: 16-->
