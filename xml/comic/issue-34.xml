@@ -17,8 +17,8 @@
         <charList id="wgirl">Donna Troy (Wonder Girl)</charList>
         <charList id="bboy">Garfield Logan (Beast Boy (Changeling))</charList>
         <charList id="starfire">Koriand'r (Starfire)</charList>
-        <charList id="#cyborg">Victor Stone (Cyborg)</charList>
-        <charList id="#kflash">Wally West (Kid Flash)</charList>
+        <charList id="cyborg">Victor Stone (Cyborg)</charList>
+        <charList id="kflash">Wally West (Kid Flash)</charList>
         <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
         <charList id="goon">Goon(s)</charList>
         <charList id="chase">Adrien Chase</charList>
@@ -26,6 +26,7 @@
         <charList id="long">Terrence (Terry) Long</charList>
         <charList id="sally">Sally</charList>
         <charList id="simms">Miss Sarah Simms</charList>
+        <charList id="doris">Doris Chase</charList>
     </characterList>
     <settingList>
         <setting>
@@ -41,7 +42,7 @@
             <title>Titans' Tower - Control Center</title>
             <p>Terra is still upset that the Titans won't reveal their secrets to her. The Titans throw a surprise birthday party for Terra.</p>
             <charsPresent>
-                <char ref="terra">Terra</char>
+                <char ref="#terra">Terra</char>
                 <char ref="#wgirl">Wonder Girl</char>
                 <char ref="#bboy">Beast Boy</char>
                 <char ref="#starfire">Koriand'r</char>
@@ -54,7 +55,7 @@
             <p>A fight breaks out while Robin contemplates if this is legal to do. Chase goes after Scarapelli in order to make him pull out a gun. He's using Robin in order to make an arrest for an illegal firearm.</p>
             <charsPresent>
                 <char ref="#robin">Robin</char>
-                <char ref="goon">Goon(s)</char>
+                <char ref="#goon">Goon(s)</char>
                 <char ref="#chase">Adrien Chase</char>
                 <char ref="#scarap">Anthony Scarapelli</char>
             </charsPresent>
@@ -76,7 +77,7 @@
             <title>Wall Street</title>
             <p>Terminator has a new target.</p>
             <charsPresent>
-                <char ref="slade">Terminator</char>
+                <char ref="#slade">Terminator</char>
             </charsPresent>
         </setting>
         <setting>
@@ -150,7 +151,7 @@
             <charsPresent>
                 <char ref="#robin">Robin</char>
                 <char ref="#chase">Adrien Chase</char>
-                <char ref="#doris">Doris</char>
+                <char ref="#doris">Doris Chase</char>
             </charsPresent>
         </setting>
     </settingList>
