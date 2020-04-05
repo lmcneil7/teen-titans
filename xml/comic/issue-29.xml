@@ -2,27 +2,169 @@
 <?xml-model href="comic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <head>
-        <issueTitle issue=""></issueTitle>
-        <publisher></publisher>
-        <writer></writer>
-        <letterer></letterer>
-        <colorist></colorist>
-        <editor></editor>
-        <date when=""></date>
+        <issueTitle issue="29">The New Teen Titans</issueTitle>
+        <publisher>DC Comics</publisher>
+        <writer>Marv Wolfman</writer>
+        <penciller>George Perez</penciller>
+        <inker>Romeo Tanghal</inker>
+        <letterer>John Constanza</letterer>
+        <colorist>Adrienne Roy</colorist>
+        <editor>Len Wein</editor>
+        <date when="1983-03">March 1983</date>
     </head>
     <characterList>
-        <charList id=""></charList>
+        <charList id="blood">Brother Blood</charList>
+        <charList id="mayhem">Mother Mayhem</charList>
+        <charList id="brain">Brain</charList>
+        <charList id="mallah">Mallah</charList>
+        <charList id="phobia">Phobia</charList>
+        <charList id="warp">Warp</charList>
+        <charList id="houng">Houngan</charList>
+        <charList id="plasmus">Plasmus</charList>
+        <charList id="robin">Richard (Dick) Grayson (Robin)</charList>
+        <charList id="wgirl">Donna Troy (Wonder Girl)</charList>
+        <charList id="kflash">Wallace (Wally) West (Kid Flash)</charList>
+        <charList id="raven">Raven</charList>
+        <charList id="starfire">Koriand'r (Starfire)</charList>
+        <charList id="speedy">Roy Harper (Speedy)</charList>
+        <charList id="bethsnow">Bethany Snow</charList>
+        <charList id="bboy">Garfield Logan (Beast Boy (Changeling))</charList>
+        <charList id="terra">Tara Markov (Terra)</charList>
+        <charList id="fran">Frances (Fran) Kane</charList>
+        <charList id="doris">Doris Chase</charList>
+        <charList id="chase">Adrian Chase</charList>
     </characterList>
     <settingList>
         <setting>
-            <title></title>
-            <p></p>
+            <title>Buzzard's Bay, Massachusetts</title>
+            <p>Brother Blood is mediating when Mother Mayhem lets him know the Brotherhood of Evil are on their way to take him down. He decides to hold a sermon.</p>
             <charsPresent>
-                <char ref=""></char>
+                <char ref="#blood">Brother Blood</char>
+                <char ref="#mayhem">Mother Mayhem</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Zandia</title>
+            <p>Brotherhood of Evil has just finished destroying Brother Blood's Church and killing his followers. However, without noticing, one of his followers sneaked onto the plane. The supporter makes them crash.</p>
+            <charsPresent>
+                <char ref="#phobia">Phobia</char>
+                <char ref="#houng">Houngan</char>
+                <char ref="#plasmus">Plasmus</char>
+                <char ref="#warp">Warp</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>Robin is working out, angry at himself. WOnder Girl is worried for him, but Robin doesn't listen and continues to push himself to ridiculous lengths. While she's worried about Robin and Koriand'r, she thinks back to the meeting between Terry and his ex-wife and daughter.</p>
+            <charsPresent>
+                <char ref="#robin">Robin</char>
+                <char ref="#wgirl">Wonder Girl</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Raven's Room</title>
+            <p>Kid Flash is looking for advice about what to do concerning the Titans and his school, but he goes to Raven to ask questions about their relationship. Raven insists that nothing can occur between them.</p>
+            <charsPresent>
+                <char ref="#raven">Raven</char>
+                <char ref="#kflash">Kid Flash</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>An Island in Mid-Atlantic</title>
+            <p>The members of Brotherhood of Evil take solace in this island after the crash of their plane due to Warp teleporting them.</p>
+            <charsPresent>
+                <char ref="#phobia">Phobia</char>
+                <char ref="#houng">Houngan</char>
+                <char ref="#warp">Warp</char>
+                <char ref="#plasmus">Plasmus</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>Wonder Girl finds Koriand'r on the roof sulking. She advises Koriand'r that she shouldn't let Robin affect her so much and makes her exit to go talk to Terry.</p>
+            <charsPresent>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#wgirl">Wonder Girl</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Somewhere in the Atlantic Ocean</title>
+            <p>Warp has teleported them again with America being the end goal. He gets tired easily teleporting multiple people and asks for a rest. Brother Blood's missionaries have found them, but Phobia uses her powers on them.</p>
+            <charsPresent>
+                <char ref="#phobia">Phobia</char>
+                <char ref="#houng">Houngan</char>
+                <char ref="#warp">Warp</char>
+                <char ref="#plasmus">Plasmus</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>New York City</title>
+            <p>An unknown girl makes her way to the Titans' Tower.</p>
+            <charsPresent>
+                <char ref="#fran">Fran Kane</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>Seeing that Koriand'r is upset because of Robin, Speedy tries to make his move on her. Robin enters at that moment and calls him out on it. Koriand'r thinks it was uncalled for, but Robin isn't thinking straight. He's not listening to her thoughts and mentions that he's going to see Adrian Chase. Koriand'r goes with him reluctantly.</p>
+            <charsPresent>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#speedy">Speedy</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Buzzard's Bay, Massachusetts</title>
+            <p>Sister Bethany reveals that she has a meeting with the Titans and Adrian Chase; Brother Blood praises her.</p>
+            <charsPresent>
+                <char ref="#blood">Brother Blood</char>
+                <char ref="#snow">Bethany Snow</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Somewhere in the Atlantic Ocean</title>
+            <p>The missionaries are dead. The Brotherhood of Evil uses their fliers to get to their desired destination.</p>
+            <charsPresent>
+                <char ref="#phobia">Phobia</char>
+                <char ref="#houng">Houngan</char>
+                <char ref="#warp">Warp</char>
+                <char ref="#plasmus">Plasmus</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>Beast Boy and Terra are arguing about trust when they walk in on Speedy eating a sandwich. He's questioning her about the inconsistencies of her story. Terra storms out with Beast Boy running after her. Victor doesn't see the point of Beast Boy obsessing over reforming Terra and leaves to go work in the machine shop. In another room is Kid Flash. He senses the emergency signal and goes outside to see what the problem is. Outside he runs into Frances Kane; her powers have return, and she wants the Titans to help her. Victor leaves the island.</p>
+            <charsPresent>
+                <char ref="#bboy">Beast Boy</char>
+                <char ref="#terra">Terra</char>
+                <char ref="#speedy">Speedy</char>
+                <char ref="#cyborg">Victor Stone</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#fran">Fran Kane</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Manhattan</title>
+            <p>Koriand'r and Robin have arrived at Adrian Chase's house. She's playing with his childen, but Robin chastens her actions. Chase is late. He arrives shortly after, and they head to Bethany Snow's studio together.</p>
+            <charsPresent>
+                <char ref="#starfire">Koriand'r</char>
+                <char ref="#robin">Robin</char>
+                <char ref="#doris">Doris Chase</char>
+                <char ref="#chase">Adrian Chase</char>
+            </charsPresent>
+        </setting>
+        <setting>
+            <title>Titans' Tower</title>
+            <p>Fran demostrates her powers, and Kid Flash asks her to become a titan. She reveals she wants nothing to do with her powers and only came to get help to get them removed.</p>
+            <charsPresent>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#fran">Fran Kane</char>
+                <char ref="#raven">Raven</char>
             </charsPresent>
         </setting>
     </settingList>
     <referenceList>
-        <reference type=""></reference>
+        <reference type="person">Batman</reference>
+        <reference type="person">Superman</reference>
     </referenceList>
 </root>
