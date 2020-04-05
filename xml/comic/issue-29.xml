@@ -162,9 +162,24 @@
                 <char ref="#raven">Raven</char>
             </charsPresent>
         </setting>
+        <setting>
+            <title>Kitchen</title>
+            <p>Speedy is in the kitchen making tomato soup when the Brotherhood of Evil appear out of thin air. Feeling their presense, Kid Flash and Raven go inside instructing Fran to stay outside. The goal is kidnapping Raven; Warp is able to get her body, but Raven releases her soul at the trap. Houngan and Plasmus fight Kid Flash while Phobia uses her powers on Raven to make her see her worst fear, Trigon. Speedy is useless in the fight. Fran runs in right on time to Raven trying to kill Kid Flash who is Trigon in her mind. Worried she might stop their plan, Plasmus attacks her. However a turn of events occurs; Plasmus is taken down by an arrow and Fran takes down Phobia, freeing Raven. Now freed, Kid Flash is now afraid of the person Raven is. In anger, he shouts for her to leave.</p>
+            <charsPresent>
+                <char ref="#speedy">Speedy</char>
+                <char ref="#phobia">Phobia</char>
+                <char ref="#houng">Houngan</char>
+                <char ref="#warp">Warp</char>
+                <char ref="#plasmus">Plasmus</char>
+                <char ref="#kflash">Kid Flash</char>
+                <char ref="#raven">Raven</char>
+                <char ref="#fran">Fran Kane</char>
+            </charsPresent>
+        </setting>
     </settingList>
     <referenceList>
         <reference type="person">Batman</reference>
         <reference type="person">Superman</reference>
+        <reference type="person">Oliver Queen (Green Arrow)</reference>
     </referenceList>
 </root>
