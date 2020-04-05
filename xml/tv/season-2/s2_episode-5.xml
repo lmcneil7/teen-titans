@@ -307,7 +307,7 @@
 
 <sp><spkr ref="Robin">Robin</spkr> Okay, <char ref="BeastBoy">Beast Boy</char>, you got us <sd>pushes the tentacle off</sd> Good one.</sp>
 
-<sd>The three onlookers remain stock-still as <char ref="BeastBoy">Beast Boy</char> leans into view next to them.</sd>
+<sd>The three onlookers remain stock-still as <action mrkr="BeastBoy" with="all" move="4" place="tower" timestamp=""/><char ref="BeastBoy">Beast Boy</char> leans into view next to them.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Uh...dude?</sp>
 
