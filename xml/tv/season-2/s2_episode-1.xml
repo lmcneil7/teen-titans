@@ -29,9 +29,9 @@
       <charList type="recurring" subtype="villain" id="Mumbo">The Amazing Mumbo</charList>
    </characterList>
    <locationList>
-      <locList id="tower">Titans Tower</locList>
-      <locList id="muse">Museum</locList>
-      <locList id="future">Future</locList>
+      <locList id="tower" lat="37.8002" lon="-122.5004">Titans Tower</locList>
+      <locList id="muse" lat="37.8017" lon="-122.3973">Museum</locList>
+      <locList id="future" lat="37.8236" lon="-122.3706">Future</locList>
    </locationList>
    <body>
       <act n="0">
@@ -40,7 +40,7 @@
                night.</setNote> As an alarm clock's ticking is heard, the sky pivots about the
             center of the horizon; the dark panorama rotates out of view and is replaced by the
             morning sun against wild blue yonder. The alarm begins to ring, and the camera cuts to
-            an extreme close-up of the sleeping <action mrkr="Starfire" with="all" move="1" place="tower"/><char ref="Starfire">Starfire</char>'s closed eyes. She opens them
+            an extreme close-up of the sleeping <action mrkr="Starfire" with="all" move="1" place="tower" timestamp="2004-01-10T00:00:00"/><char ref="Starfire">Starfire</char>'s closed eyes. She opens them
             with a gasp, then squeezes them shut excitedly on the next line.</sd>
          
          <sp><spkr ref="Starfire">Starfire</spkr>The day has arrived!</sp>
@@ -61,9 +61,9 @@
          <sp><spkr ref="Starfire">Starfire</spkr> HAPPY BLORTHOG!! <sd>A question mark pops up by
                her head.</sd> Huh?</sp>
          
-         <sd>Her perspective, looking into <location>the operations center</location>. <action mrkr="Raven" with="all" move="1" place="tower"/><char ref="Raven">Raven</char> sits off to one
-            side and reads, <action mrkr="Robin" with="all" move="1" place="tower"/><char ref="Robin">Robin</char> stands before a boom box in <location>the kitchen</location>, and
-               <action mrkr="BeastBoy" with="all" move="1" place="tower"/><char ref="BeastBoy">Beast Boy</char> and <action mrkr="Cyborg" with="all" move="1" place="tower"/><char ref="Cyborg">Cyborg</char> are playing GameStation-the racing
+         <sd>Her perspective, looking into <location>the operations center</location>. <action mrkr="Raven" with="all" move="1" place="tower" timestamp="2004-01-10T00:00:00"/><char ref="Raven">Raven</char> sits off to one
+            side and reads, <action mrkr="Robin" with="all" move="1" place="tower" timestamp="2004-01-10T00:00:00"/><char ref="Robin">Robin</char> stands before a boom box in <location>the kitchen</location>, and
+            <action mrkr="BeastBoy" with="all" move="1" place="tower" timestamp="2004-01-10T00:00:00"/><char ref="BeastBoy">Beast Boy</char> and <action mrkr="Cyborg" with="all" move="1" place="tower" timestamp="2004-01-10T00:00:00"/><char ref="Cyborg">Cyborg</char> are playing GameStation-the racing
             game seen in "Sisters." A thundering hip-hop track drowns out all other sound at this
             point. Close-up of <char ref="Robin">Robin</char>, whose hair is being blown back by the wall of
             sound, then of <char ref="Cyborg">Cyborg</char> and <char ref="BeastBoy">Beast Boy</char>. They are having a
@@ -268,11 +268,11 @@
          <sp><spkr ref="Robin">Robin</spkr> Titans! Go!</sp>
          
          <sd>They are over the railing in a heartbeat to avoid the blasts. <char ref="Warp">Warp</char> pivots
-            off to one side and fires again with a shout, aiming at <action mrkr="Robin" with="all" move="2" place="muse"/><char ref="Robin">Robin</char>; the latter
+            off to one side and fires again with a shout, aiming at <action mrkr="Robin" with="all" move="2" place="muse" timestamp="2004-01-10T00:00:20"/><char ref="Robin">Robin</char>; the latter
             has his fighting staff out and extended to full length, and he parries the barrage with
             ease. The last shot, however, breaks the weapon in half and forces him to retreat. A
-            starbolt blasts across the screen from behind, and <action mrkr="Starfire" with="all" move="2" place="muse"/><char ref="Starfire">Starfire</char> flies in to
-            take his place, followed by <action mrkr="BeastBoy" with="all" move="2" place="muse"/><char ref="BeastBoy">Beast Boy</char> as a lion. Her beams carve a long
+            starbolt blasts across the screen from behind, and <action mrkr="Starfire" with="all" move="2" place="muse" timestamp="2004-01-10T00:00:10"/><char ref="Starfire">Starfire</char> flies in to
+            take his place, followed by <action mrkr="BeastBoy" with="all" move="2" place="muse" timestamp="2004-01-10T00:00:20"/><char ref="BeastBoy">Beast Boy</char> as a lion. Her beams carve a long
             double groove in the floor, closing in on <char ref="Warp">Warp</char>, but he effortlessly
             deflects when they reach him. One ricochet comes back at her and knocks her out of the
             air.</sd>
@@ -281,14 +281,14 @@
                Boy</char>'s growl is heard. The big green jungle cat is charging, but up comes one
             gold glove, out pops a blaster from the back of it, and off goes a crackling blast. Pull
             back to show that he has immobilized <char ref="BeastBoy">Beast Boy</char> in mid-leap. Cut to
-               <action mrkr="Raven" with="all" move="2" place="muse"/><char ref="Raven">Raven</char> in midair on the next line; she is levitating two grandfather
+            <action mrkr="Raven" with="all" move="2" place="muse" timestamp="2004-01-10T00:00:20"/><char ref="Raven">Raven</char> in midair on the next line; she is levitating two grandfather
             clocks.</sd>
          
          <sp><spkr ref="Raven">Raven</spkr> Azarath Metrion Zinthos!</sp>
          
          <sd>The fixtures are hurled at him, only to go flying off to the side when he waves his
             arms. Now he fires a beam from his helmet that drives her to the ground. He is in the
-            clear for only a moment, though; <action mrkr="Cyborg" with="all" move="2" place="muse"/><char ref="Cyborg">Cyborg</char>'s sonic cannon blast flashes in,
+            clear for only a moment, though; <action mrkr="Cyborg" with="all" move="2" place="muse" timestamp="2004-01-10T00:00:20"/><char ref="Cyborg">Cyborg</char>'s sonic cannon blast flashes in,
             connecting dead on and throwing up a cloud of dust. Cut to him.</sd>
          
          <sp><spkr ref="Cyborg">Cyborg</spkr> Boo-yah!...Huh?</sp>
@@ -405,7 +405,7 @@
          <sd>The illumination reaches the dark niche and exposes something that has
                <char ref="Cyborg">Cyborg</char>'s approximate body shape, but is built entirely of mechanical
             parts. The source of the red spot is an electronic brain sitting in one side of the
-            head. <action mrkr="Starfire" with="none" move="3" place="future"/><char ref="Starfire">Starfire</char> cries out in fear and throws a starbolt that blows the
+            head. <action mrkr="Starfire" with="none" move="3" place="future" timestamp="2004-01-10T00:00:15"/><char ref="Starfire">Starfire</char> cries out in fear and throws a starbolt that blows the
             collection of circuitry away, only to be confronted by several spider-like robots that
             jump up from behind the shoulders. Each looks like the part she just destroyed. Now she
             tosses one shot after another to knock them out, but is interrupted by the arrival of a
@@ -925,7 +925,7 @@
          <sp><spkr ref="BeastBoy">Beast Boy</spkr> Um, where did she-</sp>
          
          <sd>A flash fills <location>the gallery</location>, followed by a second wormhole that opens behind him and
-               <char ref="Cyborg">Cyborg</char>. <action mrkr="Starfire" with="all" move="4" place="muse"/><char ref="Starfire">Starfire</char> is dumped out to land in a huddled
+            <char ref="Cyborg">Cyborg</char>. <action mrkr="Starfire" with="all" move="4" place="muse" timestamp="2004-01-10T00:00:20"/><char ref="Starfire">Starfire</char> is dumped out to land in a huddled
             kneeling position, cradling the Clock, and the three boys lean in.</sd>
          
          <sp><spkr ref="BeastBoy">Beast Boy</spkr> Dude!</sp>
@@ -944,7 +944,7 @@
             <sd>from inside</sd> Then <char ref="Nightwing">Nightwing</char> handed me the Clock- <sd>Cut to her in
                <location>the operations center</location>.</sd> -and I entered the vortex.</sp>
          
-         <sd>Cut to behind her; she is addressing the other four Titans. <action mrkr="BeastBoy" with="all" move="3" place="tower"/><char ref="BeastBoy">Beast Boy</char>'s
+         <sd>Cut to behind her; she is addressing the other four Titans. <action mrkr="BeastBoy" with="all" move="3" place="tower" timestamp="2004-01-10T00:00:30"/><char ref="BeastBoy">Beast Boy</char>'s
             cheeks are streaked with tears. Long silence as they turn over the whole out-there
             account of future events in their minds.</sd>
          
@@ -955,12 +955,12 @@
          <sp><spkr ref="Cyborg">Cyborg</spkr> Guess you were right about all that Rekmas stuff.</sp>
          <sp><spkr ref="Robin">Robin</spkr> I don't want us to drift apart. Does it all have to
             happen? Isn't there anything we can-</sp>
-         <sd>Cut to <action mrkr="Starfire" with="all" move="5" place="tower"/><char ref="Starfire">Starfire</char>.</sd>
+         <sd>Cut to <action mrkr="Starfire" with="all" move="5" place="tower" timestamp="2004-01-10T00:00:30"/><char ref="Starfire">Starfire</char>.</sd>
          <sp><spkr ref="Starfire">Starfire</spkr> Our friendship has already changed
                <char ref="Warp">Warp</char>'s past. I believe it can also change our future.</sp>
          
-         <sd>One by one, the loose bells from the string that broke under <action mrkr="Cyborg" with="all" move="3" place="tower"/><char ref="Cyborg">Cyborg</char>'s feet
-            float up in <action mrkr="Raven" with="all" move="3" place="tower"/><char ref="Raven">Raven</char>'s influence.</sd>
+         <sd>One by one, the loose bells from the string that broke under <action mrkr="Cyborg" with="all" move="3" place="tower" timestamp="2004-01-10T00:00:30"/><char ref="Cyborg">Cyborg</char>'s feet
+            float up in <action mrkr="Raven" with="all" move="3" place="tower" timestamp="2004-01-10T00:00:30"/><char ref="Raven">Raven</char>'s influence.</sd>
          
          <sp><spkr ref="Raven">Raven</spkr>
             <sd>from o.c.</sd> So... <sd>Cut to her; they are reassembling themselves.</sd> ...is it
@@ -977,7 +977,7 @@
          <sp><spkr ref="BeastBoy">Beast Boy</spkr> I thought it was "Blort-hog."</sp>
          <sp><spkr ref="Raven">Raven</spkr> Okay, I feel like a wind chime.</sp>
          
-         <sd><char ref="Starfire">Starfire</char> puts a string around <action mrkr="Robin" with="all" move="3" place="tower"/><char ref="Robin">Robin</char>'s neck; tilt up from it
+         <sd><char ref="Starfire">Starfire</char> puts a string around <action mrkr="Robin" with="all" move="3" place="tower" timestamp="2004-01-10T00:00:30"/><char ref="Robin">Robin</char>'s neck; tilt up from it
             to his face.</sd>
          
          <sp><spkr ref="Robin">Robin</spkr>
