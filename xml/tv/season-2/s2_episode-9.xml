@@ -25,14 +25,14 @@
         <charList type="recurring" subtype="titan" id="Wildebeest">Wildebeest</charList>
     </characterList>
     <locationList>
-        <locList id="tower">Titans' Tower</locList>
-        <locList id="toh">The Tournament of Heroes</locList>
-        <locList id="platform">Platform for Cyborg vs Gizmo</locList>
-        <locList id="cage">Cage for BeastBoy vs Wildebeest</locList>
-        <locList id="pipe">Pipeline for Robin vs Hot Spot</locList>
-        <locList id="gem">The Master's Gem</locList>
-        <locList id="asteroid">An Asteroid</locList>
-        <locList id="tohe">The Tournament of Heroines</locList>
+        <locList id="tower" lat="37.8002" lon="-122.5004">Titans' Tower</locList>
+        <locList id="toh" lat="37.7744" lon="-122.4180">The Tournament of Heroes</locList>
+        <locList id="platform" lat="37.7733" lon="-122.4377">Platform for Cyborg vs Gizmo</locList>
+        <locList id="cage" lat="37.8068" lon="-122.4692">Cage for BeastBoy vs Wildebeest</locList>
+        <locList id="pipe" lat="37.7774" lon="-122.4382">Pipeline for Robin vs Hot Spot</locList>
+        <locList id="gem" lat="37.7624" lon="-122.5066">The Master's Gem</locList>
+        <locList id="asteroid" lat="37.7831" lon="-122.3315">An Asteroid</locList>
+        <locList id="tohe" lat="37.7744" lon="-122.4180">The Tournament of Heroines</locList>
     </locationList>
     <body>
         <act n="0">
