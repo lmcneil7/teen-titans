@@ -29,7 +29,7 @@
         <act n="0">
          <title>PROLOGUE</title>
 
-<sd><setNote shot="yes">Opening shot: a complex of buildings overlooking a rocky ridge.</setNote> It is early evening. Zoom in slowly, then cut to a room inside; a guard falls unconscious to the floor, and several of<char ref="Slade">Slade</char>'s commando robots, one carrying a large canister, walk past him. <setNote shot="yes">Overhead view: many other guards lie knocked out as well. Outside, a section of the wall is blown out and the screen fills with dust, which clears to show the robots making their exit</setNote>.<action mrkr="Robin" with="all" move="1" place="city"/><char ref="Robin">Robin</char>'s birdarang flashes across the screen and smashes away part of the leader's head; cut to a close-up of it in flight and follow it back to the thrower's hand. Pull back to show the original five Titans on the scene.</sd>
+            <sd><setNote shot="yes">Opening shot: a complex of buildings overlooking a rocky ridge.</setNote> It is early evening. Zoom in slowly, then cut to a room inside; a guard falls unconscious to the floor, and several of<char ref="Slade">Slade</char>'s commando robots, one carrying a large canister, walk past him. <setNote shot="yes">Overhead view: many other guards lie knocked out as well. Outside, a section of the wall is blown out and the screen fills with dust, which clears to show the robots making their exit</setNote>.<action mrkr="Robin" with="all" move="1" place="city" timestamp="2004-01-10T00:09:10"/><char ref="Robin">Robin</char>'s birdarang flashes across the screen and smashes away part of the leader's head; cut to a close-up of it in flight and follow it back to the thrower's hand. Pull back to show the original five Titans on the scene.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> Tell<char ref="Slade">Slade</char> the Titans have a message for him. <sd>Tilt up;<char ref="Terra">Terra</char> stands on one of several floating boulders.</sd></sp>
 
@@ -41,7 +41,7 @@
 
 <sd>All six move in,<char ref="Terra">Terra</char> bringing a few more rocks along. She changes positions and lowers the one she was standing on so that<char ref="Robin">Robin</char> can hop aboard. Laser blasts from the surviving robots slash the air, but he swerves expertly around them. Finally, he leaps off; the stone crashes into one shooter, and he delivers a flying kick to another. More shots emerge from farther back, zeroing in on the approaching<action mrkr="Starfire" with="all" move="1" place="city"/><char ref="Starfire">Starfire</char>. She returns fire with her eye beams, tracing a blazing path through three other robots; it explodes after a moment and throws them in all directions.</sd>
 
-<sd><action mrkr="Raven" with="all" move="1" place="city"/><char ref="Raven">Raven</char>'s turn. She levitates an enormous slab of rock.</sd>
+            <sd><action mrkr="Raven" with="all" move="1" place="city" timestamp="2004-01-10T00:09:10"/><char ref="Raven">Raven</char>'s turn. She levitates an enormous slab of rock.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr><char ref="Terra">Terra</char>! Catch!</sp>
 
@@ -51,7 +51,7 @@
 
 <sp><spkr ref="Raven">Raven</spkr> Closer to two tons, actually.</sp>
 
-<sd>She creates a shield in front of herself; a laser shot immediately blasts it apart and throws her backward. The robot that fired it flies up behind her, using its boot-mounted rockets to stay aloft, and cuts loose with another blast that shatters<char ref="Terra">Terra</char>'s stone platform. She tumbles to the ground and very soon finds herself staring up at a couple of the burglars, but <action mrkr="BeastBoy" with="all" move="1" place="city"/><char ref="BeastBoy">Beast Boy</char>, as a large gorilla, jumps down behind her and roars, pounding his chest in fury. Cut to one robot, which gets a huge green smack across the face, then pan to the other just in time for it to receive the same. A third runs toward<char ref="BeastBoy">Beast Boy</char> and is swatted away; a fourth jumps on his back, but he picks it off, slams it to the ground, and throws it against a charging fifth. Finally, he roars, scoops<char ref="Terra">Terra</char> up, and returns to human form.</sd>
+            <sd>She creates a shield in front of herself; a laser shot immediately blasts it apart and throws her backward. The robot that fired it flies up behind her, using its boot-mounted rockets to stay aloft, and cuts loose with another blast that shatters<char ref="Terra">Terra</char>'s stone platform. She tumbles to the ground and very soon finds herself staring up at a couple of the burglars, but <action mrkr="BeastBoy" with="all" move="1" place="city" timestamp="2004-01-10T00:09:10"/><char ref="BeastBoy">Beast Boy</char>, as a large gorilla, jumps down behind her and roars, pounding his chest in fury. Cut to one robot, which gets a huge green smack across the face, then pan to the other just in time for it to receive the same. A third runs toward<char ref="BeastBoy">Beast Boy</char> and is swatted away; a fourth jumps on his back, but he picks it off, slams it to the ground, and throws it against a charging fifth. Finally, he roars, scoops<char ref="Terra">Terra</char> up, and returns to human form.</sd>
 
 <sp><spkr ref="Terra">Terra</spkr> You saved me.</sp>
 
@@ -63,7 +63,7 @@
 
 <sd>A robot being thrown past them cuts him off; he gives her a big sheepish grin and runs in the direction it came from. Brief close-up of<char ref="Terra">Terra</char>'s suddenly worried face, then cut to another part of the plain, where<char ref="Robin">Robin</char> and a commando charge at each other. His fighting staff out and at full length, he nails the enemy with a backward flip kick to the chin and swings the weapon to knock away another one when it rushes in. A roar and jump carry him in range to bash a third upside the head, the camera panning to follow. As he lands the blow, there is a brief flicker and click as of a camera shutter snapping. After this, we see him in freeze frame; his name appears on the screen along with a few computer graph readouts.</sd>
 
-<sd>Cut to<char ref="Raven">Raven</char>, rising higher in the air with a black aura surrounding her body. She forms this into a group of energy streams and hurls them downward; freeze frame just like<char ref="Robin">Robin</char>'s. From here, cut to <action mrkr="Cyborg" with="all" move="1" place="city"/><char ref="Cyborg">Cyborg</char> running at a commando. He drills it with a killer uppercut, then brings out his sonic cannon and fires in a different direction, and he too is seen in freeze frame. Cut to a group of robots, fleeing from a hail of starbolts, and as smoke pours up from the points of impact,<char ref="Starfire">Starfire</char> flies out of it and hurls another one. Freeze frame. Cut to<char ref="BeastBoy">Beast Boy</char> and pan to follow him as he becomes a bighorn sheep and rams another of the thieves. Freeze frame.</sd>
+            <sd>Cut to<char ref="Raven">Raven</char>, rising higher in the air with a black aura surrounding her body. She forms this into a group of energy streams and hurls them downward; freeze frame just like<char ref="Robin">Robin</char>'s. From here, cut to <action mrkr="Cyborg" with="all" move="1" place="city" timestamp="2004-01-10T00:09:10"/><char ref="Cyborg">Cyborg</char> running at a commando. He drills it with a killer uppercut, then brings out his sonic cannon and fires in a different direction, and he too is seen in freeze frame. Cut to a group of robots, fleeing from a hail of starbolts, and as smoke pours up from the points of impact,<char ref="Starfire">Starfire</char> flies out of it and hurls another one. Freeze frame. Cut to<char ref="BeastBoy">Beast Boy</char> and pan to follow him as he becomes a bighorn sheep and rams another of the thieves. Freeze frame.</sd>
 
 <sd><setNote shot="yes">Smoke billows up to cover the entire screen. It clears to show a silhouetted figure watching a wall of small monitors; each of the preceding five shots appears several times on them.</setNote> This person's back is to us, but the voice is a dead giveaway.</sd>
 
@@ -86,7 +86,7 @@ OPENING THEME
 <act n="1">
 <title>ACT ONE</title>
 
-<sd>Opening shot: the exterior of <location>Titans Tower</location>. It is now later that night. Zoom in slowly, then cut to a litter of dirty dishes and open pizza boxes and zoom in again. A single piece lies in one of the boxes, among a litter of half-eaten fragments. Cut to a blue background, against which panels showing all six Titans' heads are arranged in a circle;<char ref="Terra">Terra</char> is drinking a soda, and <action mrkr="BeastBoy" with="all" move="2" place="tower"/><char ref="BeastBoy">Beast Boy</char> is back in human form. The slice drops into view, away from the camera, and lands at the center of the screen.</sd>
+    <sd>Opening shot: the exterior of <location>Titans Tower</location>. It is now later that night. Zoom in slowly, then cut to a litter of dirty dishes and open pizza boxes and zoom in again. A single piece lies in one of the boxes, among a litter of half-eaten fragments. Cut to a blue background, against which panels showing all six Titans' heads are arranged in a circle;<char ref="Terra">Terra</char> is drinking a soda, and <action mrkr="BeastBoy" with="all" move="2" place="tower" timestamp="2004-01-10T00:09:15"/><char ref="BeastBoy">Beast Boy</char> is back in human form. The slice drops into view, away from the camera, and lands at the center of the screen.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> <sd>reaching to it</sd> And the last slice of pizza goes to...</sp>
 
@@ -132,13 +132,13 @@ OPENING THEME
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Well, it's a big deal to us. Good friends don't come along every day, you know?</sp>
 
-    <sd>She smiles at this. Cut to <action mrkr="Cyborg" with="all" move="2" place="tower"/><char ref="Cyborg">Cyborg</char>, approaching the door. A small panel opens up on the wall to reveal a handprint reader pad; he puts a palm to it and brings up a screen that shows schematics of <location>the Tower</location> and assorted systems. Pull back to an overhead shot of the operations center, showing the pizza boxes on the coffee table, as the lights go out. Back to him; he yawns widely.</sd>
+    <sd>She smiles at this. Cut to <action mrkr="Cyborg" with="all" move="2" place="tower" timestamp="2004-01-10T00:09:30"/><char ref="Cyborg">Cyborg</char>, approaching the door. A small panel opens up on the wall to reveal a handprint reader pad; he puts a palm to it and brings up a screen that shows schematics of <location>the Tower</location> and assorted systems. Pull back to an overhead shot of the operations center, showing the pizza boxes on the coffee table, as the lights go out. Back to him; he yawns widely.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> All right, y'all. <location>Titans Tower</location>'s locked up and <char ref="Cyborg">Cyborg</char>'s shutting down.</sp>
 
 <sd>He walks out. Cut to<char ref="Terra">Terra</char> and <char ref="BeastBoy">Beast Boy</char>; the palm reader and panel close behind them.</sd>
 
-<sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> We should all get some sleep. <sd>Pull back to frame him, <action mrkr="Starfire" with="all" move="2" place="tower"/><char ref="Starfire">Starfire</char> and <action mrkr="Raven" with="all" move="2" place="tower"/><char ref="Raven">Raven</char> by the couch.</sd> We may have stopped<char ref="Slade">Slade</char> tonight, but we need to figure out what he's planning tomorrow.</sp>
+    <sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> We should all get some sleep. <sd>Pull back to frame him, <action mrkr="Starfire" with="all" move="2" place="tower" timestamp="2004-01-10T00:09:30"/><char ref="Starfire">Starfire</char> and <action mrkr="Raven" with="all" move="2" place="tower" timestamp="2004-01-10T00:09:30"/><char ref="Raven">Raven</char> by the couch.</sd> We may have stopped<char ref="Slade">Slade</char> tonight, but we need to figure out what he's planning tomorrow.</sp>
 
 <sd>He and the other two girls head for their rooms. Close-up of<char ref="Terra">Terra</char>, suddenly worried.</sd>
 
@@ -272,7 +272,7 @@ OPENING THEME
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Always.</sp>
 
-<sd>Dissolve to the exterior of <action mrkr="BeastBoy" with="none" move="3" place="bens_diner"/>Ben's, a diner in the city. A big rig rolls past in front; behind its rear end, the view changes to inside the front door. The camera is trained on its upper edge, where a bell is attached to mark entrances and exits. As the door swings open, tilt down to show<char ref="Terra">Terra</char> leading<char ref="BeastBoy">Beast Boy</char> in. He stops at the threshold, eyes widening in mild shock; cut to his perspective; men around a pool table, staring right back at him before resuming their game, and pan to the counter, where his date has already parked herself on a stool.</sd>
+    <sd>Dissolve to the exterior of <action mrkr="BeastBoy" with="none" move="3" place="bens_diner" timestamp="2004-01-10T00:09:20"/>Ben's, a diner in the city. A big rig rolls past in front; behind its rear end, the view changes to inside the front door. The camera is trained on its upper edge, where a bell is attached to mark entrances and exits. As the door swings open, tilt down to show<char ref="Terra">Terra</char> leading<char ref="BeastBoy">Beast Boy</char> in. He stops at the threshold, eyes widening in mild shock; cut to his perspective; men around a pool table, staring right back at him before resuming their game, and pan to the counter, where his date has already parked herself on a stool.</sd>
 
 <sd>Back to him. After a nervous look around, he walks in and sits by<char ref="Terra">Terra</char>, who is reading the menu. He picks up a copy for himself; cut to his perspective of it, there are pictures of the various platters, all of which contain liberal portions of meat. In between them is the face of a thick-browed man, presumably Ben himself, licking his chops, with a word balloon showing a heart. Needless to say, this is not the sort of cuisine he would prefer. Lowering the menu, he finds both<char ref="Terra">Terra</char> and a waitress looking at him.</sd>
 
@@ -314,7 +314,7 @@ OPENING THEME
 
 <sp><spkr ref="Robin">Robin</spkr> <sd>over comm</sd><char ref="BeastBoy">Beast Boy</char>! Come in!</sp>
 
-<sd>Cut to the exterior of the Tower. All is quiet here, but the mood is soon shattered when the operations center window explodes. Inside,<char ref="Slade">Slade</char>'s android troops advance down the hall with lasers blazing. Pan from them to a piece of rubble, behind which<action mrkr="Robin" with="S C R" move="2" place="tower"/><char ref="Robin">Robin</char> hunches down to use his communicator.</sd>
+    <sd>Cut to the exterior of the Tower. All is quiet here, but the mood is soon shattered when the operations center window explodes. Inside,<char ref="Slade">Slade</char>'s android troops advance down the hall with lasers blazing. Pan from them to a piece of rubble, behind which<action mrkr="Robin" with="S C R" move="2" place="tower" timestamp="2004-01-10T00:09:30"/><char ref="Robin">Robin</char> hunches down to use his communicator.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr><char ref="BeastBoy">Beast Boy</char>, where are you? Answer me!</sp>
 
@@ -363,7 +363,7 @@ OPENING THEME
 
 <sd>The light in the hall begins to flicker. Cut to a group of survivors, gathered around the canister they stole in the prologue. It is clamped to the wall, and one of them is operating a control panel set in the side. One of<char ref="Robin">Robin</char>'s discs whistles into view and glances off the canister, detonating and throwing the robot backward. Cut to the Titan, staff in one hand, as the invader crashes down before him. Another rushes, but he extends the staff and knocks it down with ease. Its buddy moves in as well and gets the same treatment; for the next one,<char ref="Robin">Robin</char> leaps to the ceiling and brings the staff's end down onto the crown of its head, wrecking it in one blow. Still more troops start after him, and he growls and charges straight at the camera.</sd>
 
-<sd>When he is just about to collide with it, cut to an overhead view of a roller coaster at an amusement park. A sign identifies this as the <location>Megacoaster</location>, and it is in operation. When the focus shifts to one section of track, the string of cars comes around a bend and thunders past the camera. Cut to a close-up, revealing <action mrkr="BeastBoy" with="none" move="5" place="amusement_park"/><char ref="BeastBoy">Beast Boy</char> and<char ref="Terra">Terra</char> in the front seat and coming down a steep incline. He has his arms up, but she is positively petrified with fright.</sd>
+    <sd>When he is just about to collide with it, cut to an overhead view of a roller coaster at an amusement park. A sign identifies this as the <location>Megacoaster</location>, and it is in operation. When the focus shifts to one section of track, the string of cars comes around a bend and thunders past the camera. Cut to a close-up, revealing <action mrkr="BeastBoy" with="none" move="4" place="amusement_park" timestamp="2004-01-10T00:09:25"/><char ref="BeastBoy">Beast Boy</char> and<char ref="Terra">Terra</char> in the front seat and coming down a steep incline. He has his arms up, but she is positively petrified with fright.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Ya-HOOOOO!!</sp>
 
@@ -594,7 +594,7 @@ OPENING THEME
 
 <sp><spkr ref="Starfire">Starfire</spkr> <sd>voice over</sd> He will be all right?</sp>
 
-    <sd>On these last two words, dissolve to a close-up of the bed and pull back slowly. <action mrkr="BeastBoy" with="all" move="6" place="tower"/>The heartbroken Titan is curled up on the blankets as a large, melancholy dog, and the box he gave<char ref="Terra">Terra</char> lies next to him.</sd>
+    <sd>On these last two words, dissolve to a close-up of the bed and pull back slowly. <action mrkr="BeastBoy" with="all" move="5" place="tower" timestamp="2004-01-10T00:09:30"/>The heartbroken Titan is curled up on the blankets as a large, melancholy dog, and the box he gave<char ref="Terra">Terra</char> lies next to him.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> <sd>voice over</sd> He just needs a little time.</sp>
 
