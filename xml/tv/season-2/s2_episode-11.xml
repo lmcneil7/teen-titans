@@ -29,9 +29,9 @@
         <charList type="nonrecurring" id="GrandmaCyborg"></charList>
     </characterList>
     <locationList>
-        <locList id="tower">Titans Tower</locList>
+        <locList id="tower" lat="37.8002" lon="-122.5004">Titans Tower</locList>
         <locList id="city">The streets of Jump City</locList>
-        <locList id="bay">Jump City Bay</locList>
+        <locList id="bay" lat="37.7274" lon="-122.3711">Jump City Bay</locList>
     </locationList>
     <body>
         <act n="0">

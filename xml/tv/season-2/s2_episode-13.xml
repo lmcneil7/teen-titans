@@ -26,7 +26,7 @@
         <charList type="nonrecurring" subtype="villain" id="Ternion">Ternion</charList>
     </characterList>
     <locationList>
-        <locList id="bay">Jump City Bay</locList>
+        <locList id="bay" lat="37.8002" lon="-122.5004">Jump City Bay</locList>
         <locList id="lair">Slade's underground lair in Jump City</locList>
         <locList id="city">The streets of Jump City</locList>
     </locationList>
