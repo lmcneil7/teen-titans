@@ -85,11 +85,11 @@
 
 <sp><spkr ref="Robin">Robin</spkr> Range to target!</sp>
 
-<sd>In another street<action mrkr="Robin" with="all" move="1" place="city"/>, the T-Car is rolling up fast. Close-up of<action mrkr="Raven" with="all" move="1" place="city"/><char ref="Raven">Raven</char> in the front passenger seat; pan to <action mrkr="Cyborg" with="all" move="1" place="city"/><char ref="Cyborg">Cyborg</char> at the wheel on the next line.</sd>
+    <sd>In another street<action mrkr="Robin" with="all" move="1" timestamp="2004-01-10T00:05:30" place="city"/>, the T-Car is rolling up fast. Close-up of<action mrkr="Raven" with="all" move="1" timestamp="2004-01-10T00:05:30" place="city"/><char ref="Raven">Raven</char> in the front passenger seat; pan to <action mrkr="Cyborg" with="all" move="1" timestamp="2004-01-10T00:05:30" place="city"/><char ref="Cyborg">Cyborg</char> at the wheel on the next line.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Five hundred and closing. Should have a visual any--</sp>
 
-<sd>Cut to <action mrkr="Starfire" with="all" move="1" place="city"/><char ref="Starfire">Starfire</char> in flight.<action mrkr="BeastBoy" with="all" move="1" place="city"/> <char ref="BeastBoy">Beast Boy</char>, as a vulture, keeps pace with her.</sd>
+    <sd>Cut to <action mrkr="Starfire" with="all" move="1" timestamp="2004-01-10T00:05:30" place="city"/><char ref="Starfire">Starfire</char> in flight.<action mrkr="BeastBoy" with="all" move="1" timestamp="2004-01-10T00:05:30" place="city"/> <char ref="BeastBoy">Beast Boy</char>, as a vulture, keeps pace with her.</sd>
 
 <sp><spkr ref="Starfire">Starfire</spkr> There he is!</sp>
 
@@ -151,7 +151,7 @@
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Dude, we can handle it. The guy's got a spider for a head. Not like he's gonna be hard to find.</sp>
 
-<sd><action mrkr="Robin" with="S" move="2" place="tower"/><char ref="Robin">Robin</char> has no immediate answer for this, verbal or otherwise. His image quickly rotates 180 degrees, putting him head down, as the background dissolves to put <action mrkr="Starfire" with="R" move="2" place="tower"/><char ref="Starfire">Starfire</char>'s legs behind him. Pull back to show that she is holding him by the ankles in the operations center of <location>Titans Tower</location>. She stretches his legs and works them back and forth, eliciting several yelps of discomfort and causing his arms to flop around.</sd>
+    <sd><action mrkr="Robin" with="S" move="2" timestamp="2004-01-10T00:05:40" place="tower"/><char ref="Robin">Robin</char> has no immediate answer for this, verbal or otherwise. His image quickly rotates 180 degrees, putting him head down, as the background dissolves to put <action mrkr="Starfire" with="R" move="2" timestamp="2004-01-10T00:05:40" place="tower"/><char ref="Starfire">Starfire</char>'s legs behind him. Pull back to show that she is holding him by the ankles in the operations center of <location>Titans Tower</location>. She stretches his legs and works them back and forth, eliciting several yelps of discomfort and causing his arms to flop around.</sd>
 
 <sp><spkr ref="Starfire">Starfire</spkr> Better?</sp>
 
@@ -167,7 +167,7 @@
 
 <sp><spkr ref="Raven">Raven</spkr> We found something worse.</sp>
 
-<sd>Overhead, upside-down view of <action mrkr="BeastBoy" with="R C" move="2" place="bridge"/><char ref="BeastBoy">Beast Boy</char>, <action mrkr="Raven" with="BB C" move="2" place="bridge"/><char ref="Raven">Raven</char>, and <action mrkr="Cyborg" with="BB R" move="2" place="bridge"/><char ref="Cyborg">Cyborg</char> staring up incredulously. Rotate quickly through 180 degrees and pull back/dissolve; they are standing on the <location>bridge</location> over <location>Jump City Bay</location>, and the beating of millions of wings is heard. Cut to the source, or, rather, a small part of it: a horde of large hovering insects, every one of which is fighting mad. The eyes and the whirring wings give them away as the creatures that filled <char ref="KillerMoth">Killer Moth</char>'s <location>holding pens</location>.</sd>
+    <sd>Overhead, upside-down view of <action mrkr="BeastBoy" with="R C" move="2" timestamp="2004-01-10T00:05:40" place="bridge"/><char ref="BeastBoy">Beast Boy</char>, <action mrkr="Raven" with="BB C" move="2" timestamp="2004-01-10T00:05:40" place="bridge"/><char ref="Raven">Raven</char>, and <action mrkr="Cyborg" with="BB R" move="2" timestamp="2004-01-10T00:05:40" place="bridge"/><char ref="Cyborg">Cyborg</char> staring up incredulously. Rotate quickly through 180 degrees and pull back/dissolve; they are standing on the <location>bridge</location> over <location>Jump City Bay</location>, and the beating of millions of wings is heard. Cut to the source, or, rather, a small part of it: a horde of large hovering insects, every one of which is fighting mad. The eyes and the whirring wings give them away as the creatures that filled <char ref="KillerMoth">Killer Moth</char>'s <location>holding pens</location>.</sd>
 
 <sd>As they move lazily through the air, several cluster up and munch at one of the <location>bridge</location>'s cables. When they fly away a moment later, it has been gnawed through and the final strand snaps; the lower end lashes toward the roadway, and people scatter as a car is crushed under the wire rope. Among them are the couple who had been interrupted during their make-out session. The entire <location>bridge</location> begins to sway back and forth, creating oscillations that send vehicles sliding around the three Titans.</sd>
 
@@ -373,13 +373,13 @@
 
 <sp><spkr ref="Robin">Robin</spkr> <sd>over the comm</sd> I can't.<sd>On screen, his face is shown.</sd> I have a date.</sp>
 
-<sd>Question marks pop up above all three very puzzled faces. Tilt up from them to one of the bridge columns, then down again as the view dissolves to a docked cruise ship whose horn sound loudly. It is that same evening, and the dock is crowded with high school students in their best finery. Lights blaze from the rigging and cabin, and above the gangplank is a banner: "Junior Prom Your Date With Destiny." The party is in full swing, as is the music. Near the camera, the R-Cycle pulls partway into view and revs down its engine; <action mrkr="Robin" with="none" move="3" place="dock"/><char ref="Robin">Robin</char> climbs off, removes his helmet, and turns to face us. He has traded in his usual outfit for a tuxedo, though his mask is still firmly in place.</sd>
+    <sd>Question marks pop up above all three very puzzled faces. Tilt up from them to one of the bridge columns, then down again as the view dissolves to a docked cruise ship whose horn sound loudly. It is that same evening, and the dock is crowded with high school students in their best finery. Lights blaze from the rigging and cabin, and above the gangplank is a banner: "Junior Prom Your Date With Destiny." The party is in full swing, as is the music. Near the camera, the R-Cycle pulls partway into view and revs down its engine; <action mrkr="Robin" with="none" move="3" timestamp="2004-01-10T00:05:50" place="dock"/><char ref="Robin">Robin</char> climbs off, removes his helmet, and turns to face us. He has traded in his usual outfit for a tuxedo, though his mask is still firmly in place.</sd>
 
 <sd>The world's most reluctant prom date adjusts his lapels, sighs heavily, and tugs at his collar.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> Really hoping she doesn't show.</sp>
 
-<sd>A lavender-gloved hand reaches into view and taps his shoulder, instantly putting him in the wrong mood. He slowly swivels his head around in that direction; cut to a pair of feet poking from under the hem of a full-length gown and tilt up. The garment and shoes are a darker shade than the gloves, which extend past the elbows, and the hands cradle a carnation. When the camera reaches the head, the owner of all these assorted body parts and clothing is revealed to be not <char ref="Kitten">Kitten</char> but <action mrkr="Starfire" with="R" move="3" place="dock"/><char ref="Starfire">Starfire</char>, silhouetted against the full moon and looking absolutely stunning. For someone who is still learning her way around Earth culture, she is certainly a quick study when it comes to formal wear. She has removed her neck piece.</sd>
+    <sd>A lavender-gloved hand reaches into view and taps his shoulder, instantly putting him in the wrong mood. He slowly swivels his head around in that direction; cut to a pair of feet poking from under the hem of a full-length gown and tilt up. The garment and shoes are a darker shade than the gloves, which extend past the elbows, and the hands cradle a carnation. When the camera reaches the head, the owner of all these assorted body parts and clothing is revealed to be not <char ref="Kitten">Kitten</char> but <action mrkr="Starfire" with="R" move="3" timestamp="2004-01-10T00:05:50" place="dock"/><char ref="Starfire">Starfire</char>, silhouetted against the full moon and looking absolutely stunning. For someone who is still learning her way around Earth culture, she is certainly a quick study when it comes to formal wear. She has removed her neck piece.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> <char ref="Starfire">Starfire</char>?</sp>
 
@@ -421,7 +421,7 @@
 
 <sd>He pulls her toward the gangplank. Behind the crowd, <char ref="Starfire">Starfire</char> floats closer, the toes of her shoes striking sparks against the concrete. More sparks fly from her grinding teeth as her eyes blaze and smoke with pure rage; she brings one fist up and slams it onto the hood of <char ref="Kitten">Kitten</char>'s limo. The force of the blow ruins the entire front end and causes the car to flip briefly up onto that pair of wheels. When it comes down, the rest of the bodywork crumples and all the windows crack.</sd>
 
-<sd>Dissolve to a long shot of <location>the ship</location>, now sailing the waters of <location>Jump City Bay</location>, then cut to a pan across the deck. It has been set up with balloon-decorated tables and chairs, as well as a large open area for a dance floor, and many couples are taking advantage of the latter as a slow tune plays. Stop on <action mrkr="Robin" with="S" move="4" place="prom"/><char ref="Robin">Robin</char> and <char ref="Kitten">Kitten</char>, seated at a table near the rail; he rocks back and forth irritably, while she seems to be having the time of her life. Zoom in on them. After a few seconds, the smile disappears from her face as if someone had thrown a switch.</sd>
+    <sd>Dissolve to a long shot of <location>the ship</location>, now sailing the waters of <location>Jump City Bay</location>, then cut to a pan across the deck. It has been set up with balloon-decorated tables and chairs, as well as a large open area for a dance floor, and many couples are taking advantage of the latter as a slow tune plays. Stop on <action mrkr="Robin" with="S" move="4" timestamp="2004-01-10T00:06:00" place="prom"/><char ref="Robin">Robin</char> and <char ref="Kitten">Kitten</char>, seated at a table near the rail; he rocks back and forth irritably, while she seems to be having the time of her life. Zoom in on them. After a few seconds, the smile disappears from her face as if someone had thrown a switch.</sd>
 
 <sp><spkr ref="Kitten">Kitten</spkr> Ask me to dance</sp>
 
@@ -443,7 +443,7 @@
 
 <sp><spkr ref="Kitten">Kitten</spkr> <sd>loudly, sight gag; head grows</sd> Oh, <char ref="Robin">Robin</char>, of course I'd love to dance with you!</sp>
 
-<sd>Other couples move out of the way, and she giggles and sweeps him into a boisterous turn.<action mrkr="Starfire" with="R" move="4" place="prom"/> <char ref="Starfire">Starfire</char>, about to dip from the punch bowl, literally cannot see straight as her irises and pupils have briefly disappeared. Her jaw hangs slack; sight gag; her mouth slides down to hang by one corner from her chin, then drops loose and splashes in.</sd>
+    <sd>Other couples move out of the way, and she giggles and sweeps him into a boisterous turn.<action mrkr="Starfire" with="R" move="4" timestamp="2004-01-10T00:06:00" place="prom"/> <char ref="Starfire">Starfire</char>, about to dip from the punch bowl, literally cannot see straight as her irises and pupils have briefly disappeared. Her jaw hangs slack; sight gag; her mouth slides down to hang by one corner from her chin, then drops loose and splashes in.</sd>
 
 <sp><spkr ref="MaleGuest">Male guest</spkr> <sd>from o.c.</sd> Um..<sd><char ref="Starfire">Starfire</char>'s eyes and hand glow.</sd> ...could we have some punch?</sp>
 
@@ -465,13 +465,13 @@
 
 <sp><spkr ref="Robin">Robin</spkr> <sd>softly</sd> Please tell me you guys have found <char ref="KillerMoth">Killer Moth</char>.</sp>
 
-<sd>Cut to <action mrkr="Cyborg" with="R BB" move="3" place="mothLair"/><char ref="Cyborg">Cyborg</char>, on the other end of this call. He is in a darkened place, watching <char ref="Robin">Robin</char>'s flickering image on his forearm panel.</sd>
+    <sd>Cut to <action mrkr="Cyborg" with="R BB" move="3" timestamp="2004-01-10T00:05:50" place="mothLair"/><char ref="Cyborg">Cyborg</char>, on the other end of this call. He is in a darkened place, watching <char ref="Robin">Robin</char>'s flickering image on his forearm panel.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> <sd>softly</sd> Not yet</sp>
 
 <sd>Pull back and pan across the area, a living room.</sd> But we tracked down your girlfriend's home address.
 
-<sd><action mrkr="BeastBoy" with="C R" move="3" place="mothLair"/><char ref="BeastBoy">Beast Boy</char> comes into view, then <action mrkr="Raven" with="BB C" move="3" place="mothLair"/><char ref="Raven">Raven</char>, both inspecting different parts of the decor. Back to <char ref="Cyborg">Cyborg</char>; <char ref="Robin">Robin</char>'s image leans out of the panel.</sd>
+    <sd><action mrkr="BeastBoy" with="C R" move="3" timestamp="2004-01-10T00:05:50" place="mothLair"/><char ref="BeastBoy">Beast Boy</char> comes into view, then <action mrkr="Raven" with="BB C" move="3" timestamp="2004-01-10T00:05:50" place="mothLair"/><char ref="Raven">Raven</char>, both inspecting different parts of the decor. Back to <char ref="Cyborg">Cyborg</char>; <char ref="Robin">Robin</char>'s image leans out of the panel.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> <sd>angrily</sd> She's not my---</sp>
 
@@ -653,15 +653,15 @@
 
 <sd>The Titans, at the rail, come into view.</sd> You're going to pay for this, Robbie-poo! YOU'RE GOING TO PAAAYYY!!
 
-<sd>The guards put her in and close the door, muffling her last word, and the van speeds off with sirens blaring. Cut to the team at the rail; <action mrkr="BeastBoy" with="all" move="4" place="prom"/><char ref="BeastBoy">Beast Boy</char> sits on the deck.</sd>
+    <sd>The guards put her in and close the door, muffling her last word, and the van speeds off with sirens blaring. Cut to the team at the rail; <action mrkr="BeastBoy" with="all" move="4" timestamp="2004-01-10T00:06:00" place="prom"/><char ref="BeastBoy">Beast Boy</char> sits on the deck.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> So, no second date</sp>
 
-<sd><action mrkr="Cyborg" with="all" move="4" place="prom"/>Tilt down a bit; <char ref="BeastBoy">Beast Boy</char> holds one of the larvae.</sd>
+    <sd><action mrkr="Cyborg" with="all" move="4" timestamp="2004-01-10T00:06:00" place="prom"/>Tilt down a bit; <char ref="BeastBoy">Beast Boy</char> holds one of the larvae.</sd>
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> You know...<sd>Close-up of it; he continues o.c.</sd> ...now that nobody's making 'em all mutate-y..<sd>pokes the larvae's stomach; it gurgles happily</sd> ...these things might actually make good pets.</sp>
 
-<sd>Pull back to frame<action mrkr="Raven" with="all" move="4" place="prom"/> <char ref="Raven">Raven</char></sd>
+    <sd>Pull back to frame<action mrkr="Raven" with="all" move="4" timestamp="2004-01-10T00:06:00" place="prom"/> <char ref="Raven">Raven</char></sd>
 
 <sp><spkr ref="Raven">Raven</spkr> Don't even think about it.</sp>
 

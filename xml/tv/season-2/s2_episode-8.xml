@@ -31,9 +31,9 @@
 <act n="0">
 <title>Prologue</title>
 
-<sd><setNote shot="yes">Opening shot: a long view of <location>Titans Tower</location>, with the sun setting behind it.</setNote> Zoom in slowly, then cut to <action mrkr="Robin" with="all" move="1" place="tower"/><char ref="Robin">Robin</char> in mid-leap, a fierce growl in his throat and one fist pulled back past his head. He swings it forward and nails a flying volleyball; pull back to follow it over a net toward <action mrkr="Cyborg" with="all" move="1" place="tower"/><char ref="Cyborg">Cyborg</char> and <action mrkr="Starfire" with="all" move="1" place="tower"/><char ref="Starfire">Starfire</char>, on the other side. A metal-handed bump sends the ball up, and the camera pulls back again to frame the entire court: it is on the <location>Tower</location>'s roof, and <action mrkr="BeastBoy" with="all" move="1" place="tower"/><char ref="BeastBoy">Beast Boy</char> is <char ref="Robin">Robin</char>'s teammate. <char ref="Raven">Raven</char> is nowhere to be seen for the moment.</sd>
+    <sd><setNote shot="yes">Opening shot: a long view of <location>Titans Tower</location>, with the sun setting behind it.</setNote> Zoom in slowly, then cut to <action mrkr="Robin" with="all" move="1" timestamp="2004-01-10T00:07:20" place="tower"/><char ref="Robin">Robin</char> in mid-leap, a fierce growl in his throat and one fist pulled back past his head. He swings it forward and nails a flying volleyball; pull back to follow it over a net toward <action mrkr="Cyborg" with="all" move="1" timestamp="2004-01-10T00:07:20" place="tower"/><char ref="Cyborg">Cyborg</char> and <action mrkr="Starfire" with="all" move="1" timestamp="2004-01-10T00:07:20" place="tower"/><char ref="Starfire">Starfire</char>, on the other side. A metal-handed bump sends the ball up, and the camera pulls back again to frame the entire court: it is on the <location>Tower</location>'s roof, and <action mrkr="BeastBoy" with="all" move="1" timestamp="2004-01-10T00:07:20" place="tower"/><char ref="BeastBoy">Beast Boy</char> is <char ref="Robin">Robin</char>'s teammate. <char ref="Raven">Raven</char> is nowhere to be seen for the moment.</sd>
 
-<sd>After a few more volleys, pull back to the edge of the roof. <action mrkr="Raven" with="all" move="1" place="tower"/>The fifth Titan floats into view, meditating a foot or so above the surface.</sd>
+    <sd>After a few more volleys, pull back to the edge of the roof. <action mrkr="Raven" with="all" move="1" timestamp="2004-01-10T00:07:20" place="tower"/>The fifth Titan floats into view, meditating a foot or so above the surface.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> <sd>chanting</sd> Azarath Metrion Zinthos... Azarath Metrion Zinthos..<sd>Cut to behind her; she faces the sun.</sd> Azarath Metrion Zinthos...</sp>
 
@@ -246,11 +246,11 @@
 
 <sd>Tilt up to keep the drill in view as it rises to full height; it retracts upon stopping and is replaced by a head with a small, screeching mouth. Close-up of the spinning wheel of a stalled bus, then cut to an overhead view and pull back into the sky: it is stuck at the edge of the worm's crater. Inside the shaking vehicle, the driver and passengers look up alarmed; in the sky, that head rears back and knifes toward the street to send people running for their lives.</sd>
 
-<sd>The bus is hit with <action mrkr="Raven" with="all" move="2" place="city"/><char ref="Raven">Raven</char>'s powers and pulled out of the way, an instant before the worm bites into the pavement and throws up a cloud of dust. When it clears, the head is pulling free; cut to <action mrkr="Robin" with="all" move="2" place="city"/><char ref="Robin">Robin</char>, <action mrkr="BeastBoy" with="all" move="2" place="city"/><char ref="BeastBoy">Beast Boy</char>, <action mrkr="Starfire" with="all" move="2" place="city"/><char ref="Starfire">Starfire</char>, and <char ref="Terra">Terra</char> a bit farther along the street. <char ref="Raven">Raven</char> floats down to them and sets the bus down safely behind.</sd>
+    <sd>The bus is hit with <action mrkr="Raven" with="all" move="2"  timestamp="2004-01-10T00:07:30" place="city"/><char ref="Raven">Raven</char>'s powers and pulled out of the way, an instant before the worm bites into the pavement and throws up a cloud of dust. When it clears, the head is pulling free; cut to <action mrkr="Robin" with="all" move="2" timestamp="2004-01-10T00:07:30" place="city"/><char ref="Robin">Robin</char>, <action mrkr="BeastBoy" with="all" move="2"  timestamp="2004-01-10T00:07:30" place="city"/><char ref="BeastBoy">Beast Boy</char>, <action mrkr="Starfire" with="all" move="2" timestamp="2004-01-10T00:07:30" place="city"/><char ref="Starfire">Starfire</char>, and <char ref="Terra">Terra</char> a bit farther along the street. <char ref="Raven">Raven</char> floats down to them and sets the bus down safely behind.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> You missed the bus</sp>
 
-<sd>Pan to <action mrkr="Cyborg" with="all" move="2" place="city"/><char ref="Cyborg">Cyborg</char>, holding up a taxi.</sd>
+    <sd>Pan to <action mrkr="Cyborg" with="all" move="2" timestamp="2004-01-10T00:07:30" place="city"/><char ref="Cyborg">Cyborg</char>, holding up a taxi.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Looks like you'll just have to take a cab!</sp>
 
@@ -334,15 +334,15 @@
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> And we're more than three hundred meters below sea level.</sp>
 
-<sd>On the end of this line, they come into view. The illumination is from<action mrkr="Cyborg" with="all" move="3" place="bigTunnel"/> <char ref="Cyborg">Cyborg</char>'s built-in flash.</sd>
+    <sd>On the end of this line, they come into view. The illumination is from<action mrkr="Cyborg" with="all" move="3" timestamp="2004-01-10T00:07:40" place="bigTunnel"/> <char ref="Cyborg">Cyborg</char>'s built-in flash.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> What's it doing down here</sp>
 
-<sd>Close-up of <action mrkr="Starfire" with="all" move="3" place="bigTunnel"/><char ref="Starfire">Starfire</char> and the boys.</sd>
+    <sd>Close-up of <action mrkr="Starfire" with="all" move="3" timestamp="2004-01-10T00:07:40" place="bigTunnel"/><char ref="Starfire">Starfire</char> and the boys.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> Whatever <char ref="Slade">Slade</char> tells it to</sp>
 
-<sd>Pan to <action mrkr="Raven" with="all" move="3" place="bigTunnel"/><char ref="Raven">Raven</char> and <char ref="Terra">Terra</char>, in the rear.</sd>
+    <sd>Pan to <action mrkr="Raven" with="all" move="3" timestamp="2004-01-10T00:07:40" place="bigTunnel"/><char ref="Raven">Raven</char> and <char ref="Terra">Terra</char>, in the rear.</sd>
 
 <sp><spkr ref="Terra">Terra</spkr> So, sorry about our little tug-of-war back there. You know I wouldn't have let anybody get hurt.</sp>
 
@@ -354,7 +354,7 @@
 
 <sp><spkr ref="Raven">Raven</spkr> You're not part of this team, not yet! And if you endanger my friends again, you never will be! The next time I tell you something's too dangerous, TAKE MY WORD FOR IT!</sp>
 
-<sd>Sight gag: on these last five words, the background goes red and her head grows as she glowers at <char ref="Terra">Terra</char>, on whose temple a big sweat drop pops out. As <char ref="Raven">Raven</char> deflates and stalks away, the normal scenery fades in; <action mrkr="BeastBoy" with="all" move="3" place="bigTunnel"/><char ref="BeastBoy">Beast Boy</char> steps into view to stare after her.</sd>
+    <sd>Sight gag: on these last five words, the background goes red and her head grows as she glowers at <char ref="Terra">Terra</char>, on whose temple a big sweat drop pops out. As <char ref="Raven">Raven</char> deflates and stalks away, the normal scenery fades in; <action mrkr="BeastBoy" with="all" move="3" timestamp="2004-01-10T00:07:40" place="bigTunnel"/><char ref="BeastBoy">Beast Boy</char> steps into view to stare after her.</sd>
 
 <sp><spkr ref="Terra">Terra</spkr> Um, why does she hate me?</sp>
 
@@ -364,7 +364,7 @@
 
 <sp><spkr ref="Raven">Raven</spkr> Dead end</sp>
 
-<sd><action mrkr="Robin" with="all" move="3" place="bigTunnel"/><char ref="Robin">Robin</char> steps across, communicator out and beeping.</sd>
+    <sd><action mrkr="Robin" with="all" move="3" timestamp="2004-01-10T00:07:40" place="bigTunnel"/><char ref="Robin">Robin</char> steps across, communicator out and beeping.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> Not necessarily.</sp>
 
@@ -442,7 +442,7 @@
 
 <sp><spkr ref="Robin">Robin</spkr> ...slow.</sp>
 
-<sd>He stares incredulously and starts into the bore. Snap to black, then to the whirling drills of two worms as they break through an expanse of stone. After a moment's grinding, the metal diggers emerge fully and race toward the camera, passing it on either side like a pair of onrushing subway trains. Rotate to frame them zooming away; we can now see that the third worm is alongside them, and <action mrkr="Cyborg" with="S BB" move="4" place="wormTunnels"/><char ref="Cyborg">Cyborg</char>, <action mrkr="Starfire" with="C BB" move="4" place="wormTunnels"/><char ref="Starfire">Starfire</char>, and <action mrkr="BeastBoy" with="S C" move="4" place="wormTunnels"/><char ref="BeastBoy">Beast Boy</char>, as a cheetah, give chase.</sd>
+    <sd>He stares incredulously and starts into the bore. Snap to black, then to the whirling drills of two worms as they break through an expanse of stone. After a moment's grinding, the metal diggers emerge fully and race toward the camera, passing it on either side like a pair of onrushing subway trains. Rotate to frame them zooming away; we can now see that the third worm is alongside them, and <action mrkr="Cyborg" with="S BB" move="4" timestamp="2004-01-10T00:07:45" place="wormTunnels"/><char ref="Cyborg">Cyborg</char>, <action mrkr="Starfire" with="C BB" move="4" timestamp="2004-01-10T00:07:45" place="wormTunnels"/><char ref="Starfire">Starfire</char>, and <action mrkr="BeastBoy" with="S C" move="4" timestamp="2004-01-10T00:07:45" place="wormTunnels"/><char ref="BeastBoy">Beast Boy</char>, as a cheetah, give chase.</sd>
 
 <sd>The worms proceed steadily on and one turns upward; when the dusty haze from this move clears, the view has dissolved to a shot of their <location>three tunnels</location>, the two level courses diverging from center. Up come the three Titans, who examine the scene in the light from <char ref="Cyborg">Cyborg</char>'s sweeping beam for a moment.</sd>
 
@@ -464,13 +464,13 @@
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> BB! Star! We're getting close to the surface!<sd>Cut to him.</sd> Whatever their target is, they're about to hit it with everything they've got.</sp>
 
-<sd>A patch of ground at surface level. One by one, the three worms break through and rise into the air with the help of small rocket thrusters mounted along the body lengths. Tilt up as they fly in different directions, then cut to <action mrkr="Cyborg" with="S BB" move="5" place="bay"/><char ref="Cyborg">Cyborg</char> emerging from underground. <action mrkr="Starfire" with="C BB" move="5" place="bay"/><char ref="Starfire">Starfire</char> does likewise, then <action mrkr="BeastBoy" with="C S" move="5" place="bay"/><char ref="BeastBoy">Beast Boy</char> in gopher form; up above, the giant drill bits retract into the segmented bodies. Two free ends hook up, and the camera zooms in to an extreme close-up of a red emitter on the side and then pulls back. Now all three worms have joined into a ring that matches the one spinning in the underground chamber. Dissolve to a long shot and pull back slowly; it is suspended directly above the <location>Tower</location>, on whose island the worms surfaced.</sd>
+    <sd>A patch of ground at surface level. One by one, the three worms break through and rise into the air with the help of small rocket thrusters mounted along the body lengths. Tilt up as they fly in different directions, then cut to <action mrkr="Cyborg" with="S BB" move="5" timestamp="2004-01-10T00:07:50" place="bay"/><char ref="Cyborg">Cyborg</char> emerging from underground. <action mrkr="Starfire" with="C BB" move="5" timestamp="2004-01-10T00:07:50" place="bay"/><char ref="Starfire">Starfire</char> does likewise, then <action mrkr="BeastBoy" with="C S" move="5" timestamp="2004-01-10T00:07:50" place="bay"/><char ref="BeastBoy">Beast Boy</char> in gopher form; up above, the giant drill bits retract into the segmented bodies. Two free ends hook up, and the camera zooms in to an extreme close-up of a red emitter on the side and then pulls back. Now all three worms have joined into a ring that matches the one spinning in the underground chamber. Dissolve to a long shot and pull back slowly; it is suspended directly above the <location>Tower</location>, on whose island the worms surfaced.</sd>
 
 <sd>As <char ref="Starfire">Starfire</char> and again-human <char ref="BeastBoy">Beast Boy</char> stand frozen in shock, <char ref="Cyborg">Cyborg</char> moves closer and stares popeyed. That emitter comes to life, firing a laser beam straight down to cut a circular incision into the earth; when it is about to hit the camera, cut to an overhead view of the structure. Two other beams have started up, one on each worm, and at ground level the three Titans are forced to make a run for it as one of them rips toward them. Once the dust has cleared, <char ref="Cyborg">Cyborg</char> stands up and addresses his onboard communicator.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> <char ref="Robin">Robin</char>! It's the Tower!<sd>Cut to it; he continues o.c.</sd> They're attacking Titans Tower!</sp>
 
-<sd>Tilt down quickly through the layers of earth and stop on an overhead view of the underground shaft. The worms down here have started firing beams of their own, but up instead of down to chew through that rock from two directions at once. Close-up of the holographic <location>Tower</location> image, now with a cylinder marked around it and a flashing red arrow pointing downward from the bottom end to show the structure's intended movement. Pull back to show <action mrkr="Robin" with="T R" move="4" place="lair"/><char ref="Robin">Robin</char>, <action mrkr="Raven" with="T RB" move="4" place="lair"/><char ref="Raven">Raven</char> and <char ref="Terra">Terra</char> at the computer console.</sd>
+    <sd>Tilt down quickly through the layers of earth and stop on an overhead view of the underground shaft. The worms down here have started firing beams of their own, but up instead of down to chew through that rock from two directions at once. Close-up of the holographic <location>Tower</location> image, now with a cylinder marked around it and a flashing red arrow pointing downward from the bottom end to show the structure's intended movement. Pull back to show <action mrkr="Robin" with="T R" move="4" timestamp="2004-01-10T00:07:50" place="lair"/><char ref="Robin">Robin</char>, <action mrkr="Raven" with="T RB" move="4" timestamp="2004-01-10T00:07:50" place="lair"/><char ref="Raven">Raven</char> and <char ref="Terra">Terra</char> at the computer console.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> It's not just under attack...<sd>Close-up; zoom in slowly.</sd> It's about to be underground.</sp>
 
@@ -602,7 +602,7 @@
 
 <sp><spkr ref="Robin">Robin</spkr> And <char ref="Raven">Raven</char>. Working together.</sp>
 
-<sd>The three heroes watch as the <location>island</location> and structure are pushed up the last few feet, back into proper position. Dissolve to the hall; <action mrkr="Raven" with="T" move="5" place="tower"/><char ref="Raven">Raven</char> and <char ref="Terra">Terra</char> are walking along. The blonde's goggles, which have been propped on her forehead since she wrapped up her stunt on the roof, hang around her neck again.</sd>
+    <sd>The three heroes watch as the <location>island</location> and structure are pushed up the last few feet, back into proper position. Dissolve to the hall; <action mrkr="Raven" with="T" move="5" timestamp="2004-01-10T00:08:00" place="tower"/><char ref="Raven">Raven</char> and <char ref="Terra">Terra</char> are walking along. The blonde's goggles, which have been propped on her forehead since she wrapped up her stunt on the roof, hang around her neck again.</sd>
 
 <sp><spkr ref="Terra">Terra</spkr> So...friends?</sp>
 
@@ -632,11 +632,11 @@
 
 <sp><spkr ref="Terra">Terra</spkr> You guys did all this...for me?</sp>
 
-<sp><spkr ref="BeastBoy">Beast Boy</spkr> Yeah, since you helped save our home and all,<sd><action mrkr="BeastBoy" with="all" move="6" place="tower"/>slides to her, blushes, and cocks his eyebrows</sd> we thought you deserved your own room.</sp>
+    <sp><spkr ref="BeastBoy">Beast Boy</spkr> Yeah, since you helped save our home and all,<sd><action mrkr="BeastBoy" with="all" move="6" timestamp="2004-01-10T00:08:00" place="tower"/>slides to her, blushes, and cocks his eyebrows</sd> we thought you deserved your own room.</sp>
 
 <sp><spkr ref="Robin">Robin</spkr> You also deserve one of these.</sp>
 
-<sd><action mrkr="Robin" with="all" move="5" place="tower"/>Close-up of his hand on the end of this; he holds out a communicator, and she takes it and looks wonderingly down at it in her palm.</sd>
+    <sd><action mrkr="Robin" with="all" move="5" timestamp="2004-01-10T00:08:00" place="tower"/>Close-up of his hand on the end of this; he holds out a communicator, and she takes it and looks wonderingly down at it in her palm.</sd>
 
 <sp><spkr ref="Terra">Terra</spkr> So I'm...</sp>
 
@@ -657,7 +657,7 @@
 
 <sp><spkr ref="Starfire">Starfire</spkr> Welcome, new Titan</sp>
 
-<sd><action mrkr="Starfire" with="all" move="6" place="tower"/>Close-up of <char ref="Terra">Terra</char>.</sd>
+    <sd><action mrkr="Starfire" with="all" move="6" timestamp="2004-01-10T00:08:00" place="tower"/>Close-up of <char ref="Terra">Terra</char>.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> <sd>from o.c.</sd> Congratulations, <char ref="Terra">Terra</char>,<sd>Pan to show her behind.</sd> You earned it.</sp>
 
@@ -665,7 +665,7 @@
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> All right. There's only one way to commemorate such a momentous occasion. Waffles!</sp>
 
-<sd><action mrkr="Cyborg" with="all" move="6" place="tower"/>All but <char ref="Terra">Terra</char> head out.</sd>
+    <sd><action mrkr="Cyborg" with="all" move="6" timestamp="2004-01-10T00:08:00" place="tower"/>All but <char ref="Terra">Terra</char> head out.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> Mmm!</sp>
 
