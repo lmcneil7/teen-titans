@@ -26,13 +26,13 @@
         <charList type="nonrecurring" subtype="villain" id="Chrysaliseater">Chrysalis eater</charList>
     </characterList>
     <locationList>
-        <locList id="tower">Titans' Tower</locList>
-        <locList id="stadium">Football Stadium</locList>
-        <locList id="redsky">One of the Planets Starfire Visits - Has a Red Sky</locList>
-        <locList id="bluesky">One of the Planets Starfire Visits - Has a Blue Sky</locList>
-        <locList id="greensky">One of the Planets Starfire Visits - Has a Green Sky</locList>
-        <locList id="smallp">One of the Planets Starfire Visits - It's Small</locList>
-        <locList id="forestp">The Planet Starfire Lands On - Has Forest</locList>
+        <locList id="tower" lat="37.8002" lon="-122.5004">Titans' Tower</locList>
+        <locList id="stadium" lat="37.7688" lon="-122.4564">Football Stadium</locList>
+        <locList id="redsky" lat="37.8534" lon="-122.4195">One of the Planets Starfire Visits - Has a Red Sky</locList>
+        <locList id="bluesky" lat="37.8682" lon="-122.4389">One of the Planets Starfire Visits - Has a Blue Sky</locList>
+        <locList id="greensky" lat="37.8567" lon="-122.4415">One of the Planets Starfire Visits - Has a Green Sky</locList>
+        <locList id="smallp" lat="37.8612" lon="-122.4451">One of the Planets Starfire Visits - It's Small</locList>
+        <locList id="forestp" lat="37.8610" lon="-122.4326">The Planet Starfire Lands On - Has Forest</locList>
     </locationList>
     <body>
         <act n="0">
