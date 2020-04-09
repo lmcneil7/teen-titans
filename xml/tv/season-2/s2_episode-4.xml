@@ -22,11 +22,11 @@
         <charList type="nonrecurring" id="Reflection">Cyborg's Reflection</charList>
     </characterList>
     <locationList>
-        <locList id="tower">Titans Tower</locList>
-        <locList id="shore">Island Shore</locList>
-        <locList id="stadium">Football Stadium</locList>
-        <locList id="lockerRoom">Underground Locker Room</locList>
-        <locList id="city">City Street</locList>
+        <locList id="tower" lat="37.8002" lon="-122.5004">Titans Tower</locList>
+        <locList id="bay" lat="37.7274" lon="-122.3711">Jump City Bay</locList>
+        <locList id="stadium" lat="37.767098" lon="-122.456262">Football Stadium</locList>
+        <locList id="lockerRoom" lat="37.766937" lon="-122.454853">Underground Locker Room</locList>
+        <locList id="cityStreet" lat="37.765196" lon="-122.449751">Jump City Street</locList>
     </locationList>
     <body>
 <act n="0">
@@ -185,7 +185,7 @@
 
 <sp><spkr ref="Atlas">Atlas</spkr><char ref="Atlas">Atlas</char> is ready. Let the rematch begin!</sp>
 
-    <sd><char ref="Cyborg">Cyborg</char> is flung out through the hole; cut to the exterior of the <location>Tower</location> as he sails out screaming and splashes down off the <location>island shore</location>. <action mrkr="Cyborg" with="none" move="2" timestamp="2004-01-10T00:02:45" place="shore"/>After he gets to his feet,<char ref="Atlas">Atlas</char> leaps down to face him.</sd>
+    <sd><char ref="Cyborg">Cyborg</char> is flung out through the hole; cut to the exterior of the <location>Tower</location> as he sails out screaming and splashes down off the <location>island bay</location>. <action mrkr="Cyborg" with="none" move="2" timestamp="2004-01-10T00:02:45" place="bay"/>After he gets to his feet,<char ref="Atlas">Atlas</char> leaps down to face him.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> You do not want to start with me, man, especially not over a stupid video game.</sp>
 
@@ -203,11 +203,11 @@
 
 <sp><spkr ref="Robin">Robin</spkr>Titans! Go!</sp>
 
-<sd>They are over the sill and charging toward <location>the shore</location> in no time flat, but before they can reach the fight, <charDesc ref="Spike">a barrel-chested fellow descends into view, using a jet pack on his back, to block their approach. He wears shorts, a long-sleeved blue jersey, matching cap, and a tool belt; one cheek sports a bandage</charDesc>. This is<char ref="Spike">Spike</char>, a.k.a. the Mechanic.</sd>
+<sd>They are over the sill and charging toward <location>the bay</location> in no time flat, but before they can reach the fight, <charDesc ref="Spike">a barrel-chested fellow descends into view, using a jet pack on his back, to block their approach. He wears shorts, a long-sleeved blue jersey, matching cap, and a tool belt; one cheek sports a bandage</charDesc>. This is<char ref="Spike">Spike</char>, a.k.a. the Mechanic.</sd>
 
 <sp><spkr ref="Spike">Spike</spkr>Sorry, folks, can't let you interrupt the master. This match is one on--</sp>
 
-    <sd><action mrkr="Robin" with="S BB R" move="2" timestamp="2004-01-10T00:02:50" place="shore"/> Robin gets a double handful of fabric and throws him to one side, clearing the path for him and the other Titans to charge again.<char ref="Atlas">Atlas</char> throws a punch that dumps<char ref="Cyborg">Cyborg</char> into the water on his face; before he can stand, though, he is seized and thrown against the rocky slopes near the <location>shore</location>. Just after he falls away,<char ref="Atlas">Atlas</char> wraps a set of fingers around him and lets fly; the yelling Titan sails up, neatly through the hole in <location>the operations center</location> window, and out the other side of <location>the Tower</location>. A loud splash marks his meeting with the bay.</sd>
+    <sd><action mrkr="Robin" with="S BB R" move="2" timestamp="2004-01-10T00:02:50" place="bay"/> Robin gets a double handful of fabric and throws him to one side, clearing the path for him and the other Titans to charge again.<char ref="Atlas">Atlas</char> throws a punch that dumps<char ref="Cyborg">Cyborg</char> into the water on his face; before he can stand, though, he is seized and thrown against the rocky slopes near the <location>bay</location>. Just after he falls away,<char ref="Atlas">Atlas</char> wraps a set of fingers around him and lets fly; the yelling Titan sails up, neatly through the hole in <location>the operations center</location> window, and out the other side of <location>the Tower</location>. A loud splash marks his meeting with the bay.</sd>
 
 <sd>Cut to a close-up profile of<char ref="Atlas">Atlas</char> and pull back slowly.</sd>
 
@@ -217,9 +217,9 @@
 
 <sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> Hope you came looking for a fight, 'cause you definitely found one!</sp>
 
-    <sd>Cut to him in mid-leap; he hurls several explosive discs, but<char ref="Atlas">Atlas</char> raises both hands to block them and their blasts do no damage.<action mrkr="Starfire" with="RB BB R " move="2" timestamp="2004-01-10T00:02:50" place="shore"/><char ref="Starfire">Starfire</char> yells and zips past for a strafing run, but her shots are also ineffective. The metal face grins evilly up toward her, but is soon put into shadow; pull back to show a huge wall of water bearing down on him under<action mrkr="Raven" with="S BB RB" move="2" timestamp="2004-01-10T00:02:50" place="shore"/><char ref="Raven">Raven</char>'s control. She floats up above the crest and sends the tsunami crashing down on<char ref="Atlas">Atlas</char>.</sd>
+    <sd>Cut to him in mid-leap; he hurls several explosive discs, but<char ref="Atlas">Atlas</char> raises both hands to block them and their blasts do no damage.<action mrkr="Starfire" with="RB BB R " move="2" timestamp="2004-01-10T00:02:50" place="bay"/><char ref="Starfire">Starfire</char> yells and zips past for a strafing run, but her shots are also ineffective. The metal face grins evilly up toward her, but is soon put into shadow; pull back to show a huge wall of water bearing down on him under<action mrkr="Raven" with="S BB RB" move="2" timestamp="2004-01-10T00:02:50" place="bay"/><char ref="Raven">Raven</char>'s control. She floats up above the crest and sends the tsunami crashing down on<char ref="Atlas">Atlas</char>.</sd>
 
-    <sd>The water drains away, leaving the robot still standing and grinning, but an approaching yell from the o.c.<action mrkr="BeastBoy" with="S RB R" move="2" timestamp="2004-01-10T00:02:50" place="shore"/><char ref="BeastBoy">Beast Boy</char> catches him by surprise. Cut to the green hero, plunging toward the camera from overhead, and pull back to ground level, now a whale, he comes down on<char ref="Atlas">Atlas</char> like a few hundred tons of bricks. Broad smiles from<char ref="Robin">Robin</char>,<char ref="Starfire">Starfire</char>, and<char ref="Raven">Raven</char> on the shore, looking out at their now-oversized colleague, then cut to an extreme close-up of his eye. It turns downward, widening in surprise, and his vast bulk is slowly hoisted up by<char ref="Atlas">Atlas</char>. Chuckling savagely, he throws the mammal hard toward the island. Resuming human form on the fly and yelling all the way across,<char ref="BeastBoy">Beast Boy</char> drops neatly into<char ref="Robin">Robin</char>'s arms.</sd>
+    <sd>The water drains away, leaving the robot still standing and grinning, but an approaching yell from the o.c.<action mrkr="BeastBoy" with="S RB R" move="2" timestamp="2004-01-10T00:02:50" place="bay"/><char ref="BeastBoy">Beast Boy</char> catches him by surprise. Cut to the green hero, plunging toward the camera from overhead, and pull back to ground level, now a whale, he comes down on<char ref="Atlas">Atlas</char> like a few hundred tons of bricks. Broad smiles from<char ref="Robin">Robin</char>,<char ref="Starfire">Starfire</char>, and<char ref="Raven">Raven</char> on the bay, looking out at their now-oversized colleague, then cut to an extreme close-up of his eye. It turns downward, widening in surprise, and his vast bulk is slowly hoisted up by<char ref="Atlas">Atlas</char>. Chuckling savagely, he throws the mammal hard toward the island. Resuming human form on the fly and yelling all the way across,<char ref="BeastBoy">Beast Boy</char> drops neatly into<char ref="Robin">Robin</char>'s arms.</sd>
 
 <sd>Close-up of<char ref="Atlas">Atlas</char>, pulling back.</sd>
 
@@ -237,7 +237,7 @@
 
     <sd>The retracted fist extends.</sd> Keep up the good--</sp>
 
-<sd>Before he can finish the sentence, the combatant is dashing back into the fight. A landing on the <location>shore</location>, four blasts from the cannon, and one by one the other Titans roll backward, each now imprisoned within a large, spherical force field.</sd>
+<sd>Before he can finish the sentence, the combatant is dashing back into the fight. A landing on the <location>bay</location>, four blasts from the cannon, and one by one the other Titans roll backward, each now imprisoned within a large, spherical force field.</sd>
 
 <sp><spkr ref="Atlas">Atlas</spkr> No challenge at all.</sp>
 
@@ -245,7 +245,7 @@
 
 <sp><spkr ref="Atlas">Atlas</spkr> But you will make amusing trophies.</sp>
 
-<sd>A sonic cannon blast connects high on the shoulder. The captor glares back and finds<char ref="Cyborg">Cyborg</char> now on the shore, his weapon locked and loaded.</sd>
+<sd>A sonic cannon blast connects high on the shoulder. The captor glares back and finds<char ref="Cyborg">Cyborg</char> now on the bay, his weapon locked and loaded.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Let 'em go!</sp>
 
@@ -455,7 +455,7 @@
 
 <sp><spkr ref="Spike">Spike</spkr> <sd>a bit uncertainly, glancing at the Titans</sd> Coming right up, boss!</sp>
 
-    <sd>He zooms over. Cut to a close-up of<char ref="Robin">Robin</char>, now very concerned for both his team's welfare and the assistant's state of mind, then dissolve to a long shot of the <location>stadium</location>. Tilt down from here an overhead view of a deserted <location>city street</location>;<action mrkr="Cyborg" with="none" timestamp="2004-01-10T00:03:05" move="5" place="city"/><char ref="Cyborg">Cyborg</char> is trudging along the sidewalk.</sd>
+    <sd>He zooms over. Cut to a close-up of<char ref="Robin">Robin</char>, now very concerned for both his team's welfare and the assistant's state of mind, then dissolve to a long shot of the <location>stadium</location>. Tilt down from here an overhead view of a deserted <location>city street</location>;<action mrkr="Cyborg" with="none" timestamp="2004-01-10T00:03:05" move="5" place="cityStreet"/><char ref="Cyborg">Cyborg</char> is trudging along the sidewalk.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> How could I?</sp>
 

@@ -23,10 +23,10 @@
         <charList type="nonrecurring" id="Miner2">Miner 2</charList>
     </characterList>
     <locationList>
-        <locList id="tower">Titans Tower</locList>
-        <locList id="canyon">Canyon</locList>
-        <locList id="bay">Bay</locList>
-        <locList id="mine">Underground Mine</locList>
+        <locList id="tower" lat="37.8002" lon="-122.5004">Titans Tower</locList>
+        <locList id="canyon" lat="37.735883" lon="-122.439740">Canyon</locList>
+        <locList id="bay" lat="37.7274" lon="-122.3711">Jump City Bay</locList>
+        <locList id="mine" lat="37.726730" lon="-122.441710">Underground Mine</locList>
     </locationList>
     <body>
     <act n="0">
