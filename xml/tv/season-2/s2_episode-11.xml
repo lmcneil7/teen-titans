@@ -30,7 +30,7 @@
     </characterList>
     <locationList>
         <locList id="tower" lat="37.8002" lon="-122.5004">Titans Tower</locList>
-        <locList id="city">The streets of Jump City</locList>
+        <locList id="city" lat="37.776961" lon="-122.437408">The streets of Jump City</locList>
         <locList id="bay" lat="37.7274" lon="-122.3711">Jump City Bay</locList>
     </locationList>
     <body>

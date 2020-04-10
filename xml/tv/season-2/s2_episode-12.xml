@@ -27,11 +27,11 @@
     </characterList>
     <locationList>
         <locList id="tower" lat="37.8002" lon="-122.5004">Titans Tower</locList>
-        <locList id="city">Streets of Jump City</locList>
-        <locList id="chamber"></locList>
+        <locList id="city" lat="37.776961" lon="-122.437408">Streets of Jump City</locList>
+        <locList id="chamber" lat="37.7733" lon="-122.4377"></locList>
         <locList id="forest" lat="37.7587" lon="-122.4585">A forest that Cyborg and Beast Boy travel through on their way to fight Plasmus in the chemical plant.</locList>
-        <locList id="chemical_plant">A chemical plant where Beast Boy and Cyborg fight Plasmus</locList>
-        <locList id="mine">A mine where Robin and Starfire fight Cinderblock.</locList>
+        <locList id="chemical_plant" lat="37.7939" lon="-122.3928">A chemical plant where Beast Boy and Cyborg fight Plasmus</locList>
+        <locList id="mine" lat="37.726730" lon="-122.441710">A mine where Robin and Starfire fight Cinderblock.</locList>
     </locationList>
     <body>
         <act n="0">

@@ -27,8 +27,8 @@
     </characterList>
     <locationList>
         <locList id="bay" lat="37.8002" lon="-122.5004">Jump City Bay</locList>
-        <locList id="lair">Slade's underground lair in Jump City</locList>
-        <locList id="city">The streets of Jump City</locList>
+        <locList id="lair" lat="37.764750" lon="-122.422442">Slade's underground lair in Jump City</locList>
+        <locList id="city" lat="37.776961" lon="-122.437408">The streets of Jump City</locList>
     </locationList>
     <body>
         <act n="0">

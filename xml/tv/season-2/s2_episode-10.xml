@@ -23,7 +23,7 @@
         <locList id="tower" lat="37.8002" lon="-122.5004">Titan's Tower</locList>
         <locList id="amusement_park" lat="38.1315" lon="-122.2293">Amusement Park in Jump City</locList>
         <locList id="bens_diner" lat="37.7624" lon="-122.4349">Ben's Diner</locList>
-        <locList id="city">Streets of Jump City</locList>
+        <locList id="city" lat="37.776961" lon="-122.437408">Streets of Jump City</locList>
     </locationList>
     <body>
         <act n="0">
