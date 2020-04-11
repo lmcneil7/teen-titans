@@ -27,7 +27,7 @@
     </characterList>
     <locationList>
         <locList id="tower" lat="37.8002" lon="-122.5004">Titans' Tower</locList>
-        <locList id="stadium" lat="37.7688" lon="-122.4564">Football Stadium</locList>
+        <locList id="Fstadium" lat="37.7688" lon="-122.4564">Football Stadium</locList>
         <locList id="redsky" lat="37.8534" lon="-122.4195">One of the Planets Starfire Visits - Has a Red Sky</locList>
         <locList id="bluesky" lat="37.8682" lon="-122.4389">One of the Planets Starfire Visits - Has a Blue Sky</locList>
         <locList id="greensky" lat="37.8567" lon="-122.4415">One of the Planets Starfire Visits - Has a Green Sky</locList>
@@ -189,9 +189,9 @@
 
 <sp><spkr ref="Crowd">Crowd</spkr> EWWWWW!!</sp>
 
-            <sd><char ref="Plasmus">Plasmus</char> pays them no mind and continues to drink his fill. When he finishes, he lowers the pipe and wipes his mouth, but something o.c. draws his surprised attention toward itself. Cut to a close-up of one of <action mrkr="Robin" with="C R BB" move="2" place="stadium" timestamp="2004-01-10T00:06:20"/><char ref="Robin">Robin</char>'s discs in mid-flight, then to him; it and two others strike his chest and stick there. They detonate after a moment, tearing his upper body apart into purple ribbons that splay in all directions; think of the T-1000 in "Terminator 2: Judgment Day", but he quickly reassembles himself and roars in fury.</sd>
+            <sd><char ref="Plasmus">Plasmus</char> pays them no mind and continues to drink his fill. When he finishes, he lowers the pipe and wipes his mouth, but something o.c. draws his surprised attention toward itself. Cut to a close-up of one of <action mrkr="Robin" with="C R BB" move="2" place="Fstadium" timestamp="2004-01-10T00:06:20"/><char ref="Robin">Robin</char>'s discs in mid-flight, then to him; it and two others strike his chest and stick there. They detonate after a moment, tearing his upper body apart into purple ribbons that splay in all directions; think of the T-1000 in "Terminator 2: Judgment Day", but he quickly reassembles himself and roars in fury.</sd>
 
-            <sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> I don't know what's more disgusting, <char ref="Plasmus">Plasmus</char>.. <sd>Cut to him on the turf.</sd> ...the way you look.. <sd>Pull back; <action mrkr="BeastBoy" with="RB C R" move="2" place="stadium" timestamp="2004-01-10T00:06:20"/><char ref="BeastBoy">Beast Boy</char>, <action mrkr="Cyborg" with="RB R BB" move="2" place="stadium" timestamp="2004-01-10T00:06:20"/><char ref="Cyborg">Cyborg</char>, and <action mrkr="Raven" with="RB C BB" move="2" place="stadium" timestamp="2004-01-10T00:06:20"/><char ref="Raven">Raven</char> join him.</sd> ...or the stuff you eat.</sp>
+            <sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> I don't know what's more disgusting, <char ref="Plasmus">Plasmus</char>.. <sd>Cut to him on the turf.</sd> ...the way you look.. <sd>Pull back; <action mrkr="BeastBoy" with="RB C R" move="2" place="Fstadium" timestamp="2004-01-10T00:06:20"/><char ref="BeastBoy">Beast Boy</char>, <action mrkr="Cyborg" with="RB R BB" move="2" place="Fstadium" timestamp="2004-01-10T00:06:20"/><char ref="Cyborg">Cyborg</char>, and <action mrkr="Raven" with="RB C BB" move="2" place="Fstadium" timestamp="2004-01-10T00:06:20"/><char ref="Raven">Raven</char> join him.</sd> ...or the stuff you eat.</sp>
 
 <sd>He responds by vomiting forth a wide stream of sludge.</sd>
 
@@ -239,7 +239,7 @@
 
 <sp><spkr ref="BeastBoy">Beast Boy</spkr> Yeah, uh...nice slicker.</sp>
 
-            <sp><spkr ref="Robin">Robin</spkr> <char ref="Starfire">Starfire</char>...you've been acting kind of...strange lately <sd>steps toward <action mrkr="Starfire" with="none" move="2" place="stadium" timestamp="2004-01-10T00:06:20"/><char ref="Starfire">Starfire</char></sd> Is everything okay?</sp>
+            <sp><spkr ref="Robin">Robin</spkr> <char ref="Starfire">Starfire</char>...you've been acting kind of...strange lately <sd>steps toward <action mrkr="Starfire" with="none" move="2" place="Fstadium" timestamp="2004-01-10T00:06:20"/><char ref="Starfire">Starfire</char></sd> Is everything okay?</sp>
 
 <sd>She backs up with a scared little moan, but a loud rumbling from o.c. diverts <char ref="Robin">Robin</char>'s attention. He looks over his shoulder; pull back to the crater where she gave <char ref="Plasmus">Plasmus</char> what for. <charDesc ref="Plasmus">A maroon geyser boils up and forms a gargantuan humanoid creature with thinner arms and legs than before. A huge screaming mouth sits below a row of bulbous green eyes that stretches up both shoulders and across the top of his head.</charDesc> The new <char ref="Plasmus">Plasmus</char> lets off a long, grating scream.</sd>
 

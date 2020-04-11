@@ -26,7 +26,7 @@
         <locList id="bay" lat="37.7274" lon="-122.3711">Jump City Bay</locList>
         <locList id="stadium" lat="37.767098" lon="-122.456262">Football Stadium</locList>
         <locList id="lockerRoom" lat="37.766937" lon="-122.454853">Underground Locker Room</locList>
-        <locList id="cityStreet" lat="37.765196" lon="-122.449751">Jump City Street</locList>
+        <locList id="cityStreet1" lat="37.765196" lon="-122.449751">Jump City Street</locList>
     </locationList>
     <body>
 <act n="0">
@@ -455,7 +455,7 @@
 
 <sp><spkr ref="Spike">Spike</spkr> <sd>a bit uncertainly, glancing at the Titans</sd> Coming right up, boss!</sp>
 
-    <sd>He zooms over. Cut to a close-up of<char ref="Robin">Robin</char>, now very concerned for both his team's welfare and the assistant's state of mind, then dissolve to a long shot of the <location>stadium</location>. Tilt down from here an overhead view of a deserted <location>city street</location>;<action mrkr="Cyborg" with="none" timestamp="2004-01-10T00:03:05" move="5" place="cityStreet"/><char ref="Cyborg">Cyborg</char> is trudging along the sidewalk.</sd>
+    <sd>He zooms over. Cut to a close-up of<char ref="Robin">Robin</char>, now very concerned for both his team's welfare and the assistant's state of mind, then dissolve to a long shot of the <location>stadium</location>. Tilt down from here an overhead view of a deserted <location>city street</location>;<action mrkr="Cyborg" with="none" timestamp="2004-01-10T00:03:05" move="5" place="cityStreet1"/><char ref="Cyborg">Cyborg</char> is trudging along the sidewalk.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> How could I?</sp>
 

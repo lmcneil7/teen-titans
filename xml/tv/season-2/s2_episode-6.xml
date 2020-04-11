@@ -27,7 +27,7 @@
     </characterList>
     <locationList>
         <locList id="tower" lat="37.8002" lon="-122.5004">Titans Tower</locList>
-        <locList id="cityStreet" lat="37.784268" lon="-122.482905">Jump City Street</locList>
+        <locList id="cityStreet2" lat="37.784268" lon="-122.482905">Jump City Street</locList>
         <locList id="bridge" lat="37.813557" lon="-122.477836">Bridge</locList>
         <locList id="prom" lat="37.769343" lon="-122.382801">Prom Boat</locList>
         <locList id="dock" lat="37.769559" lon="-122.383403">Dock</locList>
@@ -85,11 +85,11 @@
 
 <sp><spkr ref="Robin">Robin</spkr> Range to target!</sp>
 
-    <sd>In another street<action mrkr="Robin" with="all" move="1" timestamp="2004-01-10T00:05:30" place="cityStreet"/>, the T-Car is rolling up fast. Close-up of<action mrkr="Raven" with="all" move="1" timestamp="2004-01-10T00:05:30" place="cityStreet"/><char ref="Raven">Raven</char> in the front passenger seat; pan to <action mrkr="Cyborg" with="all" move="1" timestamp="2004-01-10T00:05:30" place="cityStreet"/><char ref="Cyborg">Cyborg</char> at the wheel on the next line.</sd>
+    <sd>In another street<action mrkr="Robin" with="all" move="1" timestamp="2004-01-10T00:05:30" place="cityStreet2"/>, the T-Car is rolling up fast. Close-up of<action mrkr="Raven" with="all" move="1" timestamp="2004-01-10T00:05:30" place="cityStreet2"/><char ref="Raven">Raven</char> in the front passenger seat; pan to <action mrkr="Cyborg" with="all" move="1" timestamp="2004-01-10T00:05:30" place="cityStreet2"/><char ref="Cyborg">Cyborg</char> at the wheel on the next line.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Five hundred and closing. Should have a visual any--</sp>
 
-    <sd>Cut to <action mrkr="Starfire" with="all" move="1" timestamp="2004-01-10T00:05:30" place="cityStreet"/><char ref="Starfire">Starfire</char> in flight.<action mrkr="BeastBoy" with="all" move="1" timestamp="2004-01-10T00:05:30" place="cityStreet"/> <char ref="BeastBoy">Beast Boy</char>, as a vulture, keeps pace with her.</sd>
+    <sd>Cut to <action mrkr="Starfire" with="all" move="1" timestamp="2004-01-10T00:05:30" place="cityStreet2"/><char ref="Starfire">Starfire</char> in flight.<action mrkr="BeastBoy" with="all" move="1" timestamp="2004-01-10T00:05:30" place="cityStreet2"/> <char ref="BeastBoy">Beast Boy</char>, as a vulture, keeps pace with her.</sd>
 
 <sp><spkr ref="Starfire">Starfire</spkr> There he is!</sp>
 

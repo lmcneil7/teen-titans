@@ -21,7 +21,7 @@
     </characterList>
     <locationList>
         <locList id="tower" lat="37.8002" lon="-122.5004">Titan Tower</locList>
-        <locList id="cityStreet" lat="37.776961" lon="-122.437408">Jump City Street</locList>
+        <locList id="cityStreet3" lat="37.776961" lon="-122.437408">Jump City Street</locList>
         <locList id="bigTunnel" lat="37.791441" lon="-122.407587">Big Tunnel</locList>
         <locList id="wormTunnels" lat="37.791808" lon="-122.408870">Worm Tunnels</locList>
         <locList id="lair" lat="37.764750" lon="-122.422442">Slade's Lair</locList>
@@ -246,11 +246,11 @@
 
 <sd>Tilt up to keep the drill in view as it rises to full height; it retracts upon stopping and is replaced by a head with a small, screeching mouth. Close-up of the spinning wheel of a stalled bus, then cut to an overhead view and pull back into the sky: it is stuck at the edge of the worm's crater. Inside the shaking vehicle, the driver and passengers look up alarmed; in the sky, that head rears back and knifes toward the street to send people running for their lives.</sd>
 
-    <sd>The bus is hit with <action mrkr="Raven" with="all" move="2"  timestamp="2004-01-10T00:07:30" place="cityStreet"/><char ref="Raven">Raven</char>'s powers and pulled out of the way, an instant before the worm bites into the pavement and throws up a cloud of dust. When it clears, the head is pulling free; cut to <action mrkr="Robin" with="all" move="2" timestamp="2004-01-10T00:07:30" place="cityStreet"/><char ref="Robin">Robin</char>, <action mrkr="BeastBoy" with="all" move="2"  timestamp="2004-01-10T00:07:30" place="cityStreet"/><char ref="BeastBoy">Beast Boy</char>, <action mrkr="Starfire" with="all" move="2" timestamp="2004-01-10T00:07:30" place="cityStreet"/><char ref="Starfire">Starfire</char>, and <char ref="Terra">Terra</char> a bit farther along the street. <char ref="Raven">Raven</char> floats down to them and sets the bus down safely behind.</sd>
+    <sd>The bus is hit with <action mrkr="Raven" with="all" move="2"  timestamp="2004-01-10T00:07:30" place="cityStreet3"/><char ref="Raven">Raven</char>'s powers and pulled out of the way, an instant before the worm bites into the pavement and throws up a cloud of dust. When it clears, the head is pulling free; cut to <action mrkr="Robin" with="all" move="2" timestamp="2004-01-10T00:07:30" place="cityStreet3"/><char ref="Robin">Robin</char>, <action mrkr="BeastBoy" with="all" move="2"  timestamp="2004-01-10T00:07:30" place="cityStreet3"/><char ref="BeastBoy">Beast Boy</char>, <action mrkr="Starfire" with="all" move="2" timestamp="2004-01-10T00:07:30" place="cityStreet3"/><char ref="Starfire">Starfire</char>, and <char ref="Terra">Terra</char> a bit farther along the street. <char ref="Raven">Raven</char> floats down to them and sets the bus down safely behind.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> You missed the bus</sp>
 
-    <sd>Pan to <action mrkr="Cyborg" with="all" move="2" timestamp="2004-01-10T00:07:30" place="cityStreet"/><char ref="Cyborg">Cyborg</char>, holding up a taxi.</sd>
+    <sd>Pan to <action mrkr="Cyborg" with="all" move="2" timestamp="2004-01-10T00:07:30" place="cityStreet3"/><char ref="Cyborg">Cyborg</char>, holding up a taxi.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Looks like you'll just have to take a cab!</sp>
 
