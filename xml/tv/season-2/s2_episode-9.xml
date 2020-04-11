@@ -48,7 +48,7 @@
 
 <sp><spkr ref="Robin">Robin</spkr> <sd>from o.c.</sd> And Thunderstorm blocks out Sun.</sp>
 
-<sd>Pull back on the end of this line to frame the original five Titans; <action mrkr="Robin" with="all" move="1" place="tower"/><char ref="Robin">Robin</char>, <action mrkr="BeastBoy" with="all" move="1" place="tower"/><char ref="BeastBoy">Beast Boy</char>, <action mrkr="Cyborg" with="all" move="1" place="tower"/><char ref="Cyborg">Cyborg</char>, <action mrkr="Raven" with="all" move="1" place="tower"/><char ref="Raven">Raven</char>, <action mrkr="Starfire" with="all" move="1" place="tower"/><char ref="Starfire">Starfire</char>; playing this game around the coffee table in <location>the operations center</location> of <location>Titans Tower</location>. The card pile sits in its center. It is daytime. Cut to each speaker in turn.</sd>
+            <sd>Pull back on the end of this line to frame the original five Titans; <action mrkr="Robin" with="all" move="1" place="tower" timestamp="2004-01-10T00:08:10"/><char ref="Robin">Robin</char>, <action mrkr="BeastBoy" with="all" move="1" place="tower" timestamp="2004-01-10T00:08:10"/><char ref="BeastBoy">Beast Boy</char>, <action mrkr="Cyborg" with="all" move="1" place="tower" timestamp="2004-01-10T00:08:10"/><char ref="Cyborg">Cyborg</char>, <action mrkr="Raven" with="all" move="1" place="tower" timestamp="2004-01-10T00:08:50"/><char ref="Raven">Raven</char>, <action mrkr="Starfire" with="all" move="1" place="tower" timestamp="2004-01-10T00:08:50"/><char ref="Starfire">Starfire</char>; playing this game around the coffee table in <location>the operations center</location> of <location>Titans Tower</location>. The card pile sits in its center. It is daytime. Cut to each speaker in turn.</sd>
 
 <sp><spkr ref="Raven">Raven</spkr> I'm out.</sp>
 
@@ -163,7 +163,7 @@
 
 <sp><spkr ref="Master">Master</spkr> <location>The Tournament of Heroes.</location> A friendly competition between the world's greatest young champions.</sp>
 
-<sd>The jewel around his neck glows white; its radiance suddenly fills the screen, and when it clears, the view has shifted to <location>the Jump City skyline</location>. On the following words, <action mrkr="Robin" with="C BB" move="2" place="toh"/><char ref="Robin">Robin</char> backflips into view and throws a couple of discs toward us; they explode and he launches himself out of the smoke clouds to direct a kick at the camera.</sd>
+            <sd>The jewel around his neck glows white; its radiance suddenly fills the screen, and when it clears, the view has shifted to <location>the Jump City skyline</location>. On the following words, <action mrkr="Robin" with="C BB" move="2" place="toh" timestamp="2004-01-10T00:08:20"/><char ref="Robin">Robin</char> backflips into view and throws a couple of discs toward us; they explode and he launches himself out of the smoke clouds to direct a kick at the camera.</sd>
 
 <sp><spkr ref="Master">Master</spkr> <sd>voice over</sd> <char ref="Robin">Robin</char>: The combat-equipped, kung-fu-trained one-man army.</sp>
 
@@ -171,7 +171,7 @@
 
 <sp><spkr ref="Master">Master</spkr> <sd>voice over</sd> <char ref="HotSpot">Hot Spot</char>: A human flamethrower with a fiery temper to match.</sp>
 
-<sd>Freeze frame: this image shrinks to the center of the screen, overlapping <char ref="Robin">Robin</char> slightly. Full-screen shot spins up: a close-up of <action mrkr="Cyborg" with="RB BB" move="2" place="toh"/><char ref="Cyborg">Cyborg</char>'s arm. On the next line, it converts to his sonic cannon, which he fires as the camera pulls back, and he leaps at the lens to throw a punch.</sd>
+            <sd>Freeze frame: this image shrinks to the center of the screen, overlapping <char ref="Robin">Robin</char> slightly. Full-screen shot spins up: a close-up of <action mrkr="Cyborg" with="RB BB" move="2" place="toh" timestamp="2004-01-10T00:08:20"/><char ref="Cyborg">Cyborg</char>'s arm. On the next line, it converts to his sonic cannon, which he fires as the camera pulls back, and he leaps at the lens to throw a punch.</sd>
 
 <sp><spkr ref="Master">Master</spkr> <sd>voice over</sd> <char ref="Cyborg">Cyborg</char>: The high-tech teen fighting machine.</sp>
 
@@ -187,7 +187,7 @@
 
 <sp><spkr ref="Master">Master</spkr> <sd>voice over</sd> <char ref="Gizmo">Gizmo</char>: <sd>He leans down.</sd> The nasty little boy.. <sd>Two lasers extend from his belt and fire.</sd> ...with the really big brain.</sp>
 
-<sd>Freeze frame on the end of this: horizontal squeeze as this shot backs into the bottom left corner. Now <action mrkr="BeastBoy" with="RB C" move="2" place="toh"/><char ref="BeastBoy">Beast Boy</char> spins up, going at a flat run.</sd>
+            <sd>Freeze frame on the end of this: horizontal squeeze as this shot backs into the bottom left corner. Now <action mrkr="BeastBoy" with="RB C" move="2" place="toh" timestamp="2004-01-10T00:08:20"/><char ref="BeastBoy">Beast Boy</char> spins up, going at a flat run.</sd>
 
 <sp><spkr ref="Master">Master</spkr> <sd>voice over</sd> <char ref="BeastBoy">Beast Boy</char>: A quick-witted changeling.. <sd>He becomes a tiger.</sd> ...who can turn into any animal.</sp>
 
@@ -263,11 +263,11 @@
 
 <sp><spkr ref="Master">Master</spkr> <sd>voice over</sd> Champions! Round One! Face your opponents!</sp>
 
-<sd>A flash, and all four are gone; another removes <char ref="Aqualad">Aqualad</char>, <char ref="Wildebeest">Wildebeest</char>, <char ref="Gizmo">Gizmo</char>, and <char ref="HotSpot">Hot Spot</char>. The view clears to show a number of <location>large circular platforms</location> floating in midair. A freeze-frame of <action mrkr="Cyborg" with="none" move="3" place="platform"/><char ref="Cyborg">Cyborg</char> slides in from the left, one of <char ref="Gizmo">Gizmo</char> from the right; each is marked with the fighter's name. The abbreviation "vs." appears at the border between the two halves.</sd>
+            <sd>A flash, and all four are gone; another removes <char ref="Aqualad">Aqualad</char>, <char ref="Wildebeest">Wildebeest</char>, <char ref="Gizmo">Gizmo</char>, and <char ref="HotSpot">Hot Spot</char>. The view clears to show a number of <location>large circular platforms</location> floating in midair. A freeze-frame of <action mrkr="Cyborg" with="none" move="3" place="platform" timestamp="2004-01-10T00:08:30"/><char ref="Cyborg">Cyborg</char> slides in from the left, one of <char ref="Gizmo">Gizmo</char> from the right; each is marked with the fighter's name. The abbreviation "vs." appears at the border between the two halves.</sd>
 
 <sp><spkr ref="Master">Master</spkr> <sd>voice over</sd> <char ref="Cyborg">Cyborg</char> versus <char ref="Gizmo">Gizmo</char>!</sp>
 
-<sd>The shots slide away. Zoom in slightly on <location>one large platform</location> as two lightning bolts strike it and clear to leave the two standing there. <char ref="Gizmo">Gizmo</char> hovers above its surface with the help of his metal wings and stares down <char ref="Cyborg">Cyborg</char>. Two more shots slide in as before, showing <action mrkr="BeastBoy" with="none" move="3" place="cage"/><char ref="BeastBoy">Beast Boy</char> and <char ref="Wildebeest">Wildebeest</char> and labeled appropriately.</sd>
+            <sd>The shots slide away. Zoom in slightly on <location>one large platform</location> as two lightning bolts strike it and clear to leave the two standing there. <char ref="Gizmo">Gizmo</char> hovers above its surface with the help of his metal wings and stares down <char ref="Cyborg">Cyborg</char>. Two more shots slide in as before, showing <action mrkr="BeastBoy" with="none" move="3" place="cage" timestamp="2004-01-10T00:08:30"/><char ref="BeastBoy">Beast Boy</char> and <char ref="Wildebeest">Wildebeest</char> and labeled appropriately.</sd>
 
 <sp><spkr ref="Master">Master</spkr> <sd>voice over</sd> <char ref="BeastBoy">Beast Boy</char> versus <char ref="Wildebeest">Wildebeest</char>!</sp>
 
@@ -275,7 +275,7 @@
 
 <sp><spkr ref="Master">Master</spkr> <sd>voice over</sd> <char ref="Speedy">Speedy</char> versus <char ref="Aqualad">Aqualad</char>!</sp>
 
-<sd>Slide away. Now the scene has changed to show <location>a large circle of flat stones</location> floating on water. <char ref="Speedy">Speedy</char> appears on one of them and looks around, bow in hand; there is an o.c. flash that forces him to shield his eyes, and the camera pulls back to show a patch of bubbles rising from underwater. <char ref="Aqualad">Aqualad</char>'s head breaks the surface, throwing a bit of a scare into the archer for a moment. Two more shots slide in: <action mrkr="Robin" with="none" move="3" place="pipe"/><char ref="Robin">Robin</char> and <char ref="HotSpot">Hot Spot</char>.</sd>
+            <sd>Slide away. Now the scene has changed to show <location>a large circle of flat stones</location> floating on water. <char ref="Speedy">Speedy</char> appears on one of them and looks around, bow in hand; there is an o.c. flash that forces him to shield his eyes, and the camera pulls back to show a patch of bubbles rising from underwater. <char ref="Aqualad">Aqualad</char>'s head breaks the surface, throwing a bit of a scare into the archer for a moment. Two more shots slide in: <action mrkr="Robin" with="none" move="3" place="pipe" timestamp="2004-01-10T00:08:30"/><char ref="Robin">Robin</char> and <char ref="HotSpot">Hot Spot</char>.</sd>
 
 <sp><spkr ref="Master">Master</spkr> <sd>voice over</sd> <char ref="Robin">Robin</char> versus <char ref="HotSpot">Hot Spot</char>!</sp>
 
@@ -331,7 +331,7 @@
 
 <sd>An o.c. flash marks the removal of the defeated fighter and puts a surprised look on <char ref="Robin">Robin</char>'s face. In the cage, <char ref="Wildebeest">Wildebeest</char> has both hands clamped over his nose and copious tears still running from his eyes due to <char ref="BeastBoy">Beast Boy</char>'s skunk attack. He uncovers his face and his eyes go wide; pull back to show that he is now facing a green lion that charges at him. Though <char ref="Wildebeest">Wildebeest</char> is able to get both arms wrapped around the jungle cat, it transforms into a crocodile, then a bear, then a rhinoceros, then an elephant. The big fellow stays in control and manages to sling the pachyderm o.c., but his eyes soon pop again as he looks across <location>the cage</location>. Cut to <char ref="BeastBoy">Beast Boy</char>, who becomes a tyrannosaurus rex and roars with enough intensity to set <location>the cage</location> vibrating.</sd>
 
-<sd>Pull back to outside. His weight is more than the bars can bear, and the entire bottom of the cage breaks out to drop him into space. <action mrkr="BeastBoy" with="none" move="4" place="gem"/><char ref="BeastBoy">Beast Boy</char> reverts to human form in stages and flails his arms and legs in midair with a frantic yell before a lightning bolt transports him away. Cut to <char ref="Wildebeest">Wildebeest</char>, still in <location>the cage</location>: he plastered himself up against the corner, feet on the stubs of the floor bars.</sd>
+            <sd>Pull back to outside. His weight is more than the bars can bear, and the entire bottom of the cage breaks out to drop him into space. <action mrkr="BeastBoy" with="none" move="4" place="gem" timestamp="2004-01-10T00:08:50"/><char ref="BeastBoy">Beast Boy</char> reverts to human form in stages and flails his arms and legs in midair with a frantic yell before a lightning bolt transports him away. Cut to <char ref="Wildebeest">Wildebeest</char>, still in <location>the cage</location>: he plastered himself up against the corner, feet on the stubs of the floor bars.</sd>
 
 <sp><spkr ref="Master">Master</spkr> <sd>heard over a hidden speaker</sd> Winner.. <sd>Close-up.</sd> ...<char ref="Wildebeest">Wildebeest</char>!</sp>
 
@@ -345,11 +345,11 @@
 
 <sp><spkr ref="Master">Master</spkr> Well played, young champions. You have survived Round One</sp>
 
-<sd><action mrkr="Robin" with="C" move="4" place="toh"/><char ref="Robin">Robin</char> steps up.</sd>
+            <sd><action mrkr="Robin" with="C" move="4" place="toh" timestamp="2004-01-10T00:08:40"/><char ref="Robin">Robin</char> steps up.</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> Survived? What happened to the losers</sp>
 
-<sd><action mrkr="Cyborg" with="RB" move="4" place="toh"/><char ref="Cyborg">Cyborg</char> steps up.</sd>
+            <sd><action mrkr="Cyborg" with="RB" move="4" place="toh" timestamp="2004-01-10T00:08:40"/><char ref="Cyborg">Cyborg</char> steps up.</sd>
 
 <sp><spkr ref="Cyborg">Cyborg</spkr> Yeah, where's our friend?</sp>
 
@@ -458,7 +458,7 @@
 
 <sp><spkr ref="Master">Master</spkr> The game is never over, young champion, but I'm afraid that you are disqualified!</sp>
 
-<sd>On the end of this, his head changes to match <char ref="HotSpot">Hot Spot</char>'s and he brings his huge, furry arms down to break the floor. <char ref="Cyborg">Cyborg</char> is flung back to the wall by the tremors, but has to get up very quickly when a blast of fire lances toward him. Now <char ref="Master">the Master</char> rises on the spider legs again. <char ref="Cyborg">Cyborg</char> brings up his cannon and fires a long blast at <char ref="Master">the Master</char>'s chest with a roar; zoom in quickly on the jewel as it is hit dead on and <char ref="Master">the Master</char> laughs wickedly. Pull back to frame both again, energy is feeding back along the beam. When it reaches <action mrkr="Cyborg" with="BB" move="5" place="gem"/><char ref="Cyborg">Cyborg</char>'s arm, it wraps itself around his body and reels him in. The bionic Titan has time for one last yell before he disappears into the great red gem.</sd>
+            <sd>On the end of this, his head changes to match <char ref="HotSpot">Hot Spot</char>'s and he brings his huge, furry arms down to break the floor. <char ref="Cyborg">Cyborg</char> is flung back to the wall by the tremors, but has to get up very quickly when a blast of fire lances toward him. Now <char ref="Master">the Master</char> rises on the spider legs again. <char ref="Cyborg">Cyborg</char> brings up his cannon and fires a long blast at <char ref="Master">the Master</char>'s chest with a roar; zoom in quickly on the jewel as it is hit dead on and <char ref="Master">the Master</char> laughs wickedly. Pull back to frame both again, energy is feeding back along the beam. When it reaches <action mrkr="Cyborg" with="BB" move="5" place="gem" timestamp="2004-01-10T00:08:50"/><char ref="Cyborg">Cyborg</char>'s arm, it wraps itself around his body and reels him in. The bionic Titan has time for one last yell before he disappears into the great red gem.</sd>
 
 <sd><char ref="Master">The Master</char> drops to the floor, head and arms back to normal and metal legs retracting; close-up of his jewel, into which the last of the feedback is disappearing.</sd>
 
@@ -486,7 +486,7 @@
 
 <sp><spkr ref="Master">Master</spkr> <sd>voice over</sd> <char ref="Speedy">Speedy</char> versus <char ref="Wildebeest">Wildebeest</char> versus <char ref="Robin">Robin</char>, in a three-man fight to the finish!</sp>
 
-<sd><setNote shot="no">Wipe to <location>a crater on a barren moon</location> and tilt up to <location>an asteroid</location> floating not too far from it.</setNote> Three lightning bolts strike the surface and leave the fighters standing there. Cut to <char ref="Speedy">Speedy</char> and <char ref="Wildebeest">Wildebeest</char>, facing off, and pan to put <char ref="Speedy">Speedy</char> out of view and <action mrkr="Robin" with="none" move="5" place="asteroid"/><char ref="Robin">Robin</char> in at the far edge. <char ref="Robin">Robin</char> charges at <char ref="Wildebeest">Wildebeest</char> and goes up for a flying kick, only to have his foot grabbed and flung, along with the rest of him, across <location>the asteroid</location>. He stops right at the edge.</sd>
+            <sd><setNote shot="no">Wipe to <location>a crater on a barren moon</location> and tilt up to <location>an asteroid</location> floating not too far from it.</setNote> Three lightning bolts strike the surface and leave the fighters standing there. Cut to <char ref="Speedy">Speedy</char> and <char ref="Wildebeest">Wildebeest</char>, facing off, and pan to put <char ref="Speedy">Speedy</char> out of view and <action mrkr="Robin" with="none" move="5" place="asteroid" timestamp="2004-01-10T00:08:50"/><char ref="Robin">Robin</char> in at the far edge. <char ref="Robin">Robin</char> charges at <char ref="Wildebeest">Wildebeest</char> and goes up for a flying kick, only to have his foot grabbed and flung, along with the rest of him, across <location>the asteroid</location>. He stops right at the edge.</sd>
 
 <sd><char ref="Speedy">Speedy</char> fits an arrow to his bow and lets it loose; it bursts into flame as it travels to the target, <char ref="Wildebeest">Wildebeest</char>, who just swats it down and charges. The archer jumps backward to land next to <char ref="Robin">Robin</char> as he stands up from the throw. They glance at each other and rush <char ref="Wildebeest">Wildebeest</char>, <char ref="Robin">Robin</char> pulling out a disc, and as they go, each unleashes a salvo of his respective missiles. However, their common foe simply dodges every shot and runs through the smoke of the one that explodes too far ahead.</sd>
 
@@ -557,7 +557,7 @@
         <act n="3">
             <title>ACT THREE</title>
 
-<sd>Opening shot: the Master's dais, with him standing halfway up the steps. A flash deposits <action mrkr="Robin" with="none" move="6" place="toh"/><char ref="Robin">Robin</char> here in a crouch; he stands up to face the gamesman.</sd>
+            <sd>Opening shot: the Master's dais, with him standing halfway up the steps. A flash deposits <action mrkr="Robin" with="none" move="6" place="toh" timestamp="2004-01-10T00:09:00"/><char ref="Robin">Robin</char> here in a crouch; he stands up to face the gamesman.</sd>
 
 <sp><spkr ref="Master">Master</spkr> Well done, Champion of Champions. Victory is yours.</sp>
 
@@ -617,7 +617,7 @@
 
 <sp><spkr ref="Robin">Robin</spkr> Not today.</sp>
 
-<sd>A quick wave of the gorilla arm turns it into a boa constrictor, which whips down at <char ref="Robin">Robin</char>. The Titan does a quick side jump and plans both boots firmly on the serpentine body; it retracts into <char ref="Master">the Master</char>'s arm, and now one of those reinforced soles aims straight up at him. With all <char ref="Robin">Robin</char>'s weight behind it, it smashes into the large red jewel, throwing energy beams everywhere that wash out the screen. From within the blinding glare, <char ref="Speedy">Speedy</char> and <action mrkr="Cyborg" with="RB" move="6" place="toh"/><char ref="Cyborg">Cyborg</char> are propelled yelling to slide across the floor toward <char ref="Robin">Robin</char>. They stand up, one by one; <char ref="Speedy">Speedy</char>'s bow is now back in one piece.</sd>
+            <sd>A quick wave of the gorilla arm turns it into a boa constrictor, which whips down at <char ref="Robin">Robin</char>. The Titan does a quick side jump and plans both boots firmly on the serpentine body; it retracts into <char ref="Master">the Master</char>'s arm, and now one of those reinforced soles aims straight up at him. With all <char ref="Robin">Robin</char>'s weight behind it, it smashes into the large red jewel, throwing energy beams everywhere that wash out the screen. From within the blinding glare, <char ref="Speedy">Speedy</char> and <action mrkr="Cyborg" with="RB" move="6" place="toh" timestamp="2004-01-10T00:09:00"/><char ref="Cyborg">Cyborg</char> are propelled yelling to slide across the floor toward <char ref="Robin">Robin</char>. They stand up, one by one; <char ref="Speedy">Speedy</char>'s bow is now back in one piece.</sd>
 
 <sp><spkr ref="Speedy">Speedy</spkr> Nice work.</sp>
 
@@ -647,7 +647,7 @@
 
 <sp><spkr ref="Robin">Robin</spkr> <sd>voice over</sd> As far as I'm concerned...</sp>
 
-<sd>Fade in to a close-up of <char ref="Speedy">Speedy</char>'s palm on the end of this; Robin places a communicator on it. Pull back to frame him and everyone but <action mrkr="BeastBoy" with="RB C" move="5" place="toh"/><char ref="BeastBoy">Beast Boy</char> and <char ref="Cyborg">Cyborg</char>. The five others now hold the devices: <char ref="Aqualad">Aqualad</char>'s, presumably, is the one he received at the end of "Deep Six".</sd>
+            <sd>Fade in to a close-up of <char ref="Speedy">Speedy</char>'s palm on the end of this; Robin places a communicator on it. Pull back to frame him and everyone but <action mrkr="BeastBoy" with="RB C" move="5" place="toh" timestamp="2004-01-10T00:09:00"/><char ref="BeastBoy">Beast Boy</char> and <char ref="Cyborg">Cyborg</char>. The five others now hold the devices: <char ref="Aqualad">Aqualad</char>'s, presumably, is the one he received at the end of "Deep Six".</sd>
 
 <sp><spkr ref="Robin">Robin</spkr> ...you're all honorary Titans</sp>
 
@@ -687,7 +687,7 @@
 
 <sp><spkr ref="Speedy">Speedy</spkr> Right back at you.</sp>
 
-<sd>Overhead view of the octet, all of whom promptly disappear in smoke and lightning. Close-up of the necklace as it clatters down again: it is silent now, but it promptly glows again and another blast goes off. This one clears to show <action mrkr="Starfire" with="R T" move="2" place="tohe"/><char ref="Starfire">Starfire</char>, <action mrkr="Raven" with="S T" move="2" place="tohe"/><char ref="Raven">Raven</char>, and Terra now on the scene, along with other young female silhouettes.</sd>
+            <sd>Overhead view of the octet, all of whom promptly disappear in smoke and lightning. Close-up of the necklace as it clatters down again: it is silent now, but it promptly glows again and another blast goes off. This one clears to show <action mrkr="Starfire" with="R T" move="2" place="tohe" timestamp="2004-01-10T00:09:00"/><char ref="Starfire">Starfire</char>, <action mrkr="Raven" with="S T" move="2" place="tohe" timestamp="2004-01-10T00:09:00"/><char ref="Raven">Raven</char>, and Terra now on the scene, along with other young female silhouettes.</sd>
 
 <sp><spkr ref="Master">Master</spkr> <sd>from o.c.</sd> Welcome, champions all! You are hereby invited to compete...</sp>
 
