@@ -39,7 +39,7 @@
 
 <sp><spkr ref="Robin">Robin</spkr> Titans! Go!</sp>
 
-<sd>All six move in,<char ref="Terra">Terra</char> bringing a few more rocks along. She changes positions and lowers the one she was standing on so that<char ref="Robin">Robin</char> can hop aboard. Laser blasts from the surviving robots slash the air, but he swerves expertly around them. Finally, he leaps off; the stone crashes into one shooter, and he delivers a flying kick to another. More shots emerge from farther back, zeroing in on the approaching<action mrkr="Starfire" with="all" move="1" place="city"/><char ref="Starfire">Starfire</char>. She returns fire with her eye beams, tracing a blazing path through three other robots; it explodes after a moment and throws them in all directions.</sd>
+            <sd>All six move in,<char ref="Terra">Terra</char> bringing a few more rocks along. She changes positions and lowers the one she was standing on so that<char ref="Robin">Robin</char> can hop aboard. Laser blasts from the surviving robots slash the air, but he swerves expertly around them. Finally, he leaps off; the stone crashes into one shooter, and he delivers a flying kick to another. More shots emerge from farther back, zeroing in on the approaching<action mrkr="Starfire" with="all" move="1" place="city" timestamp="2004-01-10T00:09:10"/><char ref="Starfire">Starfire</char>. She returns fire with her eye beams, tracing a blazing path through three other robots; it explodes after a moment and throws them in all directions.</sd>
 
             <sd><action mrkr="Raven" with="all" move="1" place="city" timestamp="2004-01-10T00:09:10"/><char ref="Raven">Raven</char>'s turn. She levitates an enormous slab of rock.</sd>
 
