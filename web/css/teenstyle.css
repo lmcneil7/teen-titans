@@ -1,8 +1,13 @@
+html, body{padding: 0; margin: 0}
 body {
     background-color: #333333;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-size: 16px;
     color: white;
+    overflow-x: hidden;
+}
+.content{
+    padding-left: 20px;
 }
 h1{
     color: white;
@@ -30,22 +35,34 @@ h2{
   height: auto;
   padding-top: 5%;
 }
-.head{
+.header{
     display: flex;
-    flex-direction: column;
     justify-content: center;
-}
-.banner{
-    
-}
-#header {
-    position: fixed;
-    text-align: center;    
-    width: 100%;
-    top: 0;
-    left: 0;
+    align-items: center;
     background-color: black;
 }
+img.header{
+    width: auto;
+}
+#navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+    height: 8vh;
+    background-color: black;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
 p{
     color: white;
 }
