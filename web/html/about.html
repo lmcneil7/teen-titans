@@ -12,69 +12,70 @@
     </head>
     <body>
         <!--#include file="header.html"-->
-        <br/>
-           <section class="textContain">
-               <div id="project">
-                   <p>Wecome to the <i>Teen Titans</i> Project! We're excited that you decided to come check us out! As stated on the homepage, our ultimate goal is to use markup to find differences between the Teen Titans tv series and comic book. Obviously since they were created by different people, there will be a lot of differences, but what we're really looking for is the major moments in which they either heavily deviate or have aspects that are near identical. For example, we know that the main characters are going to be in both, but have you ever wondered if any recurring characters from the television series show up in the comics or vice versa? What about whether or not Slade goes after Robin so frequently in the comics as he does the tv series? By the end of this project, we hope to be able to tell you anything you'd want to know and more!</p>
-                   <p>To compare the show to the comics, we took the transcripts of each episode and made metadata for the comics we read online. Our project is XML heavy due to the amount of text we had to deal with and by marking them, we were able to pull and retrieve the information that we wanted to use to compare.</p>
-                   <p>At the moment, we focused on season 1 due to the time we had this semester. You'll see, as you get further into the site, that there are comics that aren't associated with an episode. The comics not related to an episode are more if we ever want to come back and add more to the site; we focused on Volume 1 of the New Teen Titans Comics, and if we saw any correlation to Teen Titans, the tv show, we marked it up. However, this means that there are comics that relate to different parts of the show, so feel free to check them out.</p>
-                   <div><button>Push for more information about the fandom.</button></div>
-                   <div><button>Push for more information about the coding process.</button></div>
-                   <h1>METHODOLOGY</h1>
-                   <h2>Part 1: The Teen Titans Fandom</h2>
-                   <p>First of all, we love Teen Titans with our entire heart and this idea came from that love. When the project was introduced, I wanted to focus on something that I could work on from hours which lead me to Teen Titans. Shannon decided to join me on this Teen Titans' ride for that exact reason as well. One of the main reasons we wanted to work on Teen Titans was to </p>
-                   <h2>Part 2: Coding Method</h2>
-                   <p>Basically, we started by marking up all of the tv episodes, which were luckily provided to us on the <a href="https://transcripts.fandom.com/wiki/Teen_Titans">Teen Titans Episode Wiki</a>. We tagged characters, stage directions, character descriptons, and a couple of other things which you can find if you look at the <a href="https://github.com/lmcneil7/teen-titans/tree/master/xml/tv">XML folder on our Github page</a>. We wanted to do more with being able to use Javascript and make some things changeable, but due to time restrictions, all we were able to give you right now is that you can click to highlight the characters names when they speak on the "Episode" side of the Texts page.</p><p>For the Comic Issues, Lauren went through and <a href="https://readcomiconline.to/Comic/The-New-Teen-Titans-1980">read the comics</a>, putting the metadata into an XML file, including the settings of each scene, the characters in each scene, and a synopsis of what happens. If we had more time, the plan was to tag differences so that we could use Javascript to highlight the differences between the issues and the episodes, but I suppose one can dream; it might get done one day.</p>
-                   <p>After we had all of the texts marked up, our lovely professor, Dr. Elisa Beshero-Bondar helped us make some XSLT that would provide the desired outcome of XML to HTML files, for which we are ever so grateful. The XSLT pulled from the separate collections of XML files for the tv and comic book and output html files to combine the tv episodes and corresponding comic issues. This was mega cool because she used a tag that would output separate html files instead of producing one whole big file of them all. We had to tinker with this a little bit, because on pages of episodes that were associated with multiple issues, the link for jumping down the page to a certain setting on an issue originally was just id tagged as s1, s2, s3, etc. for the settings that there were. The issue with this is that if there are multiple s1 id tags, one will override the other and they will never both work. To fix this, we changed the setting id tags to include the issue numbers, because there will never be any overlap on setting one of issue 18, or any other given issue.</p>
-                   <p>Between all of this, we were on and off working on the actual website design aspect. We definitely wanted to go with a dark background, because it only seems right to give a project such as this a dark background. That way, we can use bright colors and they will stand out more. It was especially fun getting to learn about flexboxes and how they work on a page. There was quite a bit of back and forth trying to get things just right, but that's half the fun. As stated before, I wish we were able to put up the comparisons in the texts to be able to highlight them, because that would have looked super cool. Another enjoyable, albeit easy, thing was learning how to change link colors. As you've noticed, the link colors are different when they haven't been clicked, when they're hovered over, and when they have been clicked. I spent at least 30 minutes trying to pick good colors to use for them, and I'm pretty happy with the outcome.</p>
-                   <p>Making the SVG graphs, which you can view on the <a href="analysis.html">analysis</a> page, was something of a challenge as well. I again have to thank our lovely professor for helping to create a good XSLT that would output usable graphs. I manually went in and took out the characters who spoke less thant 5 times, just because they made the charts unbearably long and it's unnecessary to see whether or not a character who appears one time in the prologue spoke at all. You can again go to our analysis page to learn more about our findings with these and just the general overview comparison.</p>
-               </div>
-           </section>
-           
-        <section class="charsContain">
-              <div class="imageContainer" id="RobinTV">
-                  <a href="https://teentitans.fandom.com/wiki/Robin"><img src="robinTV.jpg" alt="Robin in the animated series" style="width:100%"/></a>
-                  Robin - Series
-              </div>
-            <div class="imageContainer" id="CyborgTV">
-                <a href="https://teentitans.fandom.com/wiki/Cyborg"><img src="cyborgTV.jpeg" alt="Cyborg in the animated series" style="width:100%"/></a>
-                Cyborg - Series
-            </div>
-            <div class="imageContainer" id="StarfireTV">
-                <a href="https://teentitans.fandom.com/wiki/Starfire"><img src="starfireTV.jpg" alt="Starfire in the animated series" style="width:100%"/></a>
-                Starfire - Series
-            </div>
-            <div class="imageContainer" id="BeastBoyTV">
-                <a href="https://teentitans.fandom.com/wiki/Beast_Boy"><img src="beastboyTV.jpg" alt="Beast Boy in the animated series" style="width:100%"/></a>
-                Beast Boy - Series
-            </div>
-            <div class="imageContainer" id="RavenTV">
-                <a href="https://teentitans.fandom.com/wiki/Raven"><img src="ravenTV.jpg" alt="Raven in the animated series" style="width:100%"/></a>
-                Raven - Series
-            </div>
-        </section>
-        <section class="charsContain">
-            <div class="imageContainer" id="RobinComic">
-                <a href="https://en.wikipedia.org/wiki/Robin_(character)"><img src="robinComic.JPG" alt="Robin in the comic" style="width:100%"/></a>
-                Robin (Dick Grayson)- Comic
-            </div>
-            <div class="imageContainer" id="CyborgComic">
-                <a href="https://en.wikipedia.org/wiki/Cyborg_(comics)"><img src="cyborgComic.JPG" alt="Cyborg in the comic" style="width:100%"/></a>
-                Cyborg (Victor Stone) - Comic
-            </div>
-            <div class="imageContainer" id="StarfireComic">
-                <a href="https://en.wikipedia.org/wiki/Starfire_(Teen_Titans)"><img src="starfireComic.JPG" alt="Starfire in the comic" style="width:100%"/></a>
-                Starfire (Koriand'r) - Comic
-            </div>
-            <div class="imageContainer" id="BeastBoyComic">
-                <a href="https://en.wikipedia.org/wiki/Beast_Boy"><img src="beastBoy-changeling.jpg" alt="Beast Boy in the comic" style="width:100%"/></a>
-                Beast Boy (The Changeling) - Comic
-            </div>
-            <div class="imageContainer" id="RavenComic">
-                <a href="https://en.wikipedia.org/wiki/Raven_(DC_Comics)"><img src="ravenComic.jpg" alt="Raven in the comic" style="width:100%"/></a>
-                Raven  - Comic
-            </div>
-        </section>
-           
+        <div class="container">
+            <br/>
+               <section class="textContain">
+                   <div id="project">
+                       <p>Wecome to the <i>Teen Titans</i> Project! We're excited that you decided to come check us out! As stated on the homepage, our ultimate goal is to use markup to find differences between the Teen Titans tv series and comic book. Obviously since they were created by different people, there will be a lot of differences, but what we're really looking for is the major moments in which they either heavily deviate or have aspects that are near identical. For example, we know that the main characters are going to be in both, but have you ever wondered if any recurring characters from the television series show up in the comics or vice versa? What about whether or not Slade goes after Robin so frequently in the comics as he does the tv series? By the end of this project, we hope to be able to tell you anything you'd want to know and more!</p>
+                       <p>To compare the show to the comics, we took the transcripts of each episode and made metadata for the comics we read online. Our project is XML heavy due to the amount of text we had to deal with and by marking them, we were able to pull and retrieve the information that we wanted to use to compare.</p>
+                       <p>At the moment, we focused on season 1 due to the time we had this semester. You'll see, as you get further into the site, that there are comics that aren't associated with an episode. The comics not related to an episode are more if we ever want to come back and add more to the site; we focused on Volume 1 of the New Teen Titans Comics, and if we saw any correlation to Teen Titans, the tv show, we marked it up. However, this means that there are comics that relate to different parts of the show, so feel free to check them out.</p>
+                       <div><button>Push for more information about the fandom.</button></div>
+                       <div><button>Push for more information about the coding process.</button></div>
+                       <h1>METHODOLOGY</h1>
+                       <h2>Part 1: The Teen Titans Fandom</h2>
+                       <p>First of all, we love Teen Titans with our entire heart and this idea came from that love. When the project was introduced, I wanted to focus on something that I could work on from hours which lead me to Teen Titans. Shannon decided to join me on this Teen Titans' ride for that exact reason as well. One of the main reasons we wanted to work on Teen Titans was to </p>
+                       <h2>Part 2: Coding Method</h2>
+                       <p>Basically, we started by marking up all of the tv episodes, which were luckily provided to us on the <a href="https://transcripts.fandom.com/wiki/Teen_Titans">Teen Titans Episode Wiki</a>. We tagged characters, stage directions, character descriptons, and a couple of other things which you can find if you look at the <a href="https://github.com/lmcneil7/teen-titans/tree/master/xml/tv">XML folder on our Github page</a>. We wanted to do more with being able to use Javascript and make some things changeable, but due to time restrictions, all we were able to give you right now is that you can click to highlight the characters names when they speak on the "Episode" side of the Texts page.</p><p>For the Comic Issues, Lauren went through and <a href="https://readcomiconline.to/Comic/The-New-Teen-Titans-1980">read the comics</a>, putting the metadata into an XML file, including the settings of each scene, the characters in each scene, and a synopsis of what happens. If we had more time, the plan was to tag differences so that we could use Javascript to highlight the differences between the issues and the episodes, but I suppose one can dream; it might get done one day.</p>
+                       <p>After we had all of the texts marked up, our lovely professor, Dr. Elisa Beshero-Bondar helped us make some XSLT that would provide the desired outcome of XML to HTML files, for which we are ever so grateful. The XSLT pulled from the separate collections of XML files for the tv and comic book and output html files to combine the tv episodes and corresponding comic issues. This was mega cool because she used a tag that would output separate html files instead of producing one whole big file of them all. We had to tinker with this a little bit, because on pages of episodes that were associated with multiple issues, the link for jumping down the page to a certain setting on an issue originally was just id tagged as s1, s2, s3, etc. for the settings that there were. The issue with this is that if there are multiple s1 id tags, one will override the other and they will never both work. To fix this, we changed the setting id tags to include the issue numbers, because there will never be any overlap on setting one of issue 18, or any other given issue.</p>
+                       <p>Between all of this, we were on and off working on the actual website design aspect. We definitely wanted to go with a dark background, because it only seems right to give a project such as this a dark background. That way, we can use bright colors and they will stand out more. It was especially fun getting to learn about flexboxes and how they work on a page. There was quite a bit of back and forth trying to get things just right, but that's half the fun. As stated before, I wish we were able to put up the comparisons in the texts to be able to highlight them, because that would have looked super cool. Another enjoyable, albeit easy, thing was learning how to change link colors. As you've noticed, the link colors are different when they haven't been clicked, when they're hovered over, and when they have been clicked. I spent at least 30 minutes trying to pick good colors to use for them, and I'm pretty happy with the outcome.</p>
+                       <p>Making the SVG graphs, which you can view on the <a href="analysis.html">analysis</a> page, was something of a challenge as well. I again have to thank our lovely professor for helping to create a good XSLT that would output usable graphs. I manually went in and took out the characters who spoke less thant 5 times, just because they made the charts unbearably long and it's unnecessary to see whether or not a character who appears one time in the prologue spoke at all. You can again go to our analysis page to learn more about our findings with these and just the general overview comparison.</p>
+                   </div>
+               </section>
+               
+            <section class="charsContain">
+                  <div class="imageContainer" id="RobinTV">
+                      <a href="https://teentitans.fandom.com/wiki/Robin"><img src="robinTV.jpg" alt="Robin in the animated series" style="width:100%"/></a>
+                      Robin - Series
+                  </div>
+                <div class="imageContainer" id="CyborgTV">
+                    <a href="https://teentitans.fandom.com/wiki/Cyborg"><img src="cyborgTV.jpeg" alt="Cyborg in the animated series" style="width:100%"/></a>
+                    Cyborg - Series
+                </div>
+                <div class="imageContainer" id="StarfireTV">
+                    <a href="https://teentitans.fandom.com/wiki/Starfire"><img src="starfireTV.jpg" alt="Starfire in the animated series" style="width:100%"/></a>
+                    Starfire - Series
+                </div>
+                <div class="imageContainer" id="BeastBoyTV">
+                    <a href="https://teentitans.fandom.com/wiki/Beast_Boy"><img src="beastboyTV.jpg" alt="Beast Boy in the animated series" style="width:100%"/></a>
+                    Beast Boy - Series
+                </div>
+                <div class="imageContainer" id="RavenTV">
+                    <a href="https://teentitans.fandom.com/wiki/Raven"><img src="ravenTV.jpg" alt="Raven in the animated series" style="width:100%"/></a>
+                    Raven - Series
+                </div>
+            </section>
+            <section class="charsContain">
+                <div class="imageContainer" id="RobinComic">
+                    <a href="https://en.wikipedia.org/wiki/Robin_(character)"><img src="robinComic.JPG" alt="Robin in the comic" style="width:100%"/></a>
+                    Robin (Dick Grayson)- Comic
+                </div>
+                <div class="imageContainer" id="CyborgComic">
+                    <a href="https://en.wikipedia.org/wiki/Cyborg_(comics)"><img src="cyborgComic.JPG" alt="Cyborg in the comic" style="width:100%"/></a>
+                    Cyborg (Victor Stone) - Comic
+                </div>
+                <div class="imageContainer" id="StarfireComic">
+                    <a href="https://en.wikipedia.org/wiki/Starfire_(Teen_Titans)"><img src="starfireComic.JPG" alt="Starfire in the comic" style="width:100%"/></a>
+                    Starfire (Koriand'r) - Comic
+                </div>
+                <div class="imageContainer" id="BeastBoyComic">
+                    <a href="https://en.wikipedia.org/wiki/Beast_Boy"><img src="beastBoy-changeling.jpg" alt="Beast Boy in the comic" style="width:100%"/></a>
+                    Beast Boy (The Changeling) - Comic
+                </div>
+                <div class="imageContainer" id="RavenComic">
+                    <a href="https://en.wikipedia.org/wiki/Raven_(DC_Comics)"><img src="ravenComic.jpg" alt="Raven in the comic" style="width:100%"/></a>
+                    Raven  - Comic
+                </div>
+            </section>
+        </div>
     </body>
 </html>
