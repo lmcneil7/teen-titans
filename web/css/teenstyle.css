@@ -204,3 +204,40 @@ a:visited {color:#1aa3ff
 ;}  /* visited link */
 a:hover {color:#00e600
 ;}  /* mouse over link */
+
+.network{
+    display: flex;
+    flex-direction: column;
+}
+.networkbuttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.top{
+    padding: 8px 8px 8px 8px;
+}
+.middle{
+    padding: 10px 25px;
+}
+.s-button{
+    background: BlueViolet;
+    padding: 10px 25px;
+    
+}
+a.s-button{
+    color: white;
+}
+.bottom{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 8px 8px;
+}
+img.network{
+    width: 60vw;
+    height: auto;
+}
+h3.network {
+    text-align: center;
+}
