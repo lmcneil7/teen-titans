@@ -229,6 +229,14 @@ padding-top: 20px;
     margin: 2px;
     padding: 10px;
 }
+
+#episodes{
+    flex:1;
+    padding:20px;
+    font-size:18px;
+    margin:20px;
+    margin-top:30px;
+}
 .license{
     display: flex;
     width: 70%;
