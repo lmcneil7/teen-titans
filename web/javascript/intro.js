@@ -4,9 +4,10 @@ function init() {
     alert('welcome!');
     var buttons = document.getElementsbyTagName("button")
 buttons[0].addEventListener('click', moreInfo, false)
+buttons[1].addEventListener('click', moreInfo2, false)
 }
 
+
 function moreInfo() {
-    
-window.location=''
+var m1 = document.getElementById("meth2")
 }
