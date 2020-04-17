@@ -170,7 +170,16 @@ padding-top: 20px;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-size: 20px;
 }
-
+.banners img{
+    justify-content: space-around;
+    text-align: center;
+    width: 100%;
+}
+#banners{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
 .textContain{
     flex:1;
     justify-content: space-around;
