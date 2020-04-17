@@ -170,7 +170,16 @@ padding-top: 20px;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-size: 20px;
 }
-
+.banners img{
+    justify-content: space-around;
+    text-align: center;
+    width: 100%;
+}
+#banners{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
 .textContain{
     flex:1;
     justify-content: space-around;
@@ -204,6 +213,18 @@ padding-top: 20px;
     flex: 1;
     flex-direction: column;
     justify-content: space-around;
+}
+.svgContainer2 img{
+    width: 650px;
+    height: 435px;
+    float: right;
+    margin-right: 75px;
+}
+#svg2{
+    flex: 1;
+    flex-direction: column;
+    justify-content: space-around;
+    float: right;
 }
 .fitting img{
      width: 650px;
