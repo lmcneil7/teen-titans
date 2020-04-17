@@ -4,35 +4,38 @@
         <title>Network Graphs</title>
         <link rel="stylesheet" type="text/css" href="css/teenstyle.css"/>
         <link rel="icon" href="img/teenTitans-favicon.png"/>
+            <script src="javascript/sticky.js"></script>
     </head>
     <body>
         <!--#include virtual="header.html" -->
-        <div class="network">
-            <div class="top">
-                <h1>Network Analysis</h1>
-                <h2>Character Speeches and Interactions</h2>
-                <h3>Overview:</h3>
-                <p>Networks are used to show interactions and relationships present within data. They are made up of two basic components: Nodes and Edges. A <b>Node</b> refers to a specific point of data, usually displayed as a certain shape in the graph, that connects to other points of data. An <b>Edge</b> is the connection between nodes. Our networks are directed, meaning the connections between nodes show a one-way relationship.</p>
-                <h3>Reading our Graphs:</h3>
-                <p>The following networks show interactions between the Titans. Each circular node represents a Titan, and the color of the node shows how often each one spoke. If a node is a warmer color, that means the Titan spoke more than the others. By contrast, a cooler-colored node represents a Titan who spoke less than the others.</p>
-                <p>Edges represent the number of times that a Titan was mentioned within a speech by another Titan. For example, if an edge is pointing from Starfire to Robin, that represents the count of times that Starfire spoke about and/or mentioned Robin. The thickness of the edge represents the number of mentions, with a thicker line meaning one Titan mentioned the other Titan more times than others.</p>
-                <hr/>
-                <h3 class="network">Choose a Season:</h3>
-            </div>
-            <div class="middle">
-                <div class="networkbuttons">
-                    <div class="s-button"><a class="s-button" href="networks-s1.html">Season 1</a></div>
-                    <div class="s-button"><a class="s-button" href="networks-s2.html">Season 2</a></div>
+        <div class="content">
+            <div class="network">
+                <div class="top">
+                    <h1>Network Analysis</h1>
+                    <h2>Character Speeches and Interactions</h2>
+                    <h3>Overview:</h3>
+                    <p>Networks are used to show interactions and relationships present within data. They are made up of two basic components: Nodes and Edges. A <b>Node</b> refers to a specific point of data, usually displayed as a certain shape in the graph, that connects to other points of data. An <b>Edge</b> is the connection between nodes. Our networks are directed, meaning the connections between nodes show a one-way relationship.</p>
+                    <h3>Reading our Graphs:</h3>
+                    <p>The following networks show interactions between the Titans. Each circular node represents a Titan, and the color of the node shows how often each one spoke. If a node is a warmer color, that means the Titan spoke more than the others. By contrast, a cooler-colored node represents a Titan who spoke less than the others.</p>
+                    <p>Edges represent the number of times that a Titan was mentioned within a speech by another Titan. For example, if an edge is pointing from Starfire to Robin, that represents the count of times that Starfire spoke about and/or mentioned Robin. The thickness of the edge represents the number of mentions, with a thicker line meaning one Titan mentioned the other Titan more times than others.</p>
+                    <hr/>
+                    <h3 class="network">Choose a Season:</h3>
                 </div>
-            </div>
-            <div class="bottom">
-                <div><img src="img/networks/speakernetwork_s2.svg" alt="network graph showing character interactions in season 1" class="network"/></div>
-                <div>
-                    <p>This network depicts the character interactions in Season 2 of the Teen Titans television series. In this network, we found the data to be more aligned with our expectations, though there were still some things that were unexpected!</p>
-                    <p>As far as character speeches in general go, the graph shows that Robin spoke more than the other Titans in Season 2. Like we discussed in our <a href="networks-s1.html">Season 1</a> network analysis, Robin is the leader of the Titans. It is expected that he would speak more than the others because he is in charge of leading his fellow Titans in battle. Though he came in third with speaking roles in Season 1, it is very possible that the show's writers were better able to write him into leadership roles once the show entered its second season.</p>
-                    <p>Behind Robin in speaking roles was Beast Boy, and this was also somewhat expected. In Season 2 we are introduced to Terra, a temporary Titan with whom Beast Boy falls in love. There are many scenes where it is just the two of them, so it is understandable that he would have more speaking roles.</p>
-                    <p>The character development of Robin in Season 2 can also be seen in the way he interacts with other Titans. The graph shows that many of the arrows leading from Robin are thicker than the rest, meaning that he mentions his teammates more than other Titans. Much of this has to do with the fact that he is speaking more in general, so there are more opportunities for him to mention others by default. However, along with growing as a leader comes a developing ability to interact with others. Most importantly, Robin interacts with Starfire more than he interacts with other Titans. As with Season 1, Starfire also mentions and/or interacts with Robin more than she interacts with other Titans. In addition to this, Robin's interactions with <em>Starfire</em> are closer to even with her interactions with him. This shows a development in their relationship as well.</p>
-                    <p>To see the code that went into creating this network, check out our <a href="https://github.com/lmcneil7/teen-titans/blob/master/xquery/speakerNetwork_s2.xql">XQuery script</a>!</p>
+                <div class="middle">
+                    <div class="networkbuttons">
+                        <div class="s-button"><a class="s-button" href="networks-s1.html">Season 1</a></div>
+                        <div class="s-button"><a class="s-button" href="networks-s2.html">Season 2</a></div>
+                    </div>
+                </div>
+                <div class="bottom">
+                    <div><img src="img/networks/speakernetwork_s2.svg" alt="network graph showing character interactions in season 1" class="network"/></div>
+                    <div>
+                        <p>This network depicts the character interactions in Season 2 of the Teen Titans television series. In this network, we found the data to be more aligned with our expectations, though there were still some things that were unexpected!</p>
+                        <p>As far as character speeches in general go, the graph shows that Robin spoke more than the other Titans in Season 2. Like we discussed in our <a href="networks-s1.html">Season 1</a> network analysis, Robin is the leader of the Titans. It is expected that he would speak more than the others because he is in charge of leading his fellow Titans in battle. Though he came in third with speaking roles in Season 1, it is very possible that the show's writers were better able to write him into leadership roles once the show entered its second season.</p>
+                        <p>Behind Robin in speaking roles was Beast Boy, and this was also somewhat expected. In Season 2 we are introduced to Terra, a temporary Titan with whom Beast Boy falls in love. There are many scenes where it is just the two of them, so it is understandable that he would have more speaking roles.</p>
+                        <p>The character development of Robin in Season 2 can also be seen in the way he interacts with other Titans. The graph shows that many of the arrows leading from Robin are thicker than the rest, meaning that he mentions his teammates more than other Titans. Much of this has to do with the fact that he is speaking more in general, so there are more opportunities for him to mention others by default. However, along with growing as a leader comes a developing ability to interact with others. Most importantly, Robin interacts with Starfire more than he interacts with other Titans. As with Season 1, Starfire also mentions and/or interacts with Robin more than she interacts with other Titans. In addition to this, Robin's interactions with <em>Starfire</em> are closer to even with her interactions with him. This shows a development in their relationship as well.</p>
+                        <p>To see the code that went into creating this network, check out our <a href="https://github.com/lmcneil7/teen-titans/blob/master/xquery/speakerNetwork_s2.xql">XQuery script</a>!</p>
+                    </div>
                 </div>
             </div>
         </div>
