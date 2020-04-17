@@ -12,6 +12,9 @@
     </head>
     <body>
       <!--#include file="header.html"-->
+        <audio id="theme">
+            <source src="booyah-cyborg-teen-titans-sound-effect-BvX8rlx6.mp3"></source>
+        </audio>
         <div class="content">
             <img src="img/teentitans-black-logo.jpg" alt="Teen Titans white logo against a black background with characters silhouetted in color" height="300" width="500" class="center"/>
             <h1>Teen Titans!</h1>
@@ -26,5 +29,17 @@
                     <a href="http://newtfire.org/firebellies.html">Powered by firebellies</a>
             </div>
         </div>
+        <img id="pixtitans" src="pixel-titans.gif" onmouseover="onHover();" onmouseenter="PlaySound('theme')" 
+            onmouseout="offHover();"/>
+        <script>
+$(document).ready(function(e) {
+	$('img[usemap]').rwdImageMaps();
+	
+	/*$('area').on('click', function() {
+		alert($(this).attr('alt') + ' clicked');
+	});
+}); */
+
+</script>
     </body>
 </html>
