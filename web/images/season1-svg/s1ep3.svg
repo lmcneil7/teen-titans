@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
       <g transform="translate(25, 410) scale(.6)">
-      <text x="480"
-            y="-620"
-            text-anchor="middle"
-            fill="DodgerBlue"
-            font-size="40">FINAL EXAM</text>
+            <text x="550"
+                  y="-620"
+                  text-anchor="middle"
+                  fill="DodgerBlue"
+                  font-family= "Helvetica, sans-serif"
+                  font-size="40"> CHARACTER SPEECH COUNT IN EPISODE</text>
       <line x1="50"
             y1="0"
             x2="1200"

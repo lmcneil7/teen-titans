@@ -226,13 +226,40 @@ padding-top: 20px;
     justify-content: space-around;
     float: right;
 }
+.seasonContainerTop{
+    display:flex;
+    flex-direction:row;
+    height:40%;
+}
+.seasonContainerBottom{
+    display:flex;
+    flex-direction:row;
+    height:40%
+}
+.seasonSVG{
+    flex:1;
+    flex-direction:column;
+    margin-right:20px;
+    justify-content: space-around;
+}
+.seasonText{
+    flex:1;
+    flex-direction: column;
+    margin-top:10%;
+    margin-right:15%;
+    justify-content: space-around;
+}
+.seasonSVG img{
+    width: 800px;
+    height: 750px;
+    align-items: center;
+}
 .fitting img{
      width: 650px;
     height: 435px;
 }
 .container{
     display:flex;
-    position: absolute;
     max-width: 100%;
     margin-top: 100px;
 }

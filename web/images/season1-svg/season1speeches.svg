@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <g transform="translate(20, 640) scale(.6)">
+        <text x="650"
+            y="-890"
+            text-anchor="middle"
+            fill="DodgerBlue"
+            font-size="40">CHARACTER SPEECH COUNT IN SEASON 1</text>
+        <line x1="50"
+            y1="0"
+            x2="1200"
+            y2="0"
+            stroke="BlueViolet"
+            stroke-width="3"/>
+        <line x1="50"
+            y1="0"
+            x2="50"
+            y2="-900"
+            stroke="BlueViolet"
+            stroke-width="3"/>
+        <g id="Cyborg">
+            <text x="100 "
+                y="30"
+                text-anchor="start"
+                font-size="22"
+                fill="#3399ff">Cyborg</text>
+            <rect x="100" y="-734" width="120" height="734" fill="lightgrey"/>
+        </g>
+        <!--Count of Cyborg speeches is: 367-->
+        <g id="BeastBoy">
+            <text x="275 "
+                y="30"
+                text-anchor="start"
+                font-size="22"
+                fill="#1aff1a">Beast Boy</text>
+            <rect x="275" y="-680" width="120" height="680" fill="lightgrey"/>
+        </g>
+        <g id="Robin">
+            <text x="450 "
+                y="30"
+                text-anchor="start"
+                font-size="22"
+                fill="#ff3333">Robin</text>
+            <rect x="450" y="-622" width="120" height="622" fill="lightgrey"/>
+        </g>
+        <!--Count of Robin speeches is: 311-->
+        <g id="Starfire">
+            <text x="625"
+                y="30"
+                text-anchor="start"
+                font-size="22"
+                fill="#ffff4d">Starfire</text>
+            <rect x="625" y="-538" width="120" height="538" fill="lightgrey"/>
+        </g>
+        <!--Count of Starfire speeches is: 269-->
+        <g id="Raven">
+            <text x="800 "
+                y="30"
+                text-anchor="start"
+                font-size="22"
+                fill="#dd99ff">Raven</text>
+            <rect x="800" y="-408" width="120" height="408" fill="lightgrey"/>
+        </g>
+        <!--Count of Raven speeches is: 204-->
+        <g id="Slade">
+            <text x="975 "
+                y="30"
+                text-anchor="start"
+                font-size="22"
+                fill="white">Slade</text>
+            <rect x="975" y="-192" width="120" height="192" fill="lightgrey"/>
+        </g>
+        <!--Count of Slade speeches is: 96-->  
+        <text x="35"
+            y="-100"
+            fill="#ff4dc4"
+            text-anchor="middle"
+            font-size="20">50</text>
+        <line x1="50"
+            y1="-100"
+            x2="1200"
+            y2="-100"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+        <text x="35"
+            y="-200"
+            fill="#ff4dc4"
+            text-anchor="middle"
+            font-size="20">100</text>
+        <line x1="50"
+            y1="-200"
+            x2="1200"
+            y2="-200"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+        <text x="35"
+            y="-300"
+            fill="#ff4dc4"
+            text-anchor="middle"
+            font-size="20">150</text>
+        <line x1="50"
+            y1="-300"
+            x2="1200"
+            y2="-300"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+        <text x="35"
+            y="-400"
+            fill="#ff4dc4"
+            text-anchor="middle"
+            font-size="20">200</text>
+        <line x1="50"
+            y1="-400"
+            x2="1200"
+            y2="-400"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+        <text x="35"
+            y="-500"
+            fill="#ff4dc4"
+            text-anchor="middle"
+            font-size="20">250</text>
+        <line x1="50"
+            y1="-500"
+            x2="1200"
+            y2="-500"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+        <text x="35"
+            y="-600"
+            fill="#ff4dc4"
+            text-anchor="middle"
+            font-size="20">300</text>
+        <line x1="50"
+            y1="-600"
+            x2="1200"
+            y2="-600"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+        <text x="35"
+            y="-700"
+            fill="#ff4dc4"
+            text-anchor="middle"
+            font-size="20">350</text>
+        <line x1="50"
+            y1="-700"
+            x2="1200"
+            y2="-700"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+        <text x="35"
+            y="-800"
+            fill="#ff4dc4"
+            text-anchor="middle"
+            font-size="20">400</text>
+        <line x1="50"
+            y1="-800"
+            x2="1200"
+            y2="-800"
+            stroke="Chartreuse"
+            stroke-dasharray="10"/>
+    </g>
+</svg>
