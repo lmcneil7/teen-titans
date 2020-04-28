@@ -340,3 +340,24 @@ img.network{
 h3.network {
     text-align: center;
 }
+div.maps{
+    display: flex;
+    flex-direction: column;
+    padding-left: 2vw;
+}
+div.location{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+div.loc {
+    width: 50vw;
+    height: auto;
+    text-align: center;
+    font-size: 20px;
+}
+div.locdesc{
+    width: 50vw;
+    height: auto;
+    padding-right: 10vw;
+}
