@@ -279,7 +279,7 @@ padding-top: 20px;
     padding: 10px;
 }
 
-#episodes{
+#episodes, #issues{
     flex:1;
     padding:20px;
     font-size:18px;
