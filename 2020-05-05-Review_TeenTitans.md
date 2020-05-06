@@ -1,10 +1,10 @@
 ## Teen Titans Project Review
 
-Site publication: <http://teentitans.newtfire.org/>
-GitHub: <https://github.com/lmcneil7/teen-titans>
-Developers: Lauren McNeill (@lmcneil7), Shannon Dunn (@smdunn921), and Amber Peddicord (@amberpeddicord)
-Date of Evaluation: 2020-05-05
-Evaluated by: @ebeshero
+* Site publication: <http://teentitans.newtfire.org/>
+* GitHub: <https://github.com/lmcneil7/teen-titans>
+* Developers: Lauren McNeill (@lmcneil7), Shannon Dunn (@smdunn921), and Amber Peddicord (@amberpeddicord)
+* Date of Evaluation: 2020-05-05
+* Evaluated by: @ebeshero
 
 
 ### General 
