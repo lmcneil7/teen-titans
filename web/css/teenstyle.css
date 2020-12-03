@@ -7,7 +7,17 @@ body {
     overflow-x: hidden;
 }
 .content{
-    padding-left: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+}
+.content img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 2%;
+  padding-bottom: 2%;
+
 }
 h1{
     color: white;
@@ -162,6 +172,7 @@ padding-top: 20px;
     color: white;
     text-align: center;
 }
+
 .charsContain{
     display: flex;
     flex-direction: row;
@@ -293,6 +304,8 @@ padding-top: 20px;
     justify-content: space-around;
     align-items: center;
     margin: auto;
+    position: fixed;
+   bottom: 2%;
 }
 .license a{
     text-decoration: none;
